@@ -1,0 +1,13 @@
+.env
+*.lock
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+logs/*.log
+logs/*.db
+logs/CIRCUIT_BREAKER.lock
+.DS_Store
