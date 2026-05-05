@@ -30,8 +30,21 @@ jobs:
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python notify.py "[RegimeTrader] Pre-Market Research starting — $(date +%Y-%m-%d)"
 
+      - name: Debug Python environment
+        run: |
+          python --version
+          echo "PYTHONPATH=$PYTHONPATH"
+          echo "CWD=$(pwd)"
+          echo "--- repo root ---"
+          ls -la
+          echo "--- scripts/ ---"
+          ls -la scripts/
+          echo "--- test import ---"
+          PYTHONPATH=$(pwd) python -c "from core.research_provider import PerplexityResearchProvider; print('Import OK')"
+
       - name: Run Perplexity research
         env:
+          PYTHONPATH:         ${{ github.workspace }}
           ALPACA_API_KEY:     ${{ secrets.ALPACA_API_KEY }}
           ALPACA_SECRET_KEY:  ${{ secrets.ALPACA_SECRET_KEY }}
           ALPACA_BASE_URL:    https://paper-api.alpaca.markets
@@ -53,7 +66,6 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          SUMMARY=$(head -40 memory/market_research.md 2>/dev/null | tail -c 2000 || echo "Research complete")
           python notify.py "[RegimeTrader] Pre-Market Done ✅ $(date +%Y-%m-%d) — market_research.md updated on GitHub."
 
       - name: Notify on failure
