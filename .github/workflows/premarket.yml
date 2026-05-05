@@ -30,19 +30,7 @@ jobs:
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python notify.py "[RegimeTrader] Pre-Market Research starting — $(date +%Y-%m-%d)"
 
-      - name: Debug Python environment
-        run: |
-          python --version
-          echo "PYTHONPATH=$PYTHONPATH"
-          echo "CWD=$(pwd)"
-          echo "--- repo root ---"
-          ls -la
-          echo "--- scripts/ ---"
-          ls -la scripts/
-          echo "--- test import ---"
-          PYTHONPATH=$(pwd) python -c "from core.research_provider import PerplexityResearchProvider; print('Import OK')"
-
-      - name: Run Perplexity research
+      - name: Run Perplexity research (capture errors to Telegram)
         env:
           PYTHONPATH:         ${{ github.workspace }}
           ALPACA_API_KEY:     ${{ secrets.ALPACA_API_KEY }}
@@ -51,7 +39,14 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python scripts/research.py
+        run: |
+          python scripts/research.py 2>&1 | tee /tmp/research_out.txt
+          EXIT=${PIPESTATUS[0]}
+          if [ $EXIT -ne 0 ]; then
+            ERR=$(tail -30 /tmp/research_out.txt | tr '\n' '|')
+            python notify.py "research.py FAILED (exit $EXIT): $ERR"
+            exit $EXIT
+          fi
 
       - name: Commit updated memory files
         run: |
