@@ -14,6 +14,10 @@ import logging
 import os
 import sys
 
+# Add repo root to path so `core` and `config` packages are importable
+# regardless of the working directory the script is called from.
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 # Ensure log and memory dirs exist before any imports that might write to them
 os.makedirs("logs", exist_ok=True)
 os.makedirs("memory", exist_ok=True)
