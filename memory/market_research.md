@@ -1,29 +1,29 @@
 # Market Research
-_Generated: 2026-05-05 02:40 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-05 13:59 UTC via Perplexity sonar-pro_
 
 ## 2026-05-05 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are at 6,657.50, up 6.50 points or 0.10% in pre-market trading.[1]
-- **Nasdaq 100 futures** are at 24,376.75, up 18.25 points or 0.07% in pre-market trading.[1]
-- No major US economic data releases such as CPI, NFP, FOMC, PPI, or jobless claims are scheduled for today based on available information.[5]
-- No Fed commentary or speaker events are listed for today.[5]
-- Overnight international market moves are not detailed in current data.[1][2][3]
+- **S&P 500 and Nasdaq futures** are slightly higher in pre-market trading, with June E-mini S&P 500 futures (ESM26) up +0.28% and June Nasdaq 100 E-mini futures (NQM26) up +0.47%.[2]
+- **No major US economic data releases** such as CPI, NFP, FOMC, PPI, or jobless claims are scheduled for today based on available information.[1][2]
+- **No Fed commentary or speaker events** are noted for today in current market updates.[1][2]
+- **Overnight international market moves** are not detailed in available data, though yesterday's S&P 500 closed at 7,200.75 (-0.41%) and Nasdaq at 25,067.80 (-0.19%).[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **No material news.**  
-Search results highlight SPY reaching record highs on May 1, 2026, driven by strong quarterly earnings and a 5.3% YTD gain through April, with historical trends suggesting potential further upside for the year[1][3][4].  
-No ETF-specific, sector, or macro developments reported since then that could materially affect SPY's price today[all].
-- **QQQ** (regime: `unknown`): No material news. The most recent QQQ-specific coverage from May 1, 2026, highlights ongoing bullish momentum from SEC tokenized securities approval, Nasdaq Texas exchange launch, and Kraken 24/7 trading partnership, tempered by Iran conflict disruptions to Q1 IPOs, but nothing newer has emerged by May 5.[1][3] Q4 2025 updates note structural changes like conversion to an open-end ETF (reducing expense ratio to 0.18%) and index reconstitution, with 2026 outlooks focusing on AI trends and monetary policy without fresh developments.[2]
-- **TLT** (regime: `unknown`): **No material news.**
-
-The most recent TLT-specific updates are price movements on May 3–4, 2026 (trading at $85.02–$85.29 with minor fluctuations of 0.2–0.3%), but these reflect routine trading without notable catalysts[1][2]. Earlier mentions, like a March 18 observation of TLT declining amid S&P 500 weakness and Fed predictions, or a February 24 analysis of Treasury resilience, predate recent activity by weeks to months and lack fresh developments[1][3]. No ETF-specific news, sector shifts, or macro drivers have emerged in the immediate lead-up to May 5 that could materially impact today's price[4][5].
-- **GLD** (regime: `unknown`): No material news.[1][2][3][4][5]
+- **SPY** (regime: `unknown`): **On May 4, 2026, SPY declined about 0.13% (down ~30 cents) amid uncertainty over Iran, contributing to a 10-point drop in the S&P 500.[4]** No ETF-specific news or major sector/macro drivers are reported for May 5. **No material news.**
+- **QQQ** (regime: `unknown`): **No material news.**  
+The most recent QQQ-specific development in search results is the Q4 2025 quarterly outlook, noting a structure conversion to an open-end fund (completed December 2025) that lowered its expense ratio to 0.18% with no tax impact[1]. A minor 0.93% gain on May 1, 2026, tied to Middle East tension hopes is now dated, and no ETF-specific, sector, or macro news appears for May 5[3].
+- **TLT** (regime: `unknown`): **No material news.**  
+Search results show no ETF-specific developments, sector shifts, or macro drivers reported on or immediately before May 5, 2026, that could notably impact TLT's price today[1][2][3][4][5][6].  
+The most recent items include a March 2026 article on TLT's price pressure from US debt concerns and a distribution mention from that month, but nothing fresh or actionable[2][3][5].
+- **GLD** (regime: `unknown`): **No material news.** As of May 4, 2026, GLD traded at 414.71 with a daily range of 413.28–420.86, reflecting standard price fluctuations. Recent search results highlight GLD's AUM milestone at $180B in March 2026 amid gold's surge past $5,000/oz (now pulled back to ~$4,500), plus a record outflow that month, but no fresh ETF-specific, sector, or macro developments reported for May 5.
 
 ### Risk Flags
-Based on the search results provided, I cannot identify specific scheduled events or risk flags for today (May 5, 2026) or this week. The search results contain general 2026 market outlook information and historical references to earlier volatility (March-April 2026), but do not include an economic calendar or upcoming event schedule for the current week.
-
-To answer your query accurately, I would need access to current economic calendars, earnings schedules, and official event announcements for this specific week.
+- **Heavy earnings week underway**, with major reports scheduled for Tuesday and Thursday that could drive volatility in SPY, QQQ, and DIA amid thinning market breadth and energy sector rotation.[2]
+- **Ongoing geopolitical risks from Iran conflict** continue to elevate energy prices and market uncertainty, contributing to persistent stock volatility despite recent rebounds.[5][1]
+- **Oil shock and rising crude futures** are influencing pre-market sentiment and acting as an inflationary signal watched by the Fed.[2]
+- **Elevated implied volatility** across S&P 500 (above 23%), Nasdaq-100, Russell 2000, and global indices signals market pricing for turbulence from inflation and policy risks.[1]
+- No FOMC meetings, CPI releases, or other major economic data scheduled today or this week.[3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
