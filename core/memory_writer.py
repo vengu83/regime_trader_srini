@@ -104,6 +104,7 @@ _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_
                 )
 
             labels_str = ", ".join(summary["regime_labels"])
+            empty_row = "| — | — | — | — |\n"
             sections.append(f"""## {ticker}
 - **Current regime**: `{summary['last_regime'] or 'unknown'}`
 - **Consecutive bars in regime**: {summary['consecutive_bars']}
@@ -112,7 +113,7 @@ _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_
 ### Recent detections (last 10 bars)
 | Time (UTC) | Regime | Confidence | Confirmed |
 |---|---|---|---|
-{rows or '| — | — | — | — |\n'}
+{rows or empty_row}
 """)
 
         _write("regime_insights.md", "\n".join(sections))
@@ -130,12 +131,13 @@ _Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_
             )
 
         now = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+        empty_row = "| — | — | — | — | — | — | — | — |\n"
         content = f"""# Trade History
 _Last updated: {now} — showing last {n} trades_
 
 | Time (UTC) | Ticker | Side | Qty | Fill | Regime | Conf | Realized P&L |
 |---|---|---|---|---|---|---|---|
-{rows or '| — | — | — | — | — | — | — | — |\n'}"""
+{rows or empty_row}"""
         _write("trade_history.md", content)
 
     def write_session_log(
