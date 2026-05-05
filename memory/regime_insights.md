@@ -1,10 +1,10 @@
 # Regime Insights
 
-_Updated 2026-05-05 by End of Day Review_
+_Updated 2026-05-05 by Market Open Analysis_
 
 ## Current Regimes
 
-- **SPY**: ERROR — Cannot set a DataFrame with multiple columns to the single column atr_pct
-- **QQQ**: ERROR — Cannot set a DataFrame with multiple columns to the single column atr_pct
-- **TLT**: ERROR — Cannot set a DataFrame with multiple columns to the single column atr_pct
-- **GLD**: ERROR — Cannot set a DataFrame with multiple columns to the single column atr_pct
+- **SPY**: bear | conf=74% | exposure=32% | defensive_bear
+- **QQQ**: neutral | conf=74% | exposure=50% | hold_tech_filter
+- **TLT**: bear | conf=75% | exposure=32% | defensive_bear
+- **GLD**: bear | conf=47% | exposure=50% | hold_low_confidence
