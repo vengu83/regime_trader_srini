@@ -36,6 +36,10 @@ class MarketDataProvider:
             )
             if raw.empty:
                 raise ValueError(f"No data returned for {ticker}")
+            # yfinance ≥0.2.x returns MultiIndex columns (field, ticker) for
+            # single-ticker downloads — flatten to just the field level.
+            if isinstance(raw.columns, pd.MultiIndex):
+                raw.columns = raw.columns.get_level_values(0)
             df = raw.rename(columns=str.lower)[["open", "high", "low", "close", "volume"]]
             df.index = pd.to_datetime(df.index)
             df = df.dropna().tail(days)

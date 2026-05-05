@@ -41,7 +41,7 @@ def main(label: str = "Snapshot") -> None:
             engine  = RegimeDetectionEngine()
             engine.train(df)
 
-            recent   = data_prov.get_history(ticker, days=settings.MARKET_DATA_LOOKBACK_DAYS)
+            recent   = data_prov.get_history(ticker, days=90)  # mom_63 needs ≥63 bars
             regime, conf = engine.predict(recent)
             features = compute_features(recent)
             sig      = orchestrator.get_signal(regime, conf, features)
