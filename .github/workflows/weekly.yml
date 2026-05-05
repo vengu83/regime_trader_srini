@@ -1,0 +1,70 @@
+name: Weekly Review
+
+on:
+  schedule:
+    - cron: '30 20 * * 5'     # 16:30 ET Friday (UTC-4, EDT)
+  workflow_dispatch:
+
+jobs:
+  weekly:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Notify start
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify.py "[RegimeTrader] Weekly Review starting — $(date +%Y-%m-%d)"
+
+      - name: Run regime snapshot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/snapshot.py "Weekly Regime Summary"
+
+      - name: Run walk-forward backtest
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python main.py --backtest 2>&1 | tee /tmp/backtest_output.txt
+          python notify.py "[RegimeTrader] Weekly Backtest complete — check GitHub Actions logs for Sharpe/drawdown metrics."
+
+      - name: Run weekly Perplexity research
+        env:
+          ALPACA_API_KEY:     ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY:  ${{ secrets.ALPACA_SECRET_KEY }}
+          ALPACA_BASE_URL:    https://paper-api.alpaca.markets
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --research
+
+      - name: Commit updated memory files
+        run: |
+          git config user.email "regimetrader@automated.ai"
+          git config user.name  "RegimeTrader Bot"
+          git add memory/
+          git diff --cached --quiet || git commit -m "chore: weekly review $(date +%Y-%m-%d)"
+          git push origin main
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify.py "⚠️ [RegimeTrader] Weekly Review FAILED — check GitHub Actions logs."

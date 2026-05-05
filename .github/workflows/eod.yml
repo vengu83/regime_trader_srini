@@ -1,0 +1,56 @@
+name: End of Day Review
+
+on:
+  schedule:
+    - cron: '45 19 * * 1-5'   # 15:45 ET (UTC-4, EDT)
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run regime snapshot and notify
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/snapshot.py "End of Day Review"
+
+      - name: Run end-of-day Perplexity research (tomorrow prep)
+        env:
+          ALPACA_API_KEY:     ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY:  ${{ secrets.ALPACA_SECRET_KEY }}
+          ALPACA_BASE_URL:    https://paper-api.alpaca.markets
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --research
+
+      - name: Commit updated memory files
+        run: |
+          git config user.email "regimetrader@automated.ai"
+          git config user.name  "RegimeTrader Bot"
+          git add memory/
+          git diff --cached --quiet || git commit -m "chore: end-of-day review $(date +%Y-%m-%d)"
+          git push origin main
+
+      - name: Notify on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify.py "⚠️ [RegimeTrader] End of Day Review FAILED — check GitHub Actions logs."
