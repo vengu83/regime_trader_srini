@@ -41,6 +41,7 @@ from core.regime_strategies import StrategyOrchestrator
 from core.risk_manager import RiskManager
 from core.state_persistence import StateDB, init_db
 
+os.makedirs("logs", exist_ok=True)
 logging.basicConfig(
     level=settings.LOG_LEVEL,
     format="%(asctime)s | %(levelname)-8s | %(name)s | %(message)s",
