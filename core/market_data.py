@@ -27,7 +27,9 @@ class MarketDataProvider:
     ) -> pd.DataFrame:
         """Return a DataFrame with columns: open, high, low, close, volume."""
         end = datetime.utcnow()
-        start = end - timedelta(days=days + 30)  # buffer for weekends/holidays
+        # days is in trading days; multiply by ~1.5 to convert to calendar days
+        # (252 trading days ≈ 365 calendar days) plus a holiday buffer.
+        start = end - timedelta(days=int(days * 1.5) + 10)
         try:
             raw = yf.download(
                 ticker, start=start.strftime("%Y-%m-%d"),

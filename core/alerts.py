@@ -40,12 +40,12 @@ class AlertManager:
         if not token or not chat_id:
             return
 
-        text = f"*[RegimeTrader] {subject}*\n{body}"
+        text = f"[RegimeTrader] {subject}\n{body}"
         url  = f"https://api.telegram.org/bot{token}/sendMessage"
         try:
             resp = requests.post(
                 url,
-                json={"chat_id": chat_id, "text": text, "parse_mode": "Markdown"},
+                json={"chat_id": chat_id, "text": text},
                 timeout=10,
             )
             resp.raise_for_status()
