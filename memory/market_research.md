@@ -1,27 +1,28 @@
 # Market Research
-_Generated: 2026-05-06 20:59 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-07 15:14 UTC via Perplexity sonar-pro_
 
-## 2026-05-06 Pre-Market Research
+## 2026-05-07 Pre-Market Research
 
 ### Macro Context
-- S&P 500 futures are at 6,657.50, up 0.10% pre-market; Nasdaq 100 futures are at 24,376.75, up 0.07%.
+- S&P 500 futures are up 0.10% at 6,657.50 in premarket trading, while Nasdaq 100 futures are up 0.07% at 24,376.75.
 - No major US economic data releases such as CPI, NFP, FOMC, PPI, or jobless claims are scheduled for today based on available information.
-- No Fed commentary or speaker events are noted for today.
-- Search results lack specific details on overnight Asia or Europe market moves.
+- No Fed commentary or speaker events are noted for today in the provided data.
+- Recent reports indicate S&P 500 closed at 7,219 and Nasdaq Composite at 27,488 all-time highs on May 1, with intraday gains on May 5-6 driven by tech strength and Middle East ceasefire hopes, but no specific overnight Asia or Europe moves detailed.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY traded at ~$718 on May 5, up 0.8% amid tech stock rebounds, strong megacap earnings beats (e.g., Microsoft, Meta), and oil price pullbacks despite Middle East tensions, nearing its all-time high of $724.87. On May 4, it dipped 0.37% due to rising Iran conflict uncertainty and elevated oil prices. Broader drivers include six weeks of equity inflows, upward earnings revisions, and heavy weighting in top tech holdings (37% of fund).
-- **QQQ** (regime: `unknown`): No material news. The most recent QQQ-specific updates are from May 5 (pre-market rise amid falling oil prices) and May 4 (daily update), with no notable ETF-specific, sector, or macro developments reported for May 6 that could affect price. Earlier Q4 2025 highlights note a structure conversion to open-end ETF (expense ratio cut to 0.18%) and annual reconstitution, but these occurred in December 2025.
-- **TLT** (regime: `unknown`): TLT ETF traded at $85.45 on May 5, up 0.58%, amid reports of bonds entering a "danger zone" due to resilient markets despite Iran's ceasefire violations (Arora Report, May 5). The ETF has continued falling this month as 30-year US Treasury yields soared past 5%, with Peter Schiff warning of further yield increases (Invezz, May 5). Recent sharp selloffs reflect priced-in fiscal deficit concerns, with the 2-20 yield spread widening to 100 bps (Stock Analysis).
-- **GLD** (regime: `unknown`): # GLD Summary
+- **SPY** (regime: `unknown`): SPY traded at ~$718 on May 5 (up 0.8% on tech rebound, strong earnings, and oil pullback) but dipped 0.37% on May 4 amid Middle East tensions and rising oil prices; by Friday (May ~1-2), it reached $722.70 (up 0.56%). Key drivers include megacap tech earnings beats (e.g., Microsoft, Meta), six weeks of equity inflows, and analyst upgrades, pushing SPY near its $724.87 all-time high, though technical divergence signals potential short-term exhaustion. Upcoming FOMC decision, more earnings (e.g., Apple), and Iran conflict developments remain macro risks.
+- **QQQ** (regime: `unknown`): On May 6, 2026, Invesco QQQ Trust ETF (QQQ) rose amid a bullish candle close at $695.77, breaking out to an all-time high on weekly and daily charts, with key support at $664.25. Technical analysis highlights potential for further upside, though a drop below support could test $638.99. No ETF-specific news like structural changes or reconstitutions noted since Q4 2025 updates.
+- **TLT** (regime: `unknown`): TLT ETF dropped sharply to $84.9 on Monday, May 5, 2026, amid soaring US 30-year bond yields, as highlighted by Peter Schiff's warnings on rising long-term yields. Yesterday's close (May 6) was at $86.08 (+0.76%), with after-hours at $86.14, amid broader market volatility including S&P 500 declines where TLT failed as a hedge. A buy signal emerged from a pivot bottom on May 4, with the ETF in a horizontal trend projecting 90% odds of trading between $82.07–$86.78 over the next 3 months.
+- **GLD** (regime: `unknown`): # GLD Material News Summary
 
-Based on the search results provided, the most recent material data is from early April 2026: GLD was trading at $437.82 with underlying gold at $4,647.60/oz after a 27.2% correction from the January peak of $5,626.80/oz. The March 23 low of $4,100/oz cleared excess speculative positioning, with subsequent institutional buying and a 15.8% bounce suggesting potential technical support. Current macro drivers include Fed rate-cut expectations, dollar weakness, and geopolitical tensions (Iran/Strait of Hormuz), though the search results lack material news specifically dated to May 2026.
+**No material news** identified in the search results for today (May 7, 2026). The most recent substantive information is from early March 2026, when GLD crossed $180 billion in AUM and gold prices surged past $5,000/oz before pulling back to ~$4,500. Current price data shows GLD trading at $430.96 as of May 6, 2026, with no breaking news or sector-specific developments reported for today.
 
 ### Risk Flags
-- **Earnings Week Volatility**: Heavy earnings calendar this week, with major reports scheduled for Tuesday and Thursday, driving potential rotations into defensives like Financials (XLF) and Consumer Staples (XLP) amid thinning market breadth.
-- **Geopolitical Risks**: Ongoing US-Iran conflict tensions, including recent US strikes and awaited Iranian response, mirroring equity gyrations to geopolitical volatility and elevating risks from war in Iran.
-- **Energy Sector Surge**: Rising crude futures and WTI 1M implied volatility at 51% signal oil shock pressures, acting as an inflationary signal watched by the Fed and dictating pre-market sentiment.
-- **VIX and Skew Elevation**: VIX near 17 with SPX skew in the 99th percentile reflects heightened downside risks, low-priced volatility, and potential for early profit-taking or fragile whipsaws in SPY/QQQ.
+- **Geopolitical tensions with Iran**: Ongoing war and US-Iran talks reported today, driving market volatility amid equity rallies and oil price swings.
+- **Q1 earnings season ongoing**: S&P 500 ~25-50% through reports, with strong 15% YoY growth but mixed tech results (e.g., Alphabet up, Meta down on AI capex).
+- **Fed policy uncertainty**: Recent FOMC held rates with hawkish dissents signaling no near-term cuts; markets eye "stealth QE" and inflation from energy prices.
+- **Commodity volatility**: Oil prices up >7% recently due to Middle East conflict, pressuring growth outlook and lifting energy stocks.
+- **Political risks elevated**: US intervention in Venezuela, Iran unrest, and domestic populist proposals (e.g., credit card rate caps) loom as market drags.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
