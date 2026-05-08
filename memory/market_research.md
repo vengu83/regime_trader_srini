@@ -1,33 +1,37 @@
 # Market Research
-_Generated: 2026-05-08 14:24 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-08 20:42 UTC via Perplexity sonar-pro_
 
 ## 2026-05-08 Pre-Market Research
 
 ### Macro Context
-- S&P 500 E-Mini futures (ESH26) trade at 7,379.50 to 7,404.50 pre-market, up from prior close amid steady sentiment ahead of open.
-- Nasdaq 100 E-Mini futures (NQM26) show minimal pre-market change at -0.01%, following yesterday's -0.18% decline.
-- No major US economic data releases such as CPI, NFP, FOMC, PPI, or jobless claims are scheduled for today based on available information.
-- No Fed commentary or speaker events are noted for today in the provided sources.
-- Specific overnight Asia and Europe market moves are not detailed in current search results.
+# Pre-Market Brief – May 8, 2026
+
+Based on available search results, here's what can be factually confirmed:
+
+• **S&P 500 & Nasdaq futures**: June E-Mini S&P 500 futures (ESM26) were up +0.03% and June Nasdaq 100 E-Mini futures (NQM26) were down -0.01% as of Thursday morning, May 7th, with investors awaiting U.S.-Iran negotiations updates.
+
+• **Economic data today**: No specific economic releases for May 8 are listed in the search results; the most recent data cited were weekly initial jobless claims (up 10K to 200K) and continuing claims (down 10K to 1.766M, a 2.25-year low).
+
+• **Fed commentary**: No Fed speakers or FOMC events are mentioned in the available search results for today.
+
+• **International overnight moves**: Search results do not contain current Asia or Europe market data for May 8, 2026.
+
+**Note**: The search results are sparse for the current date; real-time premarket data and today's economic calendar would require live market feeds.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): No material news specific to May 8, 2026. The most recent developments include SPY hitting a new record high on May 6 amid U.S.-Iran peace deal hopes (easing oil prices ~8% and inflation fears) and strong AI earnings, with intraday gains of 0.16% ($1.21) on May 7 amid broader market upticks. Technical analyses note potential Wave 5 completion from March lows, signaling possible near-term exhaustion near $724 resistance.
-- **QQQ** (regime: `unknown`): On May 6, 2026, QQQ ETF rose 2.08% to close at $695.77, hitting an all-time high amid a bullish candle formation and breakout on weekly charts, with key support at $664.25 (StockInvest.us, YouTube analysis). The gain was driven by news of a possible U.S.-Iran deal and strength in holdings like AMD, alongside ~15% monthly and ~40% one-year returns fueled by AI-driven institutional demand (TipRanks, MEXC). StockInvest.us upgraded QQQ to a Strong Buy candidate.
-- **TLT** (regime: `unknown`): On May 7, 2026, TLT traded in a $85.60–$86.41 range, closing at $85.93 (up 0.4% intraday) with after-hours at $85.75, amid mixed technical signals including a recent Aroon Indicator downward trend (May 7) and MACD Histogram turning negative (April 29), both suggesting potential downside pressure. Macro drivers include projected Fed rate cuts to 3.00%-3.25% supporting long-duration bonds like TLT via yield curve steepening, alongside yields of 4.3%-4.7% and fiscal deficits boosting issuance. No ETF-specific news reported today.
-- **GLD** (regime: `unknown`): GLD reached a record $180 billion in assets under management in mid-March 2026, driven by $15 billion in Q1 inflows amid gold prices surging past $5,000/oz before retreating to ~$4,500/oz. As of May 6, 2026, GLD traded at $430.96 with a NAV tied to LBMA Gold Price PM of $4,706.90/oz, reflecting strong safe-haven demand. Global gold ETFs saw $6.6 billion inflows in a recent month, supporting sector momentum.
+- **SPY** (regime: `unknown`): # SPY Material Recent News Summary
+
+**SPY hit a new record high on May 6, 2026 (+1.4%), driven by rising hopes for a U.S.-Iran peace deal that sent oil prices down ~8% and eased inflation concerns, combined with strong AI-driven megacap earnings.** The index has been supported by six consecutive weeks of equity inflows through late April and broad Q1 2026 earnings beats from the technology sector (Microsoft, Meta, Alphabet, Amazon), with analyst upgrades following these results. However, technical analysts have flagged declining net buy volume since April 20 as a potential warning sign of near-term momentum exhaustion near the $724 all-time high resistance level.
+- **QQQ** (regime: `unknown`): QQQ rose 2.08% on May 6 to $695.77, hitting an all-time high with a bullish weekly breakout and key support at $664.25, per technical analysis. Upgraded to Strong Buy candidate amid strong AI-driven tech sector momentum and institutional inflows. Pre-market gains of 0.06% noted on May 7, tracking Nasdaq-100 strength.
+- **TLT** (regime: `unknown`): TLT traded in a narrow range of $85.78–$86.28 on May 7, closing at $85.90 (up 0.1%), with recent price around $85.75 and a 2.5% dividend yield. Bearish technical signals dominate, including Aroon entering a downward trend on May 7, MACD histogram turning negative on April 29, and Momentum below 0 since April 27, suggesting potential further declines. Rising US 30-year Treasury yields above 5% (from 4.52% low), public debt over $39T, and TLT's YTD outflows exceeding $4B add downward pressure amid fiscal concerns.
+- **GLD** (regime: `unknown`): GLD traded at $373.28, down 0.42% on May 8, with after-hours at $374.00 (+0.19%), amid a reported 5% weekly pullback due to fading rate-cut hopes, though strong central-bank demand and a weaker dollar provide bullish support. State Street data from May 6 shows a closing price of $430.96, day high $433.16, and LBMA Gold PM at $4,706.90, reflecting robust gold pricing. Recent ETF inflows declined in April to 2.1% share amid money supply growth and geopolitical spending, capping gains despite safe-haven demand.
 
 ### Risk Flags
-# US Equity Market Risk Events & Flags (Week of May 5-8, 2026)
-
-• **Nonfarm Payrolls & Labor Data (Today, May 8):** Monthly employment report, average hourly earnings, and unemployment rate release—key inflation and Fed policy indicators.
-
-• **University of Michigan Consumer Sentiment (Today, May 8):** Consumer sentiment hit all-time lows in April; today's reading will signal whether weakness persists amid higher oil prices.
-
-• **Iran Geopolitical Risk:** President Trump stated he is "not satisfied" with Iran's peace proposal and threatened military strikes if negotiations fail; elevated risk of Strait of Hormuz disruption heading into the weekend.
-
-• **Oil Price Volatility:** WTI crude at $102.03/bbl (up 8% week-over-week); rising energy costs are reducing near-term Fed rate-cut expectations despite economic strength.
-
-• **Mega-Cap Tech Earnings Cycle Winding Down:** Most "Magnificent 7" have reported; diminishing pre-earnings positioning tailwinds may reduce upside momentum next week.
+- **Geopolitical tensions in Middle East**: Ongoing Iran conflict, including recent US strikes and awaited response, driving oil volatility (WTI 1M IV at 51%) and inflation pricing in bonds.
+- **US economic data releases**: Potential sticky wage growth data expected today, reinforcing stagflation fears amid Fed's higher-for-longer policy.
+- **Private credit market stress**: Rising concerns over refinancing difficulties could elevate borrowing costs and pressure broader credit conditions.
+- **Options market risks**: SPX skew in 99th percentile with high dealer gamma exposure, vulnerable to cascading selling from geopolitical triggers or margin calls.
+- **No major scheduled events like FOMC, CPI, or key earnings**: Economic calendar shows routine data through May 9, with corporate earnings strength dominating but monitoring labor trends.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
