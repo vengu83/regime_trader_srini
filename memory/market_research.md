@@ -1,37 +1,37 @@
 # Market Research
-_Generated: 2026-05-11 21:06 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-12 15:22 UTC via Perplexity sonar-pro_
 
-## 2026-05-11 Pre-Market Research
+## 2026-05-12 Pre-Market Research
 
 ### Macro Context
-# Pre-Market Brief – May 11, 2026
+# Pre-Market Brief – May 12, 2026
 
-• **S&P 500 futures** are down ~0.03% in pre-market; spot S&P 500 index up +0.25% during regular hours; June E-mini S&P futures (ESM26) showing modest weakness as of morning.
+• **Futures Direction**: June E-mini S&P 500 futures (ESM26) down -0.03% and June E-mini Nasdaq futures (NQM26) down -0.04% in pre-market, pointing to a muted open after Monday's record highs.
 
-• **Nasdaq 100 futures** down ~0.04% pre-market; spot Nasdaq 100 up +0.17% during regular session, supported by strong earnings and AI optimism.
+• **Economic Data**: An inflation report described as "the most important inflation report of the month" is scheduled to release this morning, though the specific report type is not detailed in available data.
 
-• **No major US economic data releases** are scheduled for May 11, 2026 based on available search results.
+• **Market Context**: S&P 500 and Russell 2000 closed at fresh all-time highs on Monday despite headwinds from rising oil prices (above $98) and elevated bond yields following failed US-Iran ceasefire negotiations.
 
-• **Fed commentary/speakers**: No Fed speaker events or FOMC announcements identified for today.
+• **Overnight Moves**: Search results do not provide specific overnight Asia or Europe market data for this session.
 
-• **International overnight moves**: Search results do not provide specific Asia or Europe market data for May 11; oil prices and bond yields climbed overnight, contributing to muted US futures positioning.
+• **Fed Activity**: No Fed speakers or FOMC events are mentioned in available pre-market data for today.
 
 ### Ticker News
 - **SPY** (regime: `unknown`): # SPY ETF Summary
 
-**Material Recent News:**
+SPY closed at an all-time high on May 11, 2026 (739.30, +0.23%), driven by strong momentum in semiconductor stocks like Micron. According to Elliott Wave analysis, SPY is in the final stages (Wave 5) of a cycle that began from the March 31, 2026 low, with support holding at 673.98 and potential for modest further upside before a larger correction. Broader market tailwinds included gains in AI tech stocks and a solid April jobs report earlier in the week.
+- **QQQ** (regime: `unknown`): # QQQ ETF Summary
 
-SPY hit a record high on May 8, 2026 (up 0.83%), driven by strong gains in AI tech stocks and a solid April jobs report. According to Elliott Wave analysis, the ETF is in the final stages of wave 5 of a cycle that began from the March 31, 2026 low, with a few more highs expected before a larger-degree correction occurs; the key support level is 673.98.
-- **QQQ** (regime: `unknown`): QQQ hit a new all-time high of $711, surging 28% from $555 in just 27 days, driven by AI demand in semiconductors, a strong jobs report adding 115,000 positions, and the Nasdaq's 6th consecutive weekly gain while avoiding a death cross. Technical analysis as of May 7 shows a bullish close at $695.77 with key support at $664.25, amid ongoing RSI overbought signals at 82 hinting at a minor pullback. Recent pre-market gains on May 7-8 reflect continued momentum in tech-heavy Nasdaq-100 holdings.
-- **TLT** (regime: `unknown`): TLT ETF has continued falling this month amid soaring 30-year US Treasury yields past 5%, as noted by Peter Schiff's warnings on rising yields (Invezz, May 5, 2026). On May 10, TLT traded in a $85.78–$86.28 range, closing at $86.17 with above-average volume of 30.8M shares (Robinhood). No other material ETF-specific news reported in the last few days.
-- **GLD** (regime: `unknown`): Morgan Stanley recently cut its H2 2026 gold price target to $5,200/oz from $5,700, citing ETF outflows and fading rate-cut hopes, potentially pressuring GLD despite its ~9% YTD gain. Recent data shows declining GLD ETF inflows and shares outstanding (down to 2.1%), alongside a 5% weekly drop in the gold bullion ETF amid broader outflows from gold ETFs. Macro factors like a weaker dollar and persistent uncertainty provide some support, but Q1 2026 central bank buying slowed slightly while jewelry demand weakened.
+Based on available search results, there is **no material news** from the past few days (May 7-12, 2026) that would directly impact QQQ pricing today. The most recent data points are technical (QQQ closed at $695.77 on May 7 with an all-time high) and geopolitical sentiment (U.S.-Iran conflict resolution hopes on May 7). The broader macro context remains FOMC monetary policy uncertainty, AI spending ROI scrutiny, and a weakening labor market—all ongoing factors rather than new developments.
+- **TLT** (regime: `unknown`): TLT ETF has declined sharply to $84.9 (lowest since March 27, 2026), down 5.5% from its February high and shedding over $4B YTD, driven by US 30-year Treasury yields surging past 5% (from 4.52% low) amid public debt exceeding $39T and foreign selling (e.g., China holdings halved). Technicals signal further downside risk, with TLT forming a double-top below moving averages targeting $84 support, while yields show inverted head-and-shoulders eyeing 5.155% resistance. Recent inflows of $153M on May 6 noted, but rising yields challenge its safe-haven status amid Fed policy shifts.
+- **GLD** (regime: `unknown`): Morgan Stanley recently cut its H2 2026 gold price target to $5,200/oz from $5,700/oz, citing ETF outflows and fading rate-cut hopes, potentially pressuring GLD amid its ~9% YTD gains. GLD traded at $373.28, down 0.42% intraday with after-hours at $374.00 (+0.19%), following a ~5% weekly loss amid broader gold ETF outflows and declining Comex/LBMA flows. A May 5 Gold Forecaster Index noted consolidation with negative central bank demand (e.g., Turkey/Russia selling) and softening ETF trends, though some macro factors like PBOC liquidity remain supportive.
 
 ### Risk Flags
-- No FOMC meetings scheduled this week, with the next anticipated later in May based on standard quarterly cadence.
-- No major CPI or PPI releases scheduled for May 11-17, per typical Bureau of Labor Statistics calendar.
-- No earnings reports from S&P 500 major constituents (e.g., top 10 by weight) listed for this week, as Q1 reporting season concluded in April.
-- Ongoing US-Iran War and related energy infrastructure damages noted as persistent geopolitical risk flags, with no specific escalations scheduled.
-- No major scheduled high-volatility events identified for US equity markets this week.
+- April CPI release at 8:30 AM ET today (May 12), with consensus at 0.6% MoM headline and 0.3% MoM core, poised to influence Fed rate cut expectations.
+- Cisco (CSCO) and Alibaba (BABA) earnings on Wednesday (May 13), testing AI networking, enterprise capex, and China tech sentiment.
+- Applied Materials (AMAT) earnings on Thursday (May 14), a key indicator for semiconductor fab equipment demand with high implied volatility of +/-8.7%.
+- April PPI on Wednesday (May 13) and Retail Sales on Thursday (May 14), gauging producer inflation and consumer demand amid energy price pressures.
+- Jerome Powell's Fed Chair term ends Friday (May 15) with expected Kevin Warsh confirmation and Trump-Xi summit on May 14-15 addressing AI guardrails.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
