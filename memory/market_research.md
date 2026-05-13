@@ -1,34 +1,34 @@
 # Market Research
-_Generated: 2026-05-13 15:25 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-13 21:12 UTC via Perplexity sonar-pro_
 
 ## 2026-05-13 Pre-Market Research
 
 ### Macro Context
-# Pre-Market Brief – May 13, 2026
-
-• **S&P 500 futures:** Trading at 7,442.00 (latest), up from 7,419.25 open; Nasdaq futures data not provided in search results.
-
-• **VIX Mini futures:** At 19.00, indicating moderate volatility expectations in equity markets.
-
-• **Scheduled US economic data:** No specific releases (CPI, NFP, PPI, jobless claims, FOMC) identified in available search results for today.
-
-• **Fed commentary:** No Fed speaker events or commentary identified in search results for today.
-
-• **International overnight moves:** EUR/USD at 1.1556 (+0.12%); broader Asia/Europe market data not available in search results.
-
-**Note:** Search results are limited; consult official economic calendars (FOMC, BLS, Census Bureau) and financial news sources for complete intraday event coverage.
+- S&P 500 futures are modestly higher in pre-market trading, while Nasdaq futures are also up, indicating a positive open for U.S. equities despite the latest hot wholesale inflation data.  
+- The main scheduled U.S. data release today is the Producer Price Index (PPI) at 8:30 a.m. ET, with consensus looking for a 0.5% monthly gain in headline PPI and 0.4% in core PPI.  
+- No major FOMC decision is scheduled, but markets remain focused on recent Fed commentary emphasizing data dependence and the need for more evidence of disinflation before considering rate cuts.  
+- Asian equity markets were mixed overnight, with some indexes pressured by U.S. inflation concerns and higher yields, while European stocks are trading slightly higher as investors await the U.S. PPI print and track moves in U.S. futures.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): On May 12, SPY sank 0.34% to around $722 amid hotter-than-expected CPI inflation at 3.8% annually (core at 2.8%), exceeding Fed targets and pressuring rate cut expectations. Earlier in the week, SPY hit record highs, up 0.83% on May 8 driven by AI tech stock gains and a strong April jobs report, with YTD gains through April at 5.3% signaling potential for further upside per historical trends. Ongoing Middle East tensions add macro uncertainty.
-- **QQQ** (regime: `unknown`): QQQ ETF surged to a new all-time high of $711 recently, up 28% from $555 in 27 days, driven by strong momentum in AI, semiconductors, and tech sectors amid robust earnings and institutional buying in Nasdaq-100 components. As of May 6, it traded at $681.61 (up 15% YTD), with analysts noting overbought conditions despite record highs fueled by AI infrastructure demand. On May 7, it inched higher on hopes of resolving U.S.-Iran conflict, a key macro driver reducing geopolitical risks.
-- **TLT** (regime: `unknown`): Based on the search results provided, the most material recent news is that **30-Year US Treasury yields have soared past 5%** (as of early May 2026), which is a significant macro driver for TLT, an inverse bond price/yield relationship ETF. The search results indicate **TLT has continued falling this month**, consistent with rising long-duration Treasury yields. This yield environment remains the primary factor affecting TLT's price movement.
-- **GLD** (regime: `unknown`): GLD closed at $373.28, down 0.42%, with after-market trading at $374.00 amid dovish Fed signals supporting gold ETFs but offset by lingering Iran tensions capping gains. Morgan Stanley recently cut its H2 2026 gold price target to $5,200/oz from $5,700, citing ETF outflows and fading rate-cut hopes, despite GLD's ~9% YTD rise. Broader forecasts remain mixed, with UBS eyeing up to $6,300/oz by year-end on central bank demand, though consensus sits at $4,700–$5,000/oz.
+- **SPY** (regime: `unknown`): # SPY Recent Material News Summary
+
+**Inflation concerns drove a 0.34% decline on May 12, 2026**, with the S&P 500 down 0.5% on higher inflation data—a reversal from the strong April momentum driven by megacap earnings beats and six consecutive weeks of equity inflows. The ETF remains near all-time highs (~$733 as of May 6), but technical analysts have flagged declining net buy volume since late April as a potential warning sign of near-term momentum exhaustion around the $724 resistance level. Upcoming macro catalysts include FOMC rate decisions and additional megacap earnings that could move SPY meaningfully in either direction.
+- **QQQ** (regime: `unknown`): QQQ is trading near all-time highs after a ~15% gain over the past month and ~40% 1-year total return, driven largely by continued strength in mega-cap tech and AI-related names that dominate its top holdings. Invesco recently completed a structural change from a unit investment trust to an open-end ETF, lowering QQQ’s expense ratio to 0.18% and enabling income reinvestment and securities lending, which is modestly supportive for long-term efficiency and tracking. Pre-market weakness noted yesterday (-0.66%) appears tied to broader Nasdaq 100 sentiment rather than QQQ-specific fundamentals.
+- **TLT** (regime: `unknown`): TLT has been under pressure after a recent sharp selloff, driven by a rise in long-term U.S. Treasury yields and a widening 2–20 year yield spread, which reflects an increased term premium and heightened fiscal-deficit concerns. Recent commentary highlights growing anxiety in the long-bond market and rotation by some investors toward shorter‑duration Treasury ETFs (such as BIL), all of which directly impact demand and pricing for long-duration Treasuries held by TLT.
+- **GLD** (regime: `unknown`): GLD is trading around $373–374, down slightly on the day after a recent pullback that Zacks attributes to fading Fed rate‑cut expectations and some profit‑taking after a strong year‑to‑date rally. Macro drivers remain mixed: ongoing central-bank gold buying and geopolitical uncertainty support bullion, while a firmer dollar and reduced rate‑cut bets have recently capped gains and triggered ETF outflows, as reflected in Morgan Stanley’s lowered H2 2026 gold price target.
 
 ### Risk Flags
-- ADP jobs data release scheduled this week, expected to drive volatility in US equity markets as a key pre-NFP indicator.
-- Disney earnings report due soon, anticipated to significantly impact stock performance and broader market sentiment.
-- Recent disappointing CPI data continues to raise inflation concerns, contributing to ongoing S&P 500 struggles and volatility.
-- Mixed economic signals amid record highs in semiconductor shares, with investors cautious ahead of additional key reports.
+# US Equity Market Risk Events – This Week
+
+• **CPI data already released (May 13)**: Headline CPI came in hotter than expected at 3.8% YoY (vs. 3.7% consensus), with core CPI at 2.8% YoY, well above the Fed's 2% target, raising rate-cut concerns.
+
+• **Middle East geopolitical tensions ongoing**: Iran-US ceasefire remains fragile with unresolved demands; Trump administration signaling hardline stance, with crude oil volatility persisting (WTI +4.2% today to $102.18/bbl).
+
+• **Trump-Xi summit upcoming**: President Trump's tour to China to meet Premier Xi Jinping will address bilateral trade, tariffs, and AI issues—outcomes could trigger market moves in tech and trade-sensitive sectors.
+
+• **No FOMC meeting this week**: Fed officials will be on the speaking circuit discussing monetary policy implications of inflation data and geopolitical risks, but no formal policy decision scheduled.
+
+• **Earnings season ongoing**: Majority of S&P 500 companies have reported Q1 results; any remaining large-cap earnings could influence sector rotation, particularly in tech and financials.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
