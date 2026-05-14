@@ -1,34 +1,29 @@
 # Market Research
-_Generated: 2026-05-13 21:12 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-14 15:07 UTC via Perplexity sonar-pro_
 
-## 2026-05-13 Pre-Market Research
+## 2026-05-14 Pre-Market Research
 
 ### Macro Context
-- S&P 500 futures are modestly higher in pre-market trading, while Nasdaq futures are also up, indicating a positive open for U.S. equities despite the latest hot wholesale inflation data.  
-- The main scheduled U.S. data release today is the Producer Price Index (PPI) at 8:30 a.m. ET, with consensus looking for a 0.5% monthly gain in headline PPI and 0.4% in core PPI.  
-- No major FOMC decision is scheduled, but markets remain focused on recent Fed commentary emphasizing data dependence and the need for more evidence of disinflation before considering rate cuts.  
-- Asian equity markets were mixed overnight, with some indexes pressured by U.S. inflation concerns and higher yields, while European stocks are trading slightly higher as investors await the U.S. PPI print and track moves in U.S. futures.
+- June S&P 500 E-Mini futures (ESM26) are up +0.31% pre-market, while June Nasdaq 100 E-Mini futures (NQM26) are up +0.30%.
+- June E-mini S&P 500 futures last traded at 7479.50, up +10.00 (+0.13%) as of 07:01:48 on May 13.
+- US retail sales data is in focus today alongside the Trump-Xi summit.
+- No Fed commentary or speaker events mentioned for today.
+- No specific overnight international market moves for Asia or Europe reported in available data.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): # SPY Recent Material News Summary
+- **SPY** (regime: `unknown`): SPY hit a record high on May 11, up 0.23%, driven by strong gains in AI tech stocks and chipmakers. On May 12, SPY sank 0.34% to around $720 amid hotter-than-expected CPI inflation at 3.8% annually (core 2.8%), raising Fed rate hike concerns, with oil surging above $101 on geopolitical tensions. Upcoming Nvidia earnings on May 20 could influence tech-heavy SPY amid ongoing sector volatility.
+- **QQQ** (regime: `unknown`): On May 14, 2026, QQQ is trading at $712.62, forming a bullish candle after a doji in the prior session, with a recent all-time high of $715.10 and breakout above prior resistance on the weekly timeframe (key daily support at $695.99). Earlier on May 12, it fell 0.66% in pre-market amid Nasdaq-100 tracking pressures. From May 6 data, it traded at $681.61 near its 52-week high ($476.78–$676.73), driven by ~15% monthly gains from AI/tech sector strength, though concentration risk in top holdings (51.7% weight) persists.
+- **TLT** (regime: `unknown`): # TLT Summary
 
-**Inflation concerns drove a 0.34% decline on May 12, 2026**, with the S&P 500 down 0.5% on higher inflation data—a reversal from the strong April momentum driven by megacap earnings beats and six consecutive weeks of equity inflows. The ETF remains near all-time highs (~$733 as of May 6), but technical analysts have flagged declining net buy volume since late April as a potential warning sign of near-term momentum exhaustion around the $724 resistance level. Upcoming macro catalysts include FOMC rate decisions and additional megacap earnings that could move SPY meaningfully in either direction.
-- **QQQ** (regime: `unknown`): QQQ is trading near all-time highs after a ~15% gain over the past month and ~40% 1-year total return, driven largely by continued strength in mega-cap tech and AI-related names that dominate its top holdings. Invesco recently completed a structural change from a unit investment trust to an open-end ETF, lowering QQQ’s expense ratio to 0.18% and enabling income reinvestment and securities lending, which is modestly supportive for long-term efficiency and tracking. Pre-market weakness noted yesterday (-0.66%) appears tied to broader Nasdaq 100 sentiment rather than QQQ-specific fundamentals.
-- **TLT** (regime: `unknown`): TLT has been under pressure after a recent sharp selloff, driven by a rise in long-term U.S. Treasury yields and a widening 2–20 year yield spread, which reflects an increased term premium and heightened fiscal-deficit concerns. Recent commentary highlights growing anxiety in the long-bond market and rotation by some investors toward shorter‑duration Treasury ETFs (such as BIL), all of which directly impact demand and pricing for long-duration Treasuries held by TLT.
-- **GLD** (regime: `unknown`): GLD is trading around $373–374, down slightly on the day after a recent pullback that Zacks attributes to fading Fed rate‑cut expectations and some profit‑taking after a strong year‑to‑date rally. Macro drivers remain mixed: ongoing central-bank gold buying and geopolitical uncertainty support bullion, while a firmer dollar and reduced rate‑cut bets have recently capped gains and triggered ETF outflows, as reflected in Morgan Stanley’s lowered H2 2026 gold price target.
+**No material news** for today specifically. The most recent data points are from May 8–13, 2026, showing TLT trading around $84.80–$86.62 with modest volatility. The broader context includes a recent sharp selloff driven by rising long-term Treasury yields and widening fiscal deficit concerns (2-20 yield spread at 100 bps), but no new catalysts are evident in the search results for today's session.
+- **GLD** (regime: `unknown`): GLD ETF reached a milestone of $180 billion in assets under management in mid-March 2026, driven by $15 billion in Q1 net inflows amid gold prices surging past $5,000/oz before retreating to around $4,500–$4,678/oz (per LBMA PM on May 12). As of May 12–13, GLD traded at $430.50–$432.99 with NAV per basket at $42.96 million, reflecting sustained demand in the debasement trade. Recent flows appear flattening per May 5 analysis, signaling consolidation rather than strong directional pressure.
 
 ### Risk Flags
-# US Equity Market Risk Events – This Week
-
-• **CPI data already released (May 13)**: Headline CPI came in hotter than expected at 3.8% YoY (vs. 3.7% consensus), with core CPI at 2.8% YoY, well above the Fed's 2% target, raising rate-cut concerns.
-
-• **Middle East geopolitical tensions ongoing**: Iran-US ceasefire remains fragile with unresolved demands; Trump administration signaling hardline stance, with crude oil volatility persisting (WTI +4.2% today to $102.18/bbl).
-
-• **Trump-Xi summit upcoming**: President Trump's tour to China to meet Premier Xi Jinping will address bilateral trade, tariffs, and AI issues—outcomes could trigger market moves in tech and trade-sensitive sectors.
-
-• **No FOMC meeting this week**: Fed officials will be on the speaking circuit discussing monetary policy implications of inflation data and geopolitical risks, but no formal policy decision scheduled.
-
-• **Earnings season ongoing**: Majority of S&P 500 companies have reported Q1 results; any remaining large-cap earnings could influence sector rotation, particularly in tech and financials.
+- April retail sales data scheduled for release today, May 14, expected to drive volatility amid recent hot PPI and CPI prints.
+- Earnings reports from Applied Materials (AMAT), a major S&P 500 semiconductor constituent, due today, May 14.
+- April industrial production and capacity utilization data set for tomorrow, May 15, with potential to influence growth and inflation views.
+- Ongoing geopolitical risks from Iran tensions, Strait of Hormuz disruptions, and oil price swings, despite recent ceasefire talks.
+- Earnings from Home Depot (HD), a Dow and S&P 500 heavyweight, alongside housing starts data, scheduled for May 19.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
