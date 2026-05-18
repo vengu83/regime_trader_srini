@@ -1,33 +1,26 @@
 # Market Research
-_Generated: 2026-05-18 16:03 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-18 20:58 UTC via Perplexity sonar-pro_
 
 ## 2026-05-18 Pre-Market Research
 
 ### Macro Context
-- US equity futures are roughly flat in pre-market trading, with S&P 500 futures marginally lower (~‑0.03%) and Nasdaq 100 futures slightly higher (~+0.4%) per the overnight brief.  
-
-- Today’s US economic calendar is light, with no major top-tier releases such as CPI, PPI, nonfarm payrolls, or weekly jobless claims scheduled, according to standard calendar patterns and available summaries.  
-
-- There are no widely flagged FOMC rate decisions or major Fed events on the docket today; any Fed appearances are expected to be routine speeches rather than policy-defining.  
-
-- In Asia overnight, Tokyo’s Nikkei 225 fell about 1% and major Greater China indices also declined on weaker factory output and retail sales data, while other Asian markets were mixed.  
-
-- European markets opened and traded cautiously, pressured by concerns over potential energy shocks and ongoing geopolitical tensions, with investors avoiding large directional bets.
+- S&P 500 futures are slightly lower pre-market, with CME E-mini S&P 500 futures last at 7396.75, down 0.48%, and Nasdaq futures are also indicated lower in the available market summary.  
+- A Robinhood prediction-market snapshot shows S&P 500 futures trading around the 7400 level, with the >7400 contract at 62¢ and >7425 at 42¢.  
+- The provided sources do not show any major scheduled U.S. economic releases for today such as CPI, NFP, FOMC, PPI, or jobless claims.  
+- The provided sources do not list any Fed speaker appearances or Fed event scheduled for today.  
+- The provided sources do not include explicit overnight Asia or Europe index moves, only that futures were under pressure ahead of the U.S. open.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has recently been supported by strength in AI and semiconductor names, with the ETF up about 0.8% on May 14 as those growth/tech components rallied. Earlier this month, broader indices moved higher on optimism over a potential Iran ceasefire and related geopolitical de-escalation, alongside bullish Street commentary on key AI leaders like Nvidia and AMD, all of which tend to support SPY given its heavy mega-cap tech weighting. Macro expectations for strong 2026 S&P 500 earnings growth (per Zacks) also provide a positive fundamental backdrop for SPY.
-- **QQQ** (regime: `unknown`): QQQ is trading near record highs after a very strong run, with roughly 5% gains over the last five trading sessions and around 15% over the past month, driven largely by strength in large-cap tech and AI-related names within the Nasdaq‑100. Recent upside has been supported by a risk-on backdrop, including positive sentiment around a U.S.-China meeting and continued institutional demand for growth exposure, while concentration in a small number of mega-cap tech stocks remains a key factor that can amplify moves in the ETF.
-- **TLT** (regime: `unknown`): TLT has been under pressure recently as 30-year U.S. Treasury yields pushed above 5%, with Reuters/CNBC coverage highlighting renewed bond-market anxiety amid hotter inflation/oil-driven rate concerns. Recent articles also point to TLT trading near its lowest level since last July and to ongoing outflows from long-duration Treasury ETFs, which can weigh on price.
-
-Market data in the search results shows TLT around 83.66 as of May 17, with very tight intraday trading, suggesting the main near-term drivers are still Treasury yield moves and ETF flow dynamics rather than ETF-specific corporate news.
-- **GLD** (regime: `unknown`): GLD is trading near record territory after gold recently surged past $4,000–$4,200/oz on Fed rate‑cut expectations, safe‑haven demand, and strong central‑bank buying, though a sharp pullback last week (-about 5%) has cooled the rally. Recent commentary highlights ETF inflows during the run‑up, followed by some outflows as rate‑cut hopes fade and profit‑taking sets in, creating higher short‑term volatility around GLD. Macro drivers remain dominant: inflation concerns, elevated geopolitical risk, and shifting expectations for U.S. monetary policy are the key factors influencing GLD’s price action.
+- **SPY** (regime: `unknown`): SPY continues to trade near record highs, reflecting the ongoing strength of the S&P 500, which has been up more than 5% year-to-date through April and has recently set new all‑time highs. There are no major SPY-specific structural changes or headline events; price action is being driven mainly by broad U.S. large-cap equity strength and macro optimism rather than ETF-specific news.
+- **QQQ** (regime: `unknown`): QQQ has recently undergone a structural change, with shareholders approving its conversion from a unit investment trust to an open-end ETF, which reduced its expense ratio from 0.20% to 0.18% and enabled income reinvestment and securities lending — all of which can marginally affect flows and tracking. The latest published quarter showed Q4 2025 performance roughly in line with large‑cap benchmarks, with sector tilts (notably consumer discretionary and underweight industrials) driving small relative underperformance vs. the S&P 500, while the ongoing concentration in mega-cap tech keeps the ETF highly sensitive to moves in AI-related growth expectations and US rates.
+- **TLT** (regime: `unknown`): TLT is trading near recent lows around $83–84 as long-term Treasury yields have pushed back above 5% on renewed inflation concerns and stronger-than-expected macro data, weighing on duration-heavy bond ETFs. Recent technical commentary flags a four‑year bearish trend, rising outflows, and multiple bearish signals (negative MACD, 50‑day moving average crossing below the 200‑day), all pointing to continued pressure if long rates keep rising.
+- **GLD** (regime: `unknown`): Gold and GLD are trading near record highs, with GLD around $417–418 and spot gold (LBMA PM) near $4,680/oz, reflecting strong safe‑haven demand amid ongoing geopolitical tensions and concerns over inflation and U.S. fiscal deficits. There is no GLD‑specific corporate action, but macro drivers (war headlines, debt, inflation expectations) and recent volatility spikes in gold futures remain the key price catalysts.
 
 ### Risk Flags
-- No FOMC policy meeting is scheduled this week; Fed risk is limited to speeches and commentary from officials, which can still move rate‑sensitive sectors.  
-- No major Tier‑1 US inflation prints (CPI or PCE) are on the calendar this week; key macro data will mainly be second‑tier indicators (e.g., housing, regional surveys) with typically smaller equity impact.  
-- The US large‑cap earnings calendar is in a lighter phase, with only a handful of mid‑ to large‑cap names reporting; no mega‑cap index heavyweights are slated that typically drive broad S&P 500 or Nasdaq moves.  
-- Ongoing Middle East ceasefire negotiations and associated developments around oil supply and shipping lanes remain an exogenous geopolitical volatility risk for US equities, especially energy and transport.  
-- Market participants remain focused on recent elevated index volatility and AI/large‑cap tech leadership; any guidance changes or newsflow around major AI/platform companies could still act as unscheduled volatility catalysts.
+- The search results flag ongoing macro volatility from policy crosscurrents, sticky inflation, and tariff-related uncertainty, but they do not identify a specific U.S. equity market event scheduled for today.
+- A notable risk flag this week is the expected Supreme Court decision on the legality of IEEPA tariffs, which could trigger another volatility jolt if it lands this week.
+- Geopolitical risk remains elevated in the background, with market commentary citing the Iran conflict and persistently high oil prices as a volatility source.
+- No major FOMC, CPI, or major index-constituent earnings event is directly indicated in the provided results.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
