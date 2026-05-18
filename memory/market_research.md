@@ -1,31 +1,33 @@
 # Market Research
-_Generated: 2026-05-15 21:37 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-18 16:03 UTC via Perplexity sonar-pro_
 
-## 2026-05-15 Pre-Market Research
+## 2026-05-18 Pre-Market Research
 
 ### Macro Context
-- U.S. equity futures are modestly higher in pre‑market trading, with June S&P 500 E‑mini and Nasdaq‑100 E‑mini contracts both up roughly 0.3% according to futures quotes.  
+- US equity futures are roughly flat in pre-market trading, with S&P 500 futures marginally lower (~‑0.03%) and Nasdaq 100 futures slightly higher (~+0.4%) per the overnight brief.  
 
-- The main scheduled U.S. data releases today are the University of Michigan preliminary Consumer Sentiment/Inflation Expectations report and the usual weekly Baker Hughes rig count; there are no major CPI, PPI, nonfarm payrolls, or initial jobless claims releases on today’s calendar.  
+- Today’s US economic calendar is light, with no major top-tier releases such as CPI, PPI, nonfarm payrolls, or weekly jobless claims scheduled, according to standard calendar patterns and available summaries.  
 
-- The Fed’s official calendar shows no Federal Open Market Committee meeting or major policy decision today; any Fed communication is limited to routine or secondary‑tier speaking engagements rather than headline policy events.  
+- There are no widely flagged FOMC rate decisions or major Fed events on the docket today; any Fed appearances are expected to be routine speeches rather than policy-defining.  
 
-- Asian markets were mixed overnight, with Japan and some regional indexes edging higher while others were flat to slightly lower amid caution over U.S. inflation and yields.  
+- In Asia overnight, Tokyo’s Nikkei 225 fell about 1% and major Greater China indices also declined on weaker factory output and retail sales data, while other Asian markets were mixed.  
 
-- European equities traded mildly higher in early and mid‑session action, supported by U.S. futures strength and some positive corporate news despite lingering rate and growth concerns.
+- European markets opened and traded cautiously, pressured by concerns over potential energy shocks and ongoing geopolitical tensions, with investors avoiding large directional bets.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s latest move appears to be driven mainly by broad market strength rather than fund-specific news: on May 13 it rose 0.56%, helped by a surge in AI and semiconductor stocks. Recent market commentary also points to continued support from mega-cap tech/AI leadership and shifting macro headlines, while historical data shows SPY trading around the 741–748 area into May 15.
-- **QQQ** (regime: `unknown`): Invesco QQQ is trading near record highs, having recently broken above prior resistance around $715, with technical analysts highlighting nearby support around $696 and options flow clustering around the $660–675 region, which could influence short-term volatility. Fundamentally, QQQ recently completed its annual Nasdaq‑100 reconstitution and converted from a unit investment trust to an open‑end ETF, modestly cutting its expense ratio and enabling income reinvestment and securities lending, which may support longer‑term efficiency. Broader drivers remain AI‑led tech strength and uncertainty around future Fed policy, both key macro factors for this tech‑heavy ETF.
-- **TLT** (regime: `unknown`): TLT is under pressure as long‑term Treasury yields have recently surged, with the 30‑year yield moving above 5%, driven by renewed inflation concerns and expectations that the Fed’s cutting cycle may pause or proceed slowly. Recent commentary highlights significant outflows from long‑duration Treasury ETFs like TLT into short‑term cash-like vehicles (e.g., BIL), as investors rotate away from duration risk amid rising U.S. debt levels and bond‑market volatility.
-- **GLD** (regime: `unknown`): GLD has been moving with the broader gold complex, and the most recent market commentary points to softer gold demand indicators: retail traders have been pulling money from commodity ETFs, and gold-related ETF flows have been described as weakening or in downtrend. Macro-wise, higher Treasury yields and sticky inflation prints have been cited as headwinds for gold, while central-bank and China-related demand signals remain mixed rather than clearly supportive.
+- **SPY** (regime: `unknown`): SPY has recently been supported by strength in AI and semiconductor names, with the ETF up about 0.8% on May 14 as those growth/tech components rallied. Earlier this month, broader indices moved higher on optimism over a potential Iran ceasefire and related geopolitical de-escalation, alongside bullish Street commentary on key AI leaders like Nvidia and AMD, all of which tend to support SPY given its heavy mega-cap tech weighting. Macro expectations for strong 2026 S&P 500 earnings growth (per Zacks) also provide a positive fundamental backdrop for SPY.
+- **QQQ** (regime: `unknown`): QQQ is trading near record highs after a very strong run, with roughly 5% gains over the last five trading sessions and around 15% over the past month, driven largely by strength in large-cap tech and AI-related names within the Nasdaq‑100. Recent upside has been supported by a risk-on backdrop, including positive sentiment around a U.S.-China meeting and continued institutional demand for growth exposure, while concentration in a small number of mega-cap tech stocks remains a key factor that can amplify moves in the ETF.
+- **TLT** (regime: `unknown`): TLT has been under pressure recently as 30-year U.S. Treasury yields pushed above 5%, with Reuters/CNBC coverage highlighting renewed bond-market anxiety amid hotter inflation/oil-driven rate concerns. Recent articles also point to TLT trading near its lowest level since last July and to ongoing outflows from long-duration Treasury ETFs, which can weigh on price.
+
+Market data in the search results shows TLT around 83.66 as of May 17, with very tight intraday trading, suggesting the main near-term drivers are still Treasury yield moves and ETF flow dynamics rather than ETF-specific corporate news.
+- **GLD** (regime: `unknown`): GLD is trading near record territory after gold recently surged past $4,000–$4,200/oz on Fed rate‑cut expectations, safe‑haven demand, and strong central‑bank buying, though a sharp pullback last week (-about 5%) has cooled the rally. Recent commentary highlights ETF inflows during the run‑up, followed by some outflows as rate‑cut hopes fade and profit‑taking sets in, creating higher short‑term volatility around GLD. Macro drivers remain dominant: inflation concerns, elevated geopolitical risk, and shifting expectations for U.S. monetary policy are the key factors influencing GLD’s price action.
 
 ### Risk Flags
-- April US CPI release earlier this week was the key macro catalyst, with markets still trading on its implications for Fed rate-cut timing and inflation expectations.  
-- Fed leadership transition from Jerome Powell to Kevin Warsh, including his first days as Chair, is a major policy-risk overhang influencing rates, USD, and equity multiples.  
-- Ongoing Trump–Xi summit on AI guardrails and broader US–China relations poses event risk for large-cap tech and semiconductor names.  
-- Earnings from major tech/AI-linked constituents such as Cisco, Alibaba (ADR impact), and Applied Materials are focal points for volatility in the broader tech and semiconductor complex.  
-- Elevated Middle East tensions and associated Strait of Hormuz / oil supply risk remain a significant macro overhang for US equities via energy prices and inflation.
+- No FOMC policy meeting is scheduled this week; Fed risk is limited to speeches and commentary from officials, which can still move rate‑sensitive sectors.  
+- No major Tier‑1 US inflation prints (CPI or PCE) are on the calendar this week; key macro data will mainly be second‑tier indicators (e.g., housing, regional surveys) with typically smaller equity impact.  
+- The US large‑cap earnings calendar is in a lighter phase, with only a handful of mid‑ to large‑cap names reporting; no mega‑cap index heavyweights are slated that typically drive broad S&P 500 or Nasdaq moves.  
+- Ongoing Middle East ceasefire negotiations and associated developments around oil supply and shipping lanes remain an exogenous geopolitical volatility risk for US equities, especially energy and transport.  
+- Market participants remain focused on recent elevated index volatility and AI/large‑cap tech leadership; any guidance changes or newsflow around major AI/platform companies could still act as unscheduled volatility catalysts.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
