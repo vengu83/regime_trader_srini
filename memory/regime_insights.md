@@ -1,10 +1,10 @@
 # Regime Insights
 
-_Updated 2026-05-15 by Weekly Regime Summary_
+_Updated 2026-05-18 by Market Open Analysis_
 
 ## Current Regimes
 
-- **SPY**: neutral | conf=75% | exposure=50% | hold_tech_filter
-- **QQQ**: neutral | conf=75% | exposure=50% | hold_tech_filter
-- **TLT**: bear | conf=75% | exposure=32% | defensive_bear
-- **GLD**: neutral | conf=75% | exposure=50% | hold_tech_filter
+- **SPY**: crash | conf=75% | exposure=5% | defensive_crash
+- **QQQ**: bear | conf=75% | exposure=32% | defensive_bear
+- **TLT**: crash | conf=75% | exposure=5% | defensive_crash
+- **GLD**: crash | conf=64% | exposure=5% | defensive_crash
