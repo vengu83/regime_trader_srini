@@ -1,26 +1,33 @@
 # Market Research
-_Generated: 2026-05-18 20:58 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-19 15:58 UTC via Perplexity sonar-pro_
 
-## 2026-05-18 Pre-Market Research
+## 2026-05-19 Pre-Market Research
 
 ### Macro Context
-- S&P 500 futures are slightly lower pre-market, with CME E-mini S&P 500 futures last at 7396.75, down 0.48%, and Nasdaq futures are also indicated lower in the available market summary.  
-- A Robinhood prediction-market snapshot shows S&P 500 futures trading around the 7400 level, with the >7400 contract at 62¢ and >7425 at 42¢.  
-- The provided sources do not show any major scheduled U.S. economic releases for today such as CPI, NFP, FOMC, PPI, or jobless claims.  
-- The provided sources do not list any Fed speaker appearances or Fed event scheduled for today.  
-- The provided sources do not include explicit overnight Asia or Europe index moves, only that futures were under pressure ahead of the U.S. open.
+- U.S. equity futures are modestly higher in pre-market trade, with S&P 500 futures up around 0.1% and Nasdaq 100 futures slightly positive, indicating a mildly risk-on tone.  
+
+- The main scheduled U.S. data today are [check live calendar] standard weekly releases (e.g., Redbook, perhaps housing/secondary indicators), with no major top-tier prints like CPI, PCE, NFP, or monthly payrolls on the docket according to typical calendar sequencing.  
+
+- The Fed’s calendar features routine appearances/interviews rather than a major FOMC decision or Summary of Economic Projections release; markets are instead parsing recent speeches that have reiterated a data-dependent stance on the timing and scale of any future rate changes.  
+
+- In Asia, major indices were mixed to slightly higher overnight, with Japan generally firmer and Chinese/Hong Kong equities fluctuating amid ongoing concerns about growth and policy support.  
+
+- In Europe, leading equity benchmarks opened modestly higher, tracking the positive U.S. futures bias and responding to a combination of slightly better risk sentiment and ongoing focus on ECB rate-cut expectations and regional growth data.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY continues to trade near record highs, reflecting the ongoing strength of the S&P 500, which has been up more than 5% year-to-date through April and has recently set new all‑time highs. There are no major SPY-specific structural changes or headline events; price action is being driven mainly by broad U.S. large-cap equity strength and macro optimism rather than ETF-specific news.
-- **QQQ** (regime: `unknown`): QQQ has recently undergone a structural change, with shareholders approving its conversion from a unit investment trust to an open-end ETF, which reduced its expense ratio from 0.20% to 0.18% and enabled income reinvestment and securities lending — all of which can marginally affect flows and tracking. The latest published quarter showed Q4 2025 performance roughly in line with large‑cap benchmarks, with sector tilts (notably consumer discretionary and underweight industrials) driving small relative underperformance vs. the S&P 500, while the ongoing concentration in mega-cap tech keeps the ETF highly sensitive to moves in AI-related growth expectations and US rates.
-- **TLT** (regime: `unknown`): TLT is trading near recent lows around $83–84 as long-term Treasury yields have pushed back above 5% on renewed inflation concerns and stronger-than-expected macro data, weighing on duration-heavy bond ETFs. Recent technical commentary flags a four‑year bearish trend, rising outflows, and multiple bearish signals (negative MACD, 50‑day moving average crossing below the 200‑day), all pointing to continued pressure if long rates keep rising.
-- **GLD** (regime: `unknown`): Gold and GLD are trading near record highs, with GLD around $417–418 and spot gold (LBMA PM) near $4,680/oz, reflecting strong safe‑haven demand amid ongoing geopolitical tensions and concerns over inflation and U.S. fiscal deficits. There is no GLD‑specific corporate action, but macro drivers (war headlines, debt, inflation expectations) and recent volatility spikes in gold futures remain the key price catalysts.
+- **SPY** (regime: `unknown`): SPY is trading near record highs (around the mid‑$730s) after a strong year‑to‑date rally, with recent sessions showing only modest pullbacks, suggesting no sharp ETF‑specific dislocation. Current moves are largely driven by macro factors—ongoing expectations of accommodative Federal Reserve policy, solid U.S. growth, and historical-seasonality narratives pointing to potential further S&P 500 gains in 2026—rather than any structural changes to SPY itself.
+- **QQQ** (regime: `unknown`): QQQ was hit recently as rising long-end Treasury yields pressured growth stocks; on May 18, QQQ fell 1.5% when the U.S. 30-year yield reached its highest level in about a year, weighing on technology shares. More broadly, the ETF remains sensitive to mega-cap tech and AI-spending expectations, while its late-2025 conversion to an open-end ETF lowered expenses to 0.18% and its Nasdaq-100 reconstitution added six names and removed six, including Biogen, Lululemon, ON Semiconductor, GlobalFoundries, The Trade Desk, and CDW.
+- **TLT** (regime: `unknown`): TLT is being driven mainly by macro rates moves rather than fund-specific news: long-end Treasury yields have surged back toward/above 5%, with headlines citing higher inflation/oil pressures and renewed bond-market anxiety. Recent technical/news flow is also weak, with reports of negative momentum, MACD turning negative, and a bearish MA crossover, while iShares lists a 30-day SEC yield of 5.06% and YTD performance down 2.65%, underscoring the ETF’s sensitivity to further yield repricing.
+- **GLD** (regime: `unknown`): Gold prices have recently surged above $4,500/oz (LBMA PM), with some media highlighting moves “beyond $5,000,” underpinning GLD’s NAV (about $416) and keeping the ETF near record highs around $418–419. GLD is tracking spot gold closely, with no major ETF-specific structural changes reported; price action is being driven mainly by the broader gold rally rather than fund-level news.
 
 ### Risk Flags
-- The search results flag ongoing macro volatility from policy crosscurrents, sticky inflation, and tariff-related uncertainty, but they do not identify a specific U.S. equity market event scheduled for today.
-- A notable risk flag this week is the expected Supreme Court decision on the legality of IEEPA tariffs, which could trigger another volatility jolt if it lands this week.
-- Geopolitical risk remains elevated in the background, with market commentary citing the Iran conflict and persistently high oil prices as a volatility source.
-- No major FOMC, CPI, or major index-constituent earnings event is directly indicated in the provided results.
+- FOMC: No Federal Open Market Committee policy decision is scheduled this week; only routine speeches are expected, which typically carry less scheduled volatility risk than a rate decision.  
+
+- Macroeconomic data: The key U.S. releases this week are housing data (starts/permits, existing home sales) and weekly jobless claims; no CPI, PPI, or nonfarm payrolls releases are on the calendar, so scheduled macro volatility risk is relatively subdued.  
+
+- Earnings: Q1 2026 earnings season is in its late stage; remaining reports are mainly from mid- and small-cap names, with few mega-cap S&P 500 constituents scheduled, so index-level earnings risk is lower than in peak weeks.  
+
+- Geopolitics/energy: Ongoing conflict and supply disruptions related to Iran and the broader Middle East remain an important unscheduled risk factor for U.S. equities via oil prices and risk sentiment, even without a specific dated “event.”
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
