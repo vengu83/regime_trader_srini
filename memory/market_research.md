@@ -1,30 +1,37 @@
 # Market Research
-_Generated: 2026-05-22 21:45 UTC via Perplexity sonar-pro_
+_Generated: 2026-05-25 15:37 UTC via Perplexity sonar-pro_
 
-## 2026-05-22 Pre-Market Research
+## 2026-05-25 Pre-Market Research
 
 ### Macro Context
-- U.S. equity futures are higher in pre-market trading, with June E-mini S&P 500 futures up roughly 0.5% and June E-mini Nasdaq 100 futures up around 0.7%, both near 1-week highs.  
+- **S&P 500 and Nasdaq futures:** U.S. equity futures are modestly higher pre-market, with **E-mini S&P 500** and **E-mini Nasdaq-100** futures both up versus Friday’s close.[1][3][4]
 
-- No major top-tier U.S. data such as CPI, PPI, nonfarm payrolls, or an FOMC decision is scheduled for release today; the focus is on second-tier indicators and survey data already published earlier in the week.  
+- **U.S. economic data today:** The U.S. calendar is light, with no major releases such as CPI, PCE, NFP, PPI, or weekly jobless claims scheduled for today according to standard economic calendars (next major prints fall later in the week/month).[3]
 
-- The official Federal Reserve calendar does not list a major policy meeting or press conference today, and only routine appearances or remarks (if any) are expected rather than market-defining Fed events.  
+- **Fed events:** There are no FOMC meetings or major Fed decisions today; only routine/background Fed speaker appearances are on the docket, with no scheduled policy statement releases per today’s public Fed calendar.
 
-- Asian markets closed mixed overnight, with a generally cautious tone amid stronger U.S. tech futures and ongoing regional currency pressure against the U.S. dollar.  
+- **Asia overnight:** Major Asian indices were mixed to slightly higher, with Japanese and South Korean equities up modestly while China/Hong Kong traded more sideways amid ongoing growth and policy concerns.
 
-- In Europe, major indices are slightly softer overall with the DAX indicated down about 0.5% and the CAC 40 modestly lower, while the FTSE 100 is marginally positive, helped by strength in materials and select chip-related names.
+- **Europe this morning:** European equities opened slightly higher, with broad regional indices up modestly, tracking the positive tone in U.S. futures and stabilizing bond yields.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is modestly higher over the last two sessions, supported by easing inflation worries as falling oil and energy prices reduced concern about further rate pressures. Broader risk sentiment is also being helped by easing geopolitical tensions, which have lifted S&P 500 futures and the ETF in pre‑market trading recently.
-- **QQQ** (regime: `unknown`): Invesco QQQ continues to trade near record highs after a roughly 30% surge since late March, supported by strong AI-related tech earnings and ongoing bullish momentum in the Nasdaq 100. Recent commentary highlights easing Middle East tensions and slightly lower oil prices as tailwinds, while macro risks such as Fed policy, election-season uncertainty, and softer U.S. labor data are being monitored but have not yet derailed the uptrend.
-- **TLT** (regime: `unknown`): TLT was little changed to slightly firmer on the latest available quotes, with recent trading around the mid-$84s, while iShares reports a 30-day SEC yield of 5.04% and a 12-month trailing yield of 4.65% as of May 20–21. The main macro driver remains Treasury yield moves and Fed policy expectations; recent commentary and headlines continue to focus on the possibility that slowing growth, disinflation, or longer-end rate pressure could support long-duration Treasuries. No ETF-specific corporate news appears material from the provided sources.
-- **GLD** (regime: `unknown`): Gold has recently surged to record highs above $5,000/oz, with GLD trading near all‑time highs in the low $400s and seeing sizable inflows as gold ETFs reportedly attracted over $50 billion in the past year. Short‑term, GLD has pulled back modestly over the last few sessions, but remains in a broader uptrend driven by strong bullion prices and continued macro demand for gold as a defensive asset.
+- **SPY** (regime: `unknown`): SPY is trading near all‑time highs, supported by strong year‑to‑date S&P 500 gains above 5% through April and bullish historical seasonality pointing to potential further upside in 2026.[3] Recent drivers are predominantly macro and index-wide: lower Treasury yields, optimism around U.S.–Iran negotiations, and robust megacap tech/AI earnings, with recent data showing notable five‑day net outflows of about $5B from SPY despite price strength.[1][3]
+- **QQQ** (regime: `unknown`): No material ETF-specific corporate events for **QQQ** have been reported recently; flows and structure appear stable.[1]  
+
+The most relevant drivers are **macro and sectoral**: QQQ has rallied sharply alongside mega-cap tech and AI-related names, with commentary noting roughly a 30% surge since late March as bulls remain in control despite macro and election-related headwinds.[2]
+- **TLT** (regime: `unknown`): The most material recent driver for **TLT** is a combination of heavy **inflows into the fund** and a sharp move higher in **long‑term Treasury yields** to multi‑year highs, which directly pressures the ETF’s price. Recent reports highlight about **$650M of inflows into TLT even as the 30‑year U.S. Treasury yield climbed to around 5.2%, the highest since 2007**, reflecting investors using the ETF to position around the sell‑off in long‑duration bonds.[2]
+- **GLD** (regime: `unknown`): Gold is trading near record highs with spot prices recently breaking above **$5,000/oz**, driving strong inflows into gold ETFs including GLD as investors seek safe‑haven and inflation‑hedge exposure.[3] ETF industry commentary notes that gold ETF flows over the past year have surpassed **$50 billion**, highlighting ongoing sector‑wide demand that is a key macro driver for GLD rather than any fund‑specific structural changes.[3]
 
 ### Risk Flags
-- Ongoing Iran–U.S. ceasefire and Strait of Hormuz negotiations remain a key geopolitical risk driver for oil prices and equity volatility, with headlines capable of moving markets intraday.  
-- Elevated focus on inflation after a hotter‑than‑expected CPI print this week, which has shifted rate‑cut expectations and keeps upcoming Fed communications and speeches as potential volatility catalysts.  
-- Markets are sensitive to commentary from incoming Fed Chair Kevin Warsh around policy direction and timing of any future cuts, given the backdrop of sticky inflation and high energy prices.  
-- No major scheduled U.S. macro releases or Fed meetings of the magnitude of CPI/FOMC are due in the immediate days ahead; near‑term risk is more headline‑driven (geopolitics, oil, and any surprise corporate news from mega‑caps).
+- **No FOMC policy meeting** is scheduled this week; May has no Fed meeting on the calendar, though various Fed officials are active on the speaking circuit, which can still move rates and equities.[1]
+
+- **U.S. markets are closed for Memorial Day** (Monday, U.S. holiday), which can compress liquidity and shift any news impact into Tuesday’s open.[2]
+
+- **No major US CPI/PPI or payrolls releases** are on the calendar this week; key inflation and labor data arrived earlier in the month, reducing scheduled macro-event risk in the immediate term.[1][3]
+
+- **No widely flagged, market‑critical geopolitical event or summit** (beyond ongoing Middle East tensions) is specifically scheduled for this week that would be expected, by timing alone, to drive US equity volatility.[1][4]
+
+- **Earnings season for major S&P 500 constituents is past its peak**, with no single mega‑cap index heavyweight scheduled to report this week that is broadly cited as a likely volatility catalyst.[6]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
