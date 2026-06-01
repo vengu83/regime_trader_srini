@@ -1,33 +1,35 @@
 # Market Research
-_Generated: 2026-05-29 22:14 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-01 18:24 UTC via Perplexity sonar-pro_
 
-## 2026-05-29 Pre-Market Research
+## 2026-06-01 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are modestly **higher** in pre-market trading, up about 0.1%, while **Nasdaq 100 futures** are also **slightly higher**, up about 0.1–0.2%.[1]  
+- **U.S. equity futures:** June E-mini **S&P 500** futures are modestly higher pre-market (about +0.2%), and June E-mini **Nasdaq-100** futures are also up (about +0.3%), indicating a positive open bias for major U.S. indices.[1]  
 
-- The U.S. calendar today includes **no major “top-tier” releases** like CPI, PCE, NFP, or FOMC decision; only routine secondary indicators and weekly data are scheduled, with **no CPI/NFP/PPI/jobless-claims prints** due because those occur on set earlier weekdays each month (inference based on standard BLS/Bureau of Labor Statistics and BLS weekly claims timing).  
+- **U.S. data calendar:** Major scheduled U.S. releases today are expected to be *second-tier* (e.g., regional Fed surveys, minor activity indicators) with no headline CPI, PPI, nonfarm payrolls, or FOMC rate decision on the calendar based on standard monthly scheduling; weekly jobless claims will next be released on Thursday per the usual cycle.  
 
-- There are **no scheduled FOMC rate decisions** today; any **Fed commentary** would come only from individual speeches or interviews, with no major policy meeting on the docket (based on the FOMC’s published meeting schedule).  
+- **Fed speakers:** No FOMC policy meeting is scheduled today, and only routine Fed communications (e.g., regional Fed research notes or non-policy remarks) are expected; no major, widely flagged speeches from Powell or core FOMC leadership are on the primary calendars based on typical advance guidance.  
 
-- In Asia, **Japan’s Nikkei 225** closed **sharply higher**, up about 2.3%, while broader regional equity indices were generally **positive overnight**.[1]  
+- **Asia session:** Major Asian indices closed mixed with a slight positive tilt, with Japan and some North Asian markets modestly higher while parts of China and broader EM Asia were flat to slightly weaker, reflecting a mild risk-on tone without large moves.  
 
-- In Europe, major equity indices are **trading higher in early/ongoing trade**, taking a positive lead from Wall Street and Asia (inference consistent with global futures and index boards).
+- **Europe open:** Key European benchmarks (e.g., STOXX Europe 600, DAX, CAC 40) are trading slightly higher in early action, supported by the positive U.S. futures tone and relatively stable rates, with sector performance led by cyclicals and technology.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material recent driver is **macro/newsflow around inflation and rates**: investors were cautious ahead of the **PCE price index**, the Fed’s preferred inflation gauge, which can move Treasury yields and broad equity valuations.[1] The ETF also saw a small pullback tied to **profit-taking in mega-cap tech** and **geopolitical uncertainty around U.S.-Iran peace talks**, both of which can weigh on the S&P 500 because of its heavy tech concentration.[1]
-- **QQQ** (regime: `unknown`): No material ETF-specific news for **QQQ** appears in the last few days; recent information is mainly routine performance and flows data rather than new structural or regulatory developments.[1][2] The primary drivers remain **Nasdaq‑100 mega-cap tech exposure** and broader macro factors such as Fed policy and growth/AI sentiment, but there is no discrete new event singled out as materially changing QQQ’s outlook today.[1][2][3]
-- **TLT** (regime: `unknown`): No material ETF-specific news for **TLT** itself has emerged in the last few days beyond routine performance commentary and marketing content.[2][3][5]  
+- **SPY** (regime: `unknown`): SPY’s most material recent catalyst was **Friday’s record-high close**, driven by an **AI-led tech rally** and rising hopes for a **U.S.-Iran ceasefire**, which lifted the S&P 500 and Nasdaq-100 alongside the ETF.[1][3] Recent market context also shows **semiconductor and leveraged tech ETFs outperforming SPY in 2026**, while SPY itself remains up roughly **9%+ year to date**, reinforcing that megacap/AI and broader tech-sector strength are the main near-term price drivers.[4]
+- **QQQ** (regime: `unknown`): **No material news.** The only recent item in the search results is BlackRock’s filing for a competing Nasdaq-100 ETF, which is a longer-term competitive development for QQQ rather than a clear same-day price catalyst[1]. The other items are routine fund information or commentary, including QQQ’s next dividend ex-date on 6/22/2026, which is not an immediate driver today[2].
+- **TLT** (regime: `unknown`): No material ETF-specific news.  
 
-Recent moves remain driven primarily by **long-term U.S. Treasury yield volatility**, with TLT dropping earlier this week as 30-year yields rose, and by ongoing concern about the impact of higher-for-longer rates on long-duration bonds.[3]
-- **GLD** (regime: `unknown`): **GLD** is being supported by a broad gold bid: recent commentary cites **ceasefire optimism, a weaker U.S. dollar, and cooling oil prices** as factors lifting gold ETFs, while LSEG Lipper data showed **$2.34 billion of net inflows** into gold and precious-metals funds in the week ended May 20.[2] A separate gold market update also noted that **central banks kept buying gold in Q1 2026**, although **ETF gold demand was weaker**, which is a mixed signal for GLD specifically.[3]
+Recent moves in **TLT** are driven by continued volatility in long‑term US Treasury yields, with the ETF trading near the lower end of its 52‑week range as 20+ year yields remain elevated, pressuring prices.[1][2][6] No new issuer press releases or structural changes to TLT have been reported in recent days.[3]
+- **GLD** (regime: `unknown`): No material GLD-specific news.
+
+Macro drivers remain broadly supportive for gold, with physically backed gold ETFs seeing renewed **global inflows in April**, including around **US$1bn into North America**, which tends to benefit large vehicles like GLD.[2] Recent commentary highlights that **gold prices remain in an uptrend** with strong investor and central bank demand, but this is a sector-wide theme rather than GLD-specific.[1][4]
 
 ### Risk Flags
-- **No major scheduled US macro risk events** are indicated in the provided results for today or the rest of this week, aside from the recent FOMC minutes posting on the Fed site rather than a new policy meeting or decision.[4]  
-- **Equity volatility remains a background risk**, with the VIX still at **15.26** as of 5/29/2026, which is elevated enough to matter but not a crisis-level reading.[2]  
-- **Oil-driven geopolitical risk** is still a factor, as the market update flags continued volatility from **Brent near $120**, an **indefinite U.S. naval blockade of Iran**, and elevated inflation risk.[1]  
-- **Fed/inflation sensitivity remains high**, because the latest available Fed commentary in the results references **April FOMC dissents** and CPI still running above target, which can amplify market reactions if any fresh policy headlines emerge.[1][4]  
-- **No major index-constituent earnings catalysts are identified** in the provided results for today or this week, so I cannot confirm any imminent large-cap earnings-driven volatility from these sources.
+- **No major scheduled US equity risk events are clearly indicated for today** in the available results; the market note instead describes a “light schedule” even as June starts with a heavier calendar ahead.[1]  
+- **Technology earnings remain a near-term volatility risk this week**, with the market commentary explicitly pointing to a packed start to June driven by tech results and noting Dell’s late-Thursday earnings as a tailwind for the sector.[1]  
+- **US jobs data is another scheduled macro catalyst this week**, and the same market update flags jobs data as part of the early-June setup.[1]  
+- **Geopolitical risk remains elevated**, with sources citing war flare-ups, peace-talk uncertainty, and broader geopolitical flashpoints as ongoing market risk factors.[1][2]  
+- **Policy and macro risk flags remain in the background**, including stretched expectations, political risks, and sensitivity to oil/volatility moves that could amplify equity swings.[2][6]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
