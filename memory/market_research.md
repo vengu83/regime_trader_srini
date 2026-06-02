@@ -1,34 +1,33 @@
 # Market Research
-_Generated: 2026-06-01 22:26 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-02 17:03 UTC via Perplexity sonar-pro_
 
-## 2026-06-01 Pre-Market Research
+## 2026-06-02 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are **slightly lower to flat** pre-market, with June E-mini S&P futures reported at **-0.05%** in one live market snapshot. [2]
-- **Nasdaq futures** are **slightly higher** pre-market, with June E-mini Nasdaq futures reported at **+0.11%** in the same snapshot. [2]
-- **Today’s U.S. data calendar** in the provided results does **not list any scheduled releases** such as CPI, PPI, NFP, or jobless claims, so the only clearly identified macro focus is the upcoming nonfarm payrolls report mentioned by Trading Economics. [3]
-- **Fed speaker events / commentary today** are **not identified** in the provided results. 
-- **Overnight Asia and Europe** showed a **mixed-to-firm risk tone**, with Trading Economics noting U.S. futures moving modestly higher as June trading began and major indexes staying near record levels, while the result set also flags Europe-facing pressure from a sharp **crude oil rally** and higher Treasury yields. [3][2]
-- **Market context** remains supportive but uneven, as Wall Street had a strong May and investors are still focused on labor data and Fed policy implications. [3]
+- **S&P 500 futures** are indicated at **7,595.75** on CME, and **Nasdaq futures** are not shown in the provided results, so I cannot verify their current direction from these sources alone.[5]  
+- I do not have a source in the provided results for *today’s* U.S. economic calendar, so I cannot confirm whether **CPI, PPI, NFP, jobless claims, or FOMC-related releases** are scheduled today.[1][2][3][5]  
+- I do not have a source in the provided results for *today’s* Fed speaker schedule, so I cannot verify whether any **Fed commentary or events** are on the calendar today.[1][2][3][5]  
+- The only Fed-related mention in the results is that markets were looking ahead to comments from **Thomas Barkin** in an earlier market note, but that source does not establish a speaker event today.[1]  
+- The provided results show a prior session in which **Asia/Europe moves are not detailed**, while U.S. equities finished higher and June E-mini S&P futures rose **0.32%** and June E-mini Nasdaq futures rose **0.61%** in that report.[2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading near record highs after closing at about **$756** on May 29, supported by continued strength in the broader S&P 500 and a roughly **20% rally off late-March lows**.[2][3] Recent **MSCI’s largest-ever index rebalance**, which drove significant flows into major U.S. equities, and ongoing concentration in mega-cap tech/software remain key flow and sector drivers for SPY.[3]
+- **SPY** (regime: `unknown`): No material ETF-specific headlines for SPY itself appear over the past day; price action is instead being driven by broad S&P 500 index moves.[1][3] Current drivers are macro and sector-based, with ongoing strength in semiconductors versus weakness in software within tech, which can create internal rotation but not a clear single catalyst for SPY today.[2]
 - **QQQ** (regime: `unknown`): No material ETF-specific news.
 
-Macro drivers remain the main influence: QQQ is heavily tilted to large-cap U.S. tech and growth stocks, so its price today is primarily sensitive to moves in interest-rate expectations, Fed policy signals, and sector-wide tech earnings or guidance rather than any new structural or corporate actions on the fund itself.[1]
-- **TLT** (regime: `unknown`): No material ETF-specific news.
+QQQ is trading roughly flat intraday and remains in a drawdown of about 9% from its peak, reflecting continued pressure on the Nasdaq 100 complex rather than QQQ-specific developments.[2] Recent macro context includes prior Fed rate cuts in 2025 and softening U.S. labor data, but there are no new macro surprises reported today that are uniquely impacting QQQ.[1][2]
+- **TLT** (regime: `unknown`): The most material recent TLT-specific news is a **large week‑over‑week outflow in shares outstanding**, highlighted by Nasdaq/ETF Channel, indicating notable investor selling or repositioning in long-duration Treasuries.[1][4] Beyond that, moves in TLT remain primarily driven by **macro factors** (shifts in US rate-cut expectations and the long end of the Treasury curve), with no additional ETF-specific corporate events disclosed in the latest issuer data.[1][3][6]
+- **GLD** (regime: `unknown`): No material ETF-specific news for **GLD** itself appears in the very near term; recent commentary focuses on gold and gold ETFs broadly rather than GLD-specific events.[1][2]  
 
-Price action in TLT remains driven primarily by moves in long-dated U.S. Treasury yields, with the fund down sharply in recent weeks alongside a rise in 20–30 year rates, but there are no new issuer press releases or structural changes reported.[3][4] Broader macro factors around inflation and Fed policy expectations remain the key drivers, but there is no discrete headline today uniquely impacting TLT.
-- **GLD** (regime: `unknown`): **No material news.** The latest items are mostly commentary on GLD’s strong year-to-date rally and broader gold drivers—such as expectations for Fed rate cuts, a weaker dollar, and geopolitical risk—rather than ETF-specific developments or a fresh catalyst. Recent reports also note continued investor demand and large assets/inflows into GLD, which support the ongoing gold bid but do not appear to be a new today-specific headline.[2][3]
+Macro and sector-wise, **physically backed gold ETFs** saw renewed inflows in April (about **US$6.6bn** globally, including **US$1bn** from North America), which is supportive for gold prices and thus GLD.[2] Recent research from major banks (e.g., J.P. Morgan) maintains a **bullish multi‑year outlook for gold**, citing strong central bank and ETF demand, which remains a medium‑term positive driver for GLD’s price.[4]
 
 ### Risk Flags
-- **No major FOMC rate decision or CPI/PCE releases are scheduled in the first week of June; the next key U.S. CPI print is on June 10 and the next Fed decision on June 17.**[1]  
+- **May ISM Manufacturing PMI** released today at 10:00 a.m. ET, a first-tier macro data point that can move rates and equity index futures, especially if it diverges from the 52.6 consensus.[2]  
 
-- **Standard first‑week U.S. macro: May ISM Manufacturing PMI was released earlier today; May nonfarm payrolls are due Friday and can typically move rates and equities.**[2]  
+- **U.S. May nonfarm payrolls (jobs report)** due Friday, a key Fed-sensitive release that typically drives SPX/NQ, rates, and dollar volatility.[2]  
 
-- **No U.S. equity market holidays or special closures are scheduled this week; the next closure is Juneteenth (June 19).**[5]  
+- **Ongoing Middle East conflict and elevated oil prices** remain an exogenous risk for U.S. equities, with recent clashes and higher crude flagged as potential volatility catalysts.[2][5]  
 
-- **Outside of data, background geopolitical risk from the Iran war and related oil-price moves continues, but there are no single scheduled U.S. geopolitical events this week flagged as discrete catalysts.**[1][2]
+- **AI/semiconductor sector focus** (e.g., Nvidia, Marvell, Broadcom) continues to dominate index-level moves, increasing single-sector concentration risk for the S&P 500 and Nasdaq.[1][2]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
