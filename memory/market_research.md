@@ -1,37 +1,34 @@
 # Market Research
-_Generated: 2026-06-08 16:36 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-08 21:28 UTC via Perplexity sonar-pro_
 
 ## 2026-06-08 Pre-Market Research
 
 ### Macro Context
-- **U.S. equity futures:** S&P 500 futures are modestly higher pre‑market (up around 0.2–0.7% depending on feed), and Nasdaq‑100 futures are also trading higher by roughly 0.6%.【1】【3】
+- **S&P 500 futures** are modestly higher pre-market, with June S&P 500 futures up about 0.2%.[2]  
+- **Nasdaq 100 futures** are stronger, with June Nasdaq 100 futures up roughly 0.6%.[2]  
 
-- **Recent backdrop:** Friday’s U.S. session saw a sharp selloff, with the S&P 500 down about 2.6% and the Nasdaq‑100 down about 4.8%, and both June E-mini S&P and Nasdaq futures falling roughly 3–5%.【2】
+- No major Tier-1 U.S. data (CPI, PPI, NFP, FOMC decision) is scheduled for release today based on standard monthly calendars; this week’s key focus is on CPI later in the week.[5]  
 
-- **U.S. data calendar:** Major releases such as CPI, PPI, nonfarm payrolls, and an FOMC decision are not scheduled today based on standard monthly timing; only second‑tier indicators and routine weekly data are expected (no headline market-moving print listed for today in usual calendars).【2】
+- There are no widely flagged FOMC rate decisions or major Fed events today; recent commentary remains focused on stronger jobs data raising the risk of further tightening.[5][3]  
 
-- **Fed speakers:** There are no widely flagged FOMC policy decisions today, and no high‑profile Fed speeches are highlighted on standard event schedules; the market focus remains on interpreting the stronger‑than‑expected May payrolls report and its implications for future rate moves.【2】
+- In Asia, equities sold off sharply overnight, with Japan’s **Nikkei 225** down about 3.7% and Hong Kong’s **Hang Seng** also lower.[2][3]  
 
-- **Asia overnight:** Asian markets were weak, with Japan’s **Nikkei 225** down about 3.7%, while Hong Kong’s **Hang Seng** was also lower in the last full session.【1】
-
-- **Europe today:** Major European equity indices are mixed to slightly lower in early trading, taking a negative lead from Friday’s U.S. tech selloff and Asian declines, while trading in relatively orderly fashion (based on real‑time European index indications on global futures dashboards).【1】
+- In Europe, major indices are mixed to slightly weaker in early trading, following Friday’s U.S. tech-led selloff and cautious sentiment ahead of upcoming U.S. inflation data.[1][5]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading lower alongside a broad **S&P 500 selloff**, with the index down about 1% today after a sharp -2.6% decline on Friday, indicating continued risk-off sentiment in large-cap U.S. equities.[1] The move follows a stronger‑than‑expected May jobs report (172k payrolls, unemployment 4.3%), which is weighing on rate‑sensitive growth stocks and the tech‑heavy Nasdaq, down over 2% today, and is a key macro driver for SPY’s price action.[1]
-- **QQQ** (regime: `unknown`): NVIDIA-related news and options activity is the most material recent driver for **QQQ**, with Nvidia’s large buyback, dividend hike, and continued AI-led growth putting Nvidia‑heavy ETFs like QQQ in focus and contributing to recent volatility.[5] Sector‑wise, mega‑cap tech and AI‑exposed semiconductors remain the key swing factor for QQQ given its concentration in Nasdaq‑100 names, while there is no ETF‑specific structural change since its late‑2025 conversion to an open‑end fund and fee cut, which are now fully known.[2][5]
-- **TLT** (regime: `unknown`): TLT is being driven primarily by macro data: a stronger‑than‑expected recent U.S. jobs report has pushed long‑term Treasury yields higher, pressuring long-duration bond prices like TLT.[1] A recent note also highlighted a sizable week‑over‑week outflow from TLT, signaling waning demand at current rates, and commentary continues to emphasize that TLT’s very long duration makes it highly sensitive to further moves in yields.[1][2]
-- **GLD** (regime: `unknown`): GLD is trading near record levels alongside spot gold, supported by safe-haven demand, sticky inflation, and shifting Fed rate-cut expectations, which remain the dominant macro driver for the ETF.[1][2] Recent data from the World Gold Council show modest global gold ETF outflows in May, including North America, indicating that price gains have come despite net redemptions rather than strong ETF inflows.[4] GLD itself saw heavy redemptions earlier in the current geopolitical flare-up, with holdings shrinking by about 2.3% over one recent week, highlighting ongoing investor rotation even as gold prices stay elevated.[5]
+- **SPY** (regime: `unknown`): SPY is trading modestly higher alongside a broad rebound in U.S. equities, with the S&P 500 up about 1% and the Nasdaq 100 up more than 2% as buyers step back in after a recent AI-led selloff.[1][3] This move is being driven by index-wide strength rather than SPY-specific developments, with no notable structural or flow-related news reported for the ETF itself.[1]
+- **QQQ** (regime: `unknown`): No material ETF-specific news has been reported for Invesco **QQQ** itself; recent movement is being driven mainly by underlying Nasdaq-100 constituents and macro factors. QQQ is trading modestly higher with above-average volume, suggesting price action is tied to broader large-cap tech performance rather than fund-specific developments.[3]
+- **TLT** (regime: `unknown`): **TLT-specific news is limited; the most material recent driver is the stronger-than-expected U.S. jobs report, which pushed Treasury yields higher and pressured long-duration bond ETFs like TLT.** Recent coverage also notes TLT has been trading below its recent highs and that its long duration makes it especially sensitive to rate moves, while the ETF’s yield is around 4.95% on BlackRock/iShares data.[2][3][4]
+- **GLD** (regime: `unknown`): Gold-backed ETFs saw muted activity in May, with global gold ETF trading volumes down about 26% month-over-month and overall investors “largely sidelined,” which limits immediate ETF-driven flows into GLD.[2] At the same time, GLD has recently experienced heavy outflows, with holdings shrinking about 2.3% in a week to the lowest level since mid-February, marking the sharpest weekly liquidation since mid-2022, even as gold prices rallied on weaker US jobs data and heightened Middle East tensions.[4] These flows and the macro backdrop (jobs data, war risk, and related rate-cut expectations) are the most material current drivers for GLD’s price.
 
 ### Risk Flags
-- **Wednesday:** US **CPI (Consumer Price Index) release** for May, a primary inflation gauge closely watched for Fed policy implications and typically a high-volatility catalyst for US equities.
+- **FOMC meeting** scheduled this week, with the Federal Reserve’s June policy decision and press conference expected to be a key volatility catalyst for US rates and equities.[2][7]  
 
-- **Thursday:** US **PPI (Producer Price Index) release** for May, which can shift inflation expectations and interest-rate pricing, affecting equity and rate-sensitive sectors.
+- **Major US macro data** this week include key inflation prints (CPI/PPI) and labor indicators highlighted on near-term event calendars as primary market movers.[2][7]  
 
-- **Thursday–Friday:** Multiple **FOMC member speeches** on the post-meeting speaking circuit, which can move rate expectations and volatility if guidance diverges from prior messaging.
+- **Ongoing Middle East conflict (US–Israel/Iran)** and associated oil supply risks remain an elevated geopolitical overhang cited in 2026 market outlooks and risk assessments.[1][3][5]  
 
-- **This week:** Start of **pre–Q2 earnings blackout period** for many large US corporates, reducing buyback support liquidity and sometimes amplifying market moves.
-
-- **Ongoing:** Elevated **geopolitical risk** around Middle East tensions and US–China trade/tech policy remains a background volatility overhang for US risk assets.
+- **Mid‑year outlook updates** from large institutions (e.g., JPMorgan, Schwab, State Street, Fidelity) emphasize continued sensitivity of US equities to surprises in inflation, Fed policy path, and global growth data during June.[3][4][5][6]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
