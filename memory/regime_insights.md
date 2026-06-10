@@ -1,10 +1,10 @@
 # Regime Insights
 
-_Updated 2026-06-09 by End of Day Review_
+_Updated 2026-06-10 by Market Open Analysis_
 
 ## Current Regimes
 
-- **SPY**: crash | conf=46% | exposure=50% | hold_low_confidence
-- **QQQ**: crash | conf=46% | exposure=50% | hold_low_confidence
-- **TLT**: euphoria | conf=65% | exposure=60% | trim_euphoria
-- **GLD**: deep_bear | conf=61% | exposure=22% | defensive_bear
+- **SPY**: neutral | conf=74% | exposure=50% | hold_tech_filter
+- **QQQ**: crash | conf=69% | exposure=5% | defensive_crash
+- **TLT**: bear | conf=59% | exposure=50% | hold_low_confidence
+- **GLD**: deep_bear | conf=74% | exposure=22% | defensive_bear
