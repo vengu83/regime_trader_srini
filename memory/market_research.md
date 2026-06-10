@@ -1,39 +1,28 @@
 # Market Research
-_Generated: 2026-06-09 21:25 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-10 16:23 UTC via Perplexity sonar-pro_
 
-## 2026-06-09 Pre-Market Research
+## 2026-06-10 Pre-Market Research
 
 ### Macro Context
-- **US equity futures:** S&P 500 futures are modestly higher in pre-market trade, while Nasdaq 100 futures are outperforming with a stronger gain.[1][4]  
-
-- **US data calendar:** Today’s US schedule includes the weekly **initial jobless claims** and **continuing claims**, along with other routine releases such as any scheduled Fed weekly balance sheet or minor sentiment/credit data (no major CPI, PPI, NFP, or FOMC decision is on today’s calendar based on standard monthly timing).  
-
-- **Fed speakers:** No FOMC policy meeting is scheduled today, and there are no widely flagged major Fed speeches on the standard public calendar; any Fed remarks are likely to come from secondary events or interviews rather than headline speeches.  
-
-- **Asia equities overnight:** Major Asian indices (e.g., Nikkei, Hang Seng, CSI 300) traded mixed overnight, with tech-heavy markets generally firmer while some mainland China benchmarks lagged amid ongoing growth and policy concerns.  
-
-- **Europe equities pre-US:** Leading European indices such as the Stoxx Europe 600 and DAX are modestly higher in early trade, with gains led by technology and industrials while rate-sensitive sectors move more cautiously ahead of upcoming US data later in the week.
+- **S&P 500 futures** are lower pre-market, with CME showing the September E-mini down **0.22%** and other market snapshots showing June S&P futures near the **7,323–7,399** area. [5][3][4]
+- **Nasdaq futures** are also lower pre-market, with Barchart showing June E-mini Nasdaq futures down **0.22%**. [2]
+- There are **no major U.S. scheduled data releases** visible in the provided results for today such as CPI, NFP, FOMC, PPI, or weekly jobless claims. [1][2][3][5]
+- There are **no Fed speaker events or Fed commentary** identified in the provided results for today. [1][2][3][5]
+- **Asia and Europe overnight moves** are not specified in the provided results, so I cannot verify regional market performance from the available sources. [1][2][3][5]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is seeing **heavy institutional buy imbalances** in its underlying S&P 500 constituents, with a net +$1.4 billion buy imbalance and buy volume exceeding sell volume by about 1.4:1, especially concentrated in **Technology** and **Consumer Discretionary** names, which can support SPY on the day.[4] SPY is roughly flat despite this flow, last around the mid‑$730s, indicating offsetting weakness from other sectors or profit‑taking after recent gains of about **9–10% year‑to‑date**.[4][3][6]
-- **QQQ** (regime: `unknown`): No material ETF-specific news.
-
-Recent notable context is that **QQQ’s structure and fee change** from a unit investment trust to an open‑end ETF (effective Dec 22, 2025) remains in place, enabling securities lending and slightly lower expenses (0.18% vs 0.20%), but this is now fully known and not new today.[4] Macro and sector drivers are the primary influences: QQQ is trading around **$715** with slightly above-average volume, reflecting ongoing moves in large-cap growth/tech rather than any fresh QQQ-specific catalyst.[5]
-- **TLT** (regime: `unknown`): No material TLT-specific news appears in the last day; price action is mainly reacting to macro bond drivers. 
-
-Recent commentary highlights that the stronger-than-expected U.S. jobs report pushed Treasury yields higher, which is negative for long-duration bonds and thus a headwind for TLT’s price.[1] Beyond this macro move in long-dated Treasuries, there are no notable structural, flow, or ETF-specific developments reported for TLT itself.
-- **GLD** (regime: `unknown`): GLD has recently hit a **new 52‑week high**, supported by strong safe‑haven demand and a nearly 40% gain off its 52‑week low, reflecting momentum in the underlying gold market.[1] Macro drivers include elevated geopolitical and inflation risks and rising expectations of Fed rate cuts starting in September, which are supporting gold prices and, by extension, GLD.[1]
+- **SPY** (regime: `unknown`): SPY is trading roughly flat intraday amid **heavy institutional activity**, with large block trades in S&P 500 constituents showing a net positive **buy imbalance of about $1.4 billion**, particularly concentrated in **Technology and Consumer Discretionary** names, which can provide near‑term support to the ETF’s price.[2] Broader macro and sector drivers remain dominant: recent strength in large-cap U.S. equities, especially tech, has underpinned SPY’s rebound from its spring lows, while ongoing oil price softness has also been a tailwind for the index.[3][6]
+- **QQQ** (regime: `unknown`): No material ETF-specific news for Invesco QQQ appears in the last 24 hours; recent coverage is routine product information and marketing rather than price-moving events.[5][8]  
+QQQ price action is instead being driven by broader Nasdaq-100 volatility and elevated volume, with the fund trading in a wide intraday range and turnover roughly double its average, reflecting macro and sector-level tech/AI moves rather than QQQ-specific developments.[2][3]
+- **TLT** (regime: `unknown`): TLT remains driven primarily by macro bond-market factors, with no major ETF-specific structural changes or corporate actions reported. Recent moves reflect shifting Fed-rate expectations and labor data, where strong payrolls and resilient inflation have pressured long-dated Treasuries and thus TLT, while occasional weaker data have sparked short-lived rallies.[2][3]
+- **GLD** (regime: `unknown`): No material news.
 
 ### Risk Flags
-- **US May CPI release (Consumer Price Index)** scheduled for Wednesday, a key inflation print closely watched for Fed policy implications and equity volatility.[1][6]
+No major risk events scheduled.
 
-- **US May PPI release (Producer Price Index)** due Thursday, providing additional inflation data that can move rates and equity index futures.[1][6]
-
-- **U.S. Treasury auctions** this week include a 10-year note auction on Wednesday, where weak demand could push yields higher and pressure equities.[1][6]
-
-- **Upcoming FOMC meeting next week** is a looming risk flag, with this week’s CPI/PPI data likely shaping expectations for rate path and market volatility.[1]
-
-- **ECB rate decision Thursday** is a global macro event that may impact USD, rates, and indirectly US equity risk sentiment.[1]
+- No **FOMC meeting**, **Fed minutes**, or major Fed communications are on the standard calendar for this week.  
+- No top-tier **US macro releases** (CPI, PPI, PCE, payrolls, GDP, ISM) are scheduled that are typically associated with outsized equity volatility this week.  
+- No widely flagged **geopolitical event windows** (elections, referenda, major summits) tied specifically to US risk assets are on the calendar for this week.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
