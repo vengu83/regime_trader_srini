@@ -1,33 +1,38 @@
 # Market Research
-_Generated: 2026-06-11 21:51 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-12 15:47 UTC via Perplexity sonar-pro_
 
-## 2026-06-11 Pre-Market Research
+## 2026-06-12 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 and Nasdaq 100 futures are higher pre‑market**, with S&P 500 futures up about 0.4% and Nasdaq 100 futures up about 0.6% according to Markets Insider.[1]  
+- **S&P 500** and **Nasdaq 100** futures are trading modestly higher in pre‑market action, indicating a positive open for U.S. equities.[3]
 
-- **Key US data due before the open** include May **PPI** (headline and core) and **initial jobless claims** for the week ending June 6, all scheduled for release at 8:30 a.m. ET.[4]  
+- The main scheduled U.S. data releases today are **May Import/Export Prices** and the preliminary **June University of Michigan Consumer Sentiment** report, along with the regular weekly **Baker Hughes rig count**; there are no CPI, PPI, NFP, or FOMC decisions on today’s calendar.[1]
 
-- Recent coverage notes markets are focused on these inflation and labor prints ahead of the next **FOMC decision**, but there are no specific, widely flagged Fed Chair/vice‑chair speeches on today’s calendar in the retrieved sources.[4]  
+- The **Fed speakers’ calendar is light**, with no major FOMC policy speeches scheduled; only lower‑profile appearances and background events are on the docket.[1]
 
-- **Asian equity markets closed mixed overnight**, with Australia’s ASX 200 and India’s Nifty 50 higher, while Hong Kong’s Hang Seng, Japan’s Nikkei 225, South Korea’s Kospi, and China’s CSI 300 all declined.[4]  
+- In Asia, major indices (**Nikkei 225**, **Hang Seng**, **CSI 300**) closed mixed to slightly lower after a choppy session, while Australia’s **ASX 200** finished near flat.[1]
 
-- **European equities are mostly higher in early trade**, providing a modestly positive lead‑in for US markets.[4]
+- In Europe, the **Stoxx Europe 600** and major national benchmarks (**DAX**, **CAC 40**, **FTSE 100**) are trading slightly higher in early cash trading, tracking the positive tone in U.S. futures.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being driven today mainly by a broad risk-on move: Barchart reports the S&P 500/SPY up about 0.03% intraday, with gains led by a rebound in **chipmakers and AI stocks**.[1] The most recent notable catalyst before today was Thursday’s sharp rally, when the S&P 500/SPY finished up **1.75%** amid **Middle East peace hopes**, which also lifted the Dow and Nasdaq-100.[1]
+- **SPY** (regime: `unknown`): SPY is trading lower amid a broader **S&P 500 selloff tied to escalating war fears**, with recent commentary highlighting futures “deep in the red” as investors de‑risk on intensifying conflict concerns.[3]  
 
-There is no SPY-specific fund flow, holdings, or rebalancing news in the results; the near-term price action appears to be dominated by **macro/geopolitical sentiment** and **mega-cap tech/semiconductor sector strength**.[1]
-- **QQQ** (regime: `unknown`): No material ETF-specific news for QQQ itself appears in the very recent headlines. 
-
-Macro drivers today are dominated by anticipation of a key U.S. CPI inflation release and related Fed-rate expectations, plus elevated geopolitical and oil-price risks, which are broadly impacting growth and tech-heavy indices that QQQ tracks.[1][4]
-- **TLT** (regime: `unknown`): No material ETF-specific headlines, flows, or structural changes for **TLT** in the last few days that stand out as price-moving news.[2][5]  
-
-Recent moves remain primarily driven by **macro rates dynamics** (Treasury yields higher after strong payrolls, pressuring long-duration bonds) and **technical factors** (TLT recently breaking below its 50-day moving average), rather than any fund-specific developments.[1][2]
-- **GLD** (regime: `unknown`): SPDR Gold Shares (GLD) has recently hit a **new 52‑week high**, now up roughly 39% from its 52‑week low, reflecting strong momentum in gold prices.[2] Macro drivers include **heightened safe-haven demand** on geopolitical and tariff uncertainty, central bank gold buying, rising inflation expectations, and increasing market expectations for **Fed rate cuts starting in September**, all of which are supportive for gold and thus GLD.[2] No major ETF-specific structural or regulatory news has emerged beyond this performance and macro backdrop.
+ETF‑specific, State Street has announced **interim cash distribution dates** for the SPDR S&P 500 ETF Trust, with a record date of June 18 and payment date of July 31, but the distribution rate is still pending, so the direct price impact is limited.[4]  
+In addition, market focus on the **record‑size SpaceX IPO** and associated volatility in large‑cap growth/tech could influence SPY through sector moves and index‑wide risk sentiment.[1][2][5]
+- **QQQ** (regime: `unknown`): No material news.
+- **TLT** (regime: `unknown`): Trump’s public clash with the Fed, including calls for Chair Powell to resign and for the Fed board to “assume control” if he does not cut rates, has heightened **policy and rate-cut uncertainty**, adding volatility to long‑duration Treasuries held by TLT.[2] At the same time, weaker recent U.S. jobs data drove a **sharp drop in Treasury yields and a bond rally**, a direct positive driver for long‑maturity Treasuries and thus TLT’s price.[2]
+- **GLD** (regime: `unknown`): Gold’s price is being driven mainly by macro factors: continued **weak U.S. growth data** and evolving **Fed rate-cut expectations**, with recent soft jobs numbers boosting gold and supportive ETF inflows, while later hawkish Fed commentary and improved risk sentiment have triggered pullbacks.[2][3] GLD-specific flow data point to ongoing but choppy **gold ETF inflows** over the past year as investors use GLD and peers as safe-haven exposure amid geopolitical risks and shifting inflation expectations, which remains the primary ETF-level driver of price today.[2][4]
 
 ### Risk Flags
-- **No major risk events scheduled.**
+- **Preliminary University of Michigan June consumer sentiment** survey release, a closely watched gauge of U.S. consumer confidence and inflation expectations that can move rates and equities.[1]  
+
+- **FOMC meeting** begins next week, with a **Fed rate decision and updated projections** scheduled mid‑week, typically a key volatility catalyst for U.S. equity and rates markets.[1]  
+
+- **U.S. May industrial production** data release next week, an important read on real‑economy momentum that can influence cyclical and growth expectations.[1]  
+
+- **U.S. May housing starts and building permits** data next week, relevant for housing cyclicals and broader growth/inflation narratives in equities and fixed income.[1]  
+
+- **Earnings from key mid‑cap/sector bellwethers** including **CarMax (KMX), Accenture (ACN), and Kroger (KR)** next week, which can affect consumer, IT services, and staples sentiment and factor risk.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
