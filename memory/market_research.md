@@ -1,35 +1,34 @@
 # Market Research
-_Generated: 2026-06-12 21:21 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-12 22:10 UTC via Perplexity sonar-pro_
 
 ## 2026-06-12 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are roughly flat to slightly higher, while **Nasdaq 100 futures** are modestly lower in pre-market trading, indicating a mixed US equity open.[1]  
+- **S&P 500 futures are higher pre-market** and **Nasdaq futures are also higher**, with June E-mini S&P up about **1.7%** and June E-mini Nasdaq up about **3.3%** in the latest available quote data. [1][3]
 
-- The main scheduled US data releases today are the regular **weekly initial jobless claims** and **continuing claims**, along with any standard secondary releases (such as import/export prices or inventories) on the calendar; there are no major releases like CPI, PPI, or nonfarm payrolls scheduled today based on the usual monthly timetable.[Inference based on standard BLS/BEP calendar patterns]  
+- **No major scheduled U.S. economic release** such as CPI, PPI, NFP, or jobless claims is indicated in the provided results for today. 
 
-- There are no major **FOMC decisions** today; any Fed-related events are limited to scheduled **Fed speaker appearances or conferences**, with no policy meeting or minutes release on the docket.[Inference based on standard FOMC meeting schedule]  
+- **No Fed speaker or FOMC event is listed** in the provided results for today. 
 
-- In Asia, **Japan’s Nikkei 225** closed sharply higher, while **Hong Kong’s Hang Seng** finished lower, reflecting a mixed session across the region.[1]  
+- **Asia traded higher overnight**, with Japan’s Nikkei up **3.6%**, Shanghai up **1.12%**, and Hong Kong’s Hang Seng up **2%** in the cited market update. [4]
 
-- In Europe, major indices were mixed to slightly higher in the last session, with the **FTSE 100, CAC 40, AEX, and FTSE MIB** up, while the **EuroStoxx 50** futures indicator and some others like the **ATX** were modestly lower, signaling a generally cautious tone.[1]
+- **European futures were firmer**, with Euro Stoxx 50 futures around **6,043** and FTSE 100 futures around **10,342** in the latest snapshot. [2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading higher alongside the S&P 500 after a broad **stocks rally driven by hopes for a near‑term US–Iran interim peace agreement**, which is easing some geopolitical risk premia.[1] The move is broad-based across major U.S. indices, with the S&P 500, Dow, and Nasdaq all up on the day, so today’s price action in SPY is primarily a macro/geopolitical and index-wide risk-on move rather than ETF-specific news.[1]
-- **QQQ** (regime: `unknown`): Nasdaq 100–heavy **QQQ** is trading in the context of a sharp tech/AI factor move: after a nearly 5% drop driven by concerns over AI capex, geopolitics, and broader macro risk-off sentiment, the fund has rebounded with a gain of about 3.4% in the latest session.[2][6] Recent commentary highlights that QQQ’s large **technology overweight** and AI exposure remain the key drivers of its relative performance versus the S&P 500, so any shifts in AI spending expectations or macro risk sentiment are the most material near‑term price catalysts.[1][2]
-- **TLT** (regime: `unknown`): No material news. The latest items tied to TLT are routine monthly distribution commentary and general macro headlines about Treasury yields, Fed rate-cut expectations, and U.S. labor data, but I do not see a clear ETF-specific catalyst released today in the provided results.[2][6]
-- **GLD** (regime: `unknown`): GLD’s most relevant recent driver is the sharp move in **gold prices** itself: recent headlines point to gold being supported by weaker U.S. growth data and rising rate-cut expectations, while other updates note pullbacks when trade optimism or stronger risk appetite lifts the dollar and pressure gold lower.[1] Another notable macro input is Citi’s more bullish stance on gold, citing a deteriorating near-term U.S. growth and inflation outlook, which is supportive for a gold-backed ETF like GLD.[1]
+- **SPY** (regime: `unknown`): SPY is trading slightly below recent highs amid a modest pullback after a strong multi‑month rally, with recent data showing elevated volatility but no ETF-specific structural events such as splits, fee changes, or tracking issues.[1][6] The main price drivers are broad S&P 500 sentiment around inflation and growth, sector rotation after strong technology leadership, and macro uncertainty tied to Iran tensions and the highly anticipated, very large SpaceX IPO that is drawing risk appetite and media focus across equity markets.[2][3][4]
+- **QQQ** (regime: `unknown`): No material news.
+
+Recent items are mostly structural or medium-term, including a Nasdaq rule change that would allow very large IPOs such as SpaceX faster entry to the Nasdaq-100, which could eventually lead QQQ to add such names but has no immediate price impact.[3] Macro and sector drivers remain the dominant factors, with recent volatility tied to concerns about AI-related capex and geopolitical risk rather than ETF-specific developments.[2][6]
+- **TLT** (regime: `unknown`): TLT has no ETF-specific structural news, but it just declared its regular **monthly distribution of $0.3308**, maintaining its income profile.[2] The main drivers today are **macro**: long‑term U.S. Treasury yields have been moving on shifting Fed rate‑cut expectations and recent labor/inflation data, which directly impacts TLT’s long‑duration Treasury holdings and price.[2][4][5]
+- **GLD** (regime: `unknown`): No material ETF-specific news for **GLD** itself in the very recent term. 
+
+Recent price action is being driven mainly by **macro gold factors**, with spot gold trading near record highs above \$5,000/oz and large **gold ETF inflows topping roughly \$50 billion**, reflecting strong safe-haven demand and growth/monetary policy concerns that support gold-linked products such as GLD.[2]
 
 ### Risk Flags
-- **Next FOMC meeting** is scheduled for next week and is a primary macro risk focus for US equities, with options markets already pricing in event risk.[1]  
-
-- **University of Michigan Consumer Sentiment & inflation expectations (prelim June)** are due this afternoon US time and are flagged as potentially influencing Fed expectations and short-term equity volatility.[1]  
-
-- **Ongoing US–Iran negotiations** toward a possible peace framework remain a headline risk: recent optimism has lowered the VIX below 20, but the lack of a finalized deal leaves scope for abrupt volatility on adverse news.[1]  
-
-- **SpaceX IPO (largest offering in history) around mid-June 2026** is cited as a significant single-name/flows event that could affect liquidity and risk sentiment around US growth/tech equities.[6]  
-
-- No other major scheduled US data releases (e.g., CPI, nonfarm payrolls) or known mega-cap index-constituent earnings are highlighted for this week in the available calendars.
+- **Iran/US geopolitics** remain the main live risk flag for US equities this week, with market moves today tied to headlines on US-Iran talks and broader Middle East tensions. [1][2]
+- **SpaceX’s public listing** is a notable event risk in the IPO market today, with multiple market notes highlighting the debut as a major supply-and-sentiment test. [3][6]
+- **Large-cap earnings season is still active**, and stock-specific volatility is elevated around major movers like Adobe and other index-linked names after company-specific news and guidance shifts. [3]
+- **No major U.S. macro releases or FOMC decisions were identified in the provided results for today or the remainder of this week.**
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
