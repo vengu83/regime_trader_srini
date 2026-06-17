@@ -1,31 +1,29 @@
 # Market Research
-_Generated: 2026-06-16 22:03 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-17 16:13 UTC via Perplexity sonar-pro_
 
-## 2026-06-16 Pre-Market Research
+## 2026-06-17 Pre-Market Research
 
 ### Macro Context
-- **US equity futures:** S&P 500 futures are slightly lower pre‑market, down about 0.2–0.3%, while Nasdaq 100 futures are roughly flat to marginally positive around +0.01%. [3][5]  
+- **S&P 500 and Nasdaq futures** are trading lower in pre‑market, with June E‑mini S&P 500 futures down around 0.6% and June E‑mini Nasdaq futures down about 1.9% following Tuesday’s mixed cash session.[3]  
 
-- **US data calendar:** Major scheduled releases today center on the Fed’s June FOMC meeting, with the policy decision and updated projections due tomorrow; no CPI, PPI, or NFP prints are slated for release today based on standard monthly calendars.  
+- **Key US data today** include the regular weekly report on **initial jobless claims** and **continuing claims**, along with standard secondary releases such as regional Fed or housing indicators (no major CPI, PPI, NFP, or FOMC decision is scheduled today based on the current calendar).  
 
-- **Fed events:** The FOMC begins its two‑day policy meeting under Chair Kevin Warsh today, with markets focused on any changes in communication strategy and guidance on the inflation outlook. [1][2]  
+- **Fed events** feature routine appearances and background remarks, but there is no scheduled FOMC rate decision or major policy framework announcement today according to the Fed’s public calendar.  
 
-- **Asia session:** Asian equity markets traded mixed to firmer overnight, supported by the prior US rally after the US‑Iran peace agreement, while lower oil and global bond yields underpinned risk sentiment. [1][3]  
+- In **Asia**, major equity markets were mixed to weaker overnight, with technology‑heavy indices under pressure in sympathy with the prior US Nasdaq decline.[3]  
 
-- **Europe session:** European stocks traded cautiously higher in early dealings, taking their cue from Monday’s strong US close and softer yields, while investors awaited headlines from the Fed meeting and G7 discussions. [1][3]
+- In **Europe**, leading indices opened softer, tracking the negative lead from US futures and ongoing weakness in global growth and rate‑sensitive sectors.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading near record highs and futures are indicated sharply higher after reports that the war with Iran is ending, boosting risk appetite and S&P 500 exposure broadly.[3][6] Recent strength has been driven by easing geopolitical risk, expectations for a more accommodative Fed amid contained inflation, and continued leadership from large-cap U.S. equities that dominate SPY’s portfolio.[3][5][7]
-- **QQQ** (regime: `unknown`): Invesco has **opened a proxy vote to seek shareholder approval for changes to QQQ**, including a small **expense ratio cut from 0.20% to 0.18%**, while maintaining the same Nasdaq‑100 tracking mandate and management team, which is marginally supportive for flows and long‑term net returns.[1] Large‑cap tech concentration remains the dominant driver, with NVIDIA, Apple, Microsoft, and Amazon still the top weights in mid‑2026, so any outsized moves or guidance shifts in these names and the broader Nasdaq‑100 will remain the key catalysts for QQQ’s price today.[3]
-- **TLT** (regime: `unknown`): The most material drivers for **TLT** today are macro: a sharp move lower in Treasury yields after **weaker US jobs data**, followed by volatility as markets reassess the Fed’s rate‑cut path and term premium, which directly impacts long-duration Treasuries held by TLT.[3] In ETF-specific news, **iShares declared a new monthly distribution of $0.3308** for TLT, and commentary continues to highlight that long bonds have logged multi‑year negative returns, keeping focus on duration risk and potential for a reversal in long-end performance.[3][2]
-- **GLD** (regime: `unknown`): Gold is trading higher alongside a sharp rebound in the underlying gold price, driven by lower Treasury yields, a softer dollar, and easing inflation concerns following a U.S.–Iran ceasefire that reduced oil and yield pressures.[3] Analysts remain broadly constructive on gold, citing strong central-bank demand and expectations that prices could stay elevated over the next 12–24 months, which supports GLD as a physically backed gold ETF.[1][3]
+- **SPY** (regime: `unknown`): SPY is trading modestly lower after a strong run, with no ETF-specific structural changes, distribution events, or notable flows reported that would uniquely impact the fund today.[3][4] The main price drivers remain **broad S&P 500 moves**—including recent record-level strength—and **macro conditions**, such as prior Fed rate cuts and easing geopolitical risks following an interim U.S.–Iran deal that supported equities earlier in the week.[1][3]
+- **QQQ** (regime: `unknown`): **No material news.** The only clearly relevant item in the provided results is an Invesco monthly review showing QQQ’s strong April performance, heavy tech-sector overweight, and large net inflows, but it is not current enough to qualify as recent news for today’s trading. There is also a report of BlackRock filing for a new Nasdaq-100 ETF, which is competitive for the product space, but it does not appear to be a same-day price driver for QQQ itself.
+- **TLT** (regime: `unknown`): TLT is being driven primarily by **macro bond-market moves** rather than ETF-specific events today. Recent weak U.S. jobs data pushed long-term Treasury yields lower and sparked a bond rally, directly supporting long-duration ETFs like TLT.[3] At the same time, markets are repricing the Fed path after Powell downplayed near-term rate cuts and PCE inflation stayed firm, keeping yield volatility elevated and leaving TLT sensitive to further shifts in rate expectations.[3]
+- **GLD** (regime: `unknown`): Significant **outflows from GLD** were reported yesterday, with commentary highlighting that redemptions have reached historically extreme levels that in the past have often preceded gold price recoveries.[1] At the macro level, gold is trading well below its recent peak after a record rally and ongoing debate over Fed rate-cut timing and a stronger dollar, which continues to drive volatility in bullion and thus GLD.[2][4][6]
 
 ### Risk Flags
-- **Wednesday, June 17:** The main scheduled market-moving event is the **FOMC meeting**, alongside **EIA crude oil inventories** and other economic releases that can move rates and equities. [1]
-- **Thursday, June 18:** **Initial claims**, **Philadelphia Fed Index**, **Continuing claims**, and **EIA natural gas inventories** are on the calendar and could add macro volatility. [1]
-- **Geopolitics:** Market commentary flags a **possible U.S.-Iran deal / Middle East developments** as a live risk this week, with peace talks and a potential signing ceremony cited as catalysts for oil and equity volatility. [1][8]
-- **Earnings:** The earnings calendar in the source shows at least **John Wiley & Sons** reporting on Tuesday, but no major S&P 500 mega-cap earnings are highlighted in these results for today or the rest of the week. [1]
-- **Holiday risk:** **Juneteenth** is observed on **Friday, June 19**, so U.S. equity and options markets are closed that day, which can affect positioning and liquidity into the holiday. [5]
+- **U.S. equity and options markets closed Wednesday, June 19, 2026 for the Juneteenth holiday**, which can affect liquidity and volatility in the surrounding sessions.[3]
+
+No major risk events scheduled.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
