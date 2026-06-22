@@ -1,33 +1,38 @@
 # Market Research
-_Generated: 2026-06-19 21:48 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-22 17:16 UTC via Perplexity sonar-pro_
 
-## 2026-06-19 Pre-Market Research
+## 2026-06-22 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are trading higher in pre‑market, up around 1% versus yesterday’s settlement, while **Nasdaq 100 futures** are up more than 1% and implying a strong tech-led open.[1][2][4]  
-
-- The main scheduled U.S. data releases today are the regular **weekly initial jobless claims** and **continuing claims**, along with typical secondary indicators such as regional Fed manufacturing surveys and weekly EIA natural gas data (no CPI, PPI, NFP, or FOMC decision on today’s calendar, based on the standard monthly schedule).[This sentence is based on calendar regularities; specific 2026 daily calendars were not in the search results.]  
-
-- There are no major **FOMC policy meetings** or Summary of Economic Projections due today, and no high-profile Fed press conference is scheduled; any Fed commentary is likely to come from routine speaking engagements rather than major events.[This sentence is based on standard FOMC meeting cadence; no specific 2026 event listing appeared in results.]  
-
-- In **Asia**, Japan’s **Nikkei 225** closed sharply higher, up about 1.2%, while **Hong Kong’s Hang Seng** ended lower, down roughly 0.7%.[1]  
-
-- In **Europe**, major indices are modestly positive with the **FTSE 100** up about 0.7% and **Germany’s DAX** up around 0.1% in recent trading.[1]
+- **S&P 500 futures** are slightly lower in premarket trading, with Markets Insider showing S&P 500 futures down 0.19% and Barchart showing September E-mini S&P futures higher on the prior Thursday session, so the live premarket direction in the provided results is **down**.[1][2]
+- **Nasdaq futures** are also slightly lower premarket, with Markets Insider showing Nasdaq 100 futures down 0.24%.[1]
+- **No major U.S. economic release** such as CPI, NFP, PPI, or weekly jobless claims is indicated in the provided results for today, and the main scheduled macro item referenced is a **later-week PCE inflation release**.[4]
+- **No Fed speaker or FOMC event** is listed in the provided results for today.[1][4]
+- **Asia** was mixed to firmer in the overnight session, with Markets Insider showing the Nikkei up 0.28% and Hang Seng down 0.74%, while Yahoo notes broader Asian markets were up on US-Iran peace-talk progress.[1][4]
+- **Europe** was also mixed, with Markets Insider showing the FTSE 100 up 0.59% and the DAX down 0.16%.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading near record highs, supported by continued strength in mega-cap and AI-related names and a still‑bullish outlook for S&P 500 earnings, but is seeing some near-term consolidation after recent gains and profit-taking.[2][5] Macro drivers remain dominant: the latest Fed decision to hold rates while signaling “higher for longer” pressured SPY and QQQ earlier this week, and markets are now balancing that with optimism around strong corporate results and high-profile events such as the SpaceX IPO, which has boosted risk sentiment.[2][3] No major ETF-specific structural changes (e.g., index methodology, fees, or large flows) have been reported.
-- **QQQ** (regime: `unknown`): No material news.
+- **SPY** (regime: `unknown`): SPY has **no ETF-specific corporate actions** beyond a routine quarterly dividend of about **$1.90 per share paid on June 18**, which is already in the price.[1][6]  
 
-Recent information flow has focused on QQQ’s continued strong YTD and 1‑year performance versus large-growth peers and the S&P 500, but there are no notable ETF-specific events, rebalances, or structural changes reported that would uniquely affect QQQ today.[1][3][6] Broader macro drivers (Fed policy outlook, tech-sector leadership, and earnings for large-cap growth/tech) remain the primary catalysts, but these are ongoing themes rather than new discrete developments.[1][3]
-- **TLT** (regime: `unknown`): **TLT** is being driven today by a **Treasury-yield rebound**: CNBC notes a rise in the **2-year Treasury yield** after a hawkish market reaction to Kevin Warsh’s Fed-related remarks, which is generally negative for long-duration Treasury ETFs like TLT.[9] Recent TLT-specific headlines also include its **monthly distribution of $0.3308** and reports of **big ETF outflows**, but there is no clear fund-specific catalyst beyond the rates move.[4][7]
-- **GLD** (regime: `unknown`): Gold is rallying sharply, with GLD up around 3–4% intraday after recent weakness, as gold rebounds from a third consecutive weekly loss driven by a more hawkish Fed tone and associated dollar strength.[6][7] Recent reports also highlight notable GLD outflows earlier this week, which some commentators frame as a potential contrarian signal for future gold upside, adding to volatility in the ETF.[4]
+The main current drivers are **macro and index-level**: ongoing S&P 500 strength supported by tech outperformance and easing energy prices, plus improved risk sentiment linked to Iran de-escalation headlines and high-profile IPO activity (e.g., SpaceX, OpenAI), all of which feed directly into SPY’s underlying index.[1][3][4]
+- **QQQ** (regime: `unknown`): QQQ is trading ex-dividend today, with its next cash distribution having an ex-dividend date of June 22, 2026, which mechanically pressures the price lower by roughly the dividend amount on the ex-date.[3][5] In addition, BlackRock has filed for a directly competing Nasdaq-100 ETF under the ticker **IQQ**, which could be a longer-term headwind for QQQ via potential fee-driven asset migration but is unlikely to affect today’s price action materially.[2]
+- **TLT** (regime: `unknown`): The most material current driver for **TLT** is the sharp move higher in **Treasury yields** after hawkish Federal Reserve commentary and reduced market odds of near-term rate cuts, which pressures long-duration bond prices and thus TLT. Recent data show the 2‑year yield at its highest level since early 2025 and broader Treasury yields rising on firmer inflation and rate expectations, a clear headwind for long-dated Treasuries.[7][3]
+
+ETF-specific news is limited to routine items such as its latest monthly distribution declaration, with no structural changes or idiosyncratic events reported for TLT.[3]
+- **GLD** (regime: `unknown`): Gold is rallying on a sharp move higher in spot prices back above roughly $5,000/oz and strength in gold futures, which is boosting GLD and other bullion-backed ETFs.[6][7]  
+
+Macro drivers remain dominant: expectations around further Fed easing, lower real yields, and strong central-bank gold buying are sustaining heavy gold ETF inflows, with industry-wide gold ETF flows now exceeding $50 billion since late 2024 and GLD up sharply over the past year.[1][6][8]
 
 ### Risk Flags
-- **No major risk events scheduled.** U.S. equity and options markets are closed for the Juneteenth holiday, limiting scheduled catalysts and regular-session trading liquidity.[3][8]
+- **Core PCE inflation (May) release Friday** – The Fed’s preferred inflation gauge is due this week and is flagged by multiple market commentaries as the key macro risk driver for yields and equities.[2][3]  
 
-- The **next major scheduled macro event (FOMC with projections) occurred earlier this week**, and no additional Fed decisions or major data releases are on the standard calendar for the remainder of this week.[3][4]
+- **Micron Technology (MU) earnings Wednesday after close** – Large semiconductor and AI supply‑chain name with outsized index/sector impact; widely cited as a key report for the week.[5]  
 
-- **Ongoing Iran-related geopolitical tension and associated energy/oil-price risk remain a persistent, unscheduled volatility overhang** for global and U.S. markets, even without a specific dated event this week.[1][5][6]
+- **FedEx (FDX) earnings this week** – Major transport bellwether with read‑through to global trade and industrial demand; highlighted on earnings calendars as a key release.[5]  
+
+- **Carnival (CCL) earnings this week** – Large consumer discretionary and travel name, watched for signals on consumer spending and pricing power.[5]  
+
+- **Ongoing Iran–US conflict over Strait of Hormuz and prospective peace/reopening timeline** – Energy supply and shipping routes remain a geopolitical volatility overhang even as markets price an eventual normalization.[1][3][4]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
