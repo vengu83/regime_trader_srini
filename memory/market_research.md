@@ -1,34 +1,37 @@
 # Market Research
-_Generated: 2026-06-24 15:19 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-24 21:14 UTC via Perplexity sonar-pro_
 
 ## 2026-06-24 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are trading lower pre-market, with September E-mini S&P down about 1.3%–1.4%, while **Nasdaq 100 futures** are underperforming, down roughly 3%.[1][3]  
+- **S&P 500 and Nasdaq futures**: U.S. equity futures are modestly higher pre‑market, with S&P 500 E‑mini futures up about 0.1% and Nasdaq‑100 E‑minis up roughly 0.5% after recent tech-led declines.[4]
 
-- The U.S. calendar today includes **weekly initial jobless claims** and **continuing claims**, along with routine secondary releases (no major CPI, PPI, NFP, or FOMC decision scheduled today).  
+- **U.S. economic data today**: The main scheduled U.S. macro release is the **PCE inflation** report (the Fed’s preferred gauge), due Thursday; there are no major releases like CPI, NFP, or FOMC decision scheduled for today based on current calendars.[4]
 
-- No **FOMC meeting** is slated for today, but markets will watch for any unscheduled **Fed speaker remarks or interviews**, which are not on the formal calendar.  
+- **Fed speakers / events**: Market commentary is focused on prior remarks from Fed Chair Kevin Warsh about the need to fight inflation and the potential for an additional 2026 rate hike, with no new major Fed speeches highlighted for today in overnight market reports.[4]
 
-- **Asian equity markets** sold off overnight, with Japan’s Nikkei 225 down about 3.6% and Hong Kong’s Hang Seng down about 1.8%, as tech and chip names came under pressure.[1][3]  
+- **Asia session**: Asian equities traded sharply lower, with Japan’s **Nikkei 225 down about 3.6%** and Hong Kong’s **Hang Seng down about 1.8%**, reflecting ongoing pressure on high-valuation tech and growth names.[1]
 
-- In **Europe**, major indices are mixed to weaker, with Germany’s DAX down nearly 1% while the UK’s FTSE 100 is roughly flat in early trade.[1]
+- **Europe session**: European markets are mixed to lower, with Germany’s **DAX down about 1.0%** while the UK **FTSE 100 is roughly flat to slightly positive**, signaling a cautious tone ahead of U.S. data later in the week.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is seeing **significant outflows**, with about **$29.6 billion** redeemed in the week ending June 19, indicating sizable de-risking or rotation out of the ETF that could weigh on price despite relatively stable index levels.[3]  
-At the same time, flow/volume data show **institutional buy imbalances** and large volume bursts across S&P 500 constituents—especially in Technology, Industrials, and Consumer Discretionary—which could partially offset ETF-level selling and add intraday volatility for SPY.[4]
-- **QQQ** (regime: `unknown`): **No material news.** The latest ETF-specific items are routine: QQQ’s quarterly outlook notes the fund’s 2025 reconstitution, shareholder approval to modernize its structure, and the planned lower expense ratio, but these are not new catalysts for today’s trading[1][2]. Recent price action appears to be driven more by broader Nasdaq-100/megacap tech sentiment and macro factors than by any fresh QQQ-specific headline[8].
-- **TLT** (regime: `unknown`): TLT has **no ETF‑specific corporate actions or idiosyncratic events** reported today; its price is being driven mainly by moves in long‑dated U.S. Treasury yields and shifting Fed rate‑cut expectations. Recent headlines highlight weak jobs data that triggered a bond rally followed by renewed doubts about near‑term Fed cuts and a jump in yields, both directly affecting long-duration Treasuries like those held in TLT.[2][6]
-- **GLD** (regime: `unknown`): Gold is sharply higher with GLD up about 3–4% intraday, tracking a rebound in the underlying gold price after its recent pullback.[1][5] The main driver is a broad move in **gold futures** on renewed Fed rate‑cut hopes and short covering in precious metals rather than GLD‑specific headlines, though Deutsche Bank recently cut its 2026 gold forecasts on weakening ETF investor demand, highlighting ongoing sensitivity to macro and flows.[6]
+- **SPY** (regime: `unknown`): **SPY has no major ETF-specific headline today**, but recent price action has been driven by a sharp pullback in the S&P 500 after a stronger-than-expected jobs report ended the prior rally, alongside broader macro sensitivity to inflation and rate expectations.[6][8] There was also a **recent SPY distribution/ex-dividend event** around June 18, which is material mechanically for the ETF but not a fundamental catalyst for the index itself.[5][8]
+- **QQQ** (regime: `unknown`): QQQ went ex-dividend on its **Q2 2026 distribution of ~$0.81/unit on June 22**, which can pressure the price around the ex-date but is not a thesis-changing event.[4] The ETF is trading slightly below its recent 52-week high with **sub-average volume**, and there are no major QQQ-specific structural changes, sector shocks, or macro surprises reported today that would uniquely impact QQQ versus broader large-cap growth/tech.  
+
+No material news.
+- **TLT** (regime: `unknown`): Treasury yields have moved lower following weaker-than-expected U.S. nonfarm payrolls data, supporting long-duration Treasuries and thus **TLT**.[2] Recent headlines also highlight a broad bond rally on soft jobs data and falling Treasury yields, directly benefiting long-term Treasury ETFs like TLT.[3][6]
+- **GLD** (regime: `unknown`): Gold-related macro moves remain the key driver for **GLD**, with recent headlines highlighting gold’s sharp rally to record levels above $5,000/oz and very strong cumulative inflows into gold ETFs over the past year, which support elevated prices but also raise the risk of flow reversals.[5] Deutsche Bank has recently cut its 2026 gold price forecasts on the view that ETF investors are “losing their nerve,” signaling potential softening in gold-ETF demand that could weigh on GLD if outflows persist.[6] Overall, there is no GLD-specific structural event (e.g., fee change, methodology shift) reported; price action is being driven mainly by changing rate expectations, dollar strength, and evolving institutional sentiment toward gold ETFs.[1][4][7]
 
 ### Risk Flags
-- **Federal Reserve FOMC meeting** with Summary of Economic Projections is scheduled for **June 16–17, 2026**, a key macro and rates-volatility event for US equities.[2][1]  
+- **Micron (MU) earnings** are scheduled for June 24, 2026, a key datapoint for semiconductors and AI infrastructure demand.[1]  
 
-- **NVIDIA (NVDA) 2026 Annual Meeting of Stockholders** is scheduled for **June 24, 2026**, potentially relevant given its size and influence within major US equity indices.[10]  
+- **NVIDIA (NVDA) annual shareholder meeting** is scheduled for June 24, 2026, with potential headlines around AI strategy, capex, and capital returns.[1][8]  
 
-- The **Yahoo Finance calendar for June 21–27, 2026** flags multiple **IPOs and earnings reports** (including 15 IPO pricings and several earnings on June 22–23), which can contribute to sector- and index-level volatility.[9]  
+- **Russell index rebalancing** is scheduled for June 27, 2026, which typically drives elevated volume and price dislocations, especially in small‑ and mid‑caps.[1]  
 
-- Ongoing **Middle East conflict and closure of the Strait of Hormuz** remain active macro/geopolitical risk factors cited in mid‑year outlooks, with potential to drive equity and oil‑linked volatility.[1][3]
+- Ongoing **global tech selloff and elevated VIX** following the Korea-led chip rout continues to pose short-term volatility risk for U.S. equities this week.[5]  
+
+- Broader backdrop includes **options-market fragility and low index correlation**, leaving U.S. equities more vulnerable to volatility shocks if any new trigger emerges.[2]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
