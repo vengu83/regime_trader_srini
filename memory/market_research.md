@@ -1,41 +1,33 @@
 # Market Research
-_Generated: 2026-06-25 15:24 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-25 21:19 UTC via Perplexity sonar-pro_
 
 ## 2026-06-25 Pre-Market Research
 
 ### Macro Context
-- **S&P 500** and **Nasdaq 100** futures are trading higher in pre-market, with S&P 500 futures up about 0.5% and Nasdaq 100 futures up about 1.1%.[1]  
+- **S&P 500** and **Nasdaq 100** futures are trading higher in pre‑market, with S&P up roughly 0.3% and Nasdaq up about 1.1%. [1]
 
-- The main scheduled U.S. data releases today are the **weekly initial jobless claims** and **continuing claims**, along with routine weekly figures such as **EIA natural gas storage** (no major CPI/NFP/FOMC/PPI releases are on today’s standard calendar).¹  
+- The main scheduled US data release today is **Core PCE inflation** (along with headline PCE and related income/spending data), which is the Fed’s preferred inflation gauge.[2]
 
-- No major **FOMC decision** or **CPI/NFP** print is scheduled, and there are no widely flagged, market-moving **Fed events** (e.g., FOMC meeting or press conference) on today’s regular calendar; any Fed speeches would be routine appearances.¹  
+- Fed officials are expected to watch today’s PCE data closely, but there are *no major FOMC meetings* scheduled; any impact will come from previously scheduled individual Fed speaker appearances rather than a policy decision (no June FOMC today).[2]
 
-- In **Asia**, Japan’s **Nikkei 225** closed lower (about -0.9%) while Hong Kong’s **Hang Seng** finished modestly higher (about +0.3%).[1]  
+- In Asia, Japan’s **Nikkei 225** closed sharply higher (up about 4.6%) while **Hong Kong’s Hang Seng** fell around 1.4%, reflecting a strong tech-led move in Japan and weakness in Chinese-related shares.[1]
 
-- In **Europe**, major indices are mixed to slightly weaker, with Germany’s **DAX** down around 0.6% while the UK **FTSE 100** is roughly flat.[1]  
-
----
-
-¹Based on typical recurring U.S. data/Fed calendars for Thursdays; for precise timing and any added Fed speakers, traders usually confirm with an economic calendar service.
+- In Europe, major indices like the **FTSE 100** and **DAX** traded higher, each up roughly 0.8–1.0%, indicating a broadly positive tone in early European cash trading.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has **no major ETF-specific headlines** today; price action is being driven mainly by **institutional flow imbalances** and recent macro data.  
+- **SPY** (regime: `unknown`): SPY faces **no ETF-specific structural news**, but flows and macro drivers are notable. Trading volume recently hit a **2026 high**, tied to large options expiries that can amplify short‑term volatility and hedging flows in SPY.[3] Stronger‑than‑expected **U.S. retail sales** for May and prior labor data have reinforced a resilient-growth, fewer-cuts narrative for the Fed, keeping rates sensitive sectors and index-level valuations in focus for SPY’s pricing.[8][9]
+- **QQQ** (regime: `unknown`): **No material news.** The latest ETF-specific items in the search results are a March Invesco product launch expanding the QQQ “Innovation Suite” with a new equal-weight ETF, and a June Nasdaq-100 rebalance note that could affect QQQ’s underlying index composition, but neither appears to be a fresh QQQ-specific catalyst released today. [1][5]
 
-Market Chameleon reports a **net institutional sell imbalance of about -$1.6bn in S&P 500 stocks**, with selling concentrated in Technology and some offsetting buy pressure in Financials and Industrials, which could weigh on SPY intraday.[2] Recent upside surprise in **May U.S. retail sales (+0.9% m/m vs. 0.5% forecast)** supports a stronger-growth, potentially higher-rate backdrop that remains an ongoing macro driver for SPY.[8]
-- **QQQ** (regime: `unknown`): Invesco has an **active proxy proposal to lower QQQ’s expense ratio from 0.20% to 0.18% while maintaining its mandate to track the Nasdaq‑100**, which, if approved, is a modest ETF‑specific tailwind via slightly lower fees.[2] QQQ also went **ex‑dividend for its Q2 2026 distribution on June 22**, which can mechanically pressure the price around the ex‑date.[4]
-- **TLT** (regime: `unknown`): Treasury yields are moving lower after May inflation data came in as expected, supporting long‑duration Treasuries and providing a positive macro backdrop for **TLT**.[5] iShares also declared its latest **monthly distribution of $0.3308 per share**, which can influence yield metrics and income-focused demand for the ETF.[2]
-- **GLD** (regime: `unknown`): Gold has recently **jumped ~3–4%** with GLD rallying as bullion rebounded toward the \$4,000/oz area, supported by renewed ETF inflows and safe‑haven demand after a prior pullback.[2][5] At the same time, **UBS and Deutsche Bank cut their medium‑term gold price forecasts**, citing elevated real yields and softer ETF demand, which could cap upside for GLD despite its strong 12‑month performance.[1][4][7]
+On the macro side, QQQ was trading near the middle of its recent intraday range on June 25 with lighter-than-average volume, and there is no search result here showing a new earnings, policy, or sector shock large enough to stand out as a price driver today. [4]
+- **TLT** (regime: `unknown`): Treasury yields have moved lower in recent days on weaker jobs data and falling oil prices, supporting a short-term bid for long-duration Treasuries and thus TLT.[2][6] However, Fed officials and recent PCE data have reduced expectations for imminent rate cuts, keeping term premiums elevated and limiting upside for long-dated bonds.[2]
+- **GLD** (regime: `unknown`): Deutsche Bank recently **cut its 2026 gold price forecasts**, citing waning risk appetite among ETF investors, which is negative for flows into GLD and other gold funds.[5] At the same time, gold’s prior record rally has stalled as markets reassess the Fed’s rate-cut path and real yields, leaving GLD more sensitive to upcoming Fed decisions and inflation data.[1][2]
 
 ### Risk Flags
-- **Core PCE price index release (May data, US)** was scheduled for today at 8:30 a.m. ET, a key inflation input for Fed policy and potential driver of rate/valuation repricing.[9]  
-
-- **June FOMC meeting** with policy decision and Summary of Economic Projections, including the “dot plot,” was scheduled for June 16–17 and remains a key backdrop for this week’s trading as markets digest implications for rates and equities.[2]  
-
-- Options and volatility analysts continue to flag **elevated risk of “volatility spasms”** in US equities due to weak hedging and record-low stock correlations, meaning any new macro or geopolitical shock could produce outsized moves.[1][3]  
-
-- Ongoing **closure of the Strait of Hormuz and Middle East tensions** remain a macro risk flag for US equities via potential impacts on inflation, global growth, and supply chains.[3][6]  
-
-- No major US equity index is affected by a **scheduled market holiday or early close** this week; regular trading hours apply.[5][8]
+- **PCE inflation data** is the clearest scheduled US macro risk this week, with the May **Personal Consumption Expenditures** price reading due on Friday and often a market-moving input for Fed-rate expectations.[4]
+- **Micron earnings** are a near-term volatility catalyst for US equities because the company is a major index-relevant chipmaker and its results are highlighted as the next major test for the market.[4]
+- **Federal Reserve stress tests** are also due this week, which can move bank stocks and broader financials if the results alter capital-return or regulatory expectations.[4]
+- **Geopolitical risk** remains a background volatility flag, with markets still focused on Iran, oil prices, and possible disruption risk around shipping and inflation.[3]
+- **Market fragility** is elevated even without a single headline event, as options positioning and low stock correlation suggest the rally could react sharply to any trigger.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
