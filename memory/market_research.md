@@ -1,31 +1,33 @@
 # Market Research
-_Generated: 2026-06-26 21:10 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-26 21:50 UTC via Perplexity sonar-pro_
 
 ## 2026-06-26 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are trading lower pre-market, down about 0.5%, while **Nasdaq 100 futures** are down about 1.25%, indicating a weaker tech-led open.[8]  
+- **S&P 500 futures are modestly lower and Nasdaq 100 futures are underperforming, down a bit over 1% in pre-market trade, while Dow futures are roughly flat to slightly negative.**[1][6]
 
-- The main scheduled **US data release today is the May core PCE price index and related personal income/spending figures**, which markets are watching closely as the Fed’s preferred inflation gauge.[3]  
+- **Key scheduled U.S. data today center on inflation and growth already released this morning, with the latest PCE price index and a revised Q1 GDP print showing PCE at its hottest pace since October 2023 and GDP revised up to 2.1%.**[6]
 
-- Fed Chair and FOMC members have no major speeches or policy events on the public calendar today, with attention instead centered on the fresh inflation data; any unscheduled remarks would be monitored for implications on rate expectations.[3]  
+- **No major FOMC decision is scheduled today, and there are no widely flagged Fed Chair events; markets are instead reacting to the earlier macro data and this week’s inflation prints.**[3][6]
 
-- In Asia, **Japan’s Nikkei 225 fell more than 4%** amid a sharp drop in SoftBank and broader AI-linked shares, while **Hong Kong’s Hang Seng declined about 1.4%**.[1][5]  
+- **In Asia, equity moves were mixed overnight, with Japan’s Nikkei 225 sharply higher by about 4.6% while Hong Kong’s Hang Seng fell roughly 1.4%.**[1]
 
-- In Europe, major indices are modestly higher with the **FTSE 100 up about 0.8% and Germany’s DAX up about 1%**, showing resilience despite global tech weakness.[1][5]
+- **In Europe, major indices traded higher, with the FTSE 100 up about 0.8% and Germany’s DAX up around 1.0% in their latest sessions, providing a generally positive lead-in to U.S. trade.**[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most recent price-sensitive news is *macro-driven* rather than ETF-specific: markets were hit earlier in the month by renewed geopolitical stress and a jump in oil prices, which pulled SPY down about 1% on June 10 as investors worried about war risk and tighter energy supply.[5] More recently, SPY rebounded on June 25 as it shrugged off elevated inflation data, helped by falling interest rates and a decline in energy prices; J.P. Morgan also raised its year-end S&P 500 target, though it warned about a possible “flash crash” risk.[1][7]
-- **QQQ** (regime: `unknown`): No material news.
+- **SPY** (regime: `unknown`): SPY has an upcoming **interim cash distribution** with a record date of June 18, 2026 and recent ex‑dividend date (distribution rate still pending), which can mechanically pressure the ETF price around the ex‑dividend and payment dates.[6][8] Macro drivers remain supportive, with the S&P 500 trend still described as **bullish** after SPY gained about 5% over the last month and modestly outperformed the index.[10]
+- **QQQ** (regime: `unknown`): Invesco QQQ went **ex‑dividend on June 22** for its Q2 2026 distribution of **$0.813496**, which is a modest technical headwind versus pre–ex-div pricing but not a thesis-changing event.[4]  
 
-The most notable QQQ-specific item is the recent **Q2 2026 dividend**, with an ex-dividend date on June 22 and pay date on July 10, but that is already passed and is a routine event unlikely to be a fresh price driver today[4]. Broader moves in large-cap growth and Nasdaq-100 constituents, as well as ongoing focus on Fed policy and AI spending, remain the primary macro and sector drivers, but there are no new, discrete QQQ-specific developments in the latest feeds[1][3][5][7][8].
-- **TLT** (regime: `unknown`): No material news. Recent items tied to TLT are mostly routine market data and macro commentary, with the main driver being the latest inflation read and its implications for Treasury yields rather than any ETF-specific development.[1][5][7] `TLT` also showed little day-to-day movement in the recent quotes provided, suggesting no standout ETF-specific catalyst was reported in the available results.[1][6]
-- **GLD** (regime: `unknown`): No material ETF-specific news for GLD itself appears in the past couple of days. 
-
-Price action is being driven mainly by **macro gold moves** and shifting **Fed rate expectations**, with recent commentary highlighting that gold’s record rally has stalled as traders reassess the timing and depth of further Fed cuts and real-yield declines.[1][2]
+Beyond the routine dividend, there is **no material, QQQ‑specific news or index rebalancing headline today**, so price action is primarily being driven by moves in its large-cap tech/growth constituents and the broader macro backdrop (rates, AI sentiment, and growth-equity risk appetite).[1][5]
+- **TLT** (regime: `unknown`): Goldman Sachs and other strategists have highlighted a **heightened risk of a Fed rate hike as soon as July**, which is directly pressuring long-duration Treasuries and thus TLT’s price.[4] Reuters also notes **mixed Treasury yields after stronger jobs data lifted Fed hike odds**, keeping the macro backdrop for long-dated bonds volatile today.[4]
+- **GLD** (regime: `unknown`): Gold has pulled back from recent record highs above $5,000/oz, with GLD still up sharply over the past year but now trading in a consolidation phase as flows and positioning cool from peak levels.[5][1] The dominant driver remains macro: expectations for further Fed cuts versus “higher-for-longer” risks, with recent commentary flagging that sticky inflation and firmer real yields could cap upside and keep pressure on gold and GLD near term.[1][2]
 
 ### Risk Flags
-- **No major risk events scheduled.**
+No major risk events scheduled.
+
+- No **FOMC policy meeting**, **CPI**, or other top-tier US macro releases are scheduled for the remainder of this week per Schwab’s forward-looking commentary, which notes “the rest of this week lacks catalysts.”[4]  
+- The next notable calendar item is the **July 3, 2026 Independence Day (observed) market holiday**, affecting trading next week rather than this week.[9]  
+- Outside of quarter‑end rebalancing flows flagged by Schwab as a potential modest headwind, there are no specific, scheduled high‑volatility catalysts cited for US equities this week.[4]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
