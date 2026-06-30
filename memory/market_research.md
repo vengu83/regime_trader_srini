@@ -1,34 +1,37 @@
 # Market Research
-_Generated: 2026-06-30 15:12 UTC via Perplexity sonar-pro_
+_Generated: 2026-06-30 21:20 UTC via Perplexity sonar-pro_
 
 ## 2026-06-30 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are slightly higher pre-market, with E-mini Sep 26 up around 0.2%, while **Nasdaq 100 futures** are modestly higher as well.[3][8]  
+- **S&P 500 futures** are trading higher pre-market, up about 0.7%, while **Nasdaq 100 futures** are up roughly 1.8%, indicating a positive bias for U.S. equities.[6]  
 
-- The U.S. calendar today includes regular weekly **MBA mortgage applications** and typical **DOE crude oil inventories**, with no major releases like CPI, NFP, PPI, jobless claims, or an FOMC decision scheduled. *(inferred from standard U.S. data calendar patterns; explicit listings not in the provided sources)*  
+- The main scheduled **US data release** today is weekly **initial jobless claims**, with investors also watching upcoming labor market reports later in the week as referenced in recent coverage.[5]  
 
-- There are no notable **Fed speeches or FOMC events** highlighted in the provided sources for today. *(inferred due to lack of mention in searched market briefings)*  
+- No major **FOMC meeting** is scheduled today, and only routine Fed commentary is expected, with markets primarily focused on the data calendar rather than specific Fed speaker events.[5]  
 
-- **Asian equity markets** traded mixed to higher overnight, with Japan’s Nikkei 225 up about 0.2% and Hong Kong’s Hang Seng up about 1.6%.[1]  
+- **Asian markets** closed mixed to higher, with Japan’s **Nikkei 225** up about 0.15% and Hong Kong’s **Hang Seng** up about 1.6% overnight.[1]  
 
-- **Major European indices** are marginally lower in midday trading, with the FTSE 100 and DAX both down around 0.2%.[1]
+- **European markets** traded slightly lower, with the **FTSE 100** down about 0.2% and **DAX** down about 0.2% in today’s session.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SpaceX’s record-sized IPO and rising tech sector optimism are driving positive sentiment for the **S&P 500** and thus **SPY**, with index futures and top ETFs indicated higher on the back of the listing and easing Iran tensions.[3][5] At the same time, the prior sharp selloff following a strong U.S. employment report underscores ongoing macro sensitivity to labor data and rates, which remains a key driver of SPY’s price action.[6]
-- **QQQ** (regime: `unknown`): Nasdaq 100 media reports indicate the index is expected to add **SpaceX**, which would prompt **QQQ** to rebalance its holdings accordingly and could drive incremental flows and trading around the ETF near the effective date.[3] More broadly, Nasdaq‑100 ETFs including QQQ have been highlighted in recent research for continued outperformance and sensitivity to interest‑rate expectations, keeping Fed policy and tech sector moves as key macro drivers for QQQ’s price.[4][5]
-- **TLT** (regime: `unknown`): No material ETF-specific headlines have emerged for **TLT**, and issuer pages show no new product actions, methodology changes, or press releases in the past few days.[3][6]  
+- **SPY** (regime: `unknown`): SPY is currently trading near record highs amid renewed bullishness on the S&P 500, with Wall Street houses such as Citigroup recently raising their year‑end 2026 index targets above 8,000, supporting positive sentiment for the ETF.[2]  
 
-Price action is being driven mainly by **long‑duration U.S. Treasury yield moves** after recent PCE inflation data and labor releases, with some noted but not extreme ETF outflows, making macro rate expectations the primary driver of TLT today.[1][3][7]
-- **GLD** (regime: `unknown`): Gold-related ETFs, including **GLD**, have recently been driven primarily by macro factors: a sharp move in gold to around **$5,000/oz** over the prior weekend and continued heavy ETF inflows (over $50 billion since late 2024), alongside a 36% 12‑month rally in GLD tied to the Fed’s pivot to easier policy and lower real yields.[1][6] Recent commentary emphasizes that GLD’s near‑term performance is highly sensitive to the upcoming Fed path and real interest rates, with the next leg depending on whether rate cuts resume or a hawkish pause lifts real yields.[1]
+The most ETF‑specific recent development is State Street’s announcement of **2026 interim cash distribution dates**, with a record date of June 18, 2026, which can influence short‑term flows around ex‑dividend timing.[5]
+- **QQQ** (regime: `unknown`): Nasdaq-100 ETFs, including **QQQ**, continue to rally on the back of strength in large-cap tech and AI-related names, with QQQ up about 18% year-to-date and 32% over the past year, reflecting strong sector momentum that can support its price.[2][5] A notable potential index-change catalyst is talk that Nasdaq is expected to announce **SpaceX’s inclusion into the Nasdaq-100**, which would affect QQQ’s holdings and flows if confirmed.[4]
+- **TLT** (regime: `unknown`): TLT has been pressured by **surging long-term Treasury yields**, with coverage noting the ETF fell sharply as 20-year-plus government bond yields hit elevated levels and touched a low near **$84.90** earlier this week.[2][6] Recent macro data also leaned hawkish for bonds, as stronger-than-expected U.S. nonfarm payrolls and a **4.3% unemployment rate** reduced expectations for near-term rate cuts, which tends to weigh on long-duration Treasury ETFs like TLT.[1]
+
+There is no major ETF-specific corporate news in the results; price action today is being driven mainly by **rate and inflation expectations** rather than fund-level developments.[4][8]
+- **GLD** (regime: `unknown`): Gold price action remains the dominant driver for **GLD**, with recent commentary highlighting that its strong 12‑month rally (~36%) has stalled as markets reassess the path of real rates and future Fed policy.[1][2] Analysts note that ETF gold holdings have started to decline again in May–June amid expectations of tighter Fed policy, suggesting flows into physically backed products like GLD may be a headwind in the near term.[6]
 
 ### Risk Flags
-No major risk events scheduled.
+- **U.S. June nonfarm payrolls report** is scheduled for Friday, a key macro release that can move rates expectations and broad U.S. equity index futures.[4]
 
-- No **FOMC meeting** or **CPI/PCE releases** are scheduled for this week; the next key FOMC meeting on the calendar was June 16–17 and has already occurred.[3][1]  
-- The latest commentary flags **Middle East/Iran conflict** and associated **oil price/inflation risk** as ongoing structural risk factors rather than specific scheduled events this week.[1][3][6]  
-- Recent earnings and guidance volatility in large non-US names (e.g., memory/chip suppliers) and AI-related cost concerns are noted, but there is no specific US mega-cap earnings release highlighted for this week.[2][5]  
-- Schwab’s weekly outlook references a **June nonfarm payrolls** report and Nike earnings in a “short week” ahead of a Friday July 4 closure, which applies to a prior period, not the current week.[4][8]
+- The week is **holiday-shortened around the July 4th U.S. market closure**, with Schwab noting that thinner volumes can heighten intraday volatility, especially on the trading day immediately before the holiday.[4]
+
+- It is the **end of the quarter**, and major brokers flag potential “window dressing” flows by large funds, which can add choppiness and factor/sector rotation pressures in U.S. equities.[4]
+
+- Ongoing **Iran conflict de‑escalation/ceasefire talks and related oil price moves** remain a geopolitical risk flag, as shifts in energy supply expectations have recently driven both rates and sector rotations in U.S. markets.[2][4][5]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
