@@ -1,39 +1,41 @@
 # Market Research
-_Generated: 2026-07-07 21:11 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-08 14:56 UTC via Perplexity sonar-pro_
 
-## 2026-07-07 Pre-Market Research
+## 2026-07-08 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are modestly lower pre-market, with S&P 500 futures down about **0.15%**, while **Nasdaq 100 futures** are weaker, down about **0.6%**.[1]  
+- **S&P 500 futures** are trading lower pre-market, down about 0.8%, and **Nasdaq 100 futures** are also lower, down about 1.2%.[7]  
 
-- The main scheduled **US data releases** today are regular weekly reports, including **initial jobless claims** and **continuing claims**; no major CPI, PPI, NFP, or FOMC decision is on today’s calendar based on standard monthly timing.[*inference from typical US data schedule*]  
+- The main scheduled US data release today is the **weekly initial jobless claims** report, alongside typical weekly continuing claims; no major CPI, PPI, NFP, or FOMC decision is on today’s calendar based on standard monthly schedules.[3]  
 
-- There are **no FOMC meetings** scheduled today; any **Fed commentary** would be from routine speeches or interviews rather than a policy decision, with no major, widely flagged Fed event on the standard calendar.[*inference from typical FOMC schedule*]  
+- No FOMC meeting is scheduled today, and only routine Fed communications and potential regional Fed remarks are expected, with no major speech flagged in standard economic calendars.[3]  
 
-- In **Asia**, equity markets were mixed overnight, with **Japan’s Nikkei 225 down about 1.3%** while **Hong Kong’s Hang Seng gained about 1.1%**.[1]  
+- In Asia, **Japan’s Nikkei 225** closed sharply lower (around -1.3%), while **Hong Kong’s Hang Seng** gained about 1.1%.[1]  
 
-- In **Europe**, major indices are mixed, with the **FTSE 100 slightly lower (~0.3% down)**, the **CAC 40 modestly lower (~0.3% down)**, and **Germany’s DAX slightly higher (~0.2% up)**.[1]
+- In Europe, major indices are mixed, with the **FTSE 100** slightly lower (about -0.3%) and the **DAX** modestly higher (about +0.2%).[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading modestly lower amid mixed markets, with weakness in large-cap tech weighing on the S&P 500 and the ETF intraday.[7][5]  
+- **SPY** (regime: `unknown`): Trading volume in **SPY** hit its highest level of 2026 on Friday amid a major options expiry (“largest March triple‑witching in at least 30 years”), releasing substantial capital that could drive elevated swings in the ETF this week.[5] 
 
-Macro and index-level drivers remain dominant: upcoming Q2 earnings season (starting with major banks on July 14) and the July 28 Fed rate decision are key forward catalysts for SPY, alongside ongoing US‑Iran negotiations that could affect oil prices and broader risk sentiment.[3][10]
-- **QQQ** (regime: `unknown`): No material news.
+Recent moves have also been driven by macro risk from Strait of Hormuz tensions and weakness in AI and semiconductor stocks, which pressured SPY and other index ETFs earlier this week.[1][3]
+- **QQQ** (regime: `unknown`): BlackRock’s filing and launch plans for **IQQ**, a cheaper Nasdaq‑100 ETF directly competing with QQQ’s long‑standing dominance, are a material development that could pressure fees, flows, and liquidity dynamics for QQQ.[2][8] SpaceX’s announced inclusion into the **Nasdaq‑100** effective July 7 is also notable, as it may drive passive rebalancing flows and change QQQ’s underlying exposure to high‑growth, space/defense‑related tech.[4][5][8]
+- **TLT** (regime: `unknown`): No material ETF-specific corporate actions or structural changes for **TLT** have been reported in the last day. 
 
-Recent information focuses on QQQ’s historical performance and quarterly outlook through end-2025, with no new ETF-specific structural changes, flows shock, or tracking issues reported since then.[1][5][8] Broader macro drivers (Fed cuts in 2025 and ongoing AI-led growth in Nasdaq-100 constituents) are already well known and not uniquely new catalysts today.[1]
-- **TLT** (regime: `unknown`): TLT is trading lower after a sharp drop to around **$84–85**, its weakest level since late March, as long-term Treasury yields push back above 5%, pressuring long-duration bond prices.[3][5] Recent commentary highlights that a **flattening yield curve with elevated long rates** is currently the key macro driver for TLT, with no major ETF-specific corporate actions or structural changes reported.[4][6][8]
-- **GLD** (regime: `unknown`): Gold ETFs, including **GLD**, are back in focus after weaker U.S. June jobs data and a softer dollar boosted bullion, improving the macro backdrop for physically backed gold funds.[2][8] However, ETF-specific flows are mixed, with a **“big outflow”** reported in GLD week-over-week even as renewed safe-haven and macro-driven interest supports the sector.[8]
+Recent moves are being driven mainly by **macro factors in long-dated U.S. Treasuries**, with TLT having dropped sharply to the mid‑$80s alongside a selloff in 20–30 year bonds and higher long-end yields.[2][3][9]
+- **GLD** (regime: `unknown`): Gold has rebounded sharply after its worst quarter in years, with GLD up around 3–4% in the latest session, tracking the move in spot gold prices.[5] Options and futures positioning remain cautious, with some analysis suggesting recent gold weakness could persist despite the bounce.[5]
+
+Macro drivers are dominant: expectations around the Fed’s next moves on rates and real yields, as well as continued strong central bank gold buying, remain the key factors for GLD’s price path.[1][2]
 
 ### Risk Flags
-- **FOMC minutes** from the June 16–17 Fed meeting (Warsh’s first as Chair) are scheduled for release on **Wednesday**, a key potential volatility event for rates and equities.[2][3]  
+- **FOMC minutes** release scheduled, with potential impact on rates expectations and volatility in Treasuries and US equities.[2]
 
-- **PepsiCo (PEP) earnings** are due **Thursday**, a major S&P 500 consumer staples report that can impact index levels and consumer-demand sentiment.[2]  
+- **Costco (COST) June sales report** expected, a notable event given COST’s role as a major consumer/retail constituent.[9]
 
-- **Delta Air Lines (DAL) earnings** are due **Friday**, a large-cap consumer/transportation print with implications for travel demand and cyclical sectors in the S&P 500.[2]  
+- **PepsiCo (PEP) earnings** scheduled for July 9, a large-cap consumer staples bellwether within major US indices.[2]
 
-- Recent weaker **nonfarm payrolls** and still-elevated **core inflation/PCE** have markets focused on Fed reaction and rate-path uncertainty, sustaining macro event risk despite no major data release this week.[1][3][4]  
+- **Delta Air Lines (DAL) earnings** scheduled for July 10, relevant for airlines/transport and broader cyclicals sentiment.[2]
 
-- No specific CPI/FOMC decision or other top-tier U.S. data prints are scheduled for this week beyond the Fed minutes; no additional major risk events identified.
+- **July 14: June CPI release plus earnings from major financials JPM, BAC, GS, WFC, and C**, a key macro and sector cluster likely to drive index-level volatility.[2]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
