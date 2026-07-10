@@ -1,35 +1,35 @@
 # Market Research
-_Generated: 2026-07-10 15:12 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-10 20:55 UTC via Perplexity sonar-pro_
 
 ## 2026-07-10 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are modestly lower and **Nasdaq 100 futures** are also down in pre-market trading, indicating a slightly negative US equity open.[5]
+- **S&P 500 and Nasdaq futures** are modestly higher in pre-market trading, with September E-mini S&P futures up about 0.5% and Nasdaq 100 E-mini futures up about 0.4–0.5%.[5]
 
-- The main scheduled US data releases today are **weekly initial jobless claims** and **continuing claims**, alongside standard minor reports such as **wholesale inventories** and any scheduled Fed-related weekly data; there are no major CPI, PPI, NFP, or FOMC decisions on the calendar today based on current public schedules.[5]
+- The main scheduled **US economic data releases** today are routine weekly figures (e.g., jobless claims) and minor reports; there are no major releases like CPI, NFP, PPI, or an FOMC decision on the calendar.[5]
 
-- There are **no major Fed policy meetings** today, but routine appearances or remarks by regional Fed presidents are possible on the public speaking calendar, typically focused on local economic conditions rather than new policy signals.[5]
+- There are **no major Fed events** such as an FOMC meeting or scheduled high-profile speeches today; any Fed commentary is limited to routine appearances and interviews.[5]
 
-- In Asia, **Japan’s Nikkei 225** and **Hong Kong’s Hang Seng** both closed higher overnight, with gains of about 1.9% and 3.0% respectively, reflecting a positive risk tone in Asian equities.[1]
+- In **Asia**, major equity indices closed higher overnight, with Japan’s Nikkei 225 up about 1.9% and Hong Kong’s Hang Seng up about 3.0%.[1]
 
-- In Europe, major indices such as the **FTSE 100** and **DAX** are trading lower, with declines of roughly 2% intraday, pointing to weaker sentiment across European markets ahead of the US open.[1]
+- In **Europe**, key indices traded lower during their latest session, with the UK’s FTSE 100 down about 2.1% and Germany’s DAX down about 2.2%.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY** is being driven mainly by a softer risk tone: futures and broader markets were hit by **oil strength tied to Middle East tensions** and a **semiconductor-led pullback**, with rotation into healthcare, staples, and financials weighing on large-cap equities. CNBC also flagged market focus on **oil, sector rotation, and buying opportunities**, while recent SPY prints show a modest pullback over the last few sessions rather than ETF-specific flow news.[2][4][5][7]
+- **SPY** (regime: `unknown`): SPY faces **elevated trading activity and potential volatility** after its highest daily volume of 2026 coincided with a major options expiration (“triple witching”), releasing significant capital that could drive large swings in the ETF and broader index this week.[5]  
 
-There is **no clear ETF-specific corporate news** in the results; the near-term move appears more tied to **macro/geopolitical** and **sector leadership** changes than to anything specific to the fund itself.[2][4][5]
-- **QQQ** (regime: `unknown`): Nasdaq is reportedly expected to announce **SpaceX’s inclusion into the Nasdaq 100**, which would trigger a notable **index reconstitution for QQQ’s holdings and sector weights**, making this the most material ETF-specific driver for price today.[4][9] Broader tech strength and heavy flows into semiconductor ETFs referenced in QQQ-related coverage may also support QQQ given its growth/tech tilt, but these are secondary to the potential index change.[5][8]
-- **TLT** (regime: `unknown`): TLT’s most relevant recent move is macro-driven: the ETF fell as higher oil prices, renewed Middle East war-risk, and Fed minutes that showed some officials considering rate hikes pushed long-term Treasury yields higher.[4] It has also seen persistent outflows in five of the last six months through June, which adds pressure to long-duration bond funds like TLT.[4]
-
-On the ETF-specific side, TLT declared its monthly distribution, with the ex-dividend date on 7/1/2026 and payout on 7/7/2026, while the fund was trading around $84–$85 with volume close to its average.[3][2]
-- **GLD** (regime: `unknown`): Citi has recently turned **bullish on gold**, citing a weaker near-term U.S. growth and inflation outlook, which supports GLD via expectations of easier Federal Reserve policy and lower real yields.[4][1] At the same time, gold ETFs including GLD have seen renewed **inflows** after weak U.S. jobs data boosted rate-cut hopes, though this follows a period where the precious metals trade “went into reverse,” highlighting ongoing volatility in sector flows.[4][6]
+Macro drivers are **supportive but uncertain**: financial conditions have eased to their most accommodative level since February, while market participants’ expectations for higher future equity prices have risen, yet SPY has recently come under pressure amid sector rotation out of semiconductors into healthcare, staples, and financials and geopolitical-driven oil strength.[3][5]
+- **QQQ** (regime: `unknown`): SpaceX’s expected inclusion into the Nasdaq-100 following its recent IPO is the most notable ETF-specific catalyst, as it will alter QQQ’s constituent mix and may drive flows and volatility around the index reconstitution.[1][3][9] Additionally, semiconductor-heavy tech exposure remains a key driver, with sector-focused ETFs seeing strong inflows and “roaring back,” which supports QQQ given its large weighting in leading chip names.[1][4]
+- **TLT** (regime: `unknown`): **No material news.** The latest items are mostly **market-driven** rather than ETF-specific: TLT has been weak amid **higher oil prices, renewed inflation/rate-hike concerns, and Fed-minutes commentary** that kept long-duration Treasury yields under pressure.[3] Recent quote data also shows TLT trading near **$84.3–$84.6** with volume around its average, but no clear ETF-specific event stands out as a fresh catalyst today.[2]
+- **GLD** (regime: `unknown`): Citi recently turned **bullish on gold**, citing a weaker near‑term U.S. growth and inflation outlook, which supports GLD via the macro rate/inflation channel.[4] Weak U.S. jobs data has also driven a **gold price surge on increased Fed rate‑cut expectations**, directly benefitting GLD.[4]
 
 ### Risk Flags
-- **No major risk events scheduled.** The provided results do not show a confirmed FOMC meeting, CPI release, or other top-tier U.S. macro catalyst for today or the rest of this week.[1][3][5]
-- The main macro backdrop in the results is that U.S. markets just moved through a holiday-shortened week with yields still elevated and recent payroll data stronger than expected, which can keep rate-sensitive equities choppy.[1][3]
-- Broader risk flags in the results include ongoing **Middle East conflict / oil-supply disruption** concerns, which could feed higher energy prices and inflation expectations.[4][5]
-- The results also flag potential **global central-bank tightening** and higher long-term rates as an ongoing market risk, though not as a specific U.S. scheduled event this week.[5]
-- Several sources note that **July volatility/seasonality** can be elevated for equities, especially around options positioning and earnings season, but no specific index-constituent earnings dates were confirmed in the provided results.[9][10]
+- **Strait of Hormuz attacks and Middle East tensions** remain ongoing, keeping markets sensitive to any escalation that could impact oil prices and risk sentiment.[1]
+
+- **June U.S. Consumer Price Index (CPI) release on Tuesday, July 14** is a key macro event that could shift expectations for Fed policy and Treasury yields.[1]
+
+- **Congressional testimony by new Fed Chairman Kevin Warsh on Tuesday, July 14** may generate additional volatility if his comments alter the perceived policy path.[1]
+
+- **Major bank earnings on Tuesday, July 14** from JPMorgan Chase, Bank of America, Goldman Sachs, Wells Fargo, and Citigroup are potential catalysts for moves in financials and the broader indices.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
