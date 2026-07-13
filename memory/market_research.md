@@ -1,37 +1,32 @@
 # Market Research
-_Generated: 2026-07-10 21:37 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-13 15:22 UTC via Perplexity sonar-pro_
 
-## 2026-07-10 Pre-Market Research
+## 2026-07-13 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 and Nasdaq 100 futures are modestly higher in pre-market trading**, with S&P 500 futures up about 0.1–0.2% and Nasdaq 100 futures up a similar 0.1–0.2%.[1][5]
-
-- **No major US releases such as CPI, PPI, nonfarm payrolls, or an FOMC decision are scheduled today**, and only routine weekly data (e.g., jobless claims) would typically appear but no specific major release is indicated in the latest market commentary.[5]
-
-- **There are no notable Fed chair or FOMC member speeches flagged in current pre-market summaries**, and overnight futures commentary focuses more on earnings, sector moves, and geopolitics than on new Fed guidance.[5]
-
-- **Asian equity markets closed firmly higher overnight**, with Japan’s Nikkei 225 up about 1.9% and Hong Kong’s Hang Seng up about 3.0%.[1]
-
-- **Major European indices traded sharply lower during their latest session**, with the FTSE 100 down about 2.0% and Germany’s DAX down about 2.2%.[1]
+- **S&P 500 futures** are slightly lower pre-market, with ES at **7,600.00** or **-0.27%** in the latest quote available.[8]
+- **Nasdaq futures** are also lower pre-market, with the quoted Nasdaq futures level at **29,884.50** or **-0.49%**.[4]
+- I did not find any scheduled **major U.S. macro releases** for today in the provided results, so I cannot verify a CPI, NFP, FOMC, PPI, or jobless-claims print from these sources.[1][2][4][6][7][8]
+- I did not find any **Fed speaker events** or Fed commentary scheduled today in the provided results.[1][2][4][6][7][8]
+- **Overnight Asia** was firmer, with the **Nikkei 225 up 1.20%** and **Hang Seng up 0.60%** in the latest world-market snapshot.[2]
+- **Europe** was mixed/lower in the same snapshot, with the **FTSE 100 up 0.24%** and the **DAX down 0.20%**.[2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading slightly lower after recent weakness in the S&P 500 tied to a semiconductor-led pullback, sector rotation into **healthcare, staples, and financials**, and a sharp **oil price rise** following renewed geopolitical tensions with Iran.[1][2] Futures and recent sessions have been driven by **Fed policy expectations** (upcoming minutes and rate-path uncertainty) and **AI/chip jitters**, which are key macro drivers for broad index ETFs like SPY.[1][2][3]
-- **QQQ** (regime: `unknown`): The most material recent QQQ-specific driver is the **expected Nasdaq-100 reconstitution effect from SpaceX’s addition**, which could change index composition and near-term trading interest in QQQ.[3][1] In addition, QQQ has been pressured technically after **moving below its 50-day moving average on July 2**, while the broader recent tape has been led by **semiconductors/AI infrastructure**, a sector mix that matters because QQQ is heavily weighted to technology.[1][4]
+- **SPY** (regime: `unknown`): SPY is trading near record highs with modest gains, supported by continued optimism around Fed easing and a soft‑landing macro narrative, but no single ETF‑specific development stands out as uniquely material today.[2][10] Sector rotation remains a key driver, with recent weakness in semiconductors and strength in healthcare, staples, and financials influencing SPY’s internal composition, yet this appears to be an ongoing theme rather than fresh, price‑moving news.[1][8]
+- **QQQ** (regime: `unknown`): No material news.
 
-No other clearly material, ETF-specific headline stood out in the provided results.
-- **TLT** (regime: `unknown`): TLT has recently come under pressure as Fed minutes and commentary have revived the prospect of additional rate hikes, pushing long-duration Treasury yields higher and bond prices lower.[4][10] The ETF has also seen **consistent outflows in five of the six months through June 2026**, reflecting weak demand for long-dated Treasuries amid renewed inflation concerns from elevated oil prices and geopolitical tensions.[4][10]
-- **GLD** (regime: `unknown`): Gold is rebounding with a sharp **3–4% gain** as spot gold and GLD rally after a weak U.S. jobs print and growing market expectations for further Fed rate cuts, reversing part of the recent drawdown tied to higher real yields and rate-cut doubts.[1][4][9] Recent commentary highlights **record/high gold prices, continued central-bank buying, and renewed ETF inflows**, which collectively support GLD’s price and liquidity after a volatile stretch in precious metals.[1][4][6][8]
+Recent mentions of QQQ focus on its performance versus other tech ETFs and broader Nasdaq 100 developments, but there are no ETF-specific structural changes, large flows, or sector/macro shocks reported that would be uniquely material for QQQ’s price today beyond general tech and Nasdaq 100 moves.[1][5][9]
+- **TLT** (regime: `unknown`): TLT is under pressure as long-term U.S. Treasury yields have recently surged to multi‑year highs, driving the ETF to its lowest levels since mid‑2025 and early 2026.[1][8] Recent Fed minutes signaling a potential rate hike amid elevated oil prices and renewed Middle East risk have reinforced inflation concerns, leading to continued outflows from TLT in five of the six months through June 2026.[1][2]
+- **GLD** (regime: `unknown`): Gold is trading under pressure as spot prices extend their recent pullback, with GLD roughly flat to slightly lower over the past week despite a strong one‑year rally and large AUM base.[1][2][4][8] Fed policy expectations and real yields remain the dominant macro driver, with recent commentary highlighting that further rate‑cut delays or hawkish signals could cap upside and keep GLD consolidating after its ~36–38% 12‑month run.[1][2][5]
 
 ### Risk Flags
-- **No major risk events scheduled.**
+- **June CPI release and Fed Chair Warsh’s semi-annual monetary policy testimony to Congress on Tuesday, July 14**, alongside major bank earnings (JPM, BAC, GS, WFC, C), are key macro and sector risk events likely to affect US equities.[1][2]
 
-- No **FOMC meeting**, **CPI/PPI release**, or other top-tier U.S. macro data is on the standard monthly calendar for early–mid July beyond what has already printed this week.[6]
+- **Start of Q2 earnings season this week**, with large financials plus BlackRock and Morgan Stanley mid-week, creates concentrated single-stock and index volatility risk.[1]
 
-- U.S. equity **volatility measures (e.g., VIX)** are currently subdued relative to recent months, indicating no widely flagged near-term event risk from macro or policy sources.[8]
+- **June PPI and regional manufacturing data mid-week** (e.g., Empire State Index) add secondary macro risk flags, particularly for inflation and growth expectations.[1]
 
-- Some **large IPO/ADR listings** (e.g., SK Hynix ADRs) and ongoing **Middle East/Iran geopolitical negotiations** are noted as background risks for U.S. markets, but not tied to specific scheduled events this week.[3]
-
-- Routine **earnings reports** continue but none from the largest U.S. index constituents are broadly highlighted in major calendars as high-conviction volatility catalysts for this specific week.[7]
+- **Escalating U.S.–Iran conflict and tensions around the Strait of Hormuz** present ongoing geopolitical risk to energy prices and broader risk sentiment this week.[1][2][3][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
