@@ -1,37 +1,38 @@
 # Market Research
-_Generated: 2026-07-15 20:44 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-16 14:33 UTC via Perplexity sonar-pro_
 
-## 2026-07-15 Pre-Market Research
+## 2026-07-16 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are modestly higher pre-market, up about 0.2%, and **Nasdaq 100 futures** are stronger, up roughly 0.7%, indicating a positive bias.[1][6]  
+- **S&P 500 futures** are up about 0.2% in pre-market trading, while **Nasdaq 100 futures** are up around 0.7%, indicating a positive bias for U.S. equities.[5]
 
-- The main scheduled U.S. data release today is **weekly initial jobless claims**, with no CPI, PPI, NFP, or FOMC decision on the calendar based on standard monthly timing (inference from typical schedule, not directly from sources).  
+- The key scheduled U.S. data release today is **June Producer Price Index (PPI)**, with markets focused on headline and core annual rates after a mixed June CPI report.[4][8]
 
-- There are **no major Fed policy meetings** today; recent support for risk assets has come from prior comments by Fed Chair Warsh that the economy is resilient, growth solid, and the labor market broadly stable.[5]  
+- **Fed speakers** today include Richmond Fed President Thomas Barkin (2027 FOMC voter) and Cleveland Fed President Loretta Mester (2026 FOMC voter), both scheduled to give speeches in the U.S. evening.[4]
 
-- In Asia overnight, **Japan’s Nikkei 225** rose about 1.2% and **Hong Kong’s Hang Seng** gained around 0.5%, reflecting broadly positive risk sentiment.[1]  
+- In Asia, Japan’s **Nikkei 225** gained about 1.2%, while Hong Kong’s **Hang Seng** was modestly higher, reflecting a generally firmer tone in major Asian indices.[2][5]
 
-- In Europe, major indices were mixed to slightly higher earlier, with risk appetite supported by lower global yields and prior better-than-expected U.S. CPI data.[5]
+- In Europe, sentiment is cautious with recent moves in Spanish government bond yields and ongoing Middle East tensions influencing risk appetite, though broad European equity direction is mixed.[2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has no major ETF-specific headlines, but its price today is being driven by sector rotation and macro catalysts rather than idiosyncratic news.[1][9]  
+- **SPY** (regime: `unknown`): SPY is trading near record highs with a modest upward trend, supported by broadly bullish technicals and price remaining above key moving averages and its 50-day EMA.[6][9]  
+Near-term drivers are sector rotation out of semiconductors/AI into defensives and financials, profit-taking in tech following Samsung’s weaker-than-hoped Q2 read-through, and elevated oil prices tied to Strait of Hormuz/geopolitical risk.[1][8][9]
+- **QQQ** (regime: `unknown`): QQQ has been moving with **mega-cap tech and AI sentiment**, and the most relevant near-term driver is Nvidia’s earnings release, which investors are treating as a read-through for the Nasdaq-100 and the ETF’s large technology weightings.[1] Recent market coverage also points to **Nasdaq-100 options flow** that is still leaning bullish, with traders positioning for fresh highs later this month.[4]
 
-Recent moves reflect **profit-taking in technology/semiconductors and higher oil prices** after geopolitical tensions in the Strait of Hormuz, which has pressured growth sectors while supporting energy and more defensive areas.[2][11] Upcoming **Q2 earnings from major U.S. banks and the late-July Fed rate decision** are also key near-term drivers for SPY, with soft recent payroll data feeding into expectations for policy and yields.[8][9]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent move is tied to **broad tech strength**: the ETF rose about 1.3% intraday today, briefly turning modestly positive for 2026, as investors positioned ahead of **Nvidia’s earnings** after the close.[1] Recent flow and commentary also point to **ongoing demand for Nasdaq-100/AI exposure**, while market chatter highlights **concentration risk** and broader volatility in semiconductors and mega-cap tech as key drivers for QQQ’s price today.[2][4]
-- **TLT** (regime: `unknown`): TLT is trading near recent lows as long-term U.S. Treasury yields have surged to multi‑year highs, pressuring long-duration bond prices.[7][10] Recent data show CPI downside surprises and the Fed holding rates while reaffirming its 2% inflation target, keeping rate‑path uncertainty elevated and directly impacting TLT’s duration‑sensitive exposure.[7]
-- **GLD** (regime: `unknown`): GLD is near recent highs but there is **no single, ETF-specific headline** today; price action is being driven mainly by macro data and Fed expectations. June CPI came in much weaker than expected, reinforcing rate‑cut hopes and supporting gold, while options and commentary still flag risk from potential renewed Fed hawkishness and rising real yields.[9][8][11]
+On the macro/sector side, QQQ remains sensitive to **semiconductor weakness, AI-spending concerns, and broader rate/inflation expectations**, which have been cited as sources of volatility for the fund.[3][5][6]
+- **TLT** (regime: `unknown`): TLT is trading flat to slightly higher today with **no single ETF-specific headline**, but its price is being driven by shifting expectations around Fed policy and softer recent inflation data that affect long-term Treasury yields.[8][2] The Fed has recently held rates while reiterating the 2% inflation target amid weaker CPI/PPI prints, which has provided modest support to long-duration Treasuries like TLT but is partly offset by ongoing hawkish commentary that keeps future hike risk alive.[8][9][2]
+- **GLD** (regime: `unknown`): Gold is trading lower after a sharp pullback, with spot prices down over 3% in the last two sessions and GLD now about 5–6% off recent highs amid heavy ETF outflows and a break in its multi‑year gold bull run.[4][6][7][9] Macro drivers remain dominant: weaker U.S. inflation and jobs prints have boosted near‑term Fed rate‑cut expectations, but rising geopolitical tension and related oil/interest‑rate worries are shifting safe‑haven flows toward the dollar and bonds rather than gold, pressuring GLD.[4][7][10][11]
 
 ### Risk Flags
-- **Fed Chair Warsh Senate testimony** and other Fed officials’ speeches today and mid‑week, alongside the **Fed Beige Book release**, are key policy‑signal risk events for rates and equities.[1][2][6]
+- **US retail sales, weekly initial jobless claims, and other tier-1 data releases are scheduled today**, posing event-risk for growth and labor expectations.[7]
 
-- **June PPI release** (8:30 a.m. ET) today adds to inflation‑volatility after yesterday’s CPI surprise and is closely watched for implications for Fed policy and equity valuations.[1][4][6]
+- **Major S&P 500 constituents report Q2 earnings this week**, including **UnitedHealth Group (UNH), Abbott (ABT), US Bancorp (USB), Netflix (NFLX), Intuitive Surgical (ISRG), Travelers (TRV), Truist (TFC), and Fifth Third (FITB)**, which can drive index-level volatility.[3]
 
-- **Major US earnings** this week from large index constituents including **BlackRock, BNY Mellon, Morgan Stanley, Johnson & Johnson, TSM, GE Aerospace, UnitedHealth, Abbott, US Bancorp, Netflix, Intuitive Surgical, Travelers, Truist, Fifth Third** may drive sector‑specific and index‑level volatility.[1][2][6]
+- **Geopolitical tensions in the Middle East and Iran remain an ongoing risk flag for energy prices and equity volatility**, with markets still sensitive to any re-escalation.[2][5][10]
 
-- **Key US macro data** this week—**retail sales, initial jobless claims, industrial production, housing starts, building permits, Michigan consumer sentiment**—are important growth and policy‑expectation catalysts for US equities.[2][6]
+- **Macro narrative risk remains elevated as inflation, tariffs under Section 122, and Fed policy expectations dominate July**, keeping volatility sensitive to any surprise in data or policy communication.[5]
 
-- Ongoing **Middle East tensions and Iran‑related risks**, plus energy‑market volatility, remain an exogenous geopolitical risk flag for US equity markets despite some signs of containment.[3][5][8]
+- **Options and volatility markets show cooled index vol but elevated sensitivity to single-stock and tech-trade shocks**, implying potential sharp moves around earnings or sector flows.[9][8]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
