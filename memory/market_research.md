@@ -1,35 +1,37 @@
 # Market Research
-_Generated: 2026-07-20 14:39 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-20 20:55 UTC via Perplexity sonar-pro_
 
 ## 2026-07-20 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 and Nasdaq-100 futures are trading higher pre-market**, with S&P 500 futures up about 0.3% and Nasdaq-100 futures up about 0.7%.[2]
+- **S&P 500 and Nasdaq futures** are higher in pre-market trading, with S&P 500 futures up about 0.3% and Nasdaq futures up about 0.7% as tech and semiconductors rebound.[2][4]  
 
-- **No major US data releases like CPI, PPI, NFP, or FOMC decisions are scheduled today**, and regular weekly jobless claims are typically released on Thursdays, not today.[2]
+- The main scheduled US data release is the **Conference Board Leading Economic Index for June at 10:00 a.m. ET**; no major releases like CPI, PPI, NFP, or weekly jobless claims are on today’s calendar.[3]  
 
-- **No notable Fed speeches or official Fed events are flagged for today in the pre-market rundown**, with market focus instead on upcoming earnings and Middle East–driven inflation risks.[2]
+- There are **no Fed speakers or major Fed events scheduled before the upcoming July 28–29 FOMC meeting**, leaving futures to trade mainly on earnings and macro headlines.[5]  
 
-- **Asian markets were mixed overnight**, with Hong Kong’s Hang Seng up about 3% while China’s CSI 300 fell around 0.8%.[4]
+- In Asia, markets were **mixed overnight**, with Hong Kong up about 2.4%, Shanghai higher, South Korea’s Kospi down roughly 4.5%, and Japan closed for a holiday.[3][5]  
 
-- **European sentiment is described as cautious, with weakness in prior U.S. trade and geopolitical tensions weighing on the open**, though a strong Hang Seng rally offers some support to risk appetite.[3][4]
+- In Europe, the **DAX was essentially flat**, providing a neutral backdrop to the US relief rally in futures.[5]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading modestly higher pre-market, with price action driven mainly by **sector rotation out of semiconductors and into healthcare, staples, and financials**, rather than any ETF-specific catalyst.[1][7][11] A widely cited note on a potential **$90 billion liquidity drain hitting markets this week** and recent cooling inflation data are the key macro drivers, creating a mixed backdrop for broad index ETFs like SPY.[1][6][8][13]
-- **QQQ** (regime: `unknown`): Invesco QQQ has no **ETF-specific** structural news today beyond previously known items, so price action is mainly tied to options flows, tech earnings expectations, and macro developments. Recent moves have been driven by anticipation of key Nasdaq-100 earnings (notably NVIDIA), elevated options activity, and shifting sentiment around the durability of the AI-led rally.[2][5][3][10]
+- **SPY** (regime: `unknown`): SPY is trading slightly lower amid **geopolitical tensions with Iran pushing oil prices higher**, which has weighed on broad U.S. equities and energy-sensitive sectors.[6] Cooling **inflation data from the June CPI** earlier in the week remains a supportive macro driver by reinforcing expectations for a less-hawkish Fed, but ongoing **chip/tech sector weakness and rotation into defensives** are tempering upside for the ETF.[1][2][3][5][6]
+- **QQQ** (regime: `unknown`): Nvidia’s upcoming earnings are a key near‑term driver, with QQQ recently posting a sharp rise that turned its year‑to‑date performance slightly positive as investors position around the report.[2]  
 
-Options markets show **large bullish call spreads** targeting new Nasdaq-100 highs by month-end, which can influence QQQ’s short-term dynamics.[5] Macro-wise, softer recent CPI and ongoing Fed rate-cut expectations are supporting growth and tech valuations, providing a tailwind to QQQ, while concentrated exposure to AI and semiconductor names keeps the ETF sensitive to any pullbacks in that sector.[4][7][3]
-- **TLT** (regime: `unknown`): TLT has seen **large inflows recently** (roughly $500–650 million week-over-week), increasing its shares outstanding and indicating strong investor demand for long-duration Treasuries despite recent price weakness.[2][8][11]  
-
-Macro drivers remain dominant: softer recent U.S. CPI/PPI prints and weak payrolls are supporting bond prices, while ongoing Fed hawkish signals, Middle East-related oil/inflation risks, and a 30-year yield near multi-week highs continue to pressure long-duration Treasuries and thus TLT’s price.[1][3][4][7][10][11]
-- **GLD** (regime: `unknown`): GLD is seeing **continued heavy outflows (~$14B since March 1, 2026)** alongside a ~7–8% YTD drop in gold prices, highlighting persistent ETF-specific selling pressure despite prior strong 12‑month performance.[3][6] At the same time, macro drivers are mixed: central banks remain net buyers of gold, but a firm U.S. dollar and weak near‑term trend keep gold prices volatile, with GLD recently trading below earlier 52‑week highs.[2][10][11]
+Options activity has been elevated, including a recent $24 million bullish call spread targeting new Nasdaq‑100 highs by month‑end, which signals strong speculative interest in QQQ’s upside but also higher short‑term volatility.[5]
+- **TLT** (regime: `unknown`): **No material news.** The latest TLT-specific items in the results are mostly routine fund-flow and distribution updates, while the broader macro backdrop is still the main driver: recent U.S. inflation and labor data have kept rate-cut expectations in focus, and that continues to move long-duration Treasury ETFs like TLT. [2][4][6][8]
+- **GLD** (regime: `unknown`): GLD is trading higher alongside spot gold after weaker recent U.S. economic data and cooling inflation have reinforced expectations for multiple Federal Reserve rate cuts, supporting the metal as a safe-haven and interest-rate hedge.[2][4][7][12] At the ETF level, SPDR Gold Shares has seen a recent shift from large outflows to notable inflows, with holdings ticking up after a record stretch of asset withdrawals since March, which may stabilize ETF demand and liquidity.[1][3][6]
 
 ### Risk Flags
-- **FOMC** is the main scheduled macro risk next week, with the July 28–29 meeting likely to drive rate and guidance volatility for US equities.[6][8][12]
-- **Q2 earnings season** remains a key source of single-stock and sector volatility, especially for **mega-cap tech, cloud, and software names** as investors react sharply to misses and guidance.[1][5]
-- **Friday’s flash July PMI releases** and this week’s **jobless claims/leading indicators** are the main US data prints on the calendar, but this is otherwise described as a relatively light macro week.[6]
-- **Geopolitical risk** remains an active market flag, with sources highlighting the potential for renewed **Middle East/Strait of Hormuz** tensions to lift oil prices and pressure equities.[1][2][4][10]
-- **Trade/tariff policy uncertainty** is also flagged as a possible volatility driver this week, with market attention on possible Section 122 tariff developments on July 24.[1][12]
+- **Q2 earnings from major US mega-cap tech (e.g., Google, Tesla, AMD) through mid-week**, with elevated single-stock and sector volatility expected as the market reassesses AI, EV, and semiconductor earnings quality.[1][4]
+
+- **Section 122 tariff expiry/decision window around July 24**, flagged as a top risk event for US markets given uncertainty over replacement or legal challenges to existing trade tariffs.[11]
+
+- **Ongoing Middle East geopolitical risk and Iran-related tensions**, with potential for renewed disruption to energy markets and global trade routes impacting US equities via oil and inflation channels.[1][7][9][11]
+
+- **July 28–29 FOMC meeting approaching with nontrivial hike odds**, keeping rate-path and inflation expectations in focus and contributing to higher risk sensitivity in US equities this week.[1][6][8][11]
+
+- **Strait of Hormuz transit safety and ceasefire window as a wildcard**, where any setback in negotiations or shipping security could quickly reprice energy and broader risk assets.[8][11]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
