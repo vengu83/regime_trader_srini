@@ -1,37 +1,35 @@
 # Market Research
-_Generated: 2026-07-22 20:47 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-23 14:41 UTC via Perplexity sonar-pro_
 
-## 2026-07-22 Pre-Market Research
+## 2026-07-23 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 and Nasdaq futures** are trading modestly lower in pre-market activity, with September E-mini S&P futures down about 0.1% and Nasdaq futures down about 0.2–0.8% depending on contract and source.[3][8]
+- **S&P 500 and Nasdaq futures:** S&P 500 futures are down about 0.4% and Nasdaq 100 futures down about 0.45–0.5% in pre-market trading, indicating a weaker open for U.S. equities.[1][7]
 
-- **U.S. economic data**: No major releases such as CPI, PPI, nonfarm payrolls, weekly jobless claims, or an FOMC decision are scheduled for today based on available calendars; attention is mainly on earnings and oil-driven inflation repricing.[5][8]
+- **Scheduled U.S. data:** The main scheduled U.S. release today is June existing home sales, due at 10:00 a.m. ET.[2]
 
-- **Fed commentary/events**: There are no widely flagged FOMC meetings or major Fed speeches today in the sources; market focus on the Fed is tied instead to expectations ahead of the late-July FOMC meeting and shifting rate bets from higher oil prices.[5][8]
+- **Fed speakers:** Markets are focused on upcoming commentary from Fed Chair Kevin Warsh at an ECB conference in Portugal at 9:00 a.m. ET, where he is expected to discuss interest rates.[8]
 
-- **Asia markets overnight** were mixed to lower in recent sessions, with prior reports highlighting pronounced weakness in tech-heavy indices like Korea’s Kospi and Japan’s Nikkei during the ongoing global technology downturn.[10]
+- **Asia markets overnight:** Japanese equities (Nikkei 225) rose roughly 0.45–0.6%, and Hong Kong’s Hang Seng gained close to 1%, supported by strength in chip and AI-related stocks.[1][5]
 
-- **European equities** have recently seen broad weakness, with earlier sessions showing the Stoxx 600 down around 0.7% and nearly all sectors in the red amid Middle East tensions and higher energy prices.[9]
-
-- **Cross-asset backdrop**: Oil remains elevated, with Brent crude in the mid‑90s per barrel range in recent trade, contributing to inflation concerns and cautious risk sentiment in U.S. index futures.[4][5][8]
+- **Europe markets this morning:** Major European indices, including the DAX, FTSE 100, CAC 40 and Stoxx 50, are broadly higher in early trade, with gains in the roughly 0.5–1% range.[2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading near recent highs with **no single, ETF-specific catalyst**, but price action is being driven by sector rotation out of semiconductors/AI into defensives and financials following profit‑taking in global chip names and higher oil prices tied to Strait of Hormuz tensions.[1][11] Cooler‑than‑expected June CPI (3.5% vs 3.8% forecast) has supported SPY via lower‑for‑longer Fed expectations, while valuations near ~32x trailing earnings keep multiple‑compression risk in focus.[2][5][9]
-- **QQQ** (regime: `unknown`): Nvidia’s upcoming earnings are a key near-term driver, with QQQ up about 1.3% and just turning positive year-to-date as investors position around AI and mega-cap tech results.[1] Rising Treasury yields and ongoing sector rotation within AI — away from semiconductors toward cloud platforms — continue to pressure valuations and add volatility for QQQ’s growth-heavy portfolio.[3]
-- **TLT** (regime: `unknown`): TLT is trading slightly higher intraday with no ETF-specific corporate actions or structural changes reported; flows data show a recent **$509.6m primary-market inflow** and a 2.6% week-over-week increase in shares outstanding, highlighting renewed demand for long-duration Treasuries[2]. Macro drivers remain dominant: weak recent jobs data and softer inflation prints have pressured expectations for further Fed hikes, while Fed communications under Chair Warsh continue to emphasize a 2% inflation target and a hold on policy rates, keeping long-end yields—and thus TLT’s price—sensitive to incoming data[3][6][7].
-- **GLD** (regime: `unknown`): GLD is trading near record highs alongside spot gold, supported by renewed safe-haven demand amid geopolitical tensions and growing expectations of future Fed rate cuts, which are easing real-yield pressures.[7][5] At the same time, the fund has recently seen historically large outflows—about $14.4 billion between March and July—though a notable weekly inflow last week suggests some institutional dip-buying interest returning.[1] Macro focus remains on upcoming Fed decisions and U.S. data, as the market assigns meaningful odds to further tightening, keeping gold highly sensitive to rate and dollar moves.[1][7]
+- **SPY** (regime: `unknown`): No material news. The latest SPY-specific items in the provided results are mostly brief market recaps pointing to broad tech/semiconductor weakness, sector rotation, and general macro sensitivity rather than a fresh ETF-specific catalyst today.[1][3][6][8]
+- **QQQ** (regime: `unknown`): **ProShares launched the first ETF tied to 2x the Nasdaq-100 Equal Weighted Index today**, which reinforces competition and fresh attention on Nasdaq-100 exposure, even though it is not QQQ itself.[1] More directly for QQQ, the ETF has been trading with a tech-led tone as investors focus on Nvidia’s upcoming earnings and broader mega-cap AI sensitivity; recent coverage also notes valuation pressure from higher Treasury yields and intermittent semiconductor weakness, both of which can move QQQ intraday.[2][4][10]
+- **TLT** (regime: `unknown`): TLT is under pressure as long-end Treasury yields rise on renewed Middle East oil supply fears and increasingly hawkish Fed commentary, with markets now pricing the risk of a potential rate hike rather than cuts.[1][8] TLT recently slipped to a three‑month low and has logged multiple consecutive down sessions, reflecting these macro drivers and continued sensitivity to shifting rate expectations.[1][10]
+- **GLD** (regime: `unknown`): GLD is trading near recent highs on renewed **safe-haven demand** and expectations for future Fed **rate cuts**, but it is also seeing **record outflows** from the ETF despite a small inflow last week.[1][6] Recent data showing stubborn inflation and a higher implied probability of a Fed **rate hike** in September, along with elevated Treasury yields, are key macro drivers that could pressure gold and GLD’s price today.[1][6]
 
 ### Risk Flags
-- **Iran conflict / energy risk:** Ongoing US–Iran military conflict in the Strait of Hormuz continues to drive higher oil and gold prices and is a core volatility framework for equities in the coming weeks.[2][13]
+- **Q2 earnings from major tech index constituents (e.g., Alphabet, Tesla)** are releasing this week, with early results already increasing volatility around AI spending, valuations, and sector rotation.[3][5][7][12]
 
-- **Mega-cap tech earnings:** Q2 2026 earnings from major index constituents including Alphabet (GOOGL) and Intel (INTC) are scheduled around July 22–23 and flagged as key potential market-moving events.[1][3][7]
+- **Escalating Middle East tensions and Iran/Red Sea/Hormuz shipping risks** are driving higher oil prices and acting as an ongoing macro risk flag for US equities.[2][5][9][11]
 
-- **Upcoming FOMC meeting:** The next Federal Reserve **FOMC** interest rate decision is scheduled for July 28–29, 2026, with rising hike odds cited as a key risk for equity valuations.[1][13]
+- **Next FOMC meeting on July 28–29** is the key upcoming macro catalyst, with rate-hike probabilities and positioning already influencing equity volatility this week.[6][7][8][10]
 
-- **Section 122 tariff event:** Expiry or potential replacement/legal challenge of US **Section 122 tariffs** on July 24, 2026, is identified as a top risk event for markets.[13]
+- **Options and volatility metrics show elevated tech-sector vol and negative gamma in SPY**, implying amplified equity moves around any earnings or macro headlines.[4][7][10]
 
-- **IPO and volatility backdrop:** Large upcoming IPOs (e.g., SpaceX, Anthropic, OpenAI) and a VIX level sustained above 20 are highlighted as adding to equity market volatility risk in the current environment.[14]
+- **No major CPI or core US economic data releases are scheduled for this week ahead of the FOMC**, leaving earnings and geopolitical developments as the primary volatility drivers.[7][9]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
