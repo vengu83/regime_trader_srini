@@ -1,6 +1,6 @@
 # Regime Insights
 
-_Updated 2026-07-28 by End of Day Review_
+_Updated 2026-07-29 by Market Open Analysis_
 
 ## Current Regimes
 
