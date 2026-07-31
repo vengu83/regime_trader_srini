@@ -1,36 +1,37 @@
 # Market Research
-_Generated: 2026-07-31 20:48 UTC via Perplexity sonar-pro_
+_Generated: 2026-07-31 21:42 UTC via Perplexity sonar-pro_
 
 ## 2026-07-31 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are higher pre-market, with one source showing **+0.46%** and another showing the E-mini contract around **7,499.00**, up **26.50 points (+0.35%)**.[4][6]
-- **Nasdaq futures** are also higher pre-market, with one source showing **+1.21%**.[4]
-- There are **no major U.S. macro releases today** in the provided sources, and none of the listed market previews mention CPI, NFP, PPI, or jobless claims due today.[4][10][14]
-- **Fed speakers / FOMC events today** are not listed in the provided sources, so I cannot confirm any scheduled Fed commentary from them.[4][10][14]
-- **Asia was firmer overnight**, with Bloomberg’s futures board showing **ASX 200** up on the session and broader futures sentiment mixed-to-positive across equity benchmarks.[8]
-- **Europe was also broadly constructive** in the pre-market tape, as U.S. index futures were trading green alongside the global risk tone captured in the market previews.[4][14]
+- **S&P 500 futures** are modestly higher pre‑market, up around 0.35–0.5%, and **Nasdaq 100 futures** are stronger, up roughly 1.2%.[1][5][6]  
+
+- The main scheduled U.S. data release today is **employment cost index (ECI)** and related wage/inflation indicators in the morning, with no CPI, PPI, or FOMC decision on the calendar.[6]  
+
+- There are **no major Fed policy meetings** today; Fed activity is limited to routine appearances, with no scheduled FOMC statement or press conference.[6]  
+
+- **Asian markets** closed higher overnight, with gains across major benchmarks such as Japan and Australia, reflecting positive sentiment following stronger U.S. futures.[6]  
+
+- **European equities** are trading higher in early action, with broad-based gains in core indices as investors follow the U.S. futures move up.[6]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY** appears to have been driven recently by a mix of **mega-cap tech/semiconductor weakness** and broader **macro sensitivity**. Market coverage in late July cited options traders bracing for larger swings in Apple, Meta, and Microsoft, while earlier July moves showed SPY slipping when tech and AI-related names sold off and oil rose on geopolitical concerns.[2][9][11]
+- **SPY** (regime: `unknown`): **SPY** appears to have **no single ETF-specific headline** dominating today; the most relevant recent driver is broader market positioning after the Fed left rates unchanged, with investors still parsing how long policy stays restrictive.[8][10] Near-term price action is being influenced more by **mega-cap tech/AI sentiment** and **sector rotation** than by SPY-specific fund news, while the ETF is also trading close to its recent highs and around its latest dividend/ex-dividend timing.[2][8][15]
+- **QQQ** (regime: `unknown`): BlackRock’s launch of a **cheaper Nasdaq-100 ETF (IQQ)** this week increases competitive pressure on QQQ and could weigh on future flows and fee-driven valuations[1][4][7]. At the same time, **Nasdaq-100 sector volatility around mega-cap tech and AI names (e.g., Nvidia, Microsoft, Apple, SpaceX addition)** remains the primary macro/sector driver of QQQ’s price, with recent sharp swings tied to semiconductor and AI sentiment[3][5][8][9][16].
+- **TLT** (regime: `unknown`): TLT is under pressure as long-dated Treasury yields surge, with the ETF **falling below $82 for the first time since 2004** following the Fed’s decision to hold rates steady but amid heightened expectations of future hikes.[7] A recent article also highlighted persistent **outflows in five of the six months through June 2026** and a multi-session price slide tied to hawkish Fed commentary and renewed Middle East risks boosting inflation and rate concerns.[1]
+- **GLD** (regime: `unknown`): Gold ETFs including **GLD** are rallying on **weaker-than-expected U.S. payrolls data**, which has pushed the dollar and Treasury yields lower and strengthened expectations for Fed rate cuts, directly boosting demand for non-yielding assets like gold and lifting GLD in recent sessions.[1][6][11][17]  
 
-On the macro side, SPY had previously rallied on **cooler-than-expected inflation and weak labor data**, which eased Fed-hike fears and supported risk assets; as of the latest available coverage, SPY was also trading near record highs, so valuation and concentration risk remain in focus.[7][8][4]
-- **QQQ** (regime: `unknown`): Invesco QQQ remains heavily driven by **tech and semiconductor volatility**, with recent weakness tied to an AI/semiconductor selloff and macro risk-off flows after renewed Middle East tensions, which pressured QQQ about 1.5% in premarket trading earlier this month[12][4]. Competitive pressure is rising as **BlackRock and State Street have launched rival Nasdaq‑100 ETFs**, while QQQ’s earlier restructuring into an open‑ended ETF and small fee cut are ongoing structural factors for flows and pricing[9][6][15].
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the sharp rise in long-end U.S. Treasury yields after the Fed held rates steady, with July 31 coverage saying TLT fell below **$82** for the first time since 2004 as yields surged.[7] Broader macro pressure is also in play: recent reporting tied the selloff to hawkish Fed minutes, renewed inflation concerns from elevated oil prices and Middle East risk, and a jump in the 10-year Treasury yield to **4.62%** earlier in the month.[1][4]
-- **GLD** (regime: `unknown`): Gold ETFs including **GLD** are trading higher on the back of **weaker U.S. jobs data**, which has boosted expectations for a more dovish Fed, pressured the dollar and Treasury yields, and lifted spot gold prices.[2][4][16]  
-
-Sector-wide flows remain supportive, with gold ETF trading activity up sharply month over month and continued central bank gold buying and ETF inflows cited as drivers of elevated prices, though recent research (e.g., Bank of America) flags potential for near-term corrections in GLD.[1][5][12]
+Additionally, recent sell-side commentary (e.g., Bank of America and Citi) highlights elevated gold prices supported by **geopolitical tensions, strong central bank buying, and continued ETF inflows**, while also warning of potential short-term corrections in GLD, which may influence positioning and volatility in the ETF today.[4][12][14]
 
 ### Risk Flags
-- **July FOMC meeting and rate decision/press conference** occurred midweek and continues to drive repricing of US rates and equity risk, with a “hawkish hold” and mixed communication flagged as a volatility catalyst.[8][11][13]
+- **Monthly U.S. nonfarm payrolls report (July jobs data)** is scheduled for Friday, August 7, and is flagged as a key potential volatility driver for U.S. equities.[6]
 
-- **Megacap tech earnings cluster** this week (Microsoft, Meta, Apple, Amazon, major semis) is a primary driver of Nasdaq and S&P 500 volatility given elevated tech-sector vol and AI capex concerns.[7][8][11][13]
+- **Heavy U.S. earnings slate from major companies including Eli Lilly and Advanced Micro Devices** in the coming week is expected to be a significant risk event for index-level moves.[6]
 
-- **Month‑end rebalancing flows** around the July 31 close are highlighted as a potential source of short‑term dislocation in US equity indexes and sector allocations.[11]
+- **First quarterly earnings report for SpaceX** early next week is highlighted as a potential broader risk sentiment catalyst given its recent high-profile IPO and volatility.[6]
 
-- **Middle East / U.S.–Iran war developments and energy‑price risk** remain an ongoing geopolitical volatility flag, with recent hostilities and tariff/geopolitical shocks cited as key overhangs.[4][8][16]
+- **Ongoing U.S.-Iran war and Middle East tensions** remain an active geopolitical risk flag that has been contributing to elevated volatility and could continue to impact U.S. equity markets.[3][6]
 
-- **Upcoming July U.S. employment report (Aug 7) and related labor‑market data** are identified as the next major macro risk event, with potential to shift equity focus from inflation to recession concerns.[6][8]
+- **Recent Federal Reserve “hawkish hold” decision** this week left policy outlook uncertain, increasing sensitivity to upcoming data and communications and sustaining a higher-volatility backdrop for U.S. equities.[1][6][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
