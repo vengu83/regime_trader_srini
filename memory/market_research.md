@@ -1,37 +1,31 @@
 # Market Research
-_Generated: 2026-08-05 14:55 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-05 20:47 UTC via Perplexity sonar-pro_
 
 ## 2026-08-05 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are trading modestly higher in pre-market, up around 0.3–0.5%, while **Nasdaq 100 futures** are also slightly positive, up about 0.1–0.3%.[2][8][10]  
+- **U.S. equity futures**: S&P 500 and Nasdaq 100 futures are modestly higher in pre-market trading, with S&P 500 futures up roughly 0.4% and Nasdaq 100 futures up about 0.2–0.3%.[6][7][9]  
 
-- The main scheduled US data release today is **ISM Services PMI at 10:00 AM ET**, which is being flagged as the primary macro event for the session.[1][10]  
+- **Key U.S. data today**: The main scheduled release is **ISM Services PMI** at 10:00 a.m. ET, flagged as today’s primary macro risk event for markets.[1]  
 
-- Fed-related calendars and briefs this morning highlight data and earnings but do **not** flag any major FOMC decision or widely watched Fed chair speech today; any Fed commentary is expected to come from routine remarks rather than headline events.[1][10]  
+- **Fed speakers/commentary**: No major FOMC decision or widely reported Fed speeches are on today’s public docket in the pre-market news flow; focus remains on data and geopolitical headlines rather than new Fed commentary.[6][8]  
 
-- **Asian markets** traded strongly overnight, with **Nikkei 225 and KOSPI each up more than 3% and Hang Seng up around 1.6%,** reflecting broad risk-on sentiment.[10]  
+- **Asia overnight**: Asian equities traded strongly, with **Nikkei 225 and KOSPI up more than 3% and Hang Seng up around 1.6%**, signaling broad risk-on sentiment.[9]  
 
-- **European futures** are firmer, with **DAX futures up around 0.7%,** indicating a positive tone in early European trading.[10]
+- **Europe session**: European markets are higher, with **DAX futures up about 0.7%** and broader European equities firmer, while U.S. futures edge up alongside subdued dollar and firmer gold.[6][9]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): No material ETF-specific news, but macro and sector drivers are modestly supportive. 
-
-SPY is trading just below record highs with strong recent momentum, aided by solid July U.S. manufacturing PMI data (53.9) that reinforce a backdrop of moderate economic expansion and ongoing expectations for a smaller-than-previously-hoped Fed rate cut next month.[1][6] Geopolitical developments around a US–Iran framework agreement and easing tariff tensions with Mexico are supporting broad risk sentiment, which in turn underpins SPY as a proxy for U.S. equities.[2][3][14]
-- **QQQ** (regime: `unknown`): SpaceX’s recent **fast-track inclusion into the Nasdaq-100** has modestly altered QQQ’s holdings (about a 1% weight) and is driving incremental passive flows and headline-driven interest in the ETF, though the impact on fundamentals is limited[5][10][13]. At the same time, QQQ has seen **strong inflows (~$5B in one day)** and a sharp rebound tied to resilient tech/AI earnings and a recent Fed rate cut, which are currently key macro and sector drivers for its price[1][6][16].
-- **TLT** (regime: `unknown`): TLT has been pressured by a sharp selloff in long-dated Treasuries, with 30-year U.S. yields jumping to about 5.26% and the ETF’s price breaking below key support around $83.3 amid heavy outflows. [1] The latest headlines also point to continued macro pressure from sticky inflation and bond-market concerns, which have pushed TLT to multi-decade lows and kept the fund under broad technical and flow-driven pressure. [1][6]
-
-The only ETF-specific event in the recent flow is its **monthly distribution** and ex-dividend timing, but that is likely a smaller driver than the move in Treasury yields today. [3][7]
-- **GLD** (regime: `unknown`): Gold’s main driver today is **macro and sector-wide**: gold just logged its **worst monthly drop since 2008**, hit by a stronger dollar and renewed Fed rate‑hike fears, but is rebounding as weaker U.S. jobs data cools rate expectations and pushes Treasury yields and the dollar lower, supporting bullion and GLD.[5][17]  
-
-ETF‑specific flows are a secondary positive: GLD has recently seen **notable inflows and AUM above $100B**, with gold ETFs overall reporting a pickup in trading activity and continued central‑bank buying, which underpins demand for GLD despite recent volatility.[7][18][13]
+- **SPY** (regime: `unknown`): SPY’s most material recent driver is **macro/geopolitical sentiment** rather than ETF-specific flow news: Monday–Tuesday premarket reports said SPY was higher on easing Middle East risk, first on **US-Iran truce hopes** and then on **Strait of Hormuz reopening hopes**, which can lift broad U.S. equity risk appetite.[1][9] More recently, market commentary said SPY has also been pressured at times by **higher oil, chip weakness, and Fed-rate expectations**, while strong U.S. labor data and other “goldilocks” macro releases have been supportive for the index.[6][10][14]
+- **QQQ** (regime: `unknown`): Invesco QQQ is seeing **material ETF-specific flows**, with roughly **$5 billion of net inflows into QQQ in a single day**, reflecting renewed demand for large-cap growth and Nasdaq-100 exposure amid a style rotation toward tech.[2] QQQ has also recently posted a **sharp price rise that turned its year-to-date performance slightly positive**, helped by strong tech earnings and anticipation around upcoming Nvidia results, which are key for its heavyweight constituents.[3][9]
+- **TLT** (regime: `unknown`): **TLT is being pressured by a sharp selloff in long-duration Treasuries, with the 30-year U.S. yield jumping to around 5.26% and the 10-year to about 4.75% after the Fed left rates unchanged, keeping long-bond prices under pressure today.** [1][6] Recent coverage also flags **heavy TLT outflows** and a break below key technical support around **$83.3**, which reinforces the bearish setup for the ETF. [1]
+- **GLD** (regime: `unknown`): Gold futures are trading lower after markets digested the latest Fed decision, pressuring GLD alongside a modest pullback in bullion prices.[20][16] Recent flows remain supportive, with GLD singled out for strong ETF inflows and asset growth as investors rotate into gold on weaker U.S. jobs data and reduced rate‑hike expectations.[8][19]
 
 ### Risk Flags
-- **No major U.S. macro policy meeting is scheduled today** in the provided results; the Fed’s next decision is later, so there is no FOMC catalyst in the immediate 24-hour window.[16][10]
-- **Today’s key U.S. data risk is ISM Services** at 14:00 UTC, which can move Treasury yields, the dollar, and U.S. equity sectors sensitive to growth and rates.[2][16]
-- **Near-term high-volatility data continues later this week**, with **weekly jobless claims, Challenger layoffs, and PCE** flagged as upcoming catalysts for market hedging and index move expectations.[2][4]
-- **Geopolitical risk remains elevated**, with market sensitivity to any further development around the **U.S.-Iran/Strait of Hormuz situation** and its potential impact on crude oil and risk assets.[2][1][5]
-- **Oil-linked volatility is still a watch item** because crude had been a major driver of recent equity moves, and another supply/shipping headline could quickly reprice U.S. equities.[1][5]
+- **Today’s main US macro catalysts** are the **ADP Employment Change**, **ISM Services PMI**, and **weekly crude oil inventories**, all of which can move rate expectations, cyclicals, and energy names. [2][6][10]
+- **Friday’s US nonfarm payrolls** is the week’s biggest scheduled labor-market risk event and is likely to keep positioning cautious until then. [14]
+- **Earnings risk remains elevated** with **Disney, Eli Lilly, and SanDisk** reported as scheduled around this week, adding single-stock volatility to index constituents. [8][14]
+- **Geopolitical risk** is still centered on **US-Iran / Strait of Hormuz developments**, which continue to cloud sentiment through oil-price volatility and spillover into equities. [7][16]
+- **No major FOMC or CPI release is scheduled today or later this week** in the provided calendar results; the next clearly flagged CPI release is **next week**. [4][16]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
