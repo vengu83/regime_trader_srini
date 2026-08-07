@@ -1,34 +1,31 @@
 # Market Research
-_Generated: 2026-08-07 13:49 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-07 20:24 UTC via Perplexity sonar-pro_
 
 ## 2026-08-07 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are **higher pre-market**, with Reuters reporting S&P 500 E-minis up **0.14%** at 06:56 a.m. ET and other pre-market checks showing a small gain around **0.2%**.[1][9]
-- **Nasdaq 100 futures** are also **higher pre-market**, with Reuters putting them up **0.39%** at 06:56 a.m. ET and other morning market notes showing a gain around **0.5%–0.6%**.[1][8][9]
-- The main **U.S. economic release today** is the **July jobs report / nonfarm payrolls**, which traders were awaiting because it is expected to shape interest-rate expectations.[1][13]
-- I do **not** see any scheduled **Fed speaker events or policy remarks today** in the provided results.[1][13]
-- **Asia was mixed** and **Europe was higher** overnight, according to Reuters’ market wrap on the pre-bell session.[1]
-- Overnight headlines also pointed to **broad risk-on sentiment** in futures, with chip and software shares helping lift the tape ahead of the jobs data.[1]
+- **S&P 500 and Nasdaq futures are higher pre-market**, with Reuters reporting S&P 500 E-minis up 0.14% and Nasdaq 100 E-minis up 0.39% around 06:56 a.m. ET.[1]
+- **Another pre-bell read showed similar strength**, with MT Newswires/Fidelity reporting S&P 500 futures up 0.3% and Nasdaq futures up 0.6% as of 07:55 a.m. ET.[10]
+- **Today’s key U.S. data release is the July jobs report**, which traders were awaiting before the open; the search results do not show any CPI, PPI, FOMC, or jobless-claims release scheduled for today.[1][10]
+- **No Fed speaker or formal Fed event is identified in the provided results for today**, and the headlines instead frame the session around jobs data and its policy implications.[1][10]
+- **Overnight Asia and Europe were generally firmer in the broad risk tone**, with Reuters/MT Newswires citing chip and software strength and investor attention on Middle East developments, but the provided results do not give specific Asia or Europe index percentage moves.[1][2][3]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being driven mainly by the broad market’s move higher: recent coverage says the ETF surged into August after investors digested Nvidia’s weaker-than-expected earnings with little damage to the broader tech market, and equity indexes remained supported by a generally solid run of U.S. economic data that has reduced expectations for a larger Fed rate cut.[2]  
+- **SPY** (regime: `unknown`): SPY is being driven mainly by **broad market factors**, not ETF-specific events: recent strength in mega-cap tech and solid earnings from the largest S&P 500 names have supported the fund, while weaker-than-expected July jobs data has boosted rate-cut expectations and helped lower Treasury yields.[5][4] At the same time, investors are still weighing **geopolitical risk** in the Strait of Hormuz and higher oil prices, which has kept intraday volatility elevated for the S&P 500 and SPY.[5][11]
 
-For today specifically, the most relevant macro driver is that stronger economic data has raised the odds of a smaller September rate cut, which can affect the S&P 500’s valuation backdrop and keep rate-sensitive sectors in focus.[2]
-- **QQQ** (regime: `unknown`): QQQ is seeing **strong inflows** again, with one report saying investors piled nearly **$5 billion into the ETF in a single day**, reflecting renewed demand for big tech exposure.[1] The main market driver remains **tech/AI leadership**: QQQ has been supported by strength in the Nasdaq-100’s megacap names and broader optimism around the sector, though some recent pullbacks in semiconductors and rising Treasury yields have been cited as risks.[2][17]
+No material ETF-specific news was evident in the results; the latest commentary points to a market rally into the close, with SPY near record highs and little direct fund-level catalyst today.[4][5]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent news is that it **surged on renewed tech/AI strength and big inflows**, with reports citing continued enthusiasm for mega-cap technology exposure and strong Nasdaq-100 leadership as key supports for the ETF today.[1][2] At the same time, recent headlines flag **headwinds from rising Treasury yields and semiconductor weakness**, while QQQ-specific outflow data and competition from lower-fee Nasdaq-100 products may also weigh on sentiment.[1][6][13]
+- **TLT** (regime: `unknown`): **TLT is being hit by a broad bond selloff:** recent headlines point to outflows from the ETF, while 30-year Treasury yields pushed up to about **5.26%** and 10-year yields to **4.75%**, a setup that directly pressures long-duration Treasury prices like TLT.[1][7] The ETF also broke below a key technical support area around **$83.3**, and recent coverage says it fell to a **22-year low / 2004-era low**, reflecting weak sentiment in long-dated Treasuries amid persistent inflation and Fed-policy worries.[1][7]
+- **GLD** (regime: `unknown`): GLD is being driven by a sharp move in gold: the ETF jumped about 4% on Wednesday, its biggest single-day gain since February, after weaker U.S. dollar conditions and renewed optimism that the Strait of Hormuz could reopen lifted gold prices.[1] More recently, gold has also been supported by softer U.S. labor data, with reports citing weaker-than-expected employment and a 23,000-job loss that pushed gold higher and weighed on Treasury yields and the dollar.[13][18]
 
-A newer ETF competitor, BlackRock’s proposed cheaper Nasdaq-100 product, is also a mild structural headline for QQQ, but it is not a near-term price driver compared with flows and macro/tech moves.[7][12]
-- **TLT** (regime: `unknown`): **TLT** is being hit by a sharp rise in long-dated Treasury yields, with the 30-year yield cited at **5.26%**, and that pressure has pushed the ETF below a key **\$83.3** support level in a bearish downtrend.[1] The main ETF-specific flow signal is also negative: the fund saw **heavy outflows** this week, including more than **\$477 million** on Wednesday and over **\$75 million** on Friday, while assets finished the week above **\$41 billion**.[1]
-
-Macro-wise, the recent move reflects renewed **bond-market stress** and inflation/rate concerns after the Federal Reserve decision, which has kept selling pressure on long-duration Treasuries and long-bond ETFs like TLT.[1][5]
-- **GLD** (regime: `unknown`): GLD is being driven higher by a sharp rebound in gold after weaker-than-expected U.S. employment data boosted rate-cut expectations, while a softer dollar and lower Treasury yields also supported bullion. Recent reports also point to a safe-haven bid from Middle East tensions and renewed hopes that the Strait of Hormuz could reopen, with GLD posting a >4% jump and its biggest single-day gain in more than five months.[1][11][16]
+ETF-specific flow/news has been mixed: GLD has seen strong momentum and even a new 52-week high in some coverage, but there are also signs of caution, including comments that options activity and some investor positioning still imply skepticism about further upside.[11][17]
 
 ### Risk Flags
-- **U.S. July nonfarm payrolls and unemployment rate** are due this morning and are the main scheduled macro risk event for equities, with Reuters noting the jobs report typically commands Wall Street’s attention and consensus looking for 91,000 payrolls and 4.3% unemployment.[4]
-- **Labor-market follow-through data** also hit around the same release window, including average hourly earnings and other payroll subcomponents, which can amplify the market move if they surprise.[15][16]
-- **Big-tech and heavyweight earnings** remain a risk flag this week, with Reuters highlighting results from **Lilly, AMD, Palantir**, and the first quarterly report from **SpaceX** as potential market movers.[4]
-- **ISM manufacturing and services prints** are on this week’s calendar and can add macro volatility if they deviate sharply from expectations.[3][5][16]
-- **Geopolitical risk** remains elevated from the Iran/energy backdrop, with market coverage citing renewed volatility tied to uncertainty around the truce in the Iran conflict and crude-oil sensitivity.[2][5]
+- **U.S. July nonfarm payrolls and unemployment rate** are scheduled for this morning and are the main near-term catalyst for equity volatility, with Reuters and IG both flagging the jobs report as the key market event this week.[4][7]
+- **Major U.S. earnings** from index-heavy names including **Eli Lilly, AMD, Palantir**, and the first quarterly report from **SpaceX** are on the calendar this week and could move sentiment in growth and tech shares.[6][7]
+- **ISM services / weekly jobless claims** were on Thursday’s U.S. macro calendar, adding another labor-and-growth sensitivity point for market pricing this week.[6]
+- **Geopolitical risk** remains elevated from **U.S.-Iran tensions / Strait of Hormuz developments**, which Reuters said have already been buffeting equities and oil-linked risk appetite.[6][7]
+- **Inflation risk is still on watch**, with August CPI not until next week, so this week’s focus stays on labor data and earnings rather than a Fed meeting or CPI release.[14]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
