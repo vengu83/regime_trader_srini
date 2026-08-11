@@ -1,31 +1,30 @@
 # Market Research
-_Generated: 2026-08-10 20:25 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-11 13:55 UTC via Perplexity sonar-pro_
 
-## 2026-08-10 Pre-Market Research
+## 2026-08-11 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are essentially flat to slightly lower pre-market, with quoted levels around **7,774–7,776** and changes ranging from **-0.05% to -0.10%** in delayed CME/CNBC data.[9][16][18]
-- **Nasdaq futures** are indicated higher pre-market, with Reuters reporting **Nasdaq 100 E-minis up 0.4%** at 5:37 a.m. ET.[13]
-- **Today’s U.S. data calendar** in the provided results does not show a confirmed scheduled release such as **CPI, PPI, NFP, or jobless claims** for today.[3][5][13]
-- **Fed speaker events** for today are not listed in the provided results, so no Fed commentary is confirmed here.[3][5][13]
-- **Asia and Europe** are not specifically detailed in the provided results; the only overnight global driver explicitly mentioned is investor focus on Middle East developments and the Strait of Hormuz, alongside mixed-to-firmer U.S. futures.[13]
+- **S&P 500 futures** are slightly higher pre-market, with E-mini S&P 500 futures around **7,788.5**, up about **0.15%**.[4][17]  
+- **Nasdaq futures** are also modestly firmer pre-market, with E-mini Nasdaq 100 futures reported up about **0.1%–0.4%** depending on the feed timing.[3][13]  
+- **No major U.S. scheduled economic release** is shown in the supplied results for today, and the results instead highlight traders watching the impact of earlier jobs data and inflation sensitivity.[2][13]  
+- **No Fed speaker or formal Fed event** is listed in the supplied results for today.[2][9]  
+- **Asia and Europe were mixed to firmer overnight**, with broad market coverage describing global equities as mostly up pre-bell while investors weighed geopolitical and oil-market developments.[9][18]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being driven today mainly by **macro-rate expectations** and **mega-cap tech/earnings strength** rather than ETF-specific flows. Recent reporting says weaker-than-expected jobs data helped push SPY higher by boosting hopes for a less hawkish Fed, while tech-sector volatility and broad S&P 500 earnings strength have kept the fund near record highs.[1][5][7][9]
+- **SPY** (regime: `unknown`): SPY’s most material near-term drivers are **macro headlines**, not ETF-specific events: U.S. stock futures were described as jittery on Aug. 11 amid stalled U.S.-Iran talks and rising oil prices, which can pressure broad equities through higher energy costs and risk-off sentiment.[4][9][12] SPY also remains near record highs after a strong tech/AI-led rally, with recent commentary pointing to continued earnings strength and optimism around S&P 500 target increases, but also to stretched valuations and overbought conditions that could cap upside today.[2][6][7][10]
+- **QQQ** (regime: `unknown`): **QQQ is being driven mainly by continued strength in mega-cap tech and AI names, with recent reports noting the Nasdaq-100 ETF rebounded sharply and is still supported by strong technology-sector performance and exposure to the Magnificent 7.**[1][4][5]  
+On the macro side, traders are also watching Fed-rate expectations and broader risk sentiment; one recent note cited mixed equity futures amid earnings, while another pointed to optimism around a possible reopening of the Strait of Hormuz as a sentiment driver for risk assets.[3][8]
+- **TLT** (regime: `unknown`): TLT is still being driven mainly by **rising long-end Treasury yields** and **persistent outflows**, with recent coverage pointing to the fund falling to multi-decade lows as 30-year yields climbed to around 5.26% and investors continued selling after the Fed decision.[2][9]  
 
-There is also some ETF-specific chatter about **outflows amid tech volatility**, and market commentary notes SPY is trading near its 52-week high even as investors watch incoming CPI and earnings data for the next catalyst.[1][7]
-- **QQQ** (regime: `unknown`): **No material news.** The most recent items are mostly routine QQQ flow and holder updates, plus a small rise in after-hours trading, but nothing in the provided results indicates a major ETF-specific catalyst today.[2][16][18]
-
-Broader market context is still mildly supportive, with Nasdaq-100 breadth improving and QQQ trading near highs, but those are background conditions rather than a fresh, price-moving headline in the search results.[3][4]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the sharp move in **long-end Treasury yields**: the ETF saw heavy outflows as the U.S. 30-year yield pushed to around **5.26%**, and TLT fell below a key support level near **$83.3** amid that bond selloff.[2][7] The main offset is the **weak July jobs report**, which helped Treasury rates fall and gave TLT a short-lived yield-driven bounce on Aug. 7, but the broader tone remains pressured by higher-for-longer rate expectations and bond-market volatility.[1][3]
-- **GLD** (regime: `unknown`): **GLD** is being driven today by a stronger gold tape after Friday’s weak U.S. jobs data lifted expectations for easier Fed policy, and CNBC noted heavy bullish options activity in GLD as traders bought roughly **$100 million** of calls on Friday.[2] The ETF also remains supported by the broader precious-metals move and recent commentary that gold is rebounding after a period of consolidation, while GLD’s latest filing showed net assets rising to about **$130.1 billion** even as ounces held edged lower.[15][18]
+Recent ETF-specific news also includes the **monthly distribution declaration** around $0.3305 and some coverage of the fund’s “dividend resilience,” but those headlines are secondary to the macro rate backdrop that is pressuring price today.[7][1]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is a **gold pullback ahead of the U.S. inflation report**, with traders waiting for the data to gauge the Fed path; the move was enough to drag GLD lower alongside bullion, and GLD closed at **$402.54** in the latest cited session.[9][16] Offsetting that near-term softness, there was still **strong bullish options flow** in GLD after the post-jobs-data rally, with CNBC reporting roughly **$100 million of GLD call buying** versus about **$25 million in puts** on the prior Friday.[1]
 
 ### Risk Flags
-- **Wednesday’s U.S. CPI report** is the main macro risk event this week and the most likely catalyst for index-level volatility. [1][4][7]  
-- **Thursday’s U.S. PPI and initial jobless claims** add another inflation-and-growth checkpoint that could move rates and equities. [1][4]  
-- **Friday’s U.S. retail sales and Michigan sentiment** are additional demand/consumers-focused releases that can affect market direction. [1][4]  
-- **Earnings from major names** including Super Micro Computer, Cisco, Applied Materials, and Rocket Lab can create single-stock and sector volatility. [1][2][8][11]  
-- **Geopolitical risk remains elevated** because market coverage on August 10 highlights fresh Iran-related worries and higher oil prices as an active risk flag. [5][7]
+- **CPI risk is the main U.S. market event this week:** July U.S. Consumer Price Index is scheduled for **Wednesday**, and multiple market previews flag it as the key inflation release likely to drive equity volatility. [7][11][2]  
+- **Today’s U.S. macro calendar is lighter but still market-moving:** **ADP weekly employment change**, **existing home sales**, and a **3-year Treasury auction** are scheduled, which can affect rates and equity sentiment. [7][3]  
+- **Earnings risk is concentrated in a few large-cap names today:** **Super Micro Computer, Lumentum Holdings, and Cardinal Health** report Tuesday, and **Applied Materials** is due later this week, giving index-level tech/industrial exposure some event risk. [7]  
+- **Geopolitical risk remains elevated:** sources cite renewed **Strait of Hormuz / Iran-related tensions** as a source of inflation concern and a recent drag on U.S. stocks. [2][13][9]  
+- **Volatility is not extreme but is firming:** the **VIX rose to 15.46**, suggesting markets are still relatively calm but pricing in some near-term event risk. [1][3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
