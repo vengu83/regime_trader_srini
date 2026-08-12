@@ -1,30 +1,31 @@
 # Market Research
-_Generated: 2026-08-11 20:26 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-12 13:58 UTC via Perplexity sonar-pro_
 
-## 2026-08-11 Pre-Market Research
+## 2026-08-12 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are modestly higher right now, with CME/market data showing the September E-mini up about **0.10% to 0.15%** in premarket trade.[4][8]  
-- **Nasdaq futures** are also higher premarket, with market data pointing to a gain of about **0.11%**.[4][16]  
-- **Today’s U.S. data calendar** includes **ADP weekly employment change**, **existing home sales (July)**, **EIA Short-Term Energy Outlook**, and a **3-year Treasury note auction**; no CPI, PPI, NFP, or FOMC decision is scheduled today in the results provided.[5]  
-- **Fed speaker events** for today are **not shown in the provided results**, so I can’t confirm any scheduled Fed commentary from these sources.[5]  
-- **Overnight Asia and Europe moves** are **not specified in the provided results**, so I can’t report regional index direction from the available sources.
+- **S&P 500 futures** are slightly lower pre-market, with recent quotes around flat to down about **0.05% to 0.44%** depending on the feed and timestamp.[5][16]
+- **Nasdaq 100 futures** are also marginally lower in the latest pre-market reads, with nearby quotes showing about **-0.06%** in one market preview and roughly **-0.33%** in another futures snapshot.[11][3]
+- **Today’s key U.S. data release** is **July CPI**, which multiple market previews identify as the main scheduled macro event for the session.[11][12]
+- **Fed-related events today** are not clearly listed in the provided results, and the market focus appears to be on the inflation print rather than a scheduled Fed speaker.[11][12]
+- **Asia and Europe** were mixed-to-lower overnight, with the supplied sources mainly noting broad global market caution rather than giving a full region-by-region moves table.[11][12]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being driven today by **macro risk-off headlines**: equity futures are volatile as U.S.–Iran talks reportedly hit an impasse, oil prices are jumping, and markets are also watching uncertainty around the Strait of Hormuz reopening.[2][10][11][13] On the supportive side, SPY remains near record highs, with recent coverage pointing to strong mega-cap/AI-led earnings and fresh bullish S&P 500 target upgrades, but near-term breadth and overbought technicals suggest the rally may pause.[4][7][14]
-- **QQQ** (regime: `unknown`): QQQ has been supported by **strong recent inflows** and renewed strength in large-cap tech, with one market update citing **$10.2 billion** of weekly inflows into the ETF and another noting it moved modestly positive for 2026 as investors positioned around major tech earnings, especially Nvidia. [17][5]
+- **SPY** (regime: `unknown`): **No material news.** The latest SPY-specific items are mostly broad market commentary rather than a discrete fund event: recent strength was driven by softer July jobs data, lower Treasury yields, and ongoing mega-cap/AI-led tech support, while today’s intraday action is only modestly lower with no clear ETF-specific catalyst identified.[7][11][13]
+- **QQQ** (regime: `unknown`): **No material news.** The latest ETF-specific items are mostly routine: QQQ’s dividend was recently raised to **$0.8135 per share**, and reported fund flows have been strong, with one source citing about **$10.2 billion of inflows last week**.[2][6]  
 
-On the negative side, the main near-term pressure points are **semiconductor weakness** and broader risk-off macro headlines; recent coverage flagged pullbacks in names like Micron and, more recently, futures volatility tied to **U.S.-Iran talks, rising oil prices, and Strait of Hormuz concerns**, which can weigh on Nasdaq-heavy ETFs like QQQ today. [3][11]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the continued rise in long-end Treasury yields, with the 30-year yield hitting a fresh 19-year high and pressuring long-duration bond ETFs; TLT has been sliding to multi-decade lows in that backdrop.[10][9]  
+For today’s price action, the bigger drivers appear to be broader **Nasdaq-100/mega-cap tech momentum**, including anticipation around **Nvidia earnings**, while near-term risks cited in recent coverage include **semiconductor weakness** and elevated tech valuations.[5][6]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is the continued **surge in long-end Treasury yields**, which has pushed the ETF into a deep downtrend and brought it near multi-year lows; recent reporting tied the move to post-Fed rate expectations and broader bond-market stress.[2][11][12] ETF flows have also been negative, with large outflows reported in late July/early August as investors sold duration exposure, while TLT’s monthly distribution was just declared around **$0.33**, which is not enough to offset the price pressure from rising yields.[2][3][8]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is **macro positioning around U.S. inflation and rates**: gold pulled back on Aug. 11 as traders awaited the inflation report, with reports citing a drop from a two-month high and pressure from firmer yields and the dollar. [11][7]
 
-The ETF also saw heavy outflows last week, with hundreds of millions leaving the fund as investors reacted to bond-market stress after the Fed decision, while it also went ex-dividend on Aug. 3 with a monthly distribution of $0.3305.[2][13]
-- **GLD** (regime: `unknown`): GLD is being driven today by **gold’s pullback ahead of the U.S. inflation report**, as traders wait for data that could shift Fed rate expectations and real yields; the ETF was noted lower alongside spot gold after briefly moving above $4,400/oz.[10][16] A separate macro headline also points to **stronger gold demand from China** and a broader precious-metals bid, which can support GLD if risk sentiment or dollar trends turn favorable.[14][1]
+There is also **ETF-specific demand flow** support: CNBC reported heavy GLD options activity, with about **$100 million in calls vs. $25 million in puts** likely bought on Aug. 7, and ETF Channel/Robinhood flagged **large inflows** into GLD. [1][2]
 
 ### Risk Flags
-- **CPI risk tomorrow:** The U.S. July **Consumer Price Index (CPI)** and core CPI are scheduled for Wednesday at 8:30 a.m. ET, making today a typical pre-release positioning session for equities.[6][13][17]  
-- **Heavy earnings slate:** Major index-related names reporting this week include **Super Micro Computer, Lumentum, Cardinal Health, CoreWeave, Cisco, Coherent, Applied Materials, Tapestry,** and **Nebius Group**, which can drive sector-specific volatility.[13][15]  
-- **Geopolitical overhang:** Markets are still monitoring **Strait of Hormuz / Iran-related tensions**, which have recently revived inflation and oil-price fears and pressured U.S. stocks.[2][11]  
-- **Today’s event tape:** U.S. calendar items today include **NFIB Small Business Optimism**, **Existing Home Sales**, an **EIA Short-Term Energy Outlook**, and a **3-year Treasury auction**, any of which can move rates-sensitive equities intraday.[8][10]
+- **U.S. July CPI / core CPI** is scheduled for today and is the main near-term volatility catalyst for equities, rates, and rate-sensitive sectors.[5][11][12]
+- **July PPI / core PPI** is scheduled for Thursday, extending the inflation-data risk window into the rest of the week.[11]
+- **Major earnings** due this week include **Cisco (CSCO)** and **Nebius (NBIS)**, both of which can move index constituents and tech sentiment.[5][13]
+- **Geopolitical risk** remains elevated from **U.S.-Iran / Hormuz Strait tensions**, with reports tying oil-price gains and renewed inflation concerns to the market backdrop.[1][6]
+- **Oil/inventory data** such as **EIA crude oil inventories** can add to inflation and energy-sector volatility this week.[9][11]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
