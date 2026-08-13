@@ -1,31 +1,33 @@
 # Market Research
-_Generated: 2026-08-13 13:58 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-13 20:23 UTC via Perplexity sonar-pro_
 
 ## 2026-08-13 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** are slightly higher pre-market, with ESU26 around **+0.18% to +0.26%** in recent quotes. [2][4][9]
-- **Nasdaq futures** are also modestly higher pre-market, with Barchart showing **September Nasdaq 100 E-mini futures up 0.10%** this morning. [10]
-- **Today’s key U.S. data release** is **July Producer Price Index (PPI)**, which several market reports say investors are watching closely as the next inflation read. [5][10][11]
-- I did **not** find evidence in the provided results of a **scheduled Fed speaker event or Fed policy announcement today**. [1][5][10][11]
-- **Asia and Europe** were not detailed in the provided search results, so I cannot verify specific overnight regional moves from these sources. [1][2][4][5][10][11]
+- **S&P 500 futures** are modestly higher pre-market, with ES around **+0.2% to +0.8%** depending on the feed and timestamp, while **Nasdaq futures** are also higher to flat-to-slightly-higher in the same pre-market window.[1][2][6][16]
+- **Today’s main U.S. data release** is **PPI-Final Demand at 8:30 a.m. ET**, which is the scheduled economic report highlighted by premarket calendars and market coverage.[1][7]
+- I did not find any **scheduled Fed speaker events or Fed decision items today** in the provided results.[1][7]
+- **Overnight Asia/Europe moves** are not detailed in the provided results, but U.S. premarket coverage notes global investors reacting to inflation data and still-firm risk appetite in futures.[4][7]
+- **Related market context:** the S&P 500 is quoted near record territory in U.S. market coverage, and Treasury yields are edging lower in early trading.[7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY is trading near record highs, and the main near-term drivers are macro and mega-cap tech rather than ETF-specific news.** Recent coverage points to a strong tech-led S&P 500 advance on AI-driven earnings strength, alongside softer July jobs data that eased Fed-tightening concerns and supported risk assets.[7][10]
+- **SPY** (regime: `unknown`): SPY is being driven today mainly by the **S&P 500’s continued strength in megacap tech and AI-linked stocks**, with CNBC and other market coverage pointing to a recent record-breaking options-heavy rally and fresh highs in the index/ETF this week.[2][7][9] The broader macro backdrop is also supportive, as recent U.S. payrolls weakness has reinforced expectations for easier Fed policy, while market commentary notes traders are watching major near-term levels and Jackson Hole for the next catalyst.[4][10][11]
+- **QQQ** (regime: `unknown`): QQQ was supported by a **large recent inflow** wave: the Invesco QQQ Trust took in about **$10.2 billion** in net flows, suggesting investors were adding exposure to Nasdaq-100 tech after a recent pullback.[1] The ETF also rose **1.2% to 732.36** on Aug. 13, reflecting continued strength in large-cap growth and technology shares.[16]
 
-For today specifically, the backdrop is mixed: SPY is modestly lower intraday, with commentary highlighting valuation concerns, weak market breadth, and investors waiting on inflation data, while JPMorgan’s higher 2026 S&P 500 target has provided some offsetting support.[3][12]
-- **QQQ** (regime: `unknown`): QQQ is being supported by a stronger **technology** backdrop and softer **Fed-hike** expectations after the latest inflation data, which helped the Nasdaq-100 complex. Market coverage also points to **semiconductor weakness** as a risk factor, while QQQ’s recent upside has been tied in part to anticipation around major tech earnings, especially Nvidia.[2][3][5]
+The main macro/sector backdrop is still **tech-led momentum** and a market focus on **AI/semiconductor earnings**, with recent commentary noting QQQ traded higher as investors favored growth and technology stocks amid relatively benign inflation data.[10] BlackRock’s filing for a competing Nasdaq-100 ETF also adds a modest ETF-specific competitive headline, though it is more structural than a direct near-term price driver.[12]
+- **TLT** (regime: `unknown`): **TLT’s most material recent driver is the sharp move in long-end Treasury yields**, which has kept the ETF under pressure: 30-year Treasury yields hit a 19-year high near 5.26%, and multiple recent headlines point to TLT outflows and weakness tied to that backup in yields.[11][1]  
 
-At the ETF-specific level, recent coverage also noted QQQ’s **quarterly dividend increase** to $0.8135 per share, and the fund was up sharply on Aug. 12, close to flat on the year, which may shape positioning today.[3][5]
-- **TLT** (regime: `unknown`): **TLT** is being pressured by a fresh rise in **long-duration Treasury yields** and continued **ETF outflows**, with reports citing 30-year yields around the **5.2%–5.26%** area and heavy redemptions this week, which is typically bearish for the fund’s price.[2][3] Recent coverage also points to broader **fiscal/debt concerns** as U.S. public debt nears **$40 trillion**, reinforcing the selloff in long-dated Treasuries and keeping TLT under its key support levels.[3][1]
-- **GLD** (regime: `unknown`): **GLD** is being driven higher by a sharp gold rally: spot gold broke to fresh multi-month highs, with reports citing a weaker U.S. dollar, easing inflation worries, and lower odds of near-term Fed tightening after softer U.S. jobs/inflation data.[2][4][5][6] There is also evidence of strong demand/supportive flows, including institutional buying and bullish options activity around gold/GLD, while GLD itself was quoted around **$404.92** with about **$146.0B** in assets under management.[1][5][7][17]
+**Today’s macro catalyst is the July CPI print**, which was in line with expectations and appears to have reduced near-term September hike odds, but traders are still cautious after a recent 10-year Treasury auction cleared at 4.683%, the highest since the financial crisis.[9][15]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is the **sharp rebound in gold prices**, with CNBC noting gold had its best week in seven months and GLD/precious-metals options activity turning more bullish into early August.[1] Recent macro releases have also been supportive for gold: softer U.S. inflation and labor data, including July CPI in line with expectations and weaker-than-expected nonfarm payrolls, reinforced the market’s view of lower real rates and helped gold trade back toward two-month highs.[4][7][11]
+
+There is also ETF-specific support from **strong assets under management**, with State Street showing GLD AUM near **$146.0 billion** and NAV around **$406.05**, indicating heavy investor demand remains in place.[5]
 
 ### Risk Flags
-- **July PPI / core PPI** is scheduled for Thursday morning and is the main macro risk event still on the calendar for US equities today.[1][13][18]  
-- **Retail Sales, Business Inventories, and preliminary Michigan Sentiment** are scheduled for Friday, which can add a second day of macro volatility this week.[13]  
-- **Applied Materials (AMAT)** and **Tapestry (TPR)** are among the major earnings reports tied to today’s tape, with semiconductor-related results especially relevant for index sentiment.[1][13]  
-- **JD.com (JD), Nu Holdings (NU), Brookfield (BN), and NetEase (NTES)** are also reporting around today, adding idiosyncratic earnings risk across large-cap internet/financial names.[1][2]  
-- **Geopolitical oil-supply uncertainty tied to the Iran conflict** remains a background risk flag for US equities and rates-sensitive sectors.[14]
+- **Today’s main risk event was already the U.S. PPI release** at 8:30 a.m. ET, which can move yields, rate expectations, and growth stocks if it surprises.[4][7][14]
+- **Retail sales, business inventories, and the preliminary Michigan sentiment readout** are scheduled for **Friday, Aug. 14**, making tomorrow the next notable macro-risk day for U.S. equities.[4][14]
+- **FOMC minutes are scheduled for Tuesday, Aug. 19**, which can be a volatility catalyst if policymakers sound more hawkish or dovish than markets expect.[4]
+- **Major earnings on Thursday include Applied Materials and Tapestry**, while Yahoo’s earnings calendar also shows **JD.com, Figure Technology Solutions, Ondas, Nu Holdings, and QXO** for today.[3][14]
+- **No major geopolitical shock is flagged in the results as a scheduled U.S.-market event**, but recent coverage notes equities remain sensitive to **oil-price swings and U.S.-Iran conflict headlines**.[2][6]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
