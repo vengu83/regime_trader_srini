@@ -1,37 +1,39 @@
 # Market Research
-_Generated: 2026-08-14 20:17 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-14 20:59 UTC via Perplexity sonar-pro_
 
 ## 2026-08-14 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **slightly positive to flat** pre‑market, with S&P 500 E‑mini futures up around 0.1% and Nasdaq futures up about 0.1–0.2%, while Dow futures are marginally negative.[3][4][8][15]
+- **S&P 500 and Nasdaq futures** are modestly higher pre‑market, with S&P 500 futures up around 0.1% and Nasdaq‑100 futures up around 0.2%–0.25%, while Dow futures are slightly negative (about −0.1%).[1][4][8][12]
 
-The key scheduled US data release today is **Advance Retail Sales for July 2026** at 8:30 a.m. ET, along with **Manufacturing & Trade: Inventories and Sales (June)** at 10:00 a.m. ET and Treasury bill auctions and buyback announcement later in the morning.[9][12][14]
+- **U.S. economic data today (Friday, Aug 14, 2026)** include weekly initial **jobless claims** and **PPI Final Demand** at 8:30 a.m. ET, alongside the regular **EIA natural gas report** at 10:30 a.m. ET, plus standard Treasury bill auctions and buyback announcements later in the day.[15]
 
-There are **no major FOMC decisions or minutes releases today**; the next FOMC minutes release is scheduled for Wednesday, August 19, 2026, and today’s calendar is focused on data and auctions rather than Fed policy events.[12][14]
+- **Fed speakers today** include scheduled remarks from Treasury Secretary–designate Beth Hammack (market calendar context) and regional Fed officials such as Thomas Barkin and Cheryl Venable speaking in the morning, as well as separate Fed Board events listed on the Fed’s August 2026 calendar (including a discussion by Vice Chair for Supervision Bowman and a speech by Governor Cook).[14][15]
 
-Overnight, **Asian markets were mixed**, and at least one economic calendar headline notes an unexpected decline in US retail sales later in the morning, suggesting cautious sentiment; **European markets are modestly higher to flat** ahead of the US data, with global equities near record levels.[3][8][13]
+- **Asia overnight** traded mixed to positive: Japan’s **Nikkei 225** and South Korea’s **Kospi** outperformed with gains (roughly +0.6% and +2%+ respectively), while some China/Hong Kong benchmarks were weaker or flat, leaving MSCI Asia ex‑Japan modestly higher on the day.[7][10][13]
 
-US stock futures are described as **mixed to little changed**, with the S&P 500 futures roughly flat to slightly positive after the index hit a record close yesterday, while Nasdaq‑100 futures are mixed.[3][8][15]
+- **Europe this morning** is mixed with a slightly cautious tone: the **STOXX Europe 600** is marginally lower (about −0.1% to −0.25%), while **Euro Stoxx 50 futures** are slightly higher (~+0.3%), and major indices such as the DAX and CAC 40 are trading near flat to slightly negative after small declines at Thursday’s close.[6][7][11][13]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY has no major ETF-specific headline today; the price action is being driven mainly by broader market momentum, with the ETF near record highs and modestly lower in early trading.** Recent catalysts have been strong technology/AI earnings, improving inflation expectations, and continued demand for U.S. equities, which have helped keep the S&P 500 elevated.[4][7][10]
+- **SPY** (regime: `unknown`): SPY is being driven today mainly by **macro data** and the **post-PPI / inflation setup**: July PPI came in flat at 0.0% versus 0.2% expected, while University of Michigan inflation expectations remained elevated, which can influence Treasury yields and rate-cut expectations.[7] The ETF is also near record levels and continues to be supported by broad **tech-led S&P 500 strength** and heavy options activity that has recently amplified upside momentum in the index.[1][10][9]
+- **QQQ** (regime: `unknown`): **QQQ’s most material recent driver is the broader tech/Nasdaq rally:** the ETF rose **1.16% on Aug. 13** and was up **0.28% intraday on Aug. 14** in the latest data, keeping it near recent highs and modestly positive for the year.[18][13] Market commentary also points to **continued AI/megacap-tech support** and investor focus on **Nvidia earnings** as a near-term catalyst for the Nasdaq-100 complex.[8][16]
 
-A separate macro driver is the market’s focus on upcoming policy/data catalysts after the recent PPI-driven record close in the S&P 500; that keeps SPY sensitive to yields and rate expectations today.[4][11]
-- **QQQ** (regime: `unknown`): QQQ is being supported by a recent rebound in **mega-cap tech and Nasdaq-100 momentum**, with the ETF rising sharply in early August and trading back above key moving averages after a late-July selloff.[2][7][17] The main near-term macro driver is the market’s focus on **tech earnings, especially Nvidia**, plus broader uncertainty around the Fed and long-end yields, which have been cited as key forces behind QQQ’s latest swings.[1][6][7]
+On the ETF-specific side, Invesco reported **QQQ net outflows of $5.061 billion in June**, which is a notable flow headwind, while the fund’s dividend was recently raised and QQQ remains above its key moving averages.[19][2] Macro-wise, recent commentary highlights **Fed/interest-rate uncertainty** and upcoming inflation data as key drivers for tech multiples and therefore QQQ’s price action.[11][5]
+- **TLT** (regime: `unknown`): TLT has been pressured by the sharp rise in long-dated Treasury yields, with reports this week citing 30-year yields around multi-decade highs and bond-market volatility rising after the Fed’s latest hold.[2][10][12] Recent macro headlines also point to firmer inflation/rate-hike concerns—after the July CPI/PPI prints and elevated oil/geopolitical risk—which has weighed on long-duration bonds and helped keep TLT near its 52-week low.[2][8][13][14]
 
-There is also ETF-specific flow context: Invesco reported **QQQ outflows in June** and the fund’s recent commentary noted semiconductor weakness as a risk, while QQQ’s quarterly dividend was raised to **$0.8135 per share**.[2][18]
-- **TLT** (regime: `unknown`): TLT is being pressured by a **sharp backup in long-end Treasury yields**, with reports citing 30-year yields around multi-year highs and bond-market concerns that are weighing on long-duration Treasuries today.[11][9] Recent macro headlines also point to **hawkish Fed expectations** after the July CPI/PPI data and renewed inflation worries from elevated oil prices and geopolitical risk, which tends to hit TLT when rate-hike odds rise.[2][3][12]
-- **GLD** (regime: `unknown`): **GLD is moving mainly on macro drivers, not fund-specific news:** recent U.S. inflation and retail-sales data came in softer than feared, reinforcing expectations for lower real yields and a less hawkish Fed, which has been supportive for gold prices and GLD.[1][6][17] At the same time, gold has also been buoyed by continued ETF inflows and institutional/central-bank buying, including the Bank of Korea’s disclosed first gold-related GLD position in 13 years and broader demand cited in recent coverage.[2][6][10]
-
-There’s no major GLD-specific corporate event in the feed; the most relevant market backdrop today is the recent gold rally, which has been volatile around U.S. data and dollar moves, and GLD is trading below its recent highs after last week’s surge.[2][5][8]
+TLT also declared its monthly distribution of $0.3304 on August 4, but that is routine and less likely to move the ETF today than the yield and Fed repricing story.[2][15]
+- **GLD** (regime: `unknown`): GLD’s most material recent drivers are **weaker U.S. labor data** and **softer rate expectations**, which pushed gold higher last week and lifted GLD as Treasury yields fell[1][4]. Recent headlines also point to **supportive macro flows** from cooler inflation readings and a weaker-dollar backdrop, while the Bank of Korea reportedly disclosed a first gold-linked GLD position in 13 years, reinforcing central-bank demand for gold exposure[9][12].
 
 ### Risk Flags
-- **U.S. retail sales** for July is a scheduled macro release today, and it can move equities, rates, and the dollar if it surprises.  
-- **Preliminary University of Michigan consumer sentiment** and **inflation expectations** are also due today, which are typical market-sensitive releases.  
-- **Baker Hughes U.S. rig count** is scheduled for today; while usually a secondary release, it can matter for energy shares and crude-linked risk.  
-- The market backdrop this week is marked by **Middle East / Iran-related geopolitical risk**, with reports of elevated tension and potential supply disruptions keeping energy volatility elevated.  
-- Broadly, this looks like a **light earnings and policy week** for U.S. equities, with commentary noting relatively thin event risk aside from geopolitics.
+No major risk events scheduled.
+
+- **No FOMC meeting or rate decision** is on the calendar this week; the next scheduled FOMC event is the minutes release on Wednesday, August 19, 2026, with the next meeting on September 15–16, 2026.[9][11]
+
+- **Key US inflation data (July PPI)** was released on Thursday, August 13, 2026 at 08:30 ET, so there is no major CPI/PPI release remaining for August 14 or later this week.[12][4]
+
+- **Standard US data releases** such as retail sales and University of Michigan sentiment are part of the week of August 10–14, 2026, but these are routine, scheduled reports rather than exceptional risk events.[4][14]
+
+- **US earnings volume is moderate**, with dozens of companies reporting on Friday, August 14, 2026 and through August 20, 2026, but there is no indication of a clustered “mega-cap” S&P 500 earnings day this week.[6][10][15]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
