@@ -1,10 +1,10 @@
 # Regime Insights
 
-_Updated 2026-08-14 by Weekly Regime Summary_
+_Updated 2026-08-17 by Market Open Analysis_
 
 ## Current Regimes
 
-- **SPY**: neutral | conf=75% | exposure=50% | hold_tech_filter
-- **QQQ**: bull | conf=75% | exposure=119% | aggressive_bull
-- **TLT**: euphoria | conf=75% | exposure=60% | trim_euphoria
-- **GLD**: bull | conf=75% | exposure=50% | hold_tech_filter
+- **SPY**: bull | conf=75% | exposure=50% | hold_tech_filter
+- **QQQ**: deep_bear | conf=42% | exposure=50% | hold_low_confidence
+- **TLT**: bull | conf=74% | exposure=50% | hold_tech_filter
+- **GLD**: euphoria | conf=75% | exposure=60% | trim_euphoria
