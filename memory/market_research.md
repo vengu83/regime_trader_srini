@@ -1,37 +1,36 @@
 # Market Research
-_Generated: 2026-08-20 20:04 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-21 13:26 UTC via Perplexity sonar-pro_
 
-## 2026-08-20 Pre-Market Research
+## 2026-08-21 Pre-Market Research
 
 ### Macro Context
-S&P 500 futures are modestly lower pre-market, while Nasdaq 100 futures are roughly flat to slightly higher, indicating a mixed open bias for US equities.[1][7][10][14]  
+- **U.S. equity futures:** S&P 500 futures are **up about 0.1%** and Nasdaq futures **up about 0.27%** in pre-market trading, with Russell futures up about 0.33%.[2]
 
-The key scheduled US data releases today are **weekly initial and continuing jobless claims** and the **Philadelphia Fed Manufacturing Index**, along with related sub-indices such as Philly Fed employment and business conditions.[3][5][11]  
+- **Key U.S. data today (macro):** Scheduled releases include **initial and continuing jobless claims at 8:30 a.m. ET** and **state employment and unemployment (July) from BLS at 10:00 a.m. ET**, plus **S&P Global flash PMIs (manufacturing, services, composite) around 9:45 a.m. ET** and the **Baker Hughes U.S. oil rig count in the afternoon**.[1][7][8][9]
 
-There are no major FOMC meetings today, but the Fed’s August 2026 calendar includes ongoing public events and speeches; investors remain focused on the recently released FOMC materials and any scheduled remarks from Board members listed on the Fed’s August events page.[9][12][13]  
+- **Inflation / PPI-related items:** Some calendars also list **monthly and yearly inflation (CPI) and producer price index (PPI) figures, as well as retail sales and confidence data, clustered around 8:30 a.m. ET** for August 21, 2026.[14]
 
-In Asia, equity performance was mixed overnight: **Japan’s Nikkei 225** and **Korea’s KOSPI** posted solid gains, while **China’s Shanghai** and **Shenzhen** indices declined.[2]  
+- **Fed events:** The Fed’s August 2026 calendar and speeches log indicate **ongoing events through August 21 with multiple Fed officials scheduled for speeches or conferences**, but without a major FOMC rate decision today.[12][13]
 
-In Europe, early trade is slightly weaker overall, with **Germany’s DAX**, **France’s CAC 40**, and the **Euro Stoxx 50** down, while the **UK FTSE 100** is roughly flat.[2]
+- **Overnight Asia:** Global calendars show **Japan’s S&P Global Manufacturing PMI flash for August released overnight**, and other Asian data prints, indicating continued monitoring of regional activity.[11]
+
+- **Europe:** The economic release calendar highlights **Euro Short Term Rate updates and other European data releases today**, suggesting a typical flow of European macro prints ahead of the U.S. session.[10][11]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has been trading a bit softer after pulling back from recent highs, with commentary noting it touched its lowest level since Aug. 4 and is now about 1.5% below its record high, while technicals show it slipping below its 8-day EMA for the first time in three weeks.[3] Recent market drivers cited around the fund include higher Treasury yields, cautious consumer data, Fed-policy uncertainty, and some rotation away from megacap tech as the market broadens, which can affect the S&P 500’s near-term direction.[8][2]
-- **QQQ** (regime: `unknown`): **QQQ’s most material recent drivers are continued strong inflows into the ETF, a higher quarterly dividend from Invesco, and ongoing support from mega-cap tech/AI optimism.** Recent reports showed QQQ pulled in about **$10.2 billion** in net inflows, while Invesco also raised the fund’s quarterly dividend to **$0.8135 per share**; at the same time, the Nasdaq-100 complex has been influenced by AI-led tech strength but also some profit-taking and a modest pullback from highs.[2][1]
+- **SPY** (regime: `unknown`): SPY is being driven today mainly by **macro and market-structure factors** rather than ETF-specific headlines: recent coverage points to **higher Treasury yields, cautious consumer signals, and Fed-policy uncertainty** weighing on the fund, while broad-market rotation away from megacap tech has been a recurring theme this week.[7][1] Sentiment is also being shaped by **record options activity and heavy trading in the S&P 500 complex**, alongside reports of **recent SPY pullbacks from record levels** and notable outflows, which can add pressure near the highs.[1][14][18]
+- **QQQ** (regime: `unknown`): **QQQ** has had no ETF-specific headline shock today; the main price drivers remain the **Nasdaq/mega-cap tech complex** and the market’s focus on **Nvidia’s upcoming earnings on Aug. 26**, which can move the Nasdaq-100 basket materially through semis and AI-linked names.[1][16]  
 
-On the macro side, recent **Fed-rate expectations, Treasury-yield moves, and sector rotation away from megacap tech** have been the main price-sensitive headwinds, while upcoming **Nvidia and Marvell earnings** are key near-term catalysts for QQQ because of its heavy semiconductor/large-cap tech exposure.[12][4][13]
-- **TLT** (regime: `unknown`): TLT has been pressured by a broad **selloff in long-dated Treasuries**, with the ETF recently hitting its lowest close since 2004 as the 30-year Treasury yield pushed above 5.3%, a level not seen since 2007.[1][2] Recent flows and headlines also point to **heavy outflows from TLT** and renewed concern over **larger Treasury issuance / buyback changes** and widening U.S. deficits, which are both weighing on long-duration bonds today.[3][6][13]
-- **GLD** (regime: `unknown`): GLD’s most material recent move has been driven by a sharp gold rally after a weak July U.S. jobs report and softer rate expectations, which lowered the opportunity cost of holding non-yielding gold.[2][17][19] More recently, gold jumped about 3% as U.S. Treasury bond-market stress intensified and the Treasury expanded long-term buybacks, while GLD also saw strong investor demand with roughly $1 billion of inflows reported for Aug. 17.[3][5][9]
+Recent flow data still looks supportive: QQQ has seen very large recent inflows, including roughly **$10.2 billion** into the fund in the latest reported period, while Invesco also raised QQQ’s quarterly dividend to **$0.8135 per share**.[7][3]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is a **broad selloff in long-duration Treasuries**, with the ETF hitting its **lowest close since 2004** and extending a strong year-to-date decline as 30-year yields pushed up to around **5.26%** amid bond-market stress.[1][2] The move has been reinforced by **heavy outflows from TLT** and a market backdrop of **deficit, supply, and inflation concerns**, while Treasury Secretary Scott Bessent’s discussion of larger buybacks briefly supported bonds before that rally faded.[2][5][7][8]
+- **GLD** (regime: `unknown`): GLD has been supported by a **recent rebound in spot gold**, with the ETF up sharply over the past month as **weaker U.S. data, softer inflation/retail signals, and lower odds of a near-term Fed rate hike** pushed yields and the dollar lower.[7][14][16][20] Recent headlines also point to **safe-haven demand** from geopolitical tension and some **renewed inflows into the SPDR Gold Trust**, which can directly support the ETF’s price.[7][11][15]
 
 ### Risk Flags
-- **FOMC minutes** from the July 28–29 meeting were released yesterday (Aug 19, 2026), and are still a potential volatility driver for US rates and equities as markets digest policy signals.[6][11]
+No major risk events scheduled.
 
-- Today (Aug 20, 2026) has **US Initial Jobless Claims, Philadelphia Fed Manufacturing Index, and leading indicators** releases, all standard high-frequency data that can move equity index futures if surprises are large.[1][4][7]
-
-- This morning’s **Weekly Unemployment Insurance Claims report** is scheduled, a routine but closely watched labor-market indicator that can affect risk sentiment if it deviates meaningfully from trend.[7]
-
-- **Walmart (WMT) and Deere (DE)**, both major index constituents, report earnings today, alongside several other large-cap names (e.g., Ross Stores), creating single-stock and sector volatility with potential spillover to broad US indices.[5][8][10][12][15]
-
-- No **CPI** or major US inflation prints are scheduled for today or the remainder of this week; the next CPI release is for August data on September 11, 2026, so no top-tier inflation event risk in the current week.[9]
+- **Friday, Aug 21:** Only minor US data releases are scheduled (flash **S&P Global Manufacturing/Services PMIs** and **state employment/unemployment** report), which are typically second-tier for broad US equity volatility.[8][9][10]  
+- **Earlier this week:** The main scheduled macro event was the release of **FOMC minutes** on Wednesday, Aug 19, which is already past and thus no longer a forward-looking risk event for today.[3][8]  
+- **Earnings calendar:** The current week shows a moderate number of earnings reports but no clear concentration of mega-cap S&P 500 or index bellwether names on Aug 21 that would usually be flagged as high-volatility catalysts.[7][11][12]  
+- **Geopolitical / special events:** No specific scheduled US-centric geopolitical summits or known event dates this week are widely highlighted as equity market risk triggers in the calendars reviewed.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
