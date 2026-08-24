@@ -1,32 +1,33 @@
 # Market Research
-_Generated: 2026-08-21 20:53 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-24 13:31 UTC via Perplexity sonar-pro_
 
-## 2026-08-21 Pre-Market Research
+## 2026-08-24 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** were higher pre-market, with Reuters reporting S&P 500 E-minis up **0.34%** around 05:57 a.m. ET and another market feed showing gains of about **0.58%** later in the session.[4][1]  
-- **Nasdaq 100 futures** were also higher, with Reuters showing **+0.64%** and another feed indicating about **+0.49%** pre-market.[4][1]  
-- **Today’s U.S. calendar** included the **August S&P Global PMI flash readings** and other routine data, while I did not find evidence in the gathered results of a scheduled **CPI, PPI, NFP, FOMC decision, or weekly jobless claims** release for this date.[4][9]  
-- **Fed commentary/events today:** no specific Fed speaker appearances or Fed event were identified in the gathered results for **2026-08-21**.[4][9]  
-- **Asia** was mixed-to-weaker overnight, with Reuters saying most Asian share indices were heading for weekly losses and one market snapshot showing **Nikkei 225 -0.30%** and **Hang Seng +1.21%**.[9][5]  
-- **Europe** was modestly firmer at the open, with Reuters noting **EUROSTOXX 50 futures** and **DAX futures** a fraction lower earlier, while a later market snapshot showed the **STOXX Europe 600 +0.20%**.[9][5]
+- **S&P 500 futures** were slightly lower in pre-market trading, with one current market roundup showing them down about 0.1% and another showing a modest slip of 0.24%.  
+- **Nasdaq futures** were also lower pre-market, quoted around down 0.4% in Reuters coverage and about 0.64% in another morning preview.  
+- **Today’s U.S. calendar** includes the **Chicago Fed National Activity Index** and **Treasury bill auctions**, while broader calendar listings also show no major top-tier releases like CPI, PPI, NFP, or FOMC.  
+- **Fed-related events today** include remarks by **Chicago Fed President Austan Goolsbee** at a 3:00 PM ET online event, and another calendar shows **Chicago Fed President Austan Goolsbee** plus **Fed Barkin** later in the day.  
+- **Asia** traded lower to start the week, while **Europe** was mostly flat to slightly weaker in futures, with Euro Stoxx 50 and DAX futures easing about 0.1% and FTSE futures roughly unchanged.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material recent drivers are still **macro and mega-cap/sector-led**, rather than ETF-specific: Treasury repurchase expansion news and ongoing bond-market jitters are supporting equities but also keeping rates in focus, while recent coverage says the S&P 500 is broadening beyond megacap tech and that rising yields/geopolitical concerns are limiting upside.[3][5][13] Recent SPY-related market commentary also points to **heavy options activity**, a pullback from recent highs, and index performance being influenced by weakness or rotation in major names and sectors such as semis, industrials, and tech.[1][10][15][16]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is the **Treasury move**: the U.S. Treasury announced a larger scale of long-term nominal bond repurchases, which has coincided with higher-yield pressure on the day and can weigh on mega-cap growth valuations inside QQQ.[1][20] More broadly, recent coverage says investors are still **favoring AI and megacap tech**, with QQQ drawing very large inflows and the Nasdaq-100 continuing to benefit from broad tech leadership, even as analysts flag rising yields and stretched AI valuations as key risks.[3][12][20]
-- **TLT** (regime: `unknown`): **TLT is under pressure from a broad long-end Treasury selloff:** the fund recently hit its lowest close since 2004, with reports tying the move to **rising 30-year Treasury yields**, inflation worries, and heavier government borrowing/supply concerns.[1][2][7]  
+- **SPY** (regime: `unknown`): SPY’s most material recent drivers are **macro**, not ETF-specific: recent U.S. labor data showed **initial jobless claims fell to 206,000**, reinforcing growth resilience, while Treasury activity has kept **long-term yields** in focus and can pressure equity valuations.[16][7]  
 
-Recent ETF flow data also showed **large outflows from TLT**—including several hundred million dollars on some sessions—suggesting investors have been reducing duration exposure even as long-bond volatility stays elevated.[2][18]
-- **GLD** (regime: `unknown`): GLD is being driven today by a combination of **strong recent gold demand** and **macro support from softer Fed-rate expectations**. The most material ETF-specific item in the latest flow data is that GLD took in about **$1.01 billion of net creations on Aug. 17**, then saw a **$767.8 million redemption on Aug. 18**, showing very large but choppy investor interest in the fund.[1]
+On the equity side, SPY has been trading near record territory but has shown some **near-term momentum fade** and pullbacks, with commentary pointing to **rising Treasury yields, geopolitical risks, and softer breadth outside megacap tech** as the main headwinds.[1][3][11][15]
+- **QQQ** (regime: `unknown`): QQQ’s most relevant recent drivers are a mix of **continued ETF inflows** and a **small dividend increase**, which can support demand for the fund; one report cited **$10.2 billion in inflows** and another noted QQQ raised its quarterly dividend to **$0.8135 per share**.[9][4] On the macro side, a Treasury announcement to **expand long-term nominal Treasury bond repurchases** could help risk assets by easing some rate pressure, while recent commentary has also pointed to a **rotation beyond megacap tech** and cautious AI-trade positioning, which may weigh on QQQ’s Nasdaq-100-heavy exposure today.[2][1]
+- **TLT** (regime: `unknown`): **TLT** remains under pressure from the same macro drivers that have been hitting long-duration Treasurys: the 30-year Treasury yield has recently moved above 5.3% and near multi-decade highs, while concerns about heavier Treasury supply, deficits, and inflation have pushed the ETF to its lowest levels in years.[4][5][7][14]
 
-On the macro side, recent reports say **cooler U.S. inflation, softer retail sales, and weaker consumer sentiment** have lowered expectations for a September Fed hike, while a **weaker dollar** and **safe-haven demand** from Middle East shipping tensions have also supported spot gold and GLD.[6][13] Additional recent headlines note gold trading near **two-month highs** and GLD around **$420.95 pre-market** on Aug. 21, which suggests the ETF is still closely tracking the metal’s latest rally.[5][18]
+The most ETF-specific recent headline is that TLT continues to see price weakness despite some inflow support, with reports noting continued declines and a 22-year/20-year low area in mid-August; recent options activity also showed a bullish bias, but that has not yet offset the broader yield-driven selloff.[1][3][20]
+- **GLD** (regime: `unknown`): GLD’s most material recent drivers are **macro**, not fund-specific: gold has been supported by a softer U.S. dollar, easing long-term yields after the Treasury expanded its bond-buyback program, and lower expectations for Fed rate hikes, which have helped GLD rise in recent sessions.[3][8][12] The biggest ETF-specific flow signal in the results is a very large **$1.01 billion creation** on Aug. 17 followed by **$767.8 million in redemptions** on Aug. 18, indicating heavy but volatile demand for the fund.[1]
 
 ### Risk Flags
-- **FOMC minutes** were released Wednesday, Aug. 19, so they are *not* a new scheduled event today, but they remain a recent policy catalyst for US equities this week.[3][8][13]
-- **Jackson Hole / Fed symposium risk** is in focus next week, and Reuters noted investors were already turning attention to it for policy clues.[15]
-- **Flash US PMI data** is listed for Friday, Aug. 21, including manufacturing and services, making today a potentially market-moving macro release day.[14]
-- **Major retail earnings** are part of the week’s risk set, with Reuters flagging a wave of retail results as a check on US consumer strength.[2]
-- **Geopolitical risk** remains elevated around the Iran/U.S. conflict and Strait of Hormuz, which Reuters and other market notes said is still influencing oil and risk sentiment.[4][6][12]
+No major risk events scheduled.
+
+- **No significant US macro data releases** are listed for Monday, August 24, 2026; calendars show only lower‑tier items like the Chicago Fed National Activity Index and bill auctions, which are not typically high‑volatility drivers for equities.[1][2][10][15]  
+- **FOMC**: The next scheduled 2026 FOMC meeting is mid‑September (September 15–16), with the prior meeting on July 28–29 already concluded, so there is no Fed decision or press conference this week.[3][6][7][8]  
+- **US CPI/PCE/payrolls**: Regular monthly high‑impact releases (CPI, PCE, nonfarm payrolls) are not scheduled for August 24 week per August 2026 release calendars, which explicitly note “No Releases” for Monday and do not list those data in this window.[15]  
+- **S&P 500 earnings**: The earnings calendar for August 24 shows mainly small/mid‑cap names and secondary index constituents; no mega‑cap US tech, money‑center banks, or top‑weight S&P 500 names are reporting today.[13]  
+- **Geopolitical/special events**: No scheduled US‑centric geopolitical summits, emergency policy meetings, or known event risk specifically flagged for this week in standard macro/market calendars.[9][10][12]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
