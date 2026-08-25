@@ -1,41 +1,41 @@
 # Market Research
-_Generated: 2026-08-25 13:29 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-25 20:04 UTC via Perplexity sonar-pro_
 
 ## 2026-08-25 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **trading higher pre-market**, with Nasdaq futures up around **0.7–1.0%** and S&P 500 futures up about **0.2–0.5%** as of early U.S. morning trading.[1][5]
+S&P 500 and Nasdaq futures are **higher pre‑market**, with S&P 500 futures up about 0.4–0.5% and Nasdaq futures up roughly 0.8–1.0%.[1][2][4][7][14]
 
-- **Index futures:** Nasdaq futures are up roughly 0.7–1.0% and S&P 500 futures about 0.2–0.5% in pre-market trade today, indicating a positive open bias for U.S. equities.[1][5]
+Today’s key scheduled US data releases include **housing price indices (FHFA and S&P/Case‑Shiller)** around 9:00 a.m. ET, **Conference Board Consumer Confidence**, **new home sales**, and the **Richmond Fed manufacturing index** around 10:00 a.m. ET, plus the **API weekly crude oil stock** later in the day.[3][10][11][13][15]
 
-- **U.S. data releases:** The U.S. calendar for today includes **S&P/Case‑Shiller 20‑city home price index (Jun)**, **FHFA house price index (Jun)**, **Richmond Fed manufacturing index (Aug)**, **new home sales (Jul)**, and **Conference Board consumer confidence (Aug)**, all scheduled during the U.S. morning session.[3][9][12]
+The US economic calendar also features **Treasury auctions** (short‑term bills and 2‑/5‑year notes) and standard weekly/seasonal indicators such as Redbook retail sales, with no CPI, PPI, NFP, or FOMC rate decision scheduled for today.[3][11][12][15]
 
-- **Fed speakers:** Richmond Fed President **Thomas Barkin** is scheduled to speak twice today at U.S. events, with appearances noted around **8:30–12:00 ET** and later in the afternoon, giving markets multiple opportunities to parse Fed commentary.[4][14]
+Fed‑related events today include a **speech by Richmond Fed President Thomas Barkin**, listed around midday/late afternoon U.S. time on several calendars.[6][11][12]
 
-- **Asia markets overnight:** Asian economic calendars show several regional data points (trade, unemployment, rate decisions), but major U.S.-focused sources today emphasize domestic data and Fed events rather than specific index moves; detailed index levels for Asia are not prominently listed in the retrieved calendars.[8][11]
+Overnight in Asia, major markets were mixed to mildly higher, with focus on central bank minutes and rate decisions (e.g., RBA minutes and regional data releases), contributing to a generally stable tone.[12]
 
-- **Europe/other international:** International economic items such as **Euro short‑term rate updates** and European data appear on global calendars, but pre‑market U.S. coverage today is dominated by the rebound in U.S. equity futures rather than specific European index performance.[2][14]
+European markets in the morning session traded **modestly higher**, reflecting the firmer US futures backdrop and ongoing digestion of local data, with no major shock event flagged in today’s calendars.[1][2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): Recent SPY news has been dominated by a **broadening market rotation away from megacap tech**, with CNBC highlighting that “the market is broadening” and investors should look beyond the largest names.[1] At the macro level, **Treasury bond repurchase expansion** and **trade-policy headlines** have been cited as notable market drivers, while SPY itself has also shown **pullback/momentum-waning** behavior after recent highs.[3][6][7]
+- **SPY** (regime: `unknown`): **SPY has little ETF-specific news today; the main driver is broader market tone rather than fund-specific events.** Recent coverage points to a broadening U.S. equity rally away from megacap tech, while industrials and other cyclicals have been strengthening, which can support the S&P 500 and SPY if breadth continues[1][13].
 
-If you want, I can also give a **one-line “today’s drivers” version** split into ETF-specific, sector, and macro factors.
-- **QQQ** (regime: `unknown`): **QQQ is being pressured by a broader tech/Nasdaq rotation and rising-rate sensitivity.** Recent coverage cites a technology-led rebound earlier this month driven by AI spending optimism, but also notes that higher Treasury yields and weaker seasonal trends could weigh on high-growth valuations; Treasury’s recent expansion of long-term bond repurchases is a relevant macro factor that could influence rates and thus QQQ today.[4][1]
+Macro and index-level headlines have also mattered: Treasury announced expanded long-term bond repurchases, and several Wall Street forecasts were raised on still-strong earnings and tech momentum, though some commentary flags SPY as overvalued and recent outflows/momentum weakening could cap upside[5][9][16][19].
+- **QQQ** (regime: `unknown`): **No material news.** The most relevant live driver I found is broad market/sector flow: QQQ is being lifted or pressured mainly by **technology and semiconductor** moves, with traders also watching **interest-rate expectations** and **risk sentiment**; today’s feed shows premarket rebound in tech/chips after a weak prior close.[19][6]
 
-**ETF-specific flow and positioning are also in focus.** Invesco reported **$373 million of ETF inflows** and QQQ recently increased its quarterly dividend to **$0.8135 per share**, while market commentary says QQQ remains in a **negative gamma regime**, which can amplify intraday swings around key options levels.[2][7]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the **continued selloff in long-duration U.S. Treasuries**, with the ETF hitting multi-decade lows as 30-year yields moved to around **5.2%+** amid heavy Treasury supply, inflation concerns, and a rising deficit backdrop.[3][4][14] Recent reporting also points to **meaningful fund outflows** from TLT and broader bearish positioning as investors react to the bond-market weakness.[3][8]
+An additional macro note is the U.S. Treasury’s announced **expansion of long-term nominal bond repurchases**, which can matter for growth and duration-sensitive tech valuations, but I did not find ETF-specific fund flow or holdings news strong enough to call it material on its own.[1]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is the **continued selloff in long-dated U.S. Treasuries**, with the ETF hitting its lowest levels since 2004 amid rising 30-year yields and concerns over heavy Treasury supply, inflation, and fiscal deficits.[1][3][5] Recent coverage also points to **significant TLT outflows** after the Fed decision, reinforcing the pressure from higher long-end rates rather than ETF-specific issues.[4][13]
+- **GLD** (regime: `unknown`): **GLD is being driven today by a strong gold macro backdrop rather than fund-specific headlines.** The most material recent catalyst is a sharp gold rally to a three-month high on a weaker dollar, rising U.S. debt-fiscal concerns, and the Treasury’s expanded bond buyback program, which has helped lift GLD alongside the metal itself.[6][7][15]
 
-A smaller offset is that some market pages show **modest stabilization/inflows and intraday bounce** into Aug. 24–25, but the dominant price driver remains the macro rate backdrop rather than ETF-specific news.[5][16][17]
-- **GLD** (regime: `unknown`): GLD has been moving on a **macro-driven gold rally**, with recent gains tied to a weaker U.S. dollar, softer Treasury yields, and rising safe-haven demand as U.S. debt-fear headlines and Treasury buyback changes supported bullion prices.[5][6][16] ETF-specific flows have also mattered: GLD saw a very large **$1.01 billion creation** on Aug. 17 followed by **$767.8 million in redemptions** the next day, suggesting unusually heavy but unstable investor demand.[1]
-
-A notable **options trade** hit the market on Monday, when a trader sold about **116,000 in-the-money 420-strike Sept. 18 calls** on GLD and bought the same number of **430-strike calls**, which added to near-term trading interest in the fund.[2]
+On the ETF-specific side, GLD saw very large but choppy flows in mid-August—about **$1.01 billion** of net creations on Aug. 17 followed by **$767.8 million** of redemptions on Aug. 18—suggesting demand remains strong but unstable.[1] There was also a notable options trade on Monday involving roughly **116,000 GLD Sept. 18 420-strike calls** sold and 430-strike calls bought, indicating elevated positioning in the ETF.[2]
 
 ### Risk Flags
-- **Fed minutes** are due **Wednesday, Aug. 27**, which can move rates, bonds, and growth stocks if the language shifts market expectations for September policy.[11]
-- **Jackson Hole** runs **Aug. 27–29**, and market commentary flags it as a major event because Fed Chair signals could drive volatility across US equities and rates.[5]
-- The **economic calendar for Tuesday, Aug. 25** shows a scheduled release day, but the available calendar snippets do not identify a clear top-tier US CPI or FOMC announcement for today itself.[1][4][10]
-- **Geopolitical risk remains elevated**, with Reuters and other market commentary citing **Middle East / U.S.-Iran tensions** as an ongoing source of risk for equities and oil-sensitive sectors.[2][6][9]
-- A **large earnings window** is still in play this week, with Reuters noting a **wave of retail earnings** as a consumer-demand check and market calendars showing ongoing company reports, but no single mega-cap index constituent event was clearly surfaced in the retrieved snippets.[15][3]
+- **Today (Tue 25 Aug 2026):** U.S. **Conference Board Consumer Confidence** for August is released, a secondary but still relevant sentiment indicator for equities.[13]
+
+- **Wed 26 Aug 2026:** U.S. **Q2 2026 GDP second estimate** and **July Personal Income & Outlays / PCE inflation** at 8:30 ET are the key scheduled macro risk events for the week, closely watched for growth and inflation signals.
+
+- **Today (Tue 25 Aug 2026):** Notable U.S. earnings include **Intuit (INTU)**, **Zoom Video (ZM)**, **Dick’s Sporting Goods (DKS)**, **PVH (PVH)**, **HEICO (HEI)** and **Semtech (SMTC)**, which can move individual names and sentiment in relevant sectors.[9][10]
+
+- No **Fed policy meeting (FOMC)**, **payrolls**, or **CPI** releases are scheduled for the remainder of this week based on the available 2026 macro calendars.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
