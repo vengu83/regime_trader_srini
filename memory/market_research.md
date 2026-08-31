@@ -1,35 +1,36 @@
 # Market Research
-_Generated: 2026-08-29 02:55 UTC via Perplexity sonar-pro_
+_Generated: 2026-08-31 19:12 UTC via Perplexity sonar-pro_
 
-## 2026-08-29 Pre-Market Research
+## 2026-08-31 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **slightly lower** in pre-market trading, with S&P 500 futures around 7,724, down about 0.2–0.3% from the prior close.[12][10]
+S&P 500 and Nasdaq futures are **modestly lower pre‑market**, with S&P 500 futures down around 0.25–0.45% and Nasdaq futures down about 0.2–0.6% as of this morning.[2][10][11][14]  
 
-There are **no major scheduled U.S. economic data releases** (such as CPI, NFP, PPI, or weekly jobless claims) today; the calendar for August 29 primarily notes ongoing events rather than new headline data.[2][3][9]
+The US calendar today has **no major headline releases** like CPI, NFP, PPI, or weekly jobless claims, with scheduled items mainly consisting of routine rate and market data (SOFR, federal funds, corporate bond yields, Texas manufacturing survey, etc.).[8]  
 
-The **Jackson Hole Economic Policy Symposium** continues today, with Federal Reserve Chair Kevin Warsh having delivered keynote remarks yesterday, and no separate major FOMC rate decision or minutes release scheduled for today.[13][14]
+There are **no widely flagged FOMC decisions or major Fed speeches** scheduled for today beyond regular publication of Fed-related indices and rate data.[8][15]  
 
-Overnight, **European markets** are modestly mixed to slightly higher, supported by scattered positive data such as Nordic and Central European GDP and confidence figures released this morning.[6]
+Asian equities traded **sharply lower overnight**, with the MSCI Asia Pacific index down about 1%, Japan’s Nikkei off roughly 1–2%, Korea’s Kospi down over 1%, and Hang Seng/other regional benchmarks also weaker.[1][6][7][13]  
 
-Asian data overnight showed **steady to modest growth** in select economies (e.g., Finland and Czech Republic-related releases on global calendars), but no single major Asia-Pacific macro shock is highlighted today.[6][9]
+European markets are **softer in early trade/pre‑market**, with Euro Stoxx 50 and Stoxx 600 futures down around 0.2% and broader European bourses described as weaker on light volumes.[3][4][9]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): Recent SPY-relevant headlines are centered on **Fed and rates**, not ETF-specific flows: CNBC highlighted “the fuss about bond yields” on Aug. 24, while Investing.com noted Fed Chair Kevin Warsh said underlying inflation has *not meaningfully improved*, keeping higher-rate pressure in focus for equities.[1][6]  
+- **SPY** (regime: `unknown`): **No material news.** The latest items tied to SPY are mostly market commentary rather than ETF-specific events: coverage on August 27 noted options activity suggesting further S&P 500 upside, while August 25–27 commentary highlighted concern about rising bond yields and valuation after the ETF pulled back from recent highs.[4][10] Recent price action has been modest, with SPY trading around the high-760s to low-770s range and moving in line with broader S&P 500/sector rotations rather than any SPY-specific catalyst.[6][14]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is the *tech/AI tape*: Nasdaq-100 strength has been the main support, with recent headlines tying gains to AI infrastructure and Nvidia-led momentum, while commentary also notes the market broadening away from megacap tech at times.[10][12][19] On the macro side, traders are also weighing *Jackson Hole / Fed-rate expectations* and higher-rate risks, which can pressure long-duration growth stocks like the QQQ holdings basket.[13][18][20]
 
-Market tone is also being shaped by **tech leadership and broadening breadth**: CNBC said the market is broadening beyond megacap tech, but recent coverage also linked SPY’s strength to Nvidia/AI-driven risk appetite and a record options backdrop supporting the S&P 500.[1][11][14]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is still the **Nasdaq-100/mega-cap tech rebound**, with Nvidia’s earnings reviving AI optimism and lifting tech-heavy indexes that QQQ tracks.[20][16] On the flow side, QQQ has recently seen **very large inflows** and a reported quarterly dividend increase to **$0.8135 per share**, which are supportive for the fund’s sentiment and income profile, while the latest Treasury move to expand long-term bond repurchases may also help growth stocks via lower long-end yields.[7][6][1]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the **continued selloff in long-duration Treasuries**, with the ETF hitting a multiyear/20-year low in mid-August as **Treasury supply, inflation concerns, and heavy bond-market pressure** pushed long yields higher.[1][4][18] Recent coverage also highlights **large TLT outflows** and **bearish technical damage**, while some desks note a growing **bullish options bias** and traders positioning for a bond rally ahead of **Jackson Hole / Fed signaling**.[2][4][12][18]
-- **GLD** (regime: `unknown`): GLD was hit by a **sharp drop** after Fed Chair Kevin Warsh’s hawkish Jackson Hole remarks revived expectations for higher-for-longer rates, with one summary noting September rate-hike odds rose to about 60% and gold prices came under pressure as a result.[4][9] At the same time, the ETF has still seen **very strong recent inflows** and bullish positioning, including reports of about $5.8 billion of August inflows, record-ish call activity in GLD options, and a large options roll in 116,000 Sep. 18 calls that kept the market focused on gold’s upside momentum.[4][1][10]
+The ETF itself has also seen *continued investor demand and distribution changes*: sources cited sizeable recent inflows into QQQ and noted a quarterly dividend increase to $0.8135 per share, though recent price action has been choppy and still below the June 2026 high.[3][4][7][9][17]
+- **TLT** (regime: `unknown`): TLT has been under pressure from the **continued selloff in long-dated Treasuries**, with reports this week citing 30-year yields pushing to around **5.26%** and TLT outflows accelerating after the Fed decision.[2][13] Recent coverage also highlights **Treasury supply, inflation fears, and deficit/buyback concerns** as the main macro drivers behind the move, with TLT recently trading near multi-decade lows.[1][8][12]
+
+ETF-specific flow data shows **heavy net outflows** from TLT, including more than **$477 million** in one day and another **$277 million** the next, which likely adds near-term price pressure.[2]
+- **GLD** (regime: `unknown`): GLD had a notable **options flow** on Aug. 24, with a trader rolling **116,000 in-the-money Sep. 18 420-strike calls** into **430-strike calls**, a large bullish repositioning that can support sentiment in the ETF.[1] More broadly, recent coverage says gold has been supported by **safe-haven demand**, **lower Treasury yields / weaker rate-hike expectations**, and **strong ETF inflows**, with GLD among the most-traded ETFs and gold funds attracting sizable money this month.[4][9][14][18]
 
 ### Risk Flags
 No major risk events scheduled.
 
-- The **Jackson Hole Economic Symposium** is ongoing over the weekend (listed for August 27–29 and also noted on calendars spanning August 30), but this is primarily a policy/academic conference and not a scheduled rate-decision event.[5][4][8]  
-- The **next regular FOMC meeting** is scheduled for **September 15–16, 2026**, with no regularly scheduled policy meeting this week; late-August activity is limited to a notation vote and previously released July meeting minutes.[11][2][10]  
-- An ALFRED release calendar entry shows an **FOMC press release dated August 29, 2026**, but there is no corroborating indication of a regular meeting or policy decision associated with that date, suggesting limited direct market impact.[9][11]  
-- Broad US economic release calendars for this specific Saturday list **no major tier-1 data (CPI, PCE, payrolls) or high-importance macro prints** hitting today.[1][4][8][12]  
-- The **S&P 500 earnings calendar for the week of August 23–29, 2026** shows only a small number of reports and no clearly highlighted mega-cap index constituents with calls scheduled for today, implying a relatively quiet earnings backdrop.[14]
+- **No FOMC meeting or rate decision** is scheduled this week; the next regular FOMC decision date is mid‑September 2026.[2][4][5][6][8]  
+- **No major top‑tier US data releases** (such as CPI, PCE, or nonfarm payrolls) are on the calendar for Monday, August 31, 2026; scheduled items are mainly regional Fed surveys and bill auctions.[1][11][13]  
+- **Earnings calendar for Aug 31–Sep 4, 2026** shows a light slate with only a few dozen reports and no large benchmark US index constituents flagged as major market drivers.[10][14]  
+- **No specific US‑focused geopolitical or policy summits** (e.g., Jackson Hole, major G7/G20 leaders’ meetings) are indicated for this week beyond routine central‑bank communications.[1][2][7]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
