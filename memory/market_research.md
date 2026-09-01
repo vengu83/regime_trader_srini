@@ -1,38 +1,41 @@
 # Market Research
-_Generated: 2026-08-31 23:26 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-01 16:50 UTC via Perplexity sonar-pro_
 
-## 2026-08-31 Pre-Market Research
+## 2026-09-01 Pre-Market Research
 
 ### Macro Context
-S&P 500 futures are modestly lower pre-market, while Nasdaq futures are slightly down to flat, with sources showing S&P futures off about 0.1–0.3% and Nasdaq futures roughly flat to down ~0.2% as of early U.S. morning trading.[1][2][6][10][12]
+S&P 500 and Nasdaq futures are **down pre‑market**, with S&P 500 futures roughly –0.5 to –0.6% and Nasdaq 100 futures around –0.9% as higher global yields and oil prices pressure risk assets.[6][14]
 
-Today’s notable scheduled **U.S. economic releases** include the **Chicago PMI (Aug)**, the **Dallas Fed Manufacturing Business Index (Aug)**, and **3‑month and 6‑month Treasury bill auctions**.[4][11][15]
+The key scheduled US economic release today is the **Job Openings and Labor Turnover Survey (JOLTS) for July 2026** at 10:00 a.m. ET, per the Bureau of Labor Statistics and economic calendars.[1][2][10]
 
-The Federal Reserve’s own calendar shows several routine data updates (SOFR averages, federal funds data, Overnight Bank Funding Rate, Texas Manufacturing Outlook Survey, etc.), but there are no major CPI, PPI, NFP, or FOMC rate decision events scheduled today based on standard economic calendars.[8][11]
+Additional US data and indicators on the day’s calendar include overnight and secured funding rate updates, federal funds data, and regional surveys such as the Texas Service Sector Outlook Survey and GDPNow updates later in the session.[2]
 
-Recent commentary highlights **hawkish Fed signals** contributing to higher Treasury yields (10‑year around 4.7% in pre‑market context), which is cited as one factor in today’s weaker U.S. equity index futures.[6][10]
+Federal Reserve communications today include speeches listed on the Fed’s 2026 events and speeches calendars, with appearances by senior officials at venues such as Jackson Hole and regional economic luncheons in early September.[3][8][11][12]
 
-Overnight, U.S. futures weakness has been linked to geopolitical tensions and higher Brent crude (above $91 per barrel), while global risk sentiment is described as cautious; specific major Asia/Europe index levels are not fully detailed in the retrieved results, but the tone points to pressure rather than broad risk‑on moves.[10]
+Asian equities were modestly positive overnight, with the **MSCI Asia Pacific Index up about 0.2%**, while emerging‑market equities also rose around 0.2%, indicating a mild risk‑on tone in the region.[6]
+
+European markets are weaker this morning, with the **STOXX Europe 600 down about 0.5%** and major indices such as the Euro Stoxx 50 and DAX showing declines of roughly 0.7–1.1% into the European session.[6][13][14]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **No material news.** Recent SPY-related coverage is mostly price/action commentary rather than fresh ETF-specific catalysts, with the ETF trading slightly lower and still near recent highs while broader market news has focused on options activity, valuation, and macro concerns like rising bond yields and growth/data worries.[1][14][20]
-- **QQQ** (regime: `unknown`): **No material news.** The latest items are mostly routine flow and price updates: QQQ has seen continued investor inflows and a recently raised quarterly dividend, but nothing in the results indicates a fresh ETF-specific catalyst today.[2][5][15]
+- **SPY** (regime: `unknown`): SPY appears to have **no single ETF-specific catalyst** driving it today; the move is being shaped mainly by **macro and sector rotation** rather than fund flows or a SPY-only headline.[1][4][15] The most relevant backdrop in the available headlines is a **mixed broader market tone**, with SPY trading lower intraday and news flow pointing to **September seasonality/rate-risk concerns** plus some offset from **AI/tech strength** in the index.[1][4][8][11]
+- **QQQ** (regime: `unknown`): **QQQ-specific news is mixed but not dramatic today.** The most material item is Invesco QQQ shareholders’ approval of a restructuring that will convert the fund from a unit investment trust into an open-end ETF and cut the expense ratio from **0.20% to 0.18%**, a positive long-term structural change for the fund. [8]
 
-Macro/sector context is mixed: Nasdaq-100/mega-cap tech remains the main driver, with AI-related strength supporting the fund at times, while recent commentary also notes sensitivity to shifting interest-rate expectations and broader equity rotation away from megacap tech.[10][13][16]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the continued **selloff in long-dated Treasurys**, with the ETF recently hitting its **lowest close since 2004** as yields rose and bond-market pressure intensified.[1][12] Recent reporting also points to **large TLT outflows** and bearish technical breakdowns, while macro concerns such as **heavy Treasury supply, inflation worries, and a larger deficit/debt outlook** are weighing on the long-bond sector.[4][8][11]
+On the market-driver side, QQQ is trading against a backdrop of **tech-heavy sensitivity to Nvidia and AI earnings**, plus broader pressure from **rising Treasury yields, Fed-rate expectations, and September seasonality**, which can move the Nasdaq-100 more than ETF-specific headlines. [1][4][13]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is the U.S. Treasury’s August 19 decision to **double long-dated bond buyback operations** to at least **$4 billion per auction** for the 10- to 30-year sector, starting September 9, which is supportive for liquidity and relevant to TLT’s underlying long-duration Treasury holdings.[2][3] The other key macro backdrop is **rate-cut uncertainty / higher-yield pressure**: recent reports cite stronger labor data and renewed rate-hike bets weighing on Treasury prices, while TLT has also seen meaningful inflows despite the weakness.[4][7][10]
+- **GLD** (regime: `unknown`): **GLD is being driven today mainly by macro headlines, not ETF-specific events.** The most material recent catalyst is a heavier-higher Treasury buyback plan that could help cap long-end yields, alongside renewed focus on the Fed path and real rates, both of which are key inputs for gold prices and therefore GLD.[1][2]
 
-There is also some offsetting flow data: CNBC noted **bullish options positioning** in TLT around late August, which suggests some traders are still positioning for a rebound in long Treasurys.[2]
-- **GLD** (regime: `unknown`): GLD’s most material recent news is a large **options roll** in the ETF: a trader sold 116,000 Sep. 18 **420-strike calls** and used part of the proceeds to buy the same number of **430-strike calls**, which CNBC said was a \( \$202 \) million to \( \$144 \) million repositioning in an already in-the-money trade.[1] That kind of flow can matter for near-term price action because it signals active demand for upside exposure in GLD itself, even though it is not a fundamental change in the fund.[1]
-
-The broader backdrop remains supportive but volatile: gold-related headlines over the past week have pointed to strong **safe-haven demand**, **gold ETF inflows**, and macro sensitivity to **U.S. rates, yields, and the dollar**.[9][16][18] At the same time, recent coverage has noted gold and GLD pulling back after hawkish Fed commentary and rate-hike worries, so today’s move is likely to be driven more by macro rates/dollar trading than by ETF-specific fundamentals.[15][17]
+There was also a large options roll in GLD last week: a trader shifted from 420-strike to 430-strike September calls, still bullish but at a smaller size, which may signal some easing in near-term conviction ahead of major macro releases.[3] More broadly, recent commentary shows GLD has been sensitive to hawkish Fed signals, dollar strength, and changes in safe-haven demand, all of which can move the ETF intraday.[8][14]
 
 ### Risk Flags
-No major risk events scheduled.
+- **Today, Tue Sep 1, 2026:** US **JOLTS job openings (July)** release at 10:00 AM ET, a labor-demand indicator with potential implications for rates and equities.[6][12][13]
 
-- **No FOMC meeting** is scheduled this week; the next regular FOMC is mid-September (September 15–16, 2026), so there is no Fed rate decision or SEP release in the August 31–September 4 window.[7][11]  
-- The **U.S. August employment report (NFP)** is scheduled for Friday of this week and is flagged as the key macro event ahead of the September FOMC, with potential to move rates and equity volatility.[10]  
-- Today’s U.S. calendar includes only **second-tier items** such as the Dallas Fed Manufacturing Index and regular 3‑month and 6‑month Treasury bill auctions, which are not typically primary equity volatility drivers.[9]  
-- The **earnings calendar** for today and the week is relatively light, with a handful of mid‑cap names like Science Applications International (SAIC) and several others reporting, but no mega‑cap index heavyweights highlighted.[8][12][15]
+- **Fri Sep 4, 2026:** US **Employment Situation (nonfarm payrolls, unemployment rate)** release, historically a high‑volatility event for rates, FX, and equity index futures.[13]
+
+- **Fri Sep 11, 2026:** US **CPI (August)** release, a key inflation print closely watched for Fed policy expectations and equity risk premia.[6][13]
+
+- **Tue Sep 1, 2026 – earnings:** S&P 500 and large‑cap names reporting today include **Medtronic (MDT, pre‑market), Palo Alto Networks (PANW, after‑close), Dell Technologies (DELL, after‑close), MongoDB (MDB, after‑close), Credo Technology (CRDO)**, collectively >$800B in market cap.[14][15]
+
+- **Upcoming Fed event (outside this immediate week but relevant):** Next **FOMC meeting Sep 15–16, 2026** with rate decision and SEP/dot plot on Sep 16 at 2:00 PM ET, a major scheduled policy risk for US assets.[1][5][8][9]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
