@@ -1,37 +1,33 @@
 # Market Research
-_Generated: 2026-09-01 22:06 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-02 16:47 UTC via Perplexity sonar-pro_
 
-## 2026-09-01 Pre-Market Research
+## 2026-09-02 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **trading lower pre‑market**, with S&P 500 futures down roughly 0.6% versus the prior close.[2][8][14]  
-
-The main scheduled US data release today is the **July JOLTS (Job Openings and Labor Turnover Survey)** at 10:00 AM ET, per the 2026 economic calendars.[3][11][12]  
-
-No major CPI, PPI, nonfarm payrolls, or FOMC rate decision is on the US calendar for today based on the September 2026 release schedule.[3][12]  
-
-Public calendars for Federal Reserve events list only routine rate/benchmark updates today (e.g., overnight financing and federal funds data), with **no major Fed speeches or policy meetings** flagged.[6]  
-
-Overnight, **Asia traded defensively**, with Japan’s Nikkei down about 0.15%, TOPIX up about 0.6%, and Hong Kong’s Hang Seng off about 0.9% amid higher yields and oil above $90.[7][9]  
-
-European markets closed **mostly lower** yesterday, with the DAX down about 1.1%, CAC 40 down about 0.8%, and STOXX Europe 600 down roughly 0.6%.[1][7][9][10]
+- **S&P 500 futures** were slightly lower pre-market, with one live market brief showing them up **0.08%** and another showing them down **0.29%**, while **Nasdaq futures** were also mildly weaker at about **-0.1% to -0.65%**. [5][1]
+- **Today’s U.S. data calendar** includes **weekly jobless claims** at **8:30 AM ET**, and the broader September release schedule also lists **no CPI, PPI, NFP, or FOMC rate decision** for today. [13][15]
+- **Fed events today** include the **Fed Beige Book** later in the day, and no other Fed speaker event was shown in the gathered calendar results. [12][15]
+- **Asia** was mixed to weaker overnight, with the available brief pointing to risk-off tone in global equities rather than a broad rally. [1][5]
+- **Europe** was also mixed at the open, with U.S. futures trading soft and the global tone described as cautious in the pre-market notes. [3][7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is trading slightly lower intraday, and the main near-term driver appears to be **macro rate expectations** rather than ETF-specific news: market commentary cited on SPY news feeds says investors are “on high alert” heading into September, with September seasonal risk and a repricing of Fed odds weighing on U.S. equities.[2][13][5] Sector rotation is also being flagged, with recent broad-market weakness partly offset by strength in **consumer, energy, and communication** shares, while SPY’s own headline flow today does not show a major fund-specific event.[9][16]
-- **QQQ** (regime: `unknown`): **QQQ’s most material recent driver is a broad tech-led move tied to expectations around Nvidia’s earnings and ongoing strength in large-cap AI/semiconductor names, with the ETF recently turning slightly positive for 2026 after a sharp gain.** Market reports also point to macro sensitivity from **Federal Reserve rate expectations** and broader **risk-off pressure** on richly valued growth stocks, which is weighing on intraday trading today.[1][3][5]
-- **TLT** (regime: `unknown`): TLT’s most material recent driver is the U.S. Treasury’s **Aug. 19 increase in long-dated Treasury buyback capacity** to at least **$4 billion per operation**, effective Sept. 9, which supports liquidity in the 10- to 30-year sector and can influence long-end yields and TLT pricing.[2][3][9]  
+- **SPY** (regime: `unknown`): SPY is being driven today mainly by **macro rates and risk sentiment**, with reports pointing to **higher Treasury yields, rising oil prices, and renewed interest-rate चिंता** weighing on the ETF, while strong momentum and corporate earnings are offering some offset.[2][11][16] There is also a notable **credit-market divergence** flagged by Longview Economics, where widening spreads in the riskiest CCC-and-lower corporate debt are being cited as a potential spillover risk for equities, and SPY is trading about **12.6% above GF Value** in one recent analysis.[1]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is **ETF- and sector-level pressure from higher rates and geopolitics**: the fund fell about **1.3%** as bond yields rose and Iran-related tensions intensified, which tends to hit richly valued Nasdaq growth stocks hardest.[1][19] At the same time, **AI/semiconductor demand remains supportive**, with August flows still showing strong inflows into Nasdaq-100 and AI-focused ETFs, so the near-term setup is a tug-of-war between strong tech appetite and valuation/macro risk.[1]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is the U.S. Treasury’s August 19 announcement that it will **double long-dated bond buyback operations** in the 10- to 20-year and 20- to 30-year sectors to at least $4 billion per operation, starting September 9; that policy is directly relevant to TLT because it tracks long-duration Treasuries and can affect liquidity and yields in its maturity bucket.[2][3]  
 
-Separately, TLT is trading **ex-dividend today** and the fund has been under pressure from **higher long-term Treasury yields / renewed rate-hike or sticky-inflation bets**, with recent headlines also noting strong labor data and rising oil/geopolitical inflation concerns weighing on bond prices.[7][4][5]
-- **GLD** (regime: `unknown`): GLD’s most material recent driver is a **macro selloff in gold** after hotter-than-expected PCE inflation and hawkish Fed repricing pushed Treasury yields higher, while a firmer dollar and fading safe-haven demand added pressure; gold futures recently pulled back from three-month highs and GLD traded lower into the close.[14][13][17] There was also a notable **options roll** in GLD—one large trader moved from 420-strike calls into 430-strike calls with less capital, which still signals bullish positioning but a slightly less aggressive stance ahead of key macro events.[5]
+The other major near-term macro factor is **rising rate-hike expectations** after stronger U.S. labor data and recent Fed commentary, which pushed Treasury yields up and pressured long-bond ETFs; TLT was reported lower on that backdrop, while the ETF also went **ex-dividend** on September 1 with a $0.3147 distribution.[4][8][15]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is a **sharp pullback in gold prices**, with gold under pressure from **higher Treasury yields, hawkish Fed expectations, a firmer dollar, and reduced safe-haven demand**; one recent report said GLD fell 3.5% pre-open as gold dropped below $4,100/oz toward seven-month lows.[13][14] That said, the macro backdrop remains supportive enough to keep gold in focus, with recent commentary noting strong August inflows into gold-linked products and ongoing demand tied to U.S. debt and currency concerns.[11][12]
 
 ### Risk Flags
-Job Openings and Labor Turnover Survey (JOLTS) for July 2026 is released today at 10:00 ET, a labor-market indicator that can move rates and equities.[6][13][15]
+- **US macro:** Job Openings and Labor Turnover (JOLTS) for July 2026 is scheduled today, Wednesday Sep 2, at 10:00 AM ET, a labor-demand indicator that can move rates and equities.[11]
 
-Today’s calendar also includes several Fed- and activity-related items (e.g. Fed Vice Chair for Supervision Barr speaking, Manufacturing/ISM-type indices, construction spending) that can affect rate expectations and cyclical sectors.[1][10][11]
+- **Fed / FOMC:** No FOMC rate decision this week; the next scheduled FOMC meeting with SEP and dot plot is Sep 15–16, 2026, with the decision on Sep 16 at 2:00 PM ET.[1][3][6][9][10]
 
-This week is otherwise relatively light on top-tier US macro data (no CPI, nonfarm payrolls, or FOMC decision this week; next FOMC rate decision with SEP/dot plot is scheduled for September 16, 2026). [2][7][9][14][15]
+- **US earnings:** Brown-Forman (BF.B) reports pre-market and Hewlett Packard Enterprise (HPE) post-market on Wed Sep 2, 2026; both are notable but not top-tier index volatility drivers compared to mega-cap tech or money-center banks.[8]
 
-No major earnings from US mega-cap index constituents are flagged on today’s broad economic calendars; equity risk this week appears driven mainly by secondary data releases and any unscheduled geopolitical or policy headlines.
+- **Other US releases today:** Several routine Fed and BLS series (e.g. ADP employment report, regional and financial-stress indices) are on the calendar but are typically secondary versus NFP/CPI/FOMC in driving broad US equity volatility.[14]
+
+- **Overall weekly risk tone:** Outside of the JOLTS print and scattered earnings, there are no major US CPI, nonfarm payrolls, or FOMC rate decisions scheduled this week; the next primary risk event is the mid-September FOMC meeting.[1][3][9][11]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
