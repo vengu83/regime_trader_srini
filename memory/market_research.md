@@ -1,35 +1,39 @@
 # Market Research
-_Generated: 2026-09-02 22:00 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-03 16:37 UTC via Perplexity sonar-pro_
 
-## 2026-09-02 Pre-Market Research
+## 2026-09-03 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 futures** were higher in pre-market trade, with one live feed showing E-mini S&P 500 Sep 2026 around **7,684.75 (+0.55%)** and another showing around **7,642.00 to 7,660.25** earlier in the overnight session.[10][7]  
-- **Nasdaq futures** were also higher pre-market, with Yahoo Finance showing **Nasdaq Futures 29,109.50 (-16.00, -0.05%)** in one overnight snapshot and no later conflicting Nasdaq-specific quote in the gathered results.[6]  
-- **Today’s U.S. data calendar** includes the BLS release of **Metropolitan Area Employment and Unemployment** at **10:00 AM ET**, plus market-data items such as **ADP National Employment Report** at **7:15 AM ET** and several Fed-related statistical releases; there is **no CPI, PPI, NFP, FOMC decision, or weekly initial jobless claims** release scheduled for today in the results gathered.[2][14][8]  
-- **Fed speaker events today:** no Fed chair, governor, or regional Fed speaker appearance was identified in the gathered calendar results for **2026-09-02**.[2][5][8]  
-- **Overnight Asia and Europe** were mixed to firmer: Reuters showed **Euro STOXX 50 +0.95%** and **FTSE 100 +0.29%**, while **Nikkei 225 -1.57%** was lower in the same global snapshot.[3]
+- **U.S. equity futures:** September S&P 500 E‑Mini futures are modestly higher (about +0.1%), while September Nasdaq‑100 E‑Mini futures are slightly lower (around ‑0.1%), implying a muted, mixed open.  
+
+- **Key U.S. data today:** At 8:30 ET, the BLS releases **Productivity and Costs (revised) for Q2 2026**; later in the day the BEA reports **U.S. International Trade in Goods and Services for July 2026**, and weekly **initial and continuing jobless claims** plus associated 4‑week averages are due.  
+
+- **Other U.S. indicators:** The calendar also includes **Challenger job cuts (Aug)**, mortgage rate updates (15‑year and 30‑year), a **4‑week bill auction**, and ISM **services** sub‑indices (employment, new orders, prices) in the afternoon.  
+
+- **Fed speakers/commentary:** I do not have reliable, up‑to‑the‑minute access to today’s detailed Fed speaker schedule; no major FOMC decision is on the calendar, and any remarks would be in the form of individual speeches or interviews rather than a policy meeting.  
+
+- **Overnight Asia/Europe:** Japan’s final **S&P Global composite PMI** improved modestly (mid‑50s) and European markets were trading with typical modest moves into the European session; there were no single dominant overnight macro shocks reported.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY is being driven today mainly by macro news, not fund-specific headlines:** markets are reacting to a favorable CPI print and stronger AI-related sentiment, while recent session flow has also been shaped by a drop in stocks earlier this week on higher Treasury yields, oil/inflation fears, and hawkish Fed commentary. [1][4][5]
+- **SPY** (regime: `unknown`): **SPY-specific news is limited, but the main near-term drivers are macro rather than fund-specific:** Treasury yields eased, helping U.S. stocks close higher yesterday, while the Fed is still signaling caution on rate cuts, which keeps duration-sensitive equity valuations in focus.[2][11]  
 
-On the ETF side, there is no major SPY-specific corporate event, but broad S&P 500 positioning remains sensitive to September seasonality and options-market volatility, which CNBC/MarketWatch flagged as a near-term risk factor for the ETF. [5][7]
-- **QQQ** (regime: `unknown`): QQQ’s main near-term driver is **macro risk-off pressure**: U.S. stocks, especially the Nasdaq, have been under pressure from **higher oil prices, inflation fears, and elevated Treasury yields** tied to renewed U.S.-Iran tensions and recent strikes, which tends to weigh on large-cap tech exposure in QQQ.[2][3][4] ETF-specific coverage also notes QQQ has recently **underperformed broader U.S. equities because of its heavy Technology weighting**, even though July saw **strong net inflows of $4.331 billion** into the fund.[5]
-- **TLT** (regime: `unknown`): TLT’s most relevant recent drivers are macro, not fund-specific: Treasury yields eased in the latest session, which supported long-duration bonds and lifted TLT modestly on the day. Recent headlines also point to renewed concern about U.S. inflation, fiscal outlook, and bond-market volatility, alongside chatter about Treasury buyback ideas and Fed-rate expectations, all of which can move long-dated Treasury ETFs like TLT.[2][3]
+There is also some flow/positioning noise: one market note says SPY is trading about **12.5%–13.5% above** GuruFocus’ GF Value estimate and mentions mixed institutional activity, with more gurus trimming than adding.[1][2]
+- **QQQ** (regime: `unknown`): **QQQ-specific news is limited today; the main price drivers are broader tech/AI sentiment and macro rates.** Recent coverage highlights continued strong demand for Nasdaq-100 and AI/semiconductor ETFs, but also notes pressure from higher rate expectations and geopolitical risk, both of which can weigh on QQQ’s growth-heavy, tech-concentrated portfolio.[1][5]
 
-There was also an ETF-specific mechanical note: new options for TLT became available for the September 2 expiration, but that is usually a secondary factor versus yield and Fed-rate moves.[7]
-- **GLD** (regime: `unknown`): GLD’s most material recent driver is the **gold rebound after a sharp selloff**, with market commentary pointing to buying interest near technical support while investors weigh **rising U.S. Treasury yields, a firmer dollar, and expectations for a September Fed move** as headwinds for bullion and gold ETFs like GLD.[3][6] GLD was also reported around **$396.75–$402.56** intraday/after-hours in the latest market data, reflecting the recent volatility in the fund.[2][4][5]
+There is also a new competitive headline: BlackRock filed a preliminary prospectus for a Nasdaq-100 ETF under the ticker **IQQ**, which could matter more for flows and attention than for same-day NAV, while QQQ itself has recently seen sharp trading tied to tech earnings expectations, especially Nvidia.[12][2]
+- **TLT** (regime: `unknown`): **TLT’s main near-term driver is the Treasury market, not fund-specific news:** the U.S. Treasury announced on August 19 that it will **double buyback sizes** in 10- to 30-year Treasuries to at least $4 billion per operation, effective September 9, which could support liquidity and influence long-end yields that TLT tracks.[2][4][11]
+
+For today, the most relevant market backdrop is still **rate-cut expectations versus higher yields**: recent coverage says TLT has been under pressure from elevated Treasury yields and inflation/rate-hike worries, while another report notes bond ETFs have rebounded on expectations the Fed may cut rates soon.[6][8][13] TLT last traded around **$81.95**, roughly flat on the day, with the ETF also going ex-dividend on September 1 for **$0.3147**.[1][12][14]
+- **GLD** (regime: `unknown`): GLD was hit by a **selloff in gold** after hawkish Fed remarks from Chair Kevin Warsh boosted September rate-hike odds, which lifted Treasury yields and the dollar and pressured bullion. [16][17][19]  
+
+More recently, gold has shown a **partial rebound** as the yen strengthened on intervention rumors and the dollar weakened, while ETF flow data still points to strong demand with GLD among the top U.S. ETFs for inflows in the past week. [3][14]
 
 ### Risk Flags
-- **Broadcom (AVGO)** and **Hewlett Packard Enterprise (HPE)** report earnings today, September 2, 2026, after market close, both being notable tech names and S&P 500 constituents.[5][14][8]
-
-- The **August 2026 Employment Situation (nonfarm payrolls)** report is scheduled for release this week (Friday, September 4, 2026), a key high-volatility macro event for US equities.[10][4]
-
-- The **Producer Price Index (PPI) for August 2026** is scheduled for release next week on Thursday, September 10, 2026, which may start to be priced in by markets during this week.[10][7]
-
-- A recent **G20 Finance Ministers and Central Bank Governors meeting (Aug 31–Sep 1, 2026, Asheville, NC)** could sustain headline risk around global macro and policy coordination into this week.[3]
-
-- **No FOMC meeting or CPI release is scheduled for this specific week**; the next FOMC meeting is September 15–16, 2026, and the September CPI release is later in the month.[1][13]
+- **U.S. macro calendar:** No major U.S. inflation or labor-market releases are clearly flagged for today in the gathered calendar data, but the week still includes a broad set of scheduled economic events and market participants are watching the usual early-September data flow.[6][9][11][13]  
+- **Fed risk flag:** A **Fed Waller speech** is scheduled today, which can move rates and equity index futures if he comments on policy, inflation, or labor conditions.[6]  
+- **Earnings risk:** The gathered results did not identify specific major S&P 500 or Nasdaq-100 constituent earnings due today, so no single large-cap U.S. earnings catalyst was confirmed from the available data.[9][12]  
+- **Geopolitical risk:** Markets are still pricing elevated **Middle East / U.S.-Iran tensions**, with recent reporting linking renewed strikes and higher crude prices to stronger inflation and rate-hike concerns.[2][3][7][10][14]  
+- **Seasonal risk flag:** Early September is a historically weaker period for equities, and recent coverage notes pressure from rising yields and oil prices alongside higher odds of a September Fed hike.[2][3][7]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
