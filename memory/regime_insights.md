@@ -1,6 +1,6 @@
 # Regime Insights
 
-_Updated 2026-09-04 by End of Day Review_
+_Updated 2026-09-04 by Weekly Regime Summary_
 
 ## Current Regimes
 
