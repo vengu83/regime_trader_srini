@@ -1,43 +1,33 @@
 # Market Research
-_Generated: 2026-09-11 16:42 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-11 22:00 UTC via Perplexity sonar-pro_
 
 ## 2026-09-11 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **up modestly pre-market**, with S&P 500 futures roughly +0.4–0.6% and Nasdaq 100 futures around +0.4% after several sessions of declines.[4][5][9][11]
-
-The key scheduled US data release today is the **August CPI** at 8:30 AM ET, alongside **Real Earnings** for August from the Bureau of Labor Statistics.[3][13][14]
-
-Additional US-related releases today include various price and inflation metrics (e.g., CPI-related indexes, median and sticky CPI) and Fed-related rate/financing data on the broader economic calendars.[7][15]
-
-Asian equity markets **sold off sharply overnight**, with benchmarks such as Japan’s Nikkei 225 and South Korea’s Kospi down around 2.5–2.7%.[6][10]
-
-European equities are **up slightly this morning** (STOXX 600 about +0.4%) but remain on track for their largest weekly decline in about two months amid elevated yields and ahead of US inflation data.[1][12]
-
-No specific major Fed speeches are flagged in the calendars used here for today; Fed-related items are mainly data and statistical releases rather than policymaker events.[7][15]
+- **S&P 500 futures** and **Nasdaq 100 futures** were **higher pre-market**, with Reuters reporting S&P 500 futures up **0.4%** and Nasdaq futures up **0.3%** early Friday.  
+- Today’s U.S. data calendar includes **CPI** at **8:30 a.m. ET** and **Initial Jobless Claims** at **8:30 a.m. ET**.  
+- Market calendars also show **no FOMC decision today**, but **Fed speakers/events** are not clearly listed in the available sources for Friday morning.  
+- **Asia** was **lower overnight**, with MSCI Asia-Pacific ex-Japan down **1.5%** and Japan’s Nikkei down **1.9%**.  
+- **Europe** was **slightly higher**, with the **STOXX 600** up about **0.2%** in Reuters’ premarket update.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): Recent SPY pressure is being driven more by **macro factors** than ETF-specific headlines: U.S. equities fell as **oil prices surged back above $100** and **Treasury yields moved higher**, which weighed on the broad market and SPY alongside other large-cap benchmarks.[13][16] Recent coverage also highlights **mixed labor and growth signals**—jobless claims ticked up modestly, while an employment diffusion gauge improved—keeping expectations for Fed policy and rate sensitivity in focus for S&P 500 stocks.[15][19]
+- **SPY** (regime: `unknown`): SPY’s most relevant recent drivers are **macro and rate expectations**: Fed commentary pointing to possible September rate stability, softer Treasury yields, and the market’s shifting probability of a hike have been the main catalysts moving the S&P 500 complex recently.[13][5] SPY also saw a **large outflow week** of about $9.8 billion ending August 28, which can weigh on sentiment even as the ETF has continued trading near record levels.[7][9]
 
-On the ETF side, SPY has also seen **notable outflows** recently, with roughly **$9.8 billion** leaving the fund in the week ending Aug. 28, and several valuation-focused notes saying it trades about **12%–13% above GF Value**, though that is more a valuation commentary than a direct catalyst.[7][1][6]
-- **QQQ** (regime: `unknown`): QQQ has no major ETF-specific headline today, so the main price drivers are **macro and mega-cap tech sentiment** rather than fund flows or product news.[10][20] Recent coverage points to a **tech rotation/sector volatility** backdrop, with QQQ described as flat over the summer and the Nasdaq-100 reacting to inflation data and Fed-rate expectations.[16][13][20]
-- **TLT** (regime: `unknown`): TLT was pressured by **hot August PPI**, which pushed Treasury yields higher and lifted **September Fed hike odds to about 69.8%**, a direct negative for long-duration Treasury ETFs like TLT.[1] The ETF also fell to its **lowest level since May 2004** on Sep. 10, underscoring the market’s reaction to the rise in rates.[1][15]
-
-A secondary driver is the **U.S. Treasury’s increased long-dated bond buyback program**, which took effect Sep. 9 and is aimed at supporting liquidity in the 10- to 30-year sector, though recent headlines still show yields climbing despite the buyback boost.[9][11] TLT also went **ex-dividend on Sep. 1** and paid a monthly dividend of **$0.3147 per share**, but that is less likely to move the ETF today than the rate and yield backdrop.[4]
-- **GLD** (regime: `unknown`): GLD is being driven today primarily by **gold price weakness**, with recent headlines pointing to a sharp selloff after more hawkish Fed messaging and a stronger rate-hike outlook, which has pressured bullion and the ETF. [15][17]
-
-On the ETF-flow side, GLD and related gold ETFs saw **very strong inflows** earlier this week, including about **$1.38 billion into GLD** over five trading days and nearly **$2 billion** combined with GLDM, while European gold ETFs also reported record August inflows, supporting medium-term demand even as prices fell. [1][4]
+Separately, recent coverage has repeatedly flagged SPY as **trading above estimated intrinsic value** by roughly 12%–14%, while the latest price action remained choppy around the mid-$760s to mid-$770s range.[1][6][20]
+- **QQQ** (regime: `unknown`): QQQ is being driven today by **macro rate pressure and inflation sensitivity**: recent news headlines point to higher Treasury yields, renewed inflation fears, and weaker risk appetite hitting Nasdaq-heavy ETFs.[13][16][20] The most direct QQQ-specific item is that its **quarterly dividend was recently increased to $0.8135 per share**, but the more immediate price impact is likely from sector moves in large-cap tech and the market’s reaction to today’s CPI data and Fed expectations.[4][6][11]
+- **TLT** (regime: `unknown`): **TLT is being driven lower by a jump in long-end Treasury yields, with 20+ year bonds under pressure after recent inflation and labor data, and the ETF hit its lowest level since 2004 in Thursday trading.**[2][5][11] The main ETF-specific macro catalyst today is the Treasury’s expanded long-dated buyback program, which market reports say may support liquidity and influence the long end of the curve, but the immediate price action has still been dominated by higher yields and hawkish Fed/rate-stability commentary.[9][10][11][19]
+- **GLD** (regime: `unknown`): Recent GLD-specific pressure comes from a sharp gold selloff tied to **hot U.S. inflation data** and **rising Fed rate-hike odds**, which lifted the dollar and pushed gold lower; several news feeds note GLD sliding with bullion after the August PPI/CPI prints and hawkish Fed commentary.[8][9][10] MarketWatch also flagged gold and silver weakness on Sep. 10 alongside **rising yields** and a **Treasury buyback** headline, while GLD options flow has shown large bearish-to-cautious positioning around the ETF’s recent price weakness.[12][16]
 
 ### Risk Flags
-- **US CPI and Real Earnings (Aug 2026)** released today, Friday September 11, at 08:30 ET, a key inflation print and wage data that can materially impact rate expectations and equity valuations.[7][13]  
+- **US CPI (Consumer Price Index) for August 2026** released today, Friday September 11 at 08:30 ET, alongside **Real Earnings** — key inflation data with high potential impact on rates and equity valuations.[10][12]
 
-- **Multiple CPI-related series** (headline, core, median, sticky price CPI) and associated research updates are scheduled throughout today, adding further granularity to inflation signals watched by equity and rates markets.[8][12][14]  
+- **University of Michigan Consumer Sentiment (preliminary, September)** scheduled today at 10:00 ET, adding consumer-demand and confidence signals that can move risk assets.[8]
 
-- **Preliminary University of Michigan Consumer Sentiment and Expectations (Sep)** are due today, providing timely read‑throughs on household confidence and spending intentions.[12][14]  
+- **Kroger (KR) earnings** pre-market today, a major consumer staples constituent of US indices, providing signals on retail spending and margins.[15]
 
-- **August CPI today feeds directly into the September 15–16 FOMC meeting**, where the Fed will announce its rate decision and updated Summary of Economic Projections on Wednesday, September 16 at 14:00 ET.[1][3][9][10][13]  
+- **US PPI (Producer Price Index) for August** was released yesterday, Thursday September 10 at 08:30 ET, contributing to this week’s inflation/rates narrative.[8]
 
-- **Earnings from several listed names** are scheduled today (e.g., ANAB, CRM, THO, TMXN among S&P 500 and broader universe), adding idiosyncratic risk but no mega‑cap index constituent reports this week around September 11.[4][11]
+- **BRICS leaders’ summit in New Delhi on September 12–13** and ongoing UN General Assembly discussions (September 8–22) focus on Middle East conflict and global trade tensions, representing potential geopolitical headline risk for global markets.[6][13]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
