@@ -1,35 +1,41 @@
 # Market Research
-_Generated: 2026-09-15 17:13 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-15 22:27 UTC via Perplexity sonar-pro_
 
 ## 2026-09-15 Pre-Market Research
 
 ### Macro Context
-S&P 500 and Nasdaq futures are **trading lower pre‑market**, with S&P 500 futures down roughly 0.3–0.35% and Nasdaq‑100 futures down about 0.35–0.4% as of early U.S. pre‑market trade.[2][3][6]
+S&P 500 and Nasdaq futures are **down pre‑market**, with S&P 500 futures off roughly 0.3–0.5% according to multiple pre‑market snapshots.[2][3][15]
 
-The main scheduled U.S. data release today is the **Empire State Manufacturing Survey (New York Fed manufacturing index) at 8:30 a.m. ET**; there are no CPI, PPI, nonfarm payrolls, or jobless claims releases scheduled for today.[11][13][14]
+The main scheduled US macro event today is **FOMC Meeting Day 1**, with no major CPI, PPI, NFP, or weekly jobless claims releases on the calendar, but several second‑tier indicators such as ADP employment, NY Empire State manufacturing, Redbook, and US Treasury bill/bond auctions are due.[12][14]
 
-The **FOMC begins its two‑day policy meeting today (September 15–16)**, with the rate decision and press conference scheduled for tomorrow, so market focus is on the Fed but there is no separate major Fed speech event today beyond the meeting itself.[8][9][14][15]
+Federal Reserve activity today centers on the **start of the two‑day FOMC meeting (Sept 15–16)**, with the rate decision and press conference scheduled for tomorrow; no separate major Fed speaker events are listed beyond the meeting itself.[4][12]
 
-Overnight, **Asia** was mixed to weaker, with regional equities under pressure ahead of the Fed decision and amid higher oil and yields.[3]
+In Asia, equity markets were **mixed to slightly lower**, with prior commentary noting broad pressure from higher oil and yields, though Japan’s main index (JP225) is shown up about 0.7% on the day while recent notes highlight weakness in tech‑heavy markets like Korea.[1][6][10]
 
-**European** markets opened **lower** this morning, with major indices sliding as traders react to U.S. futures weakness and the impending Fed meeting.
+In Europe, stocks are **modestly weaker**, with Euro Area indices such as the STOXX 50 and STOXX 600 extending recent losses and trading down around 0.6–0.8%, while futures are described as hovering near flat in pre‑market trade.[11][7][13]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most recent material drivers are **macro, not ETF-specific**: investors are balancing strong earnings expectations against elevated valuations, bond-market uncertainty, and heavy AI-spending concentration, while the latest CPI print and softer oil prices had previously supported the ETF by easing inflation fears.[1][7][15] The fund also remains **modestly overvalued** on recent valuation checks, which may be weighing on sentiment even as it trades near record highs.[3][6]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is the broad **rates/Fed** backdrop: traders have been pricing in a more hawkish Fed path after hotter inflation data and rising Treasury yields, which has pressured U.S. equity ETFs and Nasdaq-heavy risk assets[2][8][14]. The most ETF-specific headline is a potential **Nasdaq-100 rebalance** effect from SpaceX’s weighting more than doubling, while a bearish semiconductor call from BTIG adds pressure to QQQ’s large chip exposure[2][4][8].
-- **TLT** (regime: `unknown`): TLT is being pressured by a **sharp backup in U.S. Treasury yields**, with reports today noting the ETF slumped as long-end yields rose and 30-year yields pushed above 5.3%, while TLT traded near its lowest levels since 2004.[2][5][11][18] The key macro drivers are **hot inflation data**, a stronger August jobs report, and a Treasury bond-buyback program that has not been enough to stabilize the long end of the curve; the September 16 Fed meeting is also keeping duration-sensitive assets like TLT under pressure.[6][11][13][15]
-- **GLD** (regime: `unknown`): GLD is under pressure from a **broad gold selloff** tied to **higher Treasury yields and firmer Fed rate-hike expectations** after hawkish central-bank commentary, which has weighed on bullion and the ETF’s recent trading.[18][20][2] On the flow side, the biggest ETF-specific development was still **strong inflows** into gold funds last week, with GLD pulling in **$1.378 billion** over five trading days and SPDR’s gold complex nearing **$2 billion** in inflows, even as GLD remains below its early-2026 highs.[1][2]
+- **SPY** (regime: `unknown`): Recent **SPY** price action has been driven by the market’s reaction to **macro data and Fed expectations**: August CPI came in line with forecasts, easing near-term inflation चिंता, while lower oil prices also helped risk sentiment; that rebound followed a prior stretch where rising bond yields and higher oil pressured the ETF. [7][12][9]
+
+More recently, SPY has been trading near record territory but with some caution around **elevated valuations**, **bond-market uncertainty**, and continued reliance on **AI-related earnings spending**, which has kept the ETF’s recent moves mixed despite the broader uptrend. [2][3][4]
+- **QQQ** (regime: `unknown`): **QQQ is being driven more by macro and Nasdaq-100 sector pressure than by fund-specific flows.** Recent coverage highlights rising Fed rate-hike expectations after stronger inflation data, higher Treasury yields, and renewed concern about AI/semiconductor valuations; BTIG also warned chip stocks could fall 15%–20%, which matters because semis are a major Nasdaq-100/QQQ weight.[3][4][7][13][20]
+
+On the ETF-specific side, recent news is mostly routine: several institutions reported adding to QQQ positions, and Invesco raised QQQ’s quarterly dividend to $0.8135 per share.[1][6][7][10][17]
+- **TLT** (regime: `unknown`): TLT has been pressured by a sharp rise in long-end Treasury yields, with the ETF recently hitting its lowest level since 2004 as the 10-year yield approached 5% and the 30-year moved above 5.3%, following hotter U.S. inflation data and stronger labor-market readings.[2][4][11] The most relevant macro drivers today are still the Treasury market’s weak reaction to expanded buybacks and expectations around the Fed meeting tomorrow, while recent headlines about Norway’s sovereign fund potentially trimming Treasury exposure add a bearish sentiment layer to long-duration bonds.[10][11][1]
+- **GLD** (regime: `unknown`): GLD is being driven mainly by **macro-rate expectations**: August U.S. CPI came in at 3.4% y/y, and traders have increased the odds of a Federal Reserve rate hike, which has kept gold under pressure as real yields and Treasury rates rise.[2][18][19] At the same time, **gold ETF demand has been strong**—SPDR’s gold funds took in nearly $2 billion over five trading days, and the World Gold Council reported record European gold ETF inflows in August—providing a supportive flow backdrop for GLD.[3][4]
+
+No ETF-specific corporate event appears to be dominating today’s move; the most relevant price drivers are the Fed outlook, yields, and broader gold/precious-metals flows.[7][18]
 
 ### Risk Flags
-- **FOMC two-day meeting** concludes today, with the September 15–16 Federal Reserve policy meeting and associated statement/press conference a key potential volatility driver for US equities.[1][6][11][15]
+- **FOMC meeting and rate decision:** Two-day **Federal Reserve FOMC meeting** runs September 15–16, with the **policy decision, SEP, and dot plot released Wednesday, September 16 at 2:00 pm ET**, plus a Chair press conference—typically a high‑volatility event for US equities.[1][2][9][10][11][12][14][15]
 
-- **FOMC economic projections and rate decision** are scheduled today around the US afternoon (e.g. ~14:00 ET and later releases), including updated interest rate path projections that can materially impact rates, equities, and risk assets.[11][15]
+- **US CPI release (August):** US **CPI inflation for August** is scheduled this week (focus event with consensus around 3.4% y/y headline and 2.4% y/y core), a key input into Fed expectations and equity risk premia.[13]
 
-- **Empire State Manufacturing Survey (New York Fed)** for September was released this morning at 8:30 ET, a secondary but still market-relevant regional activity indicator for US manufacturing.[3][5][9]
+- **US consumer sentiment (University of Michigan):** Preliminary **University of Michigan consumer sentiment for September** is on the calendar this week, with readings watched for demand and inflation expectations impacts on equity valuations.[13]
 
-- **S&P 500 earnings** this week include reports from index constituents such as **Lennar Corporation** and **The Coca-Cola Company** over the Sep 14–18 window, providing idiosyncratic risk and sector read-throughs.[7]
+- **US federal budget data:** Release of the **US federal budget balance** this week (large expected deficit) can affect rates and risk sentiment, with knock‑on effects for equities.[13]
 
-- No major US **CPI, payrolls, or similar top-tier data prints** are scheduled specifically for today beyond the above; macro calendars highlight the FOMC as the primary scheduled high-volatility event for US markets this week.[2][14][15]
+- **Labor/other data:** Weekly **ADP Employment Change** is listed around September 15, adding incremental labor‑market information that can influence Fed path pricing and near‑term equity volatility.[3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
