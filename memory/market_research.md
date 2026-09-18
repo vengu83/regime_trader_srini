@@ -1,41 +1,36 @@
 # Market Research
-_Generated: 2026-09-17 22:27 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-18 16:39 UTC via Perplexity sonar-pro_
 
-## 2026-09-17 Pre-Market Research
+## 2026-09-18 Pre-Market Research
 
 ### Macro Context
-- **S&P 500 and Nasdaq futures** are trading higher pre‑market, with S&P 500 futures up roughly 0.8–1.0% and Nasdaq futures up about 1.0–1.1% as of early U.S. morning on September 17, 2026.[1][2][6][7]
-
-- **Scheduled U.S. data today** includes August **housing starts and building permits** and weekly **initial and continuing jobless claims** at 08:30 a.m. ET, with jobless claims for the week ending September 12, 2026.[4][10][12]
-
-- There is **no major CPI, PPI, NFP, or FOMC decision scheduled today** based on the economic calendars checked, which highlight claims and housing data as the key U.S. releases.[4][12]
-
-- **Asia markets overnight** traded mixed, with Japan’s **Nikkei 225** and Korea’s **Kospi** up around 0.5–0.9% while other Asian indices showed a mix of modest gains and declines as they digested the recent Fed rate hike.[8][9]
-
-- **Europe** closed higher in the prior session, with the **Stoxx Europe 600, DAX, FTSE 100, CAC 40 and Euro Stoxx 50** all up around 0.3–0.6%, and early indications today show European indices still modestly in positive territory.[5][9][11][15]
-
-- Recent **Fed context** is a hawkish rate hike and press conference noted overnight in Asia/Europe commentary, but no specific Fed speeches or events for today are highlighted on the checked calendars.[9]
+- **S&P 500 futures** were **higher pre-market**, with one live market brief showing S&P futures up **0.2%** and another showing S&P 500 E-minis up **0.23%**. [3][13]
+- **Nasdaq futures** were **higher pre-market**, with one live market brief showing Nasdaq futures up **0.48%** and another showing Nasdaq 100 E-minis up **0.5%**. [3][13]
+- **U.S. scheduled data today** includes **Industrial Production** and **Capacity Utilization** at **1:15 PM ET**, plus the **Conference Board Leading Index** later in the day. [12]
+- **Fed speaker events today** include **Fed Governor Bowman** speaking at **2:00 PM ET** and **Fed Schmid** speaking at **3:45 PM ET**. [12]
+- **Asia** was broadly **firm**, with Reuters showing the **Nikkei 225 up 1.38%** and other coverage describing Asian equities as tracking Wall Street’s rally. [4][5]
+- **Europe** was **mixed to lower**, with Reuters showing the **Euro STOXX 50 down 1.26%** and the **FTSE 100 down 1.07%** in early trading. [7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): **SPY is being driven today mainly by macro/rate news rather than ETF-specific flows:** investors are weighing the Fed’s latest policy decision, elevated bond yields, and still-sensitive energy prices, with technology/AI valuation concerns also pressuring the broader S&P 500 complex.[7][11] Recent market commentary also says SPY remains above its 200-day moving average but near its 50-day average, so price action is especially sensitive to any change in rate expectations or oil moves today.[7][8]
-- **QQQ** (regime: `unknown`): The main recent driver for **QQQ** is the Fed’s **25 bp rate hike** on Sept. 16, which is typically a headwind for long-duration growth and mega-cap tech exposure inside the Nasdaq-100.[1][5] QQQ has still been trading higher on the day, helped by strength in large-cap technology and growth stocks, while news flow also notes increased market focus on semiconductors and Nasdaq-100 composition changes such as the expected larger weighting for SpaceX.[3][5][14]
+- **SPY** (regime: `unknown`): **SPY-specific news is limited**, but the main market-moving item today is State Street’s interim cash distribution timing: the ETF’s **record date is Sept. 18** after an ex-dividend date of Sept. 17, which can affect price action around the payout mechanics.[18]
 
-If you want, I can also give a *one-line “today’s tape” version* focused only on likely intraday price drivers.
-- **TLT** (regime: `unknown`): TLT is being driven today by the **Fed’s 25 bp rate hike** to 3.75%–4.00% on Sept. 16, which is keeping pressure on long-duration Treasuries and supporting higher yields.[3] Market headlines also point to **heavy options speculation** in TLT and a recent Bloomberg/Balchunas note that traders are betting about **$7 billion** on a sharp bond move, which can amplify ETF volatility.[1][17]
+More broadly, SPY is trading near record territory, and the latest macro driver for the S&P 500 has been a mix of **strong earnings**, **rising bond yields**, and shifting Fed-rate expectations; recent commentary also flagged that higher yields may cap upside in the near term.[7][9]
+- **QQQ** (regime: `unknown`): The most material recent driver for **QQQ** is the **Fed/macro backdrop**: recent inflation data and the September FOMC decision have kept rate-cut/rate-hike expectations moving, and QQQ has been trading in response to those shifts alongside Nasdaq-100 sentiment.[14][15][18][19] The ETF also rose sharply into mid-September, with QQQ up about 1.7% on Sept. 17 as the Nasdaq-100 outperformed, suggesting broad mega-cap/tech strength is supporting the fund today.[2][6][13][17]
 
-A second macro driver is the **U.S. Treasury’s expanded buyback program** for longer-dated bonds, which has been a major focus for TLT traders over the past few weeks; recent reports say the Treasury doubled buyback sizes in the 10- to 30-year sector, but the market has not seen a stable relief rally yet.[12][13][14]
-- **GLD** (regime: `unknown`): GLD is being driven mainly by **macro gold-price moves**, not fund-specific headlines: recent reports point to a sharp selloff in gold tied to **hawkish Fed signals**, higher rate expectations, and firmer Treasury yields, while some sources also note a rebound in the fund as gold prices stabilized.[13][17][8] On the ETF-flow side, GLD has still seen **strong recent inflows**—about **$1.4 billion over five trading days** and nearly **$2 billion combined** with GLDM—suggesting persistent investor demand even as the metal has weakened.[2][1]
+ETF-specific news has been mostly secondary: QQQ’s quarterly dividend was recently raised to **$0.8135 per share** (about a 0.5% yield), and multiple institutional holders reported increased stakes, which is mildly supportive but not likely the main price driver today.[1][3][5]
+- **TLT** (regime: `unknown`): TLT’s most material recent driver is the **sharp rise in long-term Treasury yields**, with the fund hitting fresh multi-decade lows around early-to-mid September as stronger U.S. inflation/producer-price data and a robust jobs report pushed yields higher.[8][9][20] The **Fed’s 25 bp hike on Sept. 16** also kept rate pressure elevated, while Treasury buyback-plan headlines have added volatility to the long end of the curve.[6][11][16]
+
+There has also been notable **ETF-specific options activity**, with Bloomberg/market coverage highlighting roughly **$7 billion in bets on TLT** tied to a potential bond-market move, which may be amplifying short-term trading around the fund.[3][5]
+- **GLD** (regime: `unknown`): GLD has been driven most recently by **macro gold pressures** rather than ETF-specific flows: gold has been under strain from **rising real yields, a firmer U.S. dollar, and hawkish Fed expectations**, with one report noting gold prices fell further after stronger PPI/oil data increased the odds of a rate hike.[10][19] On the flow side, the fund still saw **large recent inflows**—about **$954 million over five days** and **$6.52 billion over one month**—while broader precious-metals ETF flows were also strong, with SPDR’s gold funds taking in nearly **$2 billion in a week**.[1][2]
+
+ETF-specific headlines are mixed: GLD’s gold holdings have edged lower from March to June, but it remains the dominant vehicle for gold exposure and continues to attract heavy trading interest, including notable options activity and recent inflows.[1][17][20]
 
 ### Risk Flags
-- **Today (Thu Sep 17, 2026):** US **Initial Jobless Claims** and **Housing Starts/Building Permits** releases are scheduled at 08:30 ET, both standard macro data points that can move rates and equities, especially in a fragile macro backdrop.[4]
+No major risk events scheduled.
 
-- **This week:** The **FOMC meeting and rate decision on Sep 15–16, 2026**, with a full Summary of Economic Projections and dot plot, is the primary scheduled high‑volatility event, with markets focused on a possible hawkish pivot under Chair Kevin Warsh.[9][11]
-
-- **Geopolitics (ongoing, not date‑specific):** The **2026 Iran war**, Middle East conflict around energy/shipping routes, and elevated oil prices are persistent risk overhangs for global and US equities rather than single‑day events.[5][9][10][13][15]
-
-- **US CPI (recent/this week):** A **US August CPI release in early/mid‑September** has been flagged as a critical input for the Fed decision and market pricing; its proximity to the FOMC adds to volatility risk this week.[2][5][7][12][13]
-
-- **Earnings:** The Sep 17 US earnings calendar shows **numerous smaller/mid‑cap reports but no mega‑cap index bellwethers**, so earnings‑specific event risk for major US indices appears limited today.[3][6][14]
+- The **September FOMC meeting and rate decision** with SEP/dot plot and press conference took place earlier in the week on September 15–16, 2026, so that catalyst has already passed.[1][2][8][9][12][13]  
+- The **U.S. economic calendar for Friday, September 18, 2026** shows only medium-importance data such as **Industrial Production (G.17) for August**, not typically a top-tier volatility driver for broad U.S. equities.[10]  
+- Earnings calendars for the week of **September 14–18, 2026** show **no significant S&P 500 or major index constituent reports on Friday, September 18**, with only a few smaller names like VinFast listed.[7][14][15]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
