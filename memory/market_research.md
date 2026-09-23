@@ -1,29 +1,31 @@
 # Market Research
-_Generated: 2026-09-23 17:22 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-23 22:28 UTC via Perplexity sonar-pro_
 
 ## 2026-09-23 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were roughly flat to slightly lower, while Nasdaq 100 futures were down about 0.01%–0.25% in pre-market trading.[1][3][6]
-- **US data:** Scheduled releases include MBA mortgage applications, Atlanta Fed Business Inflation Expectations, and the S&P Global Flash PMI survey; a five-year Treasury note auction is also scheduled.[10]
-- **Fed events:** Fed Governor Michael Barr is scheduled to speak at 10:05 a.m. EDT on the economic outlook and housing.[4]
-- **Asia:** Markets were mixed: the Kospi rose about 0.9%–1.3%, while the Hang Seng fell roughly 0.9%–1.0% and Shanghai declined about 0.3%; Japan was closed for a holiday.[6][7]
-- **Europe:** European equities were mixed to lower in early trading, with the Euro Stoxx 50 down about 0.42%; the FTSE 100 was reported modestly higher and the DAX approximately flat.[8][15]
+- **U.S. futures:** S&P 500 futures were up about **0.06%** at 7,836, while Nasdaq 100 futures were essentially flat to slightly lower, down about **0.01%–0.02%**.[6][10]
+- **Economic data:** Scheduled releases include **MBA mortgage applications**, **Atlanta Fed Business Inflation Expectations**, and **S&P Global flash manufacturing and services PMIs**; no CPI, PPI, payrolls, jobless claims, or FOMC decision is scheduled.[13]
+- **Fed commentary:** Fed Governor **Michael Barr** is scheduled to speak at a Chicago Fed housing-affordability summit; Richmond Fed President **Thomas Barkin** also has an Economic Club of Washington event.[11][8]
+- **Asia:** Markets were mixed, with South Korea’s Kospi up about **1.2%** and Taiwan up **0.9%**, while Hong Kong’s Hang Seng fell roughly **1%** and Shanghai declined about **0.4%**.[1]
+- **Europe:** European equities were modestly higher in early trading, with the STOXX 600 up about **0.4%** and STOXX 50 up about **0.5%**.[15]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s main recent drivers are **macro**, not fund-specific: the Fed raised rates 25 bp on Sept. 16, and recent commentary from Richmond Fed’s Barkin has kept **additional hike risk** alive, which can pressure equity multiples.[1][2] SPY is also being influenced by **large-cap tech/AI leadership** and the S&P 500 sitting near record territory, while a reported Trump proposal to ban diesel exports has added a fresh oil/supply-side headline that could affect inflation expectations and sector rotation today.[2][4]
-- **QQQ** (regime: `unknown`): **QQQ-specific news is limited, and the most relevant item is Invesco’s launch of the Invesco Nasdaq International Innovators 100 ETF (QQI), which expands its QQQ Innovation Suite but does not directly change QQQ holdings.** [1][5] The bigger near-term price drivers remain **Nasdaq-100 tech/AI leadership** and **macro rates**: recent reporting says QQQ has been buoyed by AI-stock strength and falling Treasury yields, while traders have also been focused on the Fed and the risk of higher rates. [4][11][20]
+- **SPY** (regime: `unknown`): SPY is being influenced today mainly by **higher-rate macro pressure**: a stronger-than-expected services PMI pushed the 10-year Treasury yield above 5%, reinforcing “higher for longer” Fed expectations and pressuring high-valuation sectors, especially technology, which can drag the S&P 500 ETF lower.[5] Recent headlines also point to **ongoing inflation/supply-shock concerns** from Fed commentary and a potential diesel export ban discussion, both of which can keep yields and energy-related volatility elevated.[1][5]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent drivers are the **Fed/rate outlook** and **Nasdaq-100 sector momentum**: recent headlines say hotter PMI data revived rate-hike worries, while earlier this month lower Treasury yields and an AI-led tech rally supported QQQ’s rebound.[1][2][12] ETF-specific news also includes QQQ’s **quarterly dividend/distribution** update and a **Nasdaq-100 rebalance effect** tied to SpaceX’s weight increasing, which can modestly affect index composition and flows.[1][8]
+- **TLT** (regime: `unknown`): TLT has been pressured by a **surge in long-end Treasury yields**, with the ETF recently hitting its lowest level since 2004 as traders priced in higher-for-longer rates and a possible Fed hike.[7][18][19] There has also been notable **options activity and short positioning** around TLT, including reports of heavy put volume and a large $7 billion inflow tied to bets on a bond rally if rates eventually fall.[1][3][8][13]
 
-The only other ETF-level catalyst in the latest flow is QQQ’s **quarterly distribution** announcement, which is routine and generally not a fundamental driver by itself. [1][8]
-- **TLT** (regime: `unknown`): TLT’s most material recent drivers are still **macro/rates** rather than ETF-specific events: long-dated Treasury yields have stayed elevated, pushing TLT to near multi-decade lows and keeping the fund in a bearish trend. [2][8][17] Recent news also points to **heavy options activity and short positioning** in TLT ahead of Fed decisions, while Treasury buyback efforts and rising oil/inflation concerns have not been enough to stabilize long-bond yields. [1][7][10][16][19]
-- **GLD** (regime: `unknown`): **GLD** is being driven today mainly by the **Fed/rates backdrop**: the Federal Reserve’s latest hike and comments from Richmond Fed’s Barkin kept **real yields and the dollar firm**, which is pressuring gold and the ETF intraday.[7][10][12][15] On the ETF flow side, GLD had a **large $603 million weekly outflow** reported for the week ending Sept. 14, though other gold-fund flow data around Sept. 8–17 showed strong net buying into the broader gold-ETF complex, so flows have been mixed rather than uniformly negative.[1][3][18][19]
+The other material driver is **U.S. Treasury market mechanics**: the Treasury’s expanded bond buyback program has not stabilized long-duration yields, which kept pressure on TLT.[14][16]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is the **Fed’s renewed hawkish tilt**: the FOMC raised rates by 25 bps and officials including Richmond Fed’s Barkin have signaled that inflation and supply shocks could keep the door open to more hikes, which has pressured gold and GLD via higher real yields and a firmer dollar.[11][8][9]  
+
+On the ETF-flow side, GLD had a **large redemption** of about **$603 million** over the trailing week, even as broader gold-ETF demand remained strong in August and early September, so today’s move likely reflects gold-price pressure more than an ETF-specific liquidity issue.[1][3][17]
 
 ### Risk Flags
-- **U.S. flash PMIs** are scheduled for today at approximately **8:45 a.m. ET**, covering manufacturing and services activity; the releases can affect Treasury yields and equity-sector rotation.[14]
-- **EIA weekly crude-oil inventories** are scheduled for approximately **9:30 a.m. ET**, creating potential energy-sector and inflation-expectations volatility.[14]
-- **Treasury auction:** a **$70 billion 5-year note auction** is scheduled today at **1:00 p.m. ET**, with possible implications for yields and rate-sensitive equities.[2]
-- **S&P 500 earnings:** **Cintas, Paychex, and General Mills** are scheduled to report today; **Darden Restaurants** and **Costco Wholesale** are scheduled for Thursday, September 24.[13]
-- **Geopolitical risk:** U.S.–Iran talks and broader **UN General Assembly** developments remain potential headline risks, particularly for crude oil, shipping, and inflation-sensitive assets.[5][7]
+- **U.S. flash S&P Global manufacturing and services PMIs** are scheduled for 9:45 a.m. ET today, with market expectations for modest declines in both indexes.
+- **Federal Reserve Governor Michael Barr** is scheduled to discuss the economic outlook and housing at 10:05 a.m. ET; the September FOMC meeting already concluded on September 16.
+- **EIA weekly crude-oil inventories** are due at 10:30 a.m. ET, creating potential cross-asset sensitivity for energy and inflation expectations.
+- **Major S&P 500 earnings:** Paychex, Cintas, and General Mills reported today; Darden Restaurants is scheduled before Thursday’s open, and Costco Wholesale after Thursday’s close.
+- **Geopolitical risk remains elevated** around the Trump–Xi summit scheduled for Thursday, while Ukraine-related attacks and Middle East tensions may affect oil prices and broader risk appetite.
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
