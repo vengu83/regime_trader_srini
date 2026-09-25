@@ -1,37 +1,31 @@
 # Market Research
-_Generated: 2026-09-25 17:27 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-25 22:51 UTC via Perplexity sonar-pro_
 
 ## 2026-09-25 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about **0.3%**, while Nasdaq-100 futures were up about **0.6%** in pre-market trading.[2][3]
-
-- **Economic data:** Scheduled releases include **August durable-goods orders at 8:30 a.m. ET** and the **revised September University of Michigan consumer-sentiment index at 10:00 a.m. ET**; no CPI, payrolls, PPI, or FOMC decision is scheduled.[11]
-
-- **Fed speakers:** Federal Reserve officials scheduled to speak include **New York Fed President John Williams**, **Kansas City Fed President Jeffrey Schmid**, and **Cleveland Fed President Beth Hammack**; additional Fed appearances are listed for **Richmond Fed President Thomas Barkin**.[4][11]
-
-- **Asia:** Markets were mixed, with Japan’s Nikkei 225 up **1.3%**, Hong Kong’s Hang Seng down about **1.0%**, Australia’s S&P/ASX 200 down **0.43%**, and mainland China closed for a holiday.[9]
-
-- **Europe:** Pan-European equities were higher in early trading, with the Stoxx Europe 600 reported up roughly **0.7%**.[5]
+- **U.S. futures:** S&P 500 futures were up about **0.37%**, while Nasdaq futures gained approximately **0.68%** in pre-market trading.[1]
+- **Economic data:** Scheduled releases include **August durable-goods orders at 8:30 a.m. ET** and the **revised September University of Michigan Consumer Sentiment Index at 10:00 a.m. ET**; no CPI, NFP, PPI, or FOMC decision is scheduled.[9]
+- **Fed speakers:** New York Fed President **John Williams** is scheduled to speak at **5:15 a.m. ET**, and Cleveland Fed President **Beth Hammack** at **2:00 p.m. ET**; other calendars also list Fed officials Michael Barr/Schmid and Hammack events.[9][3]
+- **Asia:** Markets were mixed: Japan’s **Nikkei 225 rose 1.30%**, while Australia’s **S&P/ASX 200 fell 0.43%**; broader reports cited declines in Hong Kong and mainland China.[10][4]
+- **Europe:** European equities opened higher, with the **STOXX Europe 600 up approximately 0.6%** in early trading.[10]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material recent driver is the **Federal Reserve’s 25 bp rate hike** on Sept. 16, which pushed the fed funds target to **3.75%–4.00%** and has kept **10-year yields near 5%**, pressuring broad equities and rate-sensitive sectors.[7][11] Recent market commentary also highlights **rising bond yields** and related **S&P 500 target cuts** from strategists, which has weighed on sentiment for SPY and the index it tracks.[9][12]
+- **SPY** (regime: `unknown`): SPY’s most material recent driver is the **Federal Reserve’s September 16 rate hike**, which has kept pressure on yields and weighed on valuation-sensitive parts of the market; recent commentary has also flagged rising downside risk for the S&P 500 as bond yields climb.[9][26] In addition, SPY has been trading around the mid- to high-\$760s / low-\$770s this week, with the ETF still near recent highs and moving modestly day to day, so macro rate expectations remain the main price catalyst rather than ETF-specific flow news.[3][5][6]
+- **QQQ** (regime: `unknown`): **QQQ has had a fairly quiet ETF-specific news flow, but recent support came from strong Nasdaq-100/tech performance and an August inflow report showing $12.844 billion of net inflows, alongside QQQ’s 4.22% NAV gain for the month.** [6][10] The main near-term macro driver in the results is the Federal Reserve/rate backdrop, with reports noting QQQ strength as Treasury yields fell and market focus remained on Fed policy and labor-data sensitivity for growth stocks. [3][14][15]
 
-Today’s price action has been relatively contained, with SPY trading in the mid-$760s to low-$770s and recent sessions showing a modest pullback after the Fed-driven move, suggesting macro rates remain the main catalyst rather than ETF-specific flows or corporate news.[3][4][6]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is still the **Nasdaq-100/mega-cap tech bid**, with recent reports citing gains in AI-related stocks and falling Treasury yields as supporting the ETF’s move higher. The other near-term market mover is **macro policy/rates**, with coverage pointing to Fed decision risk, hotter PMI/rate-hike concerns, and ongoing sensitivity to yields and growth-stock valuations.[1][15][16][18]
+There is also a more structural ETF angle: Bloomberg reported in early September that BlackRock and State Street are competing more directly with QQQ in Nasdaq-100 tracking, which could matter for flows over time but is less likely to drive *today’s* move than rates and tech-sector sentiment. [1]
+- **TLT** (regime: `unknown`): **TLT is under pressure from a sharp rise in long-end Treasury yields, with Bloomberg and other market reports noting the ETF hit or hovered near record lows as traders sold long bonds.**[1][4][14] Recent catalysts include stronger-than-expected U.S. activity data and hot PMI/inflation prints that pushed the 30-year yield to multi-decade highs, alongside options flow showing traders positioning for further downside in long-duration Treasuries.[1][5][15][18]
 
-ETF-specific news is quieter: recent items mainly mention QQQ’s **quarterly dividend/distribution** and continued strong inflows/holdings demand, which are usually supportive but not the primary intraday price driver. There is also headline competition in Nasdaq-100 tracking from BlackRock/State Street, but that appears more structural than an immediate price catalyst today.[6][13][3]
-- **TLT** (regime: `unknown`): **TLT is being pressured today by a sharp rise in long-term Treasury yields**, with 30-year yields pushing above 5.4% after recent hot U.S. data and inflation concerns, which has driven the ETF to multi-year or record-low levels in recent sessions.[1][4][6][8][16] Bloomberg also reported heavy options activity and traders positioning for further downside in long-duration Treasuries, reinforcing the bearish tone around the fund.[3][19]
-
-**No ETF-specific corporate event** stands out; the main price driver is the macro backdrop for long bonds, while TLT’s latest quoted price is around **79.4–79.5**, modestly lower on the day.[2][3][17]
-- **GLD** (regime: `unknown`): GLD has been pressured by the latest **Fed/rates backdrop**: gold and gold ETFs weakened as higher Treasury yields and a stronger dollar kept real rates elevated, with recent coverage noting GLD fell alongside spot gold and that markets are still focused on interest-rate expectations.[15][22][19] At the same time, ETF flows turned mixed after a strong early-September inflow burst into gold funds; GLD then saw a **$603 million outflow** in the trailing week reported on Sept. 14, which points to some profit-taking after the prior surge in buying.[1][5][23]
+There is also ETF-specific attention around heavy options activity and short-selling rotation away from long-duration bond funds ahead of the Fed’s next policy decision, which adds to today’s price sensitivity.[3][15][20]
+- **GLD** (regime: `unknown`): GLD’s most material recent drivers are still macro: gold has been pressured by **rising Treasury yields**, a **stronger U.S. dollar**, and higher **Fed rate-hike expectations**, while occasional rebounds have come when yields and the dollar ease.[1][7][15] On the flow side, GLD saw a **large weekly outflow of about $603 million** in mid-September, but later reporting also showed a sharp **surge in gold ETF inflows** across North America, suggesting investor demand has remained active even as prices have been volatile.[2][6][19]
 
 ### Risk Flags
-- **Durable Goods Orders** for August are scheduled at 8:30 a.m. ET today, followed by the revised **University of Michigan Consumer Sentiment and inflation expectations** at 10:00 a.m. ET.[10]
-- Several Federal Reserve officials are scheduled to speak, including New York Fed President Williams, Governor Schmid, and Cleveland Fed President Hammack, creating potential rate-expectation volatility.[8][10]
-- **Costco (COST)** reported after Thursday’s close; other scheduled Friday earnings appear limited, with no major S&P 500 constituent reporting before or after the session.[14]
-- The U.S.–China summit ended without a substantive breakthrough on trade, Taiwan, artificial intelligence, or the Iran conflict, leaving geopolitical headline risk elevated.[2][9]
-- Next week brings several higher-impact macro releases, including **job openings Tuesday, PCE inflation Wednesday, and September payrolls Friday**.[1]
+- **No major US macro releases are scheduled today, Friday, September 25**; the listed releases are primarily euro short-term-rate and SOFR data.[1]
+- **No major S&P 500 constituent earnings are scheduled today**; available calendars show only a small-cap report, Tamboran Resources (TBN), with no after-market releases.[7][12]
+- **The week’s principal macro risk was the September 15–16 FOMC meeting**, which has already concluded; the Fed published its projections on September 16.[6]
+- **Geopolitical risk flag:** Chinese President Xi Jinping’s US state visit was scheduled for Thursday, September 24, potentially affecting US–China policy and trade sentiment.[9]
+- **No major risk events scheduled.**
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
