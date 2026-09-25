@@ -1,29 +1,37 @@
 # Market Research
-_Generated: 2026-09-24 22:45 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-25 17:27 UTC via Perplexity sonar-pro_
 
-## 2026-09-24 Pre-Market Research
+## 2026-09-25 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about **0.6%** and Nasdaq 100 futures about **1.0%** in pre-market trading.[15]
-- **US data:** Scheduled releases include **weekly initial and continuing jobless claims** at 8:30 a.m. ET, the **Q2 current account**, **new-home sales** at 10:00 a.m. ET, the **Kansas City Fed manufacturing index**, and a **seven-year Treasury-note auction**.[1][9]
-- **Fed speakers:** Scheduled commentary includes Fed officials **John Williams, Thomas Barkin, Beth Hammack, Paulson, and Jeffrey Schmid** at various times during the day.[1][9][10]
-- **Asia:** Asian equities ended **mostly lower**, following Wall Street’s overnight decline and reacting to higher Treasury yields.[15]
-- **Europe:** European equities were **lower**, with the Stoxx 600 down 0.4%, Germany’s DAX down 0.7%, and the FTSE 100 broadly flat in the latest available session.[3]
+- **US futures:** S&P 500 futures were up about **0.3%**, while Nasdaq-100 futures were up about **0.6%** in pre-market trading.[2][3]
+
+- **Economic data:** Scheduled releases include **August durable-goods orders at 8:30 a.m. ET** and the **revised September University of Michigan consumer-sentiment index at 10:00 a.m. ET**; no CPI, payrolls, PPI, or FOMC decision is scheduled.[11]
+
+- **Fed speakers:** Federal Reserve officials scheduled to speak include **New York Fed President John Williams**, **Kansas City Fed President Jeffrey Schmid**, and **Cleveland Fed President Beth Hammack**; additional Fed appearances are listed for **Richmond Fed President Thomas Barkin**.[4][11]
+
+- **Asia:** Markets were mixed, with Japan’s Nikkei 225 up **1.3%**, Hong Kong’s Hang Seng down about **1.0%**, Australia’s S&P/ASX 200 down **0.43%**, and mainland China closed for a holiday.[9]
+
+- **Europe:** Pan-European equities were higher in early trading, with the Stoxx Europe 600 reported up roughly **0.7%**.[5]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being pressured today by a jump in long-term Treasury yields, with the 30-year yield hitting its highest level since 2004 and raising concern that bond-market volatility could trigger a broader stock pullback.[1] The broader macro backdrop is also negative for equities: recent coverage highlights rising yields and the Fed’s Sept. 16 rate hike to 3.75%–4.00%, while some strategists have trimmed S&P 500 targets because of higher rates and AI-spending concerns.[7][9][20]
-- **QQQ** (regime: `unknown`): **QQQ is being driven mainly by macro rates and big-tech sentiment, not ETF-specific events.** Recent coverage points to concern that higher-for-longer interest rates and elevated AI/large-cap tech valuations could pressure the Nasdaq-100, while Treasury-yield moves and Fed expectations remain the key near-term driver for the ETF’s price today.[1][9][13]
+- **SPY** (regime: `unknown`): SPY’s most material recent driver is the **Federal Reserve’s 25 bp rate hike** on Sept. 16, which pushed the fed funds target to **3.75%–4.00%** and has kept **10-year yields near 5%**, pressuring broad equities and rate-sensitive sectors.[7][11] Recent market commentary also highlights **rising bond yields** and related **S&P 500 target cuts** from strategists, which has weighed on sentiment for SPY and the index it tracks.[9][12]
 
-On the positive side, QQQ has stayed near its highs, helped by continued strength in Nasdaq and large-cap technology stocks; the fund also logged strong August inflows and a 4.22% NAV gain, which signals persistent demand for the product.[1][11][4] A recent quarterly dividend declaration is mechanically relevant but not a major price driver by itself.[8]
-- **TLT** (regime: `unknown`): TLT was hit by a fresh long-bond selloff: Bloomberg reported the ETF fell 1.6% on Wednesday to a record low as stronger U.S. economic data pushed Treasury yields higher.[1] The move also comes amid broader market pressure on long-duration bonds, with commentary pointing to inflation concerns, a higher chance of another Fed hike, and heavy options activity betting against long-dated Treasuries.[3][10][15]
-- **GLD** (regime: `unknown`): GLD’s most material recent driver is **macro pressure from higher Treasury yields and firmer inflation/Fed-hike expectations**, which has kept gold under pressure and pushed GLD lower in recent sessions.[10][20][6] On the flow side, GLD has seen **meaningful trading swings**: it had roughly **$603 million of outflows** in the week reported on Sept. 14, but earlier in September it also pulled in **$1.378 billion** over five trading days, showing renewed investor demand has been volatile.[1][5]
+Today’s price action has been relatively contained, with SPY trading in the mid-$760s to low-$770s and recent sessions showing a modest pullback after the Fed-driven move, suggesting macro rates remain the main catalyst rather than ETF-specific flows or corporate news.[3][4][6]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is still the **Nasdaq-100/mega-cap tech bid**, with recent reports citing gains in AI-related stocks and falling Treasury yields as supporting the ETF’s move higher. The other near-term market mover is **macro policy/rates**, with coverage pointing to Fed decision risk, hotter PMI/rate-hike concerns, and ongoing sensitivity to yields and growth-stock valuations.[1][15][16][18]
+
+ETF-specific news is quieter: recent items mainly mention QQQ’s **quarterly dividend/distribution** and continued strong inflows/holdings demand, which are usually supportive but not the primary intraday price driver. There is also headline competition in Nasdaq-100 tracking from BlackRock/State Street, but that appears more structural than an immediate price catalyst today.[6][13][3]
+- **TLT** (regime: `unknown`): **TLT is being pressured today by a sharp rise in long-term Treasury yields**, with 30-year yields pushing above 5.4% after recent hot U.S. data and inflation concerns, which has driven the ETF to multi-year or record-low levels in recent sessions.[1][4][6][8][16] Bloomberg also reported heavy options activity and traders positioning for further downside in long-duration Treasuries, reinforcing the bearish tone around the fund.[3][19]
+
+**No ETF-specific corporate event** stands out; the main price driver is the macro backdrop for long bonds, while TLT’s latest quoted price is around **79.4–79.5**, modestly lower on the day.[2][3][17]
+- **GLD** (regime: `unknown`): GLD has been pressured by the latest **Fed/rates backdrop**: gold and gold ETFs weakened as higher Treasury yields and a stronger dollar kept real rates elevated, with recent coverage noting GLD fell alongside spot gold and that markets are still focused on interest-rate expectations.[15][22][19] At the same time, ETF flows turned mixed after a strong early-September inflow burst into gold funds; GLD then saw a **$603 million outflow** in the trailing week reported on Sept. 14, which points to some profit-taking after the prior surge in buying.[1][5][23]
 
 ### Risk Flags
-- **U.S.–China summit:** President Trump and President Xi are scheduled to meet today; trade, technology, rare-earth supply, and tariff issues are key market-sensitive topics.[14][5]
-- **Labor data:** Weekly initial jobless claims are scheduled for 8:30 a.m. ET; consensus is approximately 201,000, versus 198,000 previously.[2][3]
-- **Federal Reserve speakers:** Fed officials Barkin, Hammack, and Paulson are scheduled to speak today, creating potential rate-path volatility.[14][2]
-- **Housing data:** New-home sales and related housing releases are scheduled today, alongside the Kansas City Fed manufacturing index.[1][14]
-- **Corporate earnings:** Costco is scheduled to report fourth-quarter fiscal 2026 results after the market close; its approximately $398 billion market capitalization makes it the week’s notable index-related earnings event.[10][8]
+- **Durable Goods Orders** for August are scheduled at 8:30 a.m. ET today, followed by the revised **University of Michigan Consumer Sentiment and inflation expectations** at 10:00 a.m. ET.[10]
+- Several Federal Reserve officials are scheduled to speak, including New York Fed President Williams, Governor Schmid, and Cleveland Fed President Hammack, creating potential rate-expectation volatility.[8][10]
+- **Costco (COST)** reported after Thursday’s close; other scheduled Friday earnings appear limited, with no major S&P 500 constituent reporting before or after the session.[14]
+- The U.S.–China summit ended without a substantive breakthrough on trade, Taiwan, artificial intelligence, or the Iran conflict, leaving geopolitical headline risk elevated.[2][9]
+- Next week brings several higher-impact macro releases, including **job openings Tuesday, PCE inflation Wednesday, and September payrolls Friday**.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
