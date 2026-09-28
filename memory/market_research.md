@@ -1,32 +1,29 @@
 # Market Research
-_Generated: 2026-09-25 23:29 UTC via Perplexity sonar-pro_
+_Generated: 2026-09-28 19:48 UTC via Perplexity sonar-pro_
 
-## 2026-09-25 Pre-Market Research
+## 2026-09-28 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about **0.3%**, while Nasdaq-100 futures were up approximately **0.6%** in pre-market trading.[7]
-
-- **US economic data:** Scheduled releases include **August durable-goods orders at 8:30 a.m. ET** and the **final September University of Michigan consumer-sentiment and inflation-expectations readings at 10:00 a.m. ET**.[8][9]
-
-- **Federal Reserve:** New York Fed President **John Williams** and Cleveland Fed President **Beth Hammack** are scheduled to deliver remarks today; Fed Governor **Michael Barr** is also listed in some calendars.[3][10]
-
-- **Asia:** Trading was mixed: Japan’s **Nikkei 225 rose 1.3%**, while Hong Kong’s Hang Seng fell about **1.0%** and Australia’s S&P/ASX 200 declined **0.4%**.[4][12]
-
-- **Europe:** European equities opened higher, with pan-European futures and the STOXX 600 up approximately **0.6%**, helped by lower oil prices.[2][12]
+- **US futures:** S&P 500 futures were down about **0.5%**, while Nasdaq futures fell roughly **1%** in pre-market trading.[15]
+- **US data:** The scheduled release was the **Dallas Fed Manufacturing Index** at **2:30 p.m. ET**; no CPI, NFP, PPI, jobless-claims, or FOMC decision was listed for today.[4]
+- **Fed speakers:** Scheduled remarks included **Richmond Fed President Thomas Barkin**, **Chicago Fed President Austan Goolsbee**, **St. Louis Fed President Alberto Musalem**, and **New York Fed President John Williams** at various times.[4]
+- **Asia:** The **Nikkei 225 fell 0.7%**, Shanghai declined modestly, and the **Hang Seng rose**.[11][13]
+- **Europe:** European equities were broadly higher, with the **STOXX 600 up about 0.4%**, while the FTSE 100 gained and Germany’s DAX was little changed.[13][14]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has been trading near the mid-\$760s to low-\$770s, with the latest close at **769.60** after a modest **+0.30%** gain, so near-term price action is being driven more by broad market direction than ETF-specific flows.[2][4] The main macro headwind in recent coverage is **higher bond yields / tighter Fed expectations**, which has led some strategists to cut year-end S&P 500 targets and flag higher downside risk for equities, a setup that would pressure SPY today if yields keep rising.[5][26]
-- **QQQ** (regime: `unknown`): **QQQ has no single ETF-specific shock today; the main near-term drivers are still macro and large-cap tech sentiment.** Recent headlines point to continued support from **Nasdaq-100/AI strength**, easing Treasury-yield pressure, and **strong August inflows** into QQQ, while the only notable ETF-specific development is growing **competition from BlackRock and State Street** launching rival Nasdaq-100 products, which is more of a longer-term issue than a same-day catalyst.[2][11][20][1]
+- **SPY** (regime: `unknown`): **No material news.** The most recent SPY-specific items in the feed are largely market-wrap commentary rather than ETF-specific catalysts, with SPY finishing last Friday slightly lower as the S&P 500 was pressured by **rising Treasury yields**, **higher oil prices**, and mixed sector performance.[2][1] Recent news flow also points to **AI/semiconductor strength** and **strong inflows into SPY**, but nothing in the provided results suggests a new ETF-specific development or fresh macro shock since Friday’s close.[3][4]
+- **QQQ** (regime: `unknown`): **QQQ has no major ETF-specific catalyst in the search results beyond routine flow/dividend items, so today’s price is likely being driven mainly by the broader Nasdaq-100 tech complex and rates.** Recent items note QQQ declared a quarterly dividend of **$0.7514/share** and has continued to see strong institutional demand, including Invesco reporting **$12.844 billion of net inflows in August**.[15][10]
 
-A smaller current factor is the **quarterly dividend/distribution announcement** and routine fund-flow/ownership updates, but these are generally not large enough to move the ETF materially on their own.[12][4][21]
-- **TLT** (regime: `unknown`): **TLT** was pressured by a fresh long-bond selloff: Bloomberg reported the ETF hit a record low on Sept. 23 after strong U.S. economic data pushed Treasury prices down, and TLT fell 1.6% that day.[1] Recent market flow remains bearish as well, with options activity and headlines showing traders positioning for higher long-term yields, while Treasury yields have been pushed up by hot PMI and inflation readings; that macro backdrop is the main driver for the ETF today.[3][4][16][19]
-- **GLD** (regime: `unknown`): GLD has been pressured by the latest rise in **real U.S. Treasury yields** and a firmer dollar, both of which typically weigh on gold, even as broader gold-ETF demand remains strong globally.[1][15] ETF flow data also points to **recent GLD outflows**—including a reported $603 million weekly redemption—while world gold ETF holdings are still near record levels, suggesting the fund is caught between short-term rate pressure and stronger underlying precious-metals demand.[2][7][8]
+The main macro backdrop remains **AI/mega-cap tech strength** and **Treasury-yield sensitivity**: QQQ recently rallied when AI stocks rebounded and yields fell below 5%, while other recent coverage points to rate pressure when hotter economic data revived Fed-hike concerns.[4][12]
+- **TLT** (regime: `unknown`): TLT has been pressured by a broad **long-bond selloff** driven by stronger U.S. economic data and hotter inflation prints, with Bloomberg reporting the ETF fell 1.6% to a record-low area after robust activity data pushed Treasury yields higher.[1][4] More recent market coverage says the **30-year Treasury yield** moved to multi-decade highs around 5.4%-plus after hot PMI data, reinforcing the headwind for long-duration Treasuries and keeping TLT near its lows.[4][18]
+- **GLD** (regime: `unknown`): GLD has been pressured by the recent **rise in Treasury yields / real rates** and renewed **Fed hike expectations**, which several recent market notes say are the main macro headwinds for gold and the ETF today.[7][14][18] At the same time, gold has been finding intermittent support from **buying near technical support**, and recent fund-flow commentary still shows meaningful gold-ETF demand even as GLD has seen some outflows.[1][3][4]
 
 ### Risk Flags
-- **US economic data today:** August Durable Goods Orders are scheduled, alongside revised University of Michigan sentiment and inflation expectations; these are moderate market-moving releases.[5][7]
-- **Federal Reserve speakers today:** New York Fed President John Williams and Governors/officials including Schmid, Hammack, and Barkin are scheduled to speak, creating potential rate-volatility risk.[10][12]
-- **US earnings:** No S&P 500 companies are scheduled to report during September 21–27, reducing index-level earnings risk.[15]
-- **Next week’s macro risk:** August job openings, the Fed’s preferred PCE inflation gauge, and September payrolls are scheduled for September 29–October 2, with payrolls likely the most market-sensitive release.[1]
+- **Today, Monday, Sept. 28:** Elevated geopolitical risk persists after the U.S. rejected Iran’s proposal to reopen the Strait of Hormuz; oil prices are above $100, creating potential inflation and equity-volatility pressure.[1][4][11]
+- **This week:** Key U.S. data include **August PCE inflation** and September labor-market indicators, which could affect expectations for further Federal Reserve tightening.[7]
+- **Friday, Oct. 2:** The **U.S. nonfarm payrolls report** is scheduled, making Friday the week’s main macro-event risk.[13]
+- **Earnings:** No major S&P 500 constituent appears scheduled to report; listed releases include Jefferies and Vail Resorts today, followed by Carnival, CarMax, and AAR Corp. on Tuesday.[2][12]
+- **Federal Reserve:** No FOMC rate decision is scheduled for this week, but hawkish policy expectations and elevated Treasury yields remain market risk flags.[7][15]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
