@@ -1,31 +1,29 @@
 # Market Research
-_Generated: 2026-10-01 18:32 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-01 23:27 UTC via Perplexity sonar-pro_
 
 ## 2026-10-01 Pre-Market Research
 
 ### Macro Context
-- **US index futures:** S&P 500 futures were recently **down 0.25%** and Nasdaq futures **down 0.1%**; earlier readings showed both higher, indicating intraday pre-market movement.[6][2]
-- **US economic data:** No major releases such as CPI, NFP, PPI, or an FOMC decision were identified for today; the calendar instead lists scheduled Fed remarks.[1][7]
-- **Fed events:** Scheduled appearances include Governors Waller, Bowman, and Cook, Vice Chair Jefferson, and regional presidents Collins, Schmid, Williams, Logan, and Kashkari.[4][7]
-- **Asia:** Asian equities generally advanced, led by Japan’s Nikkei 225 at **+3.3%** and South Korea’s Kospi at **+1.9%**, amid optimism around AI and Micron’s results.[3]
-- **Europe:** European equities fell sharply overnight, with London’s index down **1.6%** and Paris’s down **1.3%**, alongside higher government-bond yields.[3]
+- **US futures:** S&P 500 futures were down about **0.25%** and Nasdaq futures about **0.1%** in the latest pre-market snapshot.[5]
+- **US data:** Scheduled releases include **weekly jobless claims** at 8:30 a.m. ET, **construction spending**, and the **S&P Global Manufacturing PMI**; CPI, PPI, NFP, and an FOMC decision are not scheduled for today.[6][8]
+- **Fed speakers:** Scheduled commentary includes **Neel Kashkari, Thomas Barkin, Susan Collins, Christopher Waller, and John Williams**.[6][10]
+- **Asia:** Japan’s **Nikkei 225 rose 3.3%** and South Korea’s **Kospi gained 1.9%**, supported by semiconductor and AI-related strength.[1]
+- **Europe:** European equities opened lower, with early declines of approximately **1.10% in London, 0.56% in Paris, and 0.48% in Frankfurt** amid elevated bond yields.[11]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material recent driver is **macro**, not fund-specific: markets have **pulled back expectations for an October Fed hike** after softer core PCE and comments from New York Fed President John Williams, which has been supportive for broad U.S. equities and SPY sentiment.[15][22][24]  
+- **SPY** (regime: `unknown`): SPY’s most material recent drivers are macro rather than fund-specific: Fed officials’ comments and softer rate-hike expectations have lifted broad U.S. equity sentiment, with October hike odds falling sharply and Treasury yields easing after recent PCE and labor data. [19][23][8] On the ETF-specific side, State Street’s quarterly distribution was set at **$1.8888/share**, slightly below the prior quarter, while SPY ended Wednesday lower but was firmer in after-hours/early October trading alongside the broader market. [12][6][14]
+- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is the continued bid for **large-cap tech and semiconductor exposure**, with pre-bell strength tied to Micron’s results and broader optimism around AI/data-center capital spending supporting Nasdaq-100 constituents.[1][3] Offsetting that, **rising Treasury yields** and persistent inflation remain a key valuation headwind for QQQ’s growth-heavy portfolio, and recent market commentary highlights rate sensitivity as the main macro risk today.[1][21]
 
-For today’s tape, SPY is being influenced by **mixed index action and sector leadership**—the S&P 500 is modestly higher in early trade while Nasdaq is slightly up, with headlines citing **Micron’s strong forecast** as a lift to risk appetite, but offset by ongoing concerns around **rising Treasury yields, oil prices, and geopolitical risks**.[3][14]
-- **QQQ** (regime: `unknown`): **No material news.** The most recent QQQ-specific item in the results is the quarterly dividend declaration of **$0.7514 per share**, with the ex-dividend date on September 21 and payment due October 8, which is typically a mechanical factor rather than a major price driver today.[2][6] The broader drivers most cited around QQQ are **rising Treasury yields**, **persistent inflation**, and strength/weakness in **mega-cap tech and semiconductors**, which can move the Nasdaq-100 and therefore QQQ more than fund-specific headlines.[11][13][22]
-- **TLT** (regime: `unknown`): TLT is being pressured by a **fresh selloff in long-duration Treasuries**, with the 30-year yield recently pushing to multi-decade highs and the 10-year also elevated, which is weighing directly on the ETF’s price.[1][4][26] Today, TLT is also **ex-dividend**, and the fund is trading around **$77.8** after another modest decline, with heavy volume indicating continued interest amid the bond rout.[2][3][13]
-- **GLD** (regime: `unknown`): GLD is being driven mainly by **gold price volatility**, with recent reports showing gold stabilizing after a sharp selloff as Treasury yields eased and Fed hike expectations moderated. At the same time, several market updates say GLD remains under pressure from **higher real yields** and a **firm U.S. dollar**, while gold is testing key support around the $4,100 area.[1][12][16]
-
-There is also an ETF-specific item: SPDR Gold Trust disclosed a **board/audit committee appointment** in late September, but the more material near-term price drivers are macro rather than fund-structure news.[10]
+No material ETF-specific news beyond the already-declared quarterly dividend, which is largely mechanical and not a fresh catalyst today.[5][9]
+- **TLT** (regime: `unknown`): TLT is being driven today by a **Treasury yield spike**, with the 10-year Treasury yield recently moving above **5.25%** and the 30-year yield near multi-decade highs, which pressures long-duration bond prices like TLT.[14][21][24] The ETF is also **ex-dividend today**, and recent fund data show it around **$77–78** with heavy volume and modest intraday gains, while broader macro headlines point to cooling inflation slightly reducing Fed-hike odds but not reversing the selloff in long bonds.[3][4][6][9][15]
+- **GLD** (regime: `unknown`): GLD is being driven mainly by a **sharp gold selloff and rebound attempt**, with recent commentary pointing to pressure from **higher real Treasury yields** and a **firm U.S. dollar**, even as softer inflation and weaker labor-data prints have tempered expectations for another Fed hike.[5][22][25] The most material ETF-specific item is **recent bullion-holdings outflows across major gold ETFs**, which suggests investor de-risking after the earlier rally and can weigh on GLD sentiment today.[7]
 
 ### Risk Flags
-- **Today, Oct. 1:** US jobless claims, Challenger job cuts, final manufacturing PMI, ISM manufacturing, and construction-spending data are scheduled, creating moderate macro sensitivity.[3][8]
-- **Today, Oct. 1:** Fed Governor Thomas Barkin is scheduled to speak, adding potential interest-rate guidance risk.[3]
-- **Today, Oct. 1:** Nike reports fiscal first-quarter earnings after the close; Accenture, McCormick, and Acuity Brands are also scheduled to report.[4][6][11]
-- **Friday, Oct. 2:** The September US employment report is the week’s primary scheduled volatility event, with consensus estimates near 100,000 payroll gains and a 4.2% unemployment rate.[12][13]
-- **This week:** Multiple Federal Reserve officials are scheduled to speak, while markets remain sensitive to the Fed’s recent 25-basis-point rate increase and incoming labor/inflation data.[7][12]
+- **Today, Oct. 1:** U.S. initial jobless claims and the September ISM manufacturing PMI are scheduled, with additional construction-spending data; these are moderate market catalysts.[3][6][11]
+- **Today:** Fed Governor Christopher Waller is scheduled to speak, creating potential rate-sensitive volatility if monetary-policy views are discussed.[2]
+- **Friday, Oct. 2:** The September **Employment Situation report**—including nonfarm payrolls, unemployment, and wages—is scheduled at 8:30 a.m. ET and is the week’s primary macro risk event.[8]
+- **This week:** Oil-shipping security risks in the Strait of Hormuz and stalled U.S.–Iran talks remain geopolitical risk flags, with potential implications for energy prices and inflation expectations.[2]
+- **Earnings:** Accenture reports today; Levi Strauss and Applied Digital are scheduled for Oct. 7, but no clearly identified mega-cap index constituent earnings are listed for this week.[7][14]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
