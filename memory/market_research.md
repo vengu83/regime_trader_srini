@@ -1,29 +1,34 @@
 # Market Research
-_Generated: 2026-10-01 23:27 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-02 17:59 UTC via Perplexity sonar-pro_
 
-## 2026-10-01 Pre-Market Research
+## 2026-10-02 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about **0.25%** and Nasdaq futures about **0.1%** in the latest pre-market snapshot.[5]
-- **US data:** Scheduled releases include **weekly jobless claims** at 8:30 a.m. ET, **construction spending**, and the **S&P Global Manufacturing PMI**; CPI, PPI, NFP, and an FOMC decision are not scheduled for today.[6][8]
-- **Fed speakers:** Scheduled commentary includes **Neel Kashkari, Thomas Barkin, Susan Collins, Christopher Waller, and John Williams**.[6][10]
-- **Asia:** Japan’s **Nikkei 225 rose 3.3%** and South Korea’s **Kospi gained 1.9%**, supported by semiconductor and AI-related strength.[1]
-- **Europe:** European equities opened lower, with early declines of approximately **1.10% in London, 0.56% in Paris, and 0.48% in Frankfurt** amid elevated bond yields.[11]
+- **US equity futures:** S&P 500 futures were up approximately **0.5%**, while Nasdaq futures gained about **0.6%–0.7%** in pre-market trading.[2][14]
+
+- **US economic data:** The **September nonfarm-payrolls and labor-market report** was scheduled for release at **8:30 a.m. ET**; no CPI, PPI, or jobless-claims release was identified for today.[5]
+
+- **Federal Reserve:** **Dallas Fed President Lorie Logan** was scheduled to speak at approximately **10:00 a.m. ET** (2:00 p.m. GMT).[5]
+
+- **Asia:** Asian equities were mostly lower; Hong Kong’s market fell sharply, Japan’s Nikkei was indicated down about **1%**, and mainland Chinese markets were closed for a holiday.[3][14]
+
+- **Europe:** European equities rebounded in early trading, with the **FTSE 100 up 0.3%**, **CAC 40 up 0.6%**, and **DAX up 1.2%**.[14]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material recent drivers are macro rather than fund-specific: Fed officials’ comments and softer rate-hike expectations have lifted broad U.S. equity sentiment, with October hike odds falling sharply and Treasury yields easing after recent PCE and labor data. [19][23][8] On the ETF-specific side, State Street’s quarterly distribution was set at **$1.8888/share**, slightly below the prior quarter, while SPY ended Wednesday lower but was firmer in after-hours/early October trading alongside the broader market. [12][6][14]
-- **QQQ** (regime: `unknown`): QQQ’s most material recent driver is the continued bid for **large-cap tech and semiconductor exposure**, with pre-bell strength tied to Micron’s results and broader optimism around AI/data-center capital spending supporting Nasdaq-100 constituents.[1][3] Offsetting that, **rising Treasury yields** and persistent inflation remain a key valuation headwind for QQQ’s growth-heavy portfolio, and recent market commentary highlights rate sensitivity as the main macro risk today.[1][21]
+- **SPY** (regime: `unknown`): SPY is being driven today mainly by **softer-than-expected U.S. labor data**, with September payrolls rising only 29,000 versus 85,000 expected, which has sharply reduced odds of an October Fed hike and eased Treasury yields.[1][14][25] That macro shift is the biggest near-term support for broad equity ETFs like SPY, while the market is also still balancing **elevated valuations** and ongoing focus on earnings and AI-related megacap strength within the S&P 500.[2][4][5]
+- **QQQ** (regime: `unknown`): QQQ is trading near a **new 52-week high**, helped by ongoing strength in large-cap tech/growth names, and it also remains supported by **AI-spending optimism** and solid Nasdaq-100 sentiment.[8][3][2] The main macro driver today is the **Fed/rate outlook**: a recent release pushed the market’s October hike probability down and trimmed expectations for the rest of the year, which is generally supportive for duration-sensitive growth stocks like QQQ.[1]
+- **TLT** (regime: `unknown`): TLT’s most material recent move is a **continued selloff to fresh lows**, with the ETF closing around **$77.71 on Oct. 1** and its NAV down **0.20%** that day as long-duration Treasury prices remained under pressure.[1][2][17] The main macro driver is the **surge in long-dated U.S. Treasury yields**—reports cited the 10-year yield above **5.30%** and the 30-year near **5.6%**—which has deepened the bond rout and weighed directly on TLT.[7][10][22]
 
-No material ETF-specific news beyond the already-declared quarterly dividend, which is largely mechanical and not a fresh catalyst today.[5][9]
-- **TLT** (regime: `unknown`): TLT is being driven today by a **Treasury yield spike**, with the 10-year Treasury yield recently moving above **5.25%** and the 30-year yield near multi-decade highs, which pressures long-duration bond prices like TLT.[14][21][24] The ETF is also **ex-dividend today**, and recent fund data show it around **$77–78** with heavy volume and modest intraday gains, while broader macro headlines point to cooling inflation slightly reducing Fed-hike odds but not reversing the selloff in long bonds.[3][4][6][9][15]
-- **GLD** (regime: `unknown`): GLD is being driven mainly by a **sharp gold selloff and rebound attempt**, with recent commentary pointing to pressure from **higher real Treasury yields** and a **firm U.S. dollar**, even as softer inflation and weaker labor-data prints have tempered expectations for another Fed hike.[5][22][25] The most material ETF-specific item is **recent bullion-holdings outflows across major gold ETFs**, which suggests investor de-risking after the earlier rally and can weigh on GLD sentiment today.[7]
+On the ETF-specific side, **TLT went ex-dividend on Oct. 1** with a monthly distribution of about **$0.3116**, and the fund also saw strong trading activity amid the decline.[4][10][12]
+- **GLD** (regime: `unknown`): GLD’s most material recent driver is the sharp swing in **gold prices**, with the ETF rebounding modestly after a heavy late-September selloff that left it well below its highs.[1][20][24] The main macro forces cited around the move are **Treasury yields**, the **U.S. dollar**, and shifting **Fed-rate expectations**; recent commentary also points to central-bank buying as a longer-term support.[10][21][13]
+
+ETF-specific news appears limited, with no major fund-specific announcement standing out versus the broader gold and rate backdrop.[14][9]
 
 ### Risk Flags
-- **Today, Oct. 1:** U.S. initial jobless claims and the September ISM manufacturing PMI are scheduled, with additional construction-spending data; these are moderate market catalysts.[3][6][11]
-- **Today:** Fed Governor Christopher Waller is scheduled to speak, creating potential rate-sensitive volatility if monetary-policy views are discussed.[2]
-- **Friday, Oct. 2:** The September **Employment Situation report**—including nonfarm payrolls, unemployment, and wages—is scheduled at 8:30 a.m. ET and is the week’s primary macro risk event.[8]
-- **This week:** Oil-shipping security risks in the Strait of Hormuz and stalled U.S.–Iran talks remain geopolitical risk flags, with potential implications for energy prices and inflation expectations.[2]
-- **Earnings:** Accenture reports today; Levi Strauss and Applied Digital are scheduled for Oct. 7, but no clearly identified mega-cap index constituent earnings are listed for this week.[7][14]
+- **U.S. September Employment Situation** was scheduled for today at 8:30 a.m. ET; reported payroll growth was only 29,000 versus expectations of roughly 90,000, creating a significant rates-and-equity volatility catalyst.[2][9][12]
+- **U.S.–Iran geopolitical tensions** remain a major risk flag, with reports of additional U.S. military deployments to the Middle East and possible further escalation affecting oil prices and inflation expectations.[1][7][8]
+- **Federal Reserve policy repricing** is a secondary risk this week following the September 15–16 FOMC meeting; markets are reassessing the probability of another October rate hike in light of employment data.[8][13]
+- **No major S&P 500 constituent earnings releases** were identified in the available calendar for today; the main scheduled U.S. market catalyst is the employment report.[4]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
