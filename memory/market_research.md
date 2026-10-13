@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-10-13 01:38 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-13 19:27 UTC via Perplexity sonar-pro_
 
 ## 2026-10-13 Pre-Market Research
 
 ### Macro Context
-- **US futures:** Nasdaq futures were up about 0.2% and S&P 500 futures about 0.1% in pre-market trading.[9]
-- **US economic data:** Scheduled releases include the September NFIB Small Business Optimism Index, September existing-home sales, September federal budget balance, and Treasury bill auctions; no CPI, NFP, PPI, jobless-claims, or FOMC decision is listed for today.[6][8]
-- **Fed speakers:** Governor Christopher Waller is scheduled to speak, with Richmond Fed President Thomas Barkin and Boston Fed President Susan Collins also listed for remarks later today.[1][6]
-- **Asia:** MSCI Asia-Pacific shares excluding Japan rose about 0.2%, while Japan’s Nikkei gained 0.7%; Japanese markets were also reported closed in overnight coverage.[9][10]
-- **Europe:** European equity futures were higher, with EURO STOXX 50 futures up about 0.5%, DAX futures up 0.6%, and FTSE futures up 0.4%.[10]
+- **US futures:** S&P 500 futures were down about 0.1%–0.2%, while Nasdaq 100 futures fell roughly 0.7%, indicating weaker pre-market tech trading.[2][5]
+- **US economic data:** No CPI, NFP, FOMC decision, PPI, or weekly jobless-claims release was identified for today; the next CPI report is scheduled for Wednesday.[2][3]
+- **Fed events:** Fed Governor Christopher Waller was scheduled to speak at 7:45 a.m. ET, and Richmond Fed President Thomas Barkin at 5:00 p.m. ET.[10]
+- **Asia:** Asian equities sold off broadly, led by the Kospi, which fell about 6%–7%; Japan’s Nikkei declined roughly 2%–2.6%, while mainland Chinese indexes were mixed to lower.[1][2][4]
+- **Europe:** European equities opened mostly higher, with the Stoxx Europe 600 up about 0.55% and London, Frankfurt, and Paris advancing despite the Asian selloff.[6][7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is near its 52-week high, with trading focused on the start of Q3 earnings—particularly major-bank results—and upcoming U.S. inflation data.[5][6] Oil remains above $100 per barrel amid Middle East tensions, while elevated Treasury yields near 5.25% continue to pressure equity valuations; easing oil and recovering technology shares provided some offset.[6][7]
-- **QQQ** (regime: `unknown`): QQQ faces near-term pressure from weakness in richly valued technology and AI stocks, with the ETF recently declining as investors reassess growth-stock valuations.[1] Today’s key macro catalysts are upcoming CPI/PPI data and third-quarter earnings; hotter inflation or higher bond yields could further weigh on Nasdaq-100 constituents.[1]
-- **TLT** (regime: `unknown`): TLT faces elevated volatility ahead of Wednesday’s U.S. CPI report, with heavily short Treasury positioning creating potential for short-covering if yields fall, while long bonds have shown tentative stabilization after their recent sell-off.[1] The near-term bias remains pressured by elevated long-term yields, oil-driven inflation concerns, and hawkish Fed expectations; TLT was little changed around $77.98 on October 12.[2]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure from elevated U.S. Treasury yields, a strong dollar, and expectations for higher-for-longer Federal Reserve policy; the ETF fell about 0.65% in the latest session.[1][2] Persistent central-bank buying and strong gold-ETF inflows are providing support, while upcoming U.S. inflation data could drive today’s move by changing rate expectations.[1][9]
+- **SPY** (regime: `unknown`): SPY is roughly flat near its 52-week high as Q3 bank earnings support financials, while semiconductor and China-competition concerns weigh on technology shares.[1][2] Wednesday’s U.S. CPI, Treasury yields near 5.2%, oil-price volatility, and ongoing earnings releases are the main near-term macro catalysts.[2]
+- **QQQ** (regime: `unknown`): QQQ is under pressure as semiconductor and memory stocks retreat, with weakness in Nvidia, AMD, and Micron weighing on the Nasdaq-100; broader rotation toward financials is also a headwind.[3][5] Macro risk remains elevated ahead of Wednesday’s CPI, with 10-year Treasury yields near 5.2% and oil around $92–94 per barrel pressuring rate-sensitive technology valuations; Meta’s AI-related strength and Microsoft’s record high provide partial support.[5]
+- **TLT** (regime: `unknown`): TLT is sensitive to today’s long-end Treasury yield moves: recent reports point to elevated 10- and 30-year yields, stretched Treasury short positioning, and potential volatility ahead of Wednesday’s CPI release.[3][4] A stronger-than-expected CPI reading could pressure TLT through higher yields, while softer inflation or short covering could support it; TLT was modestly higher intraday near $78.3.[1][2]
+- **GLD** (regime: `unknown`): GLD is under pressure from an elevated U.S. dollar, high bond yields, and expectations for additional Federal Reserve tightening; gold was recently trading lower as markets await upcoming U.S. inflation data.[2][3] Record third-quarter global gold-ETF inflows of about $31 billion and renewed physical demand are providing support, while today’s direction may remain sensitive to yield and dollar moves ahead of CPI.[2][3]
 
 ### Risk Flags
-- **Major bank earnings today:** JPMorgan, Goldman Sachs, Citigroup, and other large financial institutions are scheduled to report before the open, creating potential index and sector volatility.[3]
-- **Healthcare earnings today:** Johnson & Johnson and UnitedHealth are also scheduled to report before the open, with potential effects on healthcare-sector benchmarks.[3]
-- **Geopolitical risk:** The US–Iran conflict, Strait of Hormuz disruption, and oil prices above $100 remain significant headline risks for equities and inflation expectations.[2][10]
-- **Fed risk:** No FOMC meeting is scheduled this week; the next meeting is listed for October 27–28, but markets remain sensitive to Fed commentary and rate-hike expectations.[9]
-- **Macro calendar:** The available calendar covers major US reports through October 16, but the retrieved results do not identify a CPI release or similarly high-impact data event for today.[1]
+- **Oct. 13:** Major earnings are scheduled before the open from JPMorgan, Goldman Sachs, Citigroup, Wells Fargo, UnitedHealth, and Johnson & Johnson.[1][4]
+- **Oct. 14:** September CPI and core CPI, plus the Federal Reserve Beige Book, are scheduled; CPI is the week’s primary macro volatility risk.[4]
+- **Oct. 15:** September PPI and retail-sales data are scheduled, alongside earnings from TSMC and several large financial companies.[3]
+- **Geopolitical risk:** Escalating Houthi attacks involving Saudi Arabia have lifted oil prices and could pressure equities through inflation and energy-market channels.[3][5]
+- **No FOMC decision is scheduled this week** in the cited calendars; Fed Chair Powell remarks are nevertheless a potential rate-market catalyst.[3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
