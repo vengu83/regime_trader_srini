@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-10-13 23:27 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-14 17:28 UTC via Perplexity sonar-pro_
 
-## 2026-10-13 Pre-Market Research
+## 2026-10-14 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 0.1%, while Nasdaq 100 futures declined roughly 0.6% in early pre-market trading.[4][7]
-- **US economic data:** Scheduled releases included the NFIB Business Optimism Index at 6:00 a.m. ET and weekly ADP employment data at 12:15 p.m. ET; no CPI, NFP, PPI, jobless-claims, or FOMC decision was listed.[10]
-- **Fed speakers:** Governor Christopher Waller was scheduled to speak at 7:45 a.m. ET, followed by Fed officials Michael Barr at 4:50 p.m., Thomas Barkin at 5:00 p.m., and Susan Collins at 8:00 p.m. ET.[2][5]
-- **Asia:** Asian equities fell sharply, with South Korea’s KOSPI down 6%, Japan’s Nikkei down 2.6%, and Taiwan’s market down 2%.[8]
-- **Europe:** European equities opened higher, with the FTSE 100 up about 0.1% and Frankfurt, Paris, and London trading in positive territory.[9]
+- **US futures:** S&P 500 futures were up about 0.2%, while Nasdaq-100 futures were roughly flat to marginally higher in pre-market trading.[1][7]
+- **Economic data:** September CPI is scheduled for release today; the Federal Reserve is also due to publish its Beige Book.[1][7]
+- **Fed events:** Richmond Fed President Thomas Barkin has a scheduled fireside chat, and Fed Vice Chair for Supervision Michelle Bowman is scheduled to speak in Bangkok; New York Fed President John Williams also commented overnight.[1]
+- **Europe:** Euro Stoxx 50 futures were up 0.36%, DAX futures rose 0.38%, and FTSE futures gained 0.07% in early trading.[1]
+- **Asia:** Markets were mixed to lower, with the Kospi down 5.5%, Nikkei 225 down 1.8%, CSI 300 down 0.3%, and Hang Seng up 0.3%.[3][10]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is little changed near its 52-week high as investors assess the start of Q3 bank earnings, with financials supported by strong Goldman Sachs results while chip and semiconductor names remain under pressure from China-competition concerns.[1][2] Near-term macro risks include Wednesday’s inflation data, 10-year Treasury yields near 5.2%, and volatile oil prices linked to geopolitical tensions.[3]
-- **QQQ** (regime: `unknown`): QQQ is under pressure as chip and memory stocks retreat, with concerns about Chinese memory competition and AI-related leverage weighing on major semiconductor holdings; rotation toward financials ahead of bank earnings is also a headwind.[3][7] Elevated Treasury yields and oil near $92–94 per barrel are adding pressure to richly valued growth stocks, while Meta’s AI developments and strength in some large-cap technology names provide partial support.[1][7]
-- **TLT** (regime: `unknown`): TLT faces a macro-sensitive session ahead of Wednesday’s CPI report, with long-duration Treasury yields elevated and markets pricing roughly an 18% chance of an October Fed hike.[2][3] Recent heavy short positioning in Treasuries could support volatility or a short-covering rebound if yields decline, while persistent inflation, fiscal concerns, and elevated long-term yields remain downside risks for TLT.[2][3]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure from a firm U.S. dollar, elevated front-end Treasury yields, and renewed expectations for another Federal Reserve rate hike; investors are also reducing exposure ahead of upcoming U.S. inflation data.[2][4] Geopolitical tensions may provide some safe-haven support, but the main price catalysts today are positioning ahead of CPI and changing rate expectations.[2][4]
+- **SPY** (regime: `unknown`): SPY is under pressure today, down roughly 0.7%–0.9%, as semiconductor weakness and rising expectations for another Federal Reserve rate hike weigh on large-cap technology valuations.[1][4] The main near-term catalysts are incoming U.S. inflation data, Treasury yields, bank earnings, and further Fed commentary; hotter inflation or higher yields would likely add pressure to the ETF.[2][4]
+- **QQQ** (regime: `unknown`): QQQ is under pressure from hotter-than-expected September CPI, which lifted Treasury yields and revived expectations for further Fed tightening—an immediate headwind for its long-duration technology holdings.[1][7] Semiconductor weakness, narrowing market breadth, and rotation toward defensive sectors are adding pressure, although upcoming large-cap technology earnings and continued AI spending provide potential offsets.[1][7]
+- **TLT** (regime: `unknown`): U.S. CPI ran hotter than expected on October 14, lifting Treasury yields across the curve; the 10-year yield rose to 5.30% and the 30-year to 5.61%, pressuring long-duration bond prices and TLT.[1] TLT was trading around $77.90, down roughly 0.6% intraday, with markets reassessing the risk of further Fed tightening.[1][2]
+- **GLD** (regime: `unknown`): GLD is under pressure today after hotter-than-expected September U.S. CPI lifted Treasury yields and expectations for additional Federal Reserve tightening, weighing on gold’s non-yielding appeal; GLD was down about 2% intraday.[1][2] A stronger dollar and reports that Kazakhstan may sell part of its gold reserves add near-term headwinds, although continued global gold-ETF demand and Chinese central-bank purchases provide offsets.[2][5]
 
 ### Risk Flags
-- **Tuesday, Oct. 13:** JPMorgan, Goldman Sachs, Wells Fargo, Citigroup, UnitedHealth Group, and Johnson & Johnson are scheduled to report before the open, creating concentrated earnings risk.[1][9]
-- **Wednesday, Oct. 14:** Bank of America, Morgan Stanley, BlackRock, and ASML are scheduled to report before the open.[9]
-- **Wednesday, Oct. 14:** September U.S. CPI is scheduled for release at 8:30 a.m. ET, making inflation and rate expectations a key macro risk.[4][8]
-- **Thursday, Oct. 15:** TSMC is scheduled to hold its earnings conference at 2:00 a.m. ET, with potential read-through for semiconductors and technology equities.[1]
-- **Geopolitical risk:** Reports cite continuing U.S.–Russia/Ukraine tensions and weekend attacks on Saudi Arabia’s Riyadh Airport as market-relevant geopolitical risks this week.[5]
+- **US CPI and core CPI** are scheduled for today, with consensus forecasts of 3.6% year over year and 0.6% month over month for headline CPI, making the release a key rates and equity-volatility catalyst.[6]
+- **Federal Reserve Beige Book** publication is scheduled today at 20:00, potentially influencing expectations ahead of the Fed’s late-October meeting.[6]
+- **Major bank earnings** are scheduled today from BlackRock, Bank of America, and Morgan Stanley.[6]
+- **Geopolitical risk remains elevated** as Houthi attacks on Saudi Arabia and reported Iranian attacks on tankers threaten energy supplies and could drive oil-price and inflation volatility.[4]
+- **This week’s earnings season** also includes reports from JPMorgan, Goldman Sachs, and Bank of America, according to contemporaneous market coverage.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
