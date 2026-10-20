@@ -1,27 +1,26 @@
 # Market Research
-_Generated: 2026-10-19 23:07 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-20 17:26 UTC via Perplexity sonar-pro_
 
-## 2026-10-19 Pre-Market Research
+## 2026-10-20 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 0.5%, while Nasdaq 100 futures gained roughly 0.9%–1.3% in pre-market trading.[1][2]
-- **US economic data:** No CPI, payrolls/NFP, or FOMC decision is scheduled today; this week’s main releases include jobless claims and flash PMIs.[9]
-- **Fed events:** No specific Federal Reserve speaker or event was listed for this week.[9]
-- **Asia:** South Korea’s KOSPI rose 1.8%, while Japan’s Nikkei 225 fell 0.6%.[6]
-- **Europe:** European equities were lower in early trading, with France’s CAC 40 down 1.3%, Germany’s DAX down 1.0%, and the UK FTSE 100 down 0.8%.[6]
+- **US futures:** S&P 500 futures were down less than 0.1%, while Nasdaq futures were down about 0.2%–0.5% in pre-market trading.[3][4]
+- **US data:** Scheduled releases include weekly ADP employment, September building permits, and September housing starts; no CPI, NFP, PPI, or jobless-claims release is listed for today.[5]
+- **Fed:** Fed officials are in the pre-meeting blackout period; no major policy appearances are scheduled, although a calendar lists a Goolsbee speech and an evening rate decision/press conference.[7]
+- **Asia:** MSCI Asia Pacific fell about 1.2%; the Nikkei declined roughly 0.6%, the Hang Seng about 1%, and the Shanghai Composite about 0.5%, while China held its loan prime rates.[1][3]
+- **Europe:** European futures indicated a softer open of roughly 0.6%, with the DAX and FTSE 100 reported lower in early trading.[3][4]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being supported by a rebound in U.S. equity futures after Friday’s technology-led selloff, with investors focused on upcoming mega-cap technology earnings; recent five-day inflows of roughly $778 million also indicate continued broad-market demand.[2] Risks remain from elevated Treasury yields, a recent acceleration in inflation to 3.7%, and weakness in technology and semiconductor shares, while Monday’s light macro calendar leaves earnings and rates as the main near-term drivers.[2][3][4]
-- **QQQ** (regime: `unknown`): QQQ is rebounding about 1.6% today as investors buy the dip in AI-linked megacaps; semiconductor shares, including Intel, AMD, and Micron, are leading the technology-sector bounce.[7] Key risks remain elevated Treasury yields near 5.1%, recent inflation-driven rate-hike concerns, and upcoming Meta and Tesla earnings, while AI-financing concerns continue to weigh on sentiment.[7]
-- **TLT** (regime: `unknown`): TLT faces mixed drivers today: recent inflows of roughly $11.85 billion and a decline in 20- and 30-year Treasury yields supported its rally, but accelerating September inflation to 3.7% and renewed Fed rate-hike uncertainty could pressure long-duration bonds.[1][2] TLT was trading around $79.4–$79.6 on October 19, down roughly 0.7%–0.9% intraday.[3][6]
-- **GLD** (regime: `unknown`): GLD is down roughly 0.6% today as gold prices retreat from recent highs, pressured by a firmer U.S. dollar, elevated Treasury yields, and renewed expectations for additional Federal Reserve rate hikes.[1][3] Lower oil prices and falling yields are providing some support, while continued ETF demand and geopolitical risks partially offset the rate-driven headwinds.[2][9]
+- **SPY** (regime: `unknown`): SPY faces mixed near-term drivers: crude oil above $100 and a 10-year Treasury yield near 5.365% are pressuring equity valuations, particularly rate-sensitive sectors.[3][7] A heavy earnings calendar, including major technology companies, is the main potential upside catalyst, while chip weakness and renewed geopolitical tensions weigh on sentiment.[1][7]
+- **QQQ** (regime: `unknown`): QQQ faces a weaker tone today as AI and semiconductor stocks retreat, while higher oil prices and Treasury yields reinforce rate-sensitive growth-stock pressure.[6][4] Recent concerns over AI-infrastructure spending returns, elevated inflation, and potential Fed tightening remain material macro headwinds, although Nasdaq-100 exposure and recent QQQ inflows provide some offset.[2][3]
+- **TLT** (regime: `unknown`): TLT has a positive near-term backdrop: long-term Treasury yields recently declined, supporting a roughly 3.8% six-session rally, while October net inflows reached about $2.15 billion through October 15.[2] However, September U.S. inflation accelerated to 3.7%, and the October 27–28 Fed meeting remains a key risk; renewed tightening expectations or higher long-end yields could pressure TLT today.[2]
+- **GLD** (regime: `unknown`): GLD faces near-term pressure as higher Treasury yields, a stronger U.S. dollar, and increased expectations of another Federal Reserve rate hike raise the opportunity cost of holding non-yielding gold.[1][5] GLD was indicated down roughly 0.5% in premarket trading, while gold remains near recent lows; flows have also favored lower-cost peer GLDM over GLD, a fund-specific headwind.[3][5]
 
 ### Risk Flags
-- **Today, Monday, Oct. 19:** The earnings calendar is active, including Steel Dynamics, W.R. Berkley, and several financial companies reporting after the close.[8][9]
-- **Tuesday, Oct. 20:** Netflix, GE Aerospace, and Northrop Grumman are scheduled to report, with the Fed’s Financial Stability Report also tentatively due.[6]
-- **Wednesday, Oct. 21:** Tesla, Meta, IBM, Lam Research, and Texas Instruments are scheduled to report after the close, creating elevated single-stock and technology-sector risk.[6]
-- **Thursday, Oct. 22:** Spotify, Bloom Energy, Western Digital, Lockheed Martin, and Blackstone are scheduled to report.[6]
-- **Friday, Oct. 23:** Flash US PMIs are the main scheduled macro release; American Express and Schlumberger are also due to report before the open.[6][9]
+- **FOMC meeting:** The Federal Reserve is scheduled to meet October 27–28, making next week’s policy decision and rate guidance a key risk event.[10]
+- **Major earnings:** Several S&P 500 companies are scheduled to report Q3 2026 earnings today, October 20, including Halliburton, Synchrony Financial, and KeyCorp; timing and market impact vary by company.[2]
+- **Geopolitical risk:** Ongoing Middle East tensions and potential energy-market disruptions remain an elevated risk for equities, inflation expectations, and interest rates.[3][10]
+- **Rates and inflation:** September CPI was recently reported at 3.7% year over year, with core CPI up 0.3% month over month, leaving markets sensitive to further inflation and Fed repricing.[1]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
