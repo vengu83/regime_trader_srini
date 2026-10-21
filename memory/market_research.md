@@ -1,26 +1,27 @@
 # Market Research
-_Generated: 2026-10-21 17:33 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-21 22:48 UTC via Perplexity sonar-pro_
 
 ## 2026-10-21 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 0.1%–0.2%, while Nasdaq-100 futures gained roughly 0.3%–0.6% in pre-market trading.[1][2]
-- **US economic data:** No scheduled CPI, NFP, FOMC decision, PPI, or weekly jobless-claims release was identified in the available results for today.
-- **Fed commentary:** No Fed speaker event or official Fed commentary was identified in the available results for today.
-- **Asia:** Results were mixed, with the MSCI Asia Pacific index higher in some reports, while the Hang Seng fell about 0.8% and Shanghai’s SSE Composite declined about 0.5%.[7][10]
-- **Europe:** European equities were modestly higher overall, with the Stoxx Europe 600 up about 0.4% and Frankfurt outperforming, while London was little changed.[8][10]
+- **US futures:** S&P 500 futures were up about 0.2% and Nasdaq futures about 0.4% in pre-market trading.[1]
+- **US economic data:** No scheduled CPI, payrolls/NFP, FOMC decision, PPI, or weekly jobless-claims release was identified in the available results for today.
+- **Fed activity:** No Fed speaker event was identified; the Fed calendar lists only advance notice of a closed Board meeting scheduled for October 27.[2]
+- **Asia:** Asian equities were mixed, with the MSCI Asia-Pacific index up 0.6% and South Korea’s Kospi up 1.9% in early Wednesday trading.[3]
+- **Europe:** European equities were reported as drifting lower, with the Stoxx 600 down 0.1% in the latest available snapshot.[3]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces competing drivers today: stronger U.S. equity futures and optimism ahead of major technology earnings are supporting the ETF, while its heavy AI/large-cap technology concentration leaves it sensitive to earnings and valuation news.[2] Higher-than-expected September U.S. inflation, energy-supply disruptions, and elevated Treasury yields are reinforcing concerns about additional Federal Reserve tightening, which could pressure SPY.[1]
-- **QQQ** (regime: `unknown`): QQQ is rebounding as technology and semiconductor stocks recover from last week’s sell-off, helped by renewed AI optimism following strong SpaceX and Super Micro developments.[1][3] Near-term volatility remains elevated ahead of Meta and Tesla earnings, while Treasury yields near 5.1%, AI-financing concerns, and an Apple downgrade are offsetting some of the bullish momentum.[1][3]
-- **TLT** (regime: `unknown`): TLT’s key near-term driver is a modest cooling in long-term Treasury yields, which recently supported a roughly 2% weekly rebound and lifted the ETF to about $80.13 at the October 20 close.[1][7][10] However, renewed expectations of an October Fed hike and persistent fiscal/inflation concerns remain a risk for long-duration bonds, while substantial recent inflows into TLT may provide some demand support.[1][3][7]
-- **GLD** (regime: `unknown`): GLD is trading slightly higher today, while gold remains pressured by elevated inflation expectations, Treasury yields, and expectations for further Federal Reserve rate hikes; easing 10-year real yields near 2.77% are providing some support.[2][4] Recent gold-ETF flows remain a longer-term positive, but near-term downside risks include higher crude oil prices and a reported 6.2-tonne reduction in Russia’s gold reserves.[4][5]
+- **SPY** (regime: `unknown`): SPY was modestly higher as stronger-than-expected SpaceX results and renewed AI/chip-sector momentum supported technology shares, while investors positioned ahead of Meta and Tesla earnings. Healthcare strength and easing expectations for near-term Fed tightening provided support, but elevated Treasury yields near 5.1%, oil around $108–110, and Iran-related tensions remained macro headwinds.[3][5]
+- **QQQ** (regime: `unknown`): QQQ is rebounding as technology and semiconductor stocks recover from last week’s selloff, helped by strong SpaceX results and renewed AI-trade momentum.[5] Near-term volatility remains elevated ahead of Meta and Tesla earnings, while Treasury yields near 5.1%, AI-valuation concerns, and an Apple downgrade could restrain gains.[2][5]
+- **TLT** (regime: `unknown`): TLT rebounded about 0.8% on October 20 as long-term Treasury yields eased, with the fund trading near $80.14 on October 21.[1][2] The main price driver remains the conflicting rate outlook: markets are weighing a possible October Fed hike against signs of cooling rates and renewed demand for long-duration Treasuries.[3][5]
+- **GLD** (regime: `unknown`): GLD is modestly higher today as gold attempts to rebound with a softer U.S. dollar and easing real yields, but rising crude prices and persistent inflation are reinforcing expectations of Federal Reserve tightening—key headwinds for non-yielding gold.[2] Recent gold weakness and GLD’s position below its 50- and 200-day moving averages suggest the broader trend remains pressured, despite seasonal Indian demand and reported ETF accumulation.[2][4]
 
 ### Risk Flags
-- **Meta Platforms and Tesla report Q3 earnings after market close today**, with potential index and mega-cap volatility.[1][4]
-- **Texas Instruments, IBM, Lam Research, SAP, and other major companies also report today**, creating concentrated technology and semiconductor earnings risk.[1][9]
-- **Today’s broader earnings slate includes roughly 66 companies**, making Wednesday the week’s heaviest reporting day by market value.[4]
-- **Recent hotter-than-expected inflation has increased sensitivity to interest-rate expectations**, while the week’s calendar includes scheduled US economic reports and Fed speakers through October 30.[2][8]
+- **Major earnings today after the close:** Meta, Tesla, Texas Instruments, and IBM are scheduled to report, creating potential index and sector volatility.[4]
+- **US economic data today:** EIA weekly petroleum inventories and a 20-year Treasury note auction are scheduled; oil-price and rate-sensitive equities may react.[8]
+- **Friday, October 23:** US flash manufacturing and services PMI releases are scheduled and may move equities, yields, and cyclical sectors.[4][9]
+- **Next week:** The October FOMC meeting is scheduled for October 27, so rate expectations may influence markets throughout this week.[10]
+- **Geopolitical risk:** Ongoing US–Iran diplomatic uncertainty and Russia–Ukraine energy/infrastructure developments remain potential risk flags for equities and oil markets.[3][4]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
