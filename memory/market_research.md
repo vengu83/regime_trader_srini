@@ -1,26 +1,26 @@
 # Market Research
-_Generated: 2026-10-22 22:47 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-23 17:22 UTC via Perplexity sonar-pro_
 
-## 2026-10-22 Pre-Market Research
+## 2026-10-23 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 0.8%–1.0%, while Nasdaq 100 futures were lower by roughly 1.6% in pre-market trading.[1][6]
-- **US data:** Weekly initial jobless claims are scheduled for 8:30 a.m. ET; the calendar shows a 200,000 consensus estimate versus 194,000 previously.[7]
-- **Fed:** The available calendar lists an FOMC meeting as “TBA,” but provides no confirmed Fed speaker event for October 22.[7]
-- **Asia:** Asian equities were broadly weaker; South Korea’s KOSPI fell 3.52%, while China’s CSI 300 remained in bear-market territory relative to its June peak.[6][4]
-- **Europe:** European equities were lower in early trading, with Euro Stoxx 50 futures down 0.7%; French debt stress remained a market focus.[1]
+- **US futures:** S&P 500 futures were down about 0.2%–0.3%, while Nasdaq 100 futures were down roughly 0.1%–0.2% in pre-market trading.[2][3]
+- **US economic data:** No scheduled CPI, payrolls, FOMC decision, PPI, or initial jobless-claims release was identified in the available results for today.
+- **Fed events:** No Federal Reserve speaker or official event was identified in the available results for today.
+- **Europe:** The Stoxx Europe 600 was down about 0.5%–0.7% in early trading, with the FTSE 100 down roughly 0.6%.[1][7]
+- **Asia:** Japan’s Nikkei 225 fell 0.34% and India’s Nifty 50 fell 0.96%, while South Korea’s KOSPI rose 0.30% and China’s CSI 300 gained 1.71%.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces downside pressure today from a risk-off move in technology and AI-linked stocks after mixed Meta and Tesla results, while a weaker Lam Research outlook further pressured semiconductors.[1] Brent crude near $112 and the 10-year Treasury yield around 5.05% add inflation and rate concerns, with Middle East tensions another macro risk.[1]
-- **QQQ** (regime: `unknown`): QQQ is under pressure today as renewed concerns about the sustainability and financing of AI capital spending weigh on Nasdaq-100 technology and semiconductor stocks; Meta’s planned non-voting share issuance and Tesla’s lower 2026 capex forecast added to the unease.[1][3] Brent crude above $112 following Middle East supply-disruption fears adds an inflation and risk-off macro headwind for growth-sensitive equities.[1][3]
-- **TLT** (regime: `unknown`): TLT is rising roughly 1.3%–1.9% today as long-term Treasury yields fall amid a safety bid, with technology-stock weakness and geopolitical/oil-price concerns supporting demand for government bonds.[1][2][6] The key offset is persistent inflation, fiscal-deficit concerns, and uncertainty ahead of the October 28 Fed meeting, which continue to pressure long-duration bonds.[7][8]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure as gold retreats amid higher oil prices, hotter inflation data, elevated Treasury yields, and increased expectations for additional Federal Reserve tightening—conditions that reduce demand for non-yielding bullion.[1][2][8] Broader risk-off trading and Middle East tensions may provide some safe-haven support, while strong Chinese gold-ETF inflows offer a longer-term demand offset.[2]
+- **SPY** (regime: `unknown`): SPY faced modest premarket pressure, down 0.2%, as concerns over the cost and returns of AI investment weighed on technology stocks and futures.[2] Surging oil—Brent above $114 and WTI above $100—alongside geopolitical tensions and elevated Treasury yields added broader risk-off pressure; October flash PMI and University of Michigan sentiment/inflation data were scheduled for release.[4][8]
+- **QQQ** (regime: `unknown`): QQQ faces a negative near-term backdrop: concerns over Meta’s elevated AI spending and weak returns on AI investment pressured Nasdaq futures and semiconductor stocks after Thursday’s selloff.[3][7] Higher geopolitical risk also pushed Brent crude above $112–$113 per barrel, raising inflation concerns, while QQQ was reported lower in premarket trading Friday.[3][6]
+- **TLT** (regime: `unknown`): TLT’s key near-term driver is a sharp Treasury rally: the 10-year yield fell about 18 basis points to 4.95% amid a tech selloff and safe-haven demand, supporting long-duration bonds.[7] However, elevated long-term yields, reported net outflows, and fiscal/inflation concerns remain headwinds; TLT was around $81.43 on October 23 after closing the prior session up 1.87%.[1][3][5]
+- **GLD** (regime: `unknown`): GLD is under pressure as gold falls toward the \( \$4{,}000 \)/oz support zone, with higher crude prices reviving inflation concerns and increasing expectations that the Fed may keep policy restrictive.[1][2] A stronger dollar, recent Fed rate-hike uncertainty, and reported bearish options positioning are additional near-term headwinds, despite broader market volatility and lower Treasury yields.[1][2]
 
 ### Risk Flags
-- **Tesla (TSLA) and Meta Platforms (META) earnings:** Both reported third-quarter results around October 21, creating elevated single-stock and Nasdaq risk during today’s session.[2][7]
-- **Broader earnings concentration:** Procter & Gamble, Union Pacific, Lockheed Martin, Valero, Comcast, Honeywell, Western Digital, Intel and other sizable companies are scheduled to report today.[3][5]
-- **Technology earnings spillover:** IBM, Texas Instruments and Lam Research also reported results around this date, increasing sensitivity in semiconductors and large-cap technology.[4]
-- **Macroeconomic risk:** A hotter-than-expected September US CPI report has reinforced a hawkish Federal Reserve bias and remains a rates-equity volatility flag this week.[10]
+- **Today, Friday, Oct. 23:** U.S. flash PMI data at 9:45 a.m. ET and the University of Michigan consumer-sentiment release at 10:00 a.m. ET are the main scheduled macro catalysts.[8][9]
+- **Fed policy risk:** FOMC officials are in the pre-meeting blackout ahead of the Oct. 27–28 policy meeting, limiting official guidance while rate expectations remain sensitive to incoming data.[6][7]
+- **Earnings:** Major technology-company earnings, including Tesla and Meta earlier this week, remain a volatility risk as third-quarter reporting continues; 111 S&P 500 companies had reported by Oct. 23.[4][5]
+- **Market backdrop:** Elevated Treasury yields, the recent hotter-than-expected CPI/PPI data, and ongoing Middle East tensions remain active macro and geopolitical risk flags.[1][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
