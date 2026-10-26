@@ -1,26 +1,26 @@
 # Market Research
-_Generated: 2026-10-23 23:24 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-26 18:49 UTC via Perplexity sonar-pro_
 
-## 2026-10-23 Pre-Market Research
+## 2026-10-26 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 0.4%, while Nasdaq 100 futures were down roughly 0.2% in the latest pre-market indications.[3]
-- **US economic data:** No scheduled CPI, PPI, employment report, jobless-claims release, or FOMC decision was identified in the available results for today.
-- **Fed events:** No Federal Reserve speaker or official Fed event was identified in the available results for today.
-- **Europe:** The Stoxx Europe 600 was down about 0.7%, with Germany’s DAX down 0.4%, France’s CAC 40 down 0.6%, and the FTSE 100 down 0.4% in early trading.[3][7]
-- **Asia:** Japan’s Nikkei 225 fell 0.3%, while South Korea’s Kospi rose 0.3%, Hong Kong’s Hang Seng gained 0.7%, and Shanghai’s Composite added 0.9%.[7]
+- **US futures:** S&P 500 futures are up roughly 0.3%–0.4%, while Nasdaq futures are up about 0.6%–0.7% in pre-market trading.[1][2]
+- **US economic data:** No major releases identified for today; the week’s scheduled focus includes the FOMC decision Wednesday, Q3 GDP and the September PCE inflation report Thursday.[6]
+- **Fed events:** No Fed speaker event is identified for today; the next major Fed event is the two-day FOMC meeting concluding Wednesday, followed by Chair Kevin Warsh’s press conference.[6]
+- **Asia:** Markets closed mixed to lower, with the Nikkei 225 down 0.8%, South Korea’s Kospi down 1.6%, Hong Kong’s Hang Seng up 0.5%, and China’s CSI 300 little changed.[3][9]
+- **Europe:** European equities are higher, with the Stoxx Europe 600 up 0.4% mid-session; Germany’s DAX, France’s CAC 40, and the FTSE 100 were also higher.[3][7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces pressure from Thursday’s 1.21% S&P 500 decline and technology-led selling tied to concerns over the cost of AI investment; futures were lower premarket Friday, with SPY down about 0.2%.[1][3] Surging oil near $114 Brent amid Iran-related tensions and elevated Treasury yields add macro pressure, while Friday’s U.S. flash PMI and consumer-sentiment data could influence trading.[5][7]
-- **QQQ** (regime: `unknown`): QQQ faces pressure from renewed concerns that elevated AI capital spending may not generate adequate returns, weighing particularly on semiconductor and megacap technology holdings; the ETF was lower in premarket trading after Thursday’s selloff.[2][6] Brent crude above $112–$113 amid Middle East supply-risk concerns adds an inflationary macro headwind for growth-stock valuations, although QQQ was attempting a modest stabilization early Friday.[5][8]
-- **TLT** (regime: `unknown`): TLT is being supported today by a broad Treasury rally: an AI-driven technology selloff and risk aversion pushed the 10-year yield down nearly 20 basis points, while TLT recently gained 1.87%.[1][2] The move is partly offset by persistent fiscal concerns, elevated long-term yields, and uncertainty over the Federal Reserve’s October rate decision.[3]
-- **GLD** (regime: `unknown`): GLD is under pressure as gold fell below $4,000/oz, heading toward its steepest weekly decline in nearly five months. Higher oil prices and stronger economic data have lifted inflation concerns and reinforced expectations for restrictive Federal Reserve policy, reducing demand for non-yielding gold; GLD was down roughly 0.6% intraday.[1][2][10]
+- **SPY** (regime: `unknown`): SPY was indicated about 0.5% higher premarket, with S&P 500 futures up 0.4%, as investors positioned ahead of major technology earnings and Wednesday’s Federal Reserve rate decision.[1] Recent pressure from higher oil prices and Treasury yields, plus technology/AI concerns, remains a countervailing risk; technology and semiconductor ETFs were nevertheless higher premarket.[1][8]
+- **QQQ** (regime: `unknown`): QQQ was indicated about 0.8% higher premarket, with technology shares supported by renewed AI enthusiasm and higher semiconductor stocks.[1][4] The main near-term catalysts are this week’s megacap technology earnings and Wednesday’s Federal Reserve decision, while elevated Treasury yields and inflation concerns remain potential pressures on the rate-sensitive Nasdaq-100.[1][4]
+- **TLT** (regime: `unknown`): TLT is modestly higher today as investors position defensively ahead of the Federal Reserve’s Oct. 27–28 meeting and major technology earnings, following last week’s AI-led equity selloff and a decline in the 10-year Treasury yield to roughly 5%.[2][3] Elevated oil prices and Middle East tensions continue to support inflation and “higher-for-longer” rate concerns, limiting gains in long-duration Treasuries.[3]
+- **GLD** (regime: `unknown`): GLD is modestly higher in early trading as gold rebounded above $4,000/oz after last week’s roughly 4% decline; lower oil prices, softer Treasury yields, and a weaker dollar are providing support.[1][3] The key near-term risk remains the Federal Reserve meeting and Thursday’s PCE inflation report, while elevated expectations for a December rate hike and gold’s position below its 50-day average continue to pressure the ETF.[1][3]
 
 ### Risk Flags
-- **FOMC meeting:** The Federal Reserve’s next two-day FOMC meeting is scheduled for October 27–28, with the rate decision expected October 28.[1][2]
-- **Earnings season:** Q3 results remain a significant near-term volatility source, with more than half of S&P 500 companies expected to have reported by the end of this week and major technology companies among recent reporters.[3][5]
-- **Upcoming macro data:** September personal consumption expenditures and the advance Q3 GDP estimate are scheduled for release next week, creating potential rates and equity volatility.[6]
-- **Today, October 23:** No FOMC decision or clearly identified top-tier US inflation release is scheduled; the primary event risk is ongoing earnings reactions.[1][7]
+- **FOMC decision:** The Federal Reserve’s two-day meeting is scheduled for Tuesday–Wednesday, October 27–28, with the policy decision expected Wednesday; markets broadly expect rates to remain unchanged, but guidance on a possible December hike is a risk flag.[1][9]
+- **Major technology earnings:** Microsoft, Alphabet, and Amazon are scheduled to report this week, with investor focus on AI spending, capital expenditure, and forward guidance.[3][9]
+- **Geopolitical risk:** Escalating US–Iran tensions and related energy-market volatility remain potential catalysts for US equities, particularly through crude oil and inflation expectations.[7][9][10]
+- **Global central-bank decisions:** ECB and Bank of Japan decisions are also expected this week, potentially affecting US rates, the dollar, and risk sentiment.[2][3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
