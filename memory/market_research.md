@@ -1,27 +1,26 @@
 # Market Research
-_Generated: 2026-10-28 23:37 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-29 18:36 UTC via Perplexity sonar-pro_
 
-## 2026-10-28 Pre-Market Research
+## 2026-10-29 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 0.1%, while Nasdaq-100 futures rose roughly 0.3%–0.4% in early pre-market trading.[7][8]
-- **US economic data:** No major CPI, NFP, PPI, or initial jobless-claims release was identified for today; the scheduled major event is the FOMC decision at 2:00 p.m. ET.[2]
-- **Fed events:** The Federal Reserve is concluding its two-day October 27–28 meeting, with the FOMC statement at 2:00 p.m. ET and a press conference afterward.[1][2]
-- **Asia:** Asian markets were supported by strong SK Hynix results and gains in chip-related shares, with investors focused on the Fed decision and technology earnings.[4]
-- **Europe:** European equities were little changed to slightly lower, with the Stoxx Europe 600 down about 0.2% in the latest reported session.[6][8]
+- **US futures:** S&P 500 futures are down roughly 0.4%–0.5%, while Nasdaq-100 futures are down about 1.2%–1.3% in pre-market trading.[2][10]
+- **US economic data:** No major releases identified for today among CPI, payrolls/NFP, PPI, jobless claims, or an FOMC rate decision.
+- **Fed events:** The Fed held rates unchanged on Wednesday; no separate Fed speaker event was identified for Thursday.[1][9]
+- **Asia:** Markets were mixed, with Japan’s Nikkei higher, South Korea’s Kospi down roughly 1.5%–2.1%, and China’s CSI 300 lower by about 1.2%.[3][8]
+- **Europe:** European equities opened higher after a broadly firm prior session, while the European Central Bank was expected to leave rates unchanged later Thursday.[1][3]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): The Federal Reserve held its policy rate at 3.75%–4.00%, while signaling continued uncertainty; SPY initially gained as stocks focused on upcoming Microsoft and Alphabet earnings, but elevated Treasury yields near 5% remain a headwind.[4][9] AI and semiconductor strength is supporting technology-heavy S&P 500 exposure, although high oil prices, uneven market breadth, and reported SPY outflows temper the setup.[3]
-- **QQQ** (regime: `unknown`): QQQ is little changed to modestly higher as investors await today’s Federal Reserve decision and after-hours Microsoft and Alphabet earnings; markets broadly expect rates to remain at 3.75%–4.00%, with guidance the key catalyst.[5] Recent strength in semiconductors and AI-related shares, including optimism around Anthropic’s IPO filing, supports the Nasdaq-100, while elevated yields, AI-capex financing concerns, and mixed megacap performance remain offsets.[3][5]
-- **TLT** (regime: `unknown`): TLT is broadly flat around $81.6 today as markets await the Fed’s Oct. 27–28 decision and Thursday’s PCE inflation report; expectations for a hold and uncertainty over December guidance are keeping long-end yields—and TLT—sensitive to rate signals.[2] Recent long-duration Treasury inflows and a tech-led bond rally have supported TLT, but persistent fiscal and inflation risks remain a headwind if yields rise.[2][3]
-- **GLD** (regime: `unknown`): GLD is under pressure after the Fed held rates steady but maintained a hawkish tone amid persistent inflation and resilient economic activity; a firm dollar and elevated Treasury yields are increasing the opportunity cost of holding gold.[1] The ETF also faces a reported roughly $1.6 billion weekly outflow, while analysts warn that gold could decline toward $3,900 if restrictive policy persists.[2]
+- **SPY** (regime: `unknown`): SPY faces modest downside pressure as Alphabet’s earnings miss and weaker tech sentiment weigh on its megacap holdings, while firm core PCE inflation has pushed Treasury yields higher. The Fed held rates at 3.75%–4.00%, and today’s Q3 GDP result plus after-hours Amazon and Intel earnings are key catalysts.[1][2][3]
+- **QQQ** (regime: `unknown`): Alphabet’s disappointing earnings triggered a sharp selloff in the stock and pressured QQQ, given Alphabet’s significant Nasdaq-100 weighting; QQQ was down about 1.4% intraday.[7][8] The Federal Reserve held rates at 3.75%–4.00%, while investors also weigh elevated yields and upcoming Microsoft, Meta, Apple, and Amazon earnings, keeping the near-term backdrop volatile.[1][4]
+- **TLT** (regime: `unknown`): TLT is trading near $81.2 on October 29 after the Fed held its target rate at 3.75%–4%, while two officials favored a hike—an adverse backdrop for long-duration Treasuries.[9] Ten-year yields have recently moved back above 5% and the curve is steepening, increasing duration pressure, although renewed Treasury demand during technology-stock weakness has provided intermittent support.[1][2]
+- **GLD** (regime: `unknown`): GLD is indicated down roughly 1% premarket after gold weakened following the Fed’s October decision to hold rates, with two dissents favoring a hike; markets still price a high probability of a December increase, while elevated Treasury yields and oil prices pressure non-yielding gold.[1][2] ETF-specific flows are also a headwind: GLD reportedly experienced about $1.6 billion in weekly outflows and higher short interest in mid-October, though broader gold-ETF inflows and bullish options activity provide some offset.[1]
 
 ### Risk Flags
-- **FOMC decision:** The Federal Reserve’s two-day meeting concludes today, October 28, with the policy announcement scheduled for 2:00 p.m. ET and the press conference afterward.[1][2]
-- **Mega-cap earnings:** Microsoft and Alphabet report third-quarter/fiscal-quarter results after today’s US close; ServiceNow and T-Mobile are also scheduled to report.[6][8]
-- **Employment-cost data:** The third-quarter Employment Cost Index is scheduled for Friday, October 30, at 8:30 a.m. ET, a potential rates-sensitive release.[7]
-- **Energy-sector earnings:** ExxonMobil and Chevron are scheduled to report Friday before or around the market open, creating potential sector and index volatility.[8]
-- **Other labor data:** Metropolitan employment and unemployment data and business-employment-dynamics data are scheduled today at 10:00 a.m. ET, though they are generally lower-impact than the FOMC decision.[7]
+- **FOMC:** The scheduled October 27–28 FOMC meeting has concluded, so no additional FOMC decision is scheduled for October 29–November 1.[1][2]
+- **Macro data today:** US Q3 advance GDP, September core PCE and headline PCE inflation, personal income/spending, GDP price index, and weekly jobless claims are scheduled for 8:30 a.m. ET.[9]
+- **Major earnings today:** Amazon reports after the close; Eli Lilly, Mastercard, Intel, Merck, Caterpillar, and several other large-cap companies report during the day.[4][10]
+- **Risk concentration:** The combination of inflation-sensitive PCE data, GDP, and mega-cap technology/industrial/pharmaceutical earnings creates a relatively elevated event-risk window for US equities today.[4][9][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
