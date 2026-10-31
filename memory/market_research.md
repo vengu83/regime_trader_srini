@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-10-30 23:17 UTC via Perplexity sonar-pro_
+_Generated: 2026-10-31 00:00 UTC via Perplexity sonar-pro_
 
-## 2026-10-30 Pre-Market Research
+## 2026-10-31 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 1.1%, while Nasdaq futures fell roughly 2.4% in pre-market trading.[4][5]
-- **US data:** Scheduled releases include the Q3 Employment Cost Index at 8:30 a.m. ET and the October Chicago Business Barometer at 9:45 a.m. ET; no CPI, NFP, FOMC decision, PPI, or jobless-claims release is listed.[7]
-- **Fed events:** Richmond Fed President Thomas Barkin is scheduled for a radio appearance at 9:30 a.m. ET, San Francisco Fed President Mary Daly has opening remarks at noon, and St. Louis Fed President Alberto Musalem speaks at 12:30 p.m. ET.[7]
-- **Asia:** The Kospi fell about 4.5%, Nikkei futures pointed lower, and Hong Kong equities faced pressure from reported mainland-investor outflows.[2]
-- **Europe:** The Stoxx Europe 600 rose 0.8%, Germany’s DAX gained 1.3%, France’s CAC 40 added 1.1%, and the UK’s FTSE 100 rose 0.3% in the reported session.[2]
+- **US futures:** S&P 500 futures were lower, while Nasdaq futures were down **3.45%** in the latest available pre-market snapshot.[3]
+- **US economic data:** No CPI, payrolls/NFP, PPI, or weekly jobless-claims release is listed for Saturday, October 31; an **FOMC press release** is listed on the release calendar.[4]
+- **Fed events:** The Fed’s calendar shows the October 27–28 FOMC meeting and an October 31–November 1 entry, but the available listings do not clearly identify a public Fed speaker event for October 31.[2][5]
+- **Asia:** Asian markets were down **1.18% on average**, with two of seven tracked markets higher.[3]
+- **Europe:** European markets were down **0.50% on average**, with one of four tracked markets higher.[3]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces near-term pressure from a technology-led selloff, rising oil prices, and higher Treasury yields; reports also indicate defensive sectors are outperforming growth stocks.[2][3][7] The Federal Reserve held rates at 3.75%–4.00%, but elevated inflation and hawkish commentary—including possible future hikes—remain macro headwinds.[4][5]
-- **QQQ** (regime: `unknown`): QQQ is under significant pressure today, down about 3.1% intraday as disappointing Amazon cash-flow results and Intel’s weak guidance intensified concerns about AI spending returns, PC demand, and technology valuations.[1] The selloff follows Alphabet’s record post-earnings decline, with technology the weakest major sector and QQQ breaking below the closely watched $700 level.[1][8]
-- **TLT** (regime: `unknown`): TLT faces pressure from long-end yields near 5%: the Fed held rates at 3.75%–4% while two policymakers dissented for a hike, and stronger growth/inflation signals have pushed the 10-year yield back above 5%.[3][9] The ETF was nevertheless indicated modestly higher premarket at $81.92 after closing at $81.49, while further GDP, PCE, and Fed-policy repricing remain the key near-term drivers.[6][9]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure as spot gold fell below $4,000 amid higher oil-driven inflation concerns, elevated real yields, and rising expectations of a potential December Fed rate hike.[1][2] GLD reportedly closed October 29 down 1.32% at $368.57, while recent ETF outflows add a fund-specific headwind.[6][8]
+- **SPY** (regime: `unknown`): SPY faces near-term pressure after a technology-led selloff triggered by disappointing Amazon and Intel results, renewed concerns over AI spending returns, and broad semiconductor weakness.[2] Higher crude prices and slightly hotter core PCE inflation are reinforcing rate-hike concerns, while defensive sectors such as healthcare and consumer staples have outperformed.[2]
+- **QQQ** (regime: `unknown`): QQQ faces continued pressure after a major technology earnings selloff: concerns over Amazon’s heavy AI spending and Intel’s weak guidance followed Alphabet’s disappointing results, prompting investors to reassess AI returns and large-cap tech valuations.[1] The ETF fell about 3.1% on October 30, breached the $700 level, and technology underperformed as markets rotated toward defensive sectors; this remains the key near-term price risk for the next session.[1]
+- **TLT** (regime: `unknown`): TLT’s key near-term driver is the long-end Treasury selloff: the 10-year yield recently moved back above 5%, while inflation, deficit concerns, and a possible December Fed hike continue to pressure long-duration bonds.[2][5] Offsetting support came from a tech-stock selloff and haven demand, which recently pushed yields lower and lifted TLT; the ETF closed October 29 at $81.49, with premarket indications around $81.85.[1][2]
+- **GLD** (regime: `unknown`): GLD faces near-term pressure as gold declined amid expectations for tighter U.S. monetary policy, elevated Treasury yields, and above-target inflation; GLD fell 1.32% to $368.57 on October 29, with premarket indications lower.[1][2] ETF-specific flows were also negative, with GLD reporting asset losses, while conflicting commentary included a bullish “buy the dip” view and a JPMorgan forecast cut tied to weak demand.[2][3]
 
 ### Risk Flags
-- **Major earnings today:** ExxonMobil, Chevron, AbbVie, Linde, Regeneron, Intel, Boeing, Ford, and Eli Lilly are among notable companies reporting, creating sector- and index-level event risk.[1][4][7]
-- **Technology/AI earnings risk:** Recent Amazon, Intel, and Alphabet results have raised concerns about AI-development costs and pressured technology shares.[6]
-- **Geopolitical/oil risk:** Ongoing Middle East conflict concerns are supporting higher oil prices, with potential implications for inflation expectations, energy stocks, and Federal Reserve policy.[2][10]
-- **Monetary-policy calendar:** The October FOMC meeting occurred October 27; markets reportedly expect no October hike but are pricing meaningful December-rate risk.[2][3]
-- **Near-term macro risk:** The next US jobs report is scheduled for November 6 and October CPI for November 10, so neither is due today or this week.[3]
+- **Friday, Nov. 6, 8:30 a.m. ET:** October Employment Situation report, including nonfarm payrolls, is the week’s primary scheduled macro risk.[1]
+- **Tuesday, Nov. 3, 10:00 a.m. ET:** September JOLTS job-openings data are scheduled for release and could affect rate expectations.[9]
+- **Monday, Nov. 2:** Major earnings include Apple, Palantir, Vertex Pharmaceuticals, and Diamondback Energy.[7]
+- **This week:** Earnings season remains active, with approximately 145 S&P 500 companies scheduled to report during Nov. 2–8.[7]
+- **No FOMC decision or CPI release is scheduled this week; October CPI is scheduled for Nov. 10.[1][9]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
