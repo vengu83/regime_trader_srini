@@ -1,28 +1,27 @@
 # Market Research
-_Generated: 2026-11-02 21:52 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-03 01:50 UTC via Perplexity sonar-pro_
 
-## 2026-11-02 Pre-Market Research
+## 2026-11-03 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 0.5%, while Nasdaq-100 futures gained roughly 0.8% in pre-market trading.[1][7]
-- **US economic data:** No major CPI, NFP, PPI, jobless-claims, or FOMC release was identified for today; the monthly jobs report is scheduled later this week.[1][2]
-- **Fed events:** No Federal Reserve speaker or scheduled FOMC event was identified in the available results for today.
-- **Asia:** Markets were mixed; Japan’s Nikkei 225 fell 0.3% as technology shares weakened.[8]
-- **Europe:** Early trading was mixed, with the FTSE 100 down 0.1% while Germany’s DAX and France’s CAC 40 each rose 0.1%.[8]
-- **Other overnight markets:** Oil prices fell sharply amid renewed hopes for progress in US-Iran diplomacy.[8]
+- **US futures:** The available data show S&P 500 futures up about 0.5% and Nasdaq-100 futures up about 0.8% in pre-market trading.[3]
+- **US economic data:** Scheduled releases include JOLTS job openings, factory orders, the RCM/TIPP Economic Optimism Index, and the API weekly crude-inventory report; no CPI, NFP, PPI, jobless claims, or FOMC decision is listed for today.[9]
+- **Fed events:** Scheduled commentary includes Cleveland Fed President Beth Hammack, Governor Michelle Bowman at 12:15 p.m., Richmond Fed President Thomas Barkin, and Chicago Fed President Austan Goolsbee.[1][2][5]
+- **Asia:** Japan’s markets are closed for a national holiday, limiting regional trading comparisons.[6]
+- **Europe:** The available overnight snapshot showed DAX futures up about 0.3% and FTSE 100 futures down about 0.1%.[6]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is higher premarket as U.S. equity futures rebound from last week’s technology-led selloff, with Consumer Discretionary, Materials, and Industrials leading while Energy lags.[2][3][10] Investors also face elevated event risk from Tuesday’s U.S. midterm elections and a heavy earnings calendar, including Apple and Palantir after today’s close and AMD tomorrow.[5][8] Falling Brent crude and a weaker dollar amid easing U.S.–Iran tensions may provide additional support, though the geopolitical situation remains a market driver.[1]
-- **QQQ** (regime: `unknown`): QQQ faces pressure from the recent AI/mega-cap technology sell-off, with the ETF down 3.47% Friday; investors are focused on AI financing and valuation concerns, upcoming earnings, and this week’s U.S. jobs data after the Fed’s hawkish stance.[3][4] Today’s move may also reflect a relief bounce and positioning ahead of Apple and Palantir earnings after the close, AMD’s report Tuesday, and the U.S. midterm elections.[9]
-- **TLT** (regime: `unknown`): TLT is modestly higher today, while the 10-year Treasury yield is near 4.91%; elevated long-end yields remain a headwind for its duration-sensitive price.[1][2] The ETF is also ex-dividend today, with a distribution of approximately $0.3432, and investors are watching the November 4 Treasury refunding for a potential catalyst.[6][7]
-- **GLD** (regime: `unknown`): GLD faces opposing drivers today: gold rebounded more than 1% from a one-year low as oil prices fell, easing inflation and near-term rate-pressure concerns, while markets still price a high probability of a December Fed hike.[6] ETF-specific sentiment remains a headwind after GLD recorded approximately $1.8 billion of outflows in October, its largest monthly withdrawal since June.[2]
+- **SPY** (regime: `unknown`): SPY faces mixed macro drivers today: the Fed held rates at 3.75%–4.00%, while stronger-than-expected Q3 GDP and firm PCE inflation may reinforce expectations for another December hike, pressuring valuations.[5] Conversely, Brent crude fell about 4% on easing U.S.–Iran tensions and the dollar weakened, which could support risk sentiment and offset rate concerns.[2]
+- **QQQ** (regime: `unknown`): QQQ faces near-term pressure from renewed concerns over AI-related mega-cap valuations, credit conditions, and the sustainability of AI spending, with its concentrated technology exposure amplifying the effect.[5] Recent reporting also notes persistent tech-sector weakness amid earnings-related selling and geopolitical disruptions affecting the broader market.[9]
+- **TLT** (regime: `unknown`): TLT faces mixed drivers today: the upcoming November 4 Treasury refunding and a recent record $839 billion week of Treasury borrowing may keep long-end supply and term-premium concerns elevated.[1][3] The ETF’s November distribution is due Thursday, while recent reporting places the 10-year yield near 5%, increasing duration sensitivity ahead of the refunding.[1][3]
+- **GLD** (regime: `unknown`): GLD faces a negative flow signal: it reportedly recorded approximately $1.8 billion of outflows in October, its largest monthly withdrawal since June, with year-to-date outflows reaching $3.8 billion.[1][2] Gold also remains pressured by expectations for tighter U.S. monetary policy and elevated yields, while recent reports cite spot gold near a 52-week low; easing rate expectations or renewed geopolitical demand could provide support.[4][9]
 
 ### Risk Flags
-- **U.S. midterm elections — Tuesday, Nov. 3:** Election results may drive volatility in equities, rates, the dollar, and sector positioning.[2][3]
-- **U.S. ISM manufacturing PMI — Monday, Nov. 2:** The October ISM release is scheduled and may affect growth and Fed-rate expectations.[1][4]
-- **Apple earnings — Monday after the close:** Apple is scheduled to report, creating potential index and technology-sector volatility.[4][9]
-- **U.S. employment report — Friday, Nov. 6:** Nonfarm payrolls and related labor-market data are key rate-sensitive catalysts.[1][3]
-- **Iran–U.S./Israel tensions and Strait of Hormuz risk:** Negotiations and the possibility of renewed strikes after the election create an active geopolitical and oil-market risk flag.[4][5]
+- **Major earnings concentration today:** AMD, Amgen, Arista Networks, Shopify, Pfizer, Eaton, Marathon Petroleum, and Booking Holdings are scheduled to report, with AMD, Amgen, and Arista reporting after the close.[1]
+- **Broad earnings risk this week:** About 243 companies are scheduled to report on Tuesday alone, including 103 before the open and 140 after the close.[5]
+- **U.S. economic data today:** September factory orders, final durable-goods orders, and October domestic vehicle sales are scheduled; wholesale inventories are also listed.[3][10]
+- **No CPI release or FOMC decision this week:** The next scheduled U.S. CPI release is November 10, while the October FOMC meeting was scheduled for October 27.[9]
+- **Labor-market data:** September JOLTS job openings and related productivity data are listed among this week’s releases, but no major Fed policy appearance is indicated.[6]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
