@@ -1,27 +1,26 @@
 # Market Research
-_Generated: 2026-11-04 19:58 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-05 00:33 UTC via Perplexity sonar-pro_
 
-## 2026-11-04 Pre-Market Research
+## 2026-11-05 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 1.0–1.2%, while Nasdaq-100 futures gained roughly 0.4–1.0% in pre-market trading.[1][2][7]
-- **US economic data:** No major CPI, payrolls, PPI, jobless-claims, or FOMC release was identified for today in the available calendar results.
-- **Fed events:** Fed Governor Michelle Bowman? No—available listings show Fed President Thomas Barkin speaking at 2:10 p.m. ET, with additional Fed remarks from John Williams and Beth Hammack listed.[5][10]
-- **Asia:** Asian equities were broadly lower in the prior session, with the MSCI Asia Pacific Index down 1.1% and South Korea’s Kospi falling more than 3.6%.[3]
-- **Europe:** European stocks also declined in the prior session, with the Stoxx Europe 600 down 0.6%, Germany’s DAX down 0.45%, and the FTSE 100 down 1.1%.[3]
+- **US futures:** Current S&P 500 and Nasdaq futures direction is not available in the provided results.
+- **US data:** Initial jobless claims are scheduled for 8:30 a.m. ET, alongside preliminary Q3 productivity and costs; October CPI is scheduled for November 10, PPI for November 13, and October payrolls for November 6.[5][9][10]
+- **Fed commentary:** Richmond Fed President Thomas Barkin is scheduled to speak at 9:10 a.m. ET, and Dallas Fed President Lorie Logan at 7:00 p.m. ET.[5][7]
+- **FOMC:** An FOMC press-release entry appears on the November 5 release calendar, but the provided results do not specify its content or release time.[2][8]
+- **Overnight markets:** Asia and Europe market moves are not available in the provided results.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is being supported by broad equity strength, with U.S. index futures higher and gains concentrated in chipmakers; the ETF was indicated roughly 0.9% higher premarket.[1][4] Offsetting risks include post-midterm-election repositioning, pressure on AI-related stocks, and hawkish signals from two Fed officials calling for rate hikes, which could weigh on large-cap technology valuations.[2][5]
-- **QQQ** (regime: `unknown`): QQQ is trading about 1.5% higher as technology shares rebound, following a broad U.S. equity rally after Democrats won both chambers in the midterm elections.[1][5] Recent AI-funding concerns, elevated-rate expectations, and the Nasdaq-100’s recent correction remain material risks for its technology-heavy holdings.[2][3]
-- **TLT** (regime: `unknown`): TLT faces a potentially material catalyst today from the U.S. Treasury refunding announcement, with unchanged coupon sizes or increased buybacks potentially supporting long-duration bonds, while larger-than-expected issuance could pressure prices.[2][9] Recent defensive rotation from technology into Treasuries has lifted TLT about 5.4% from its October low, although reported weekly outflows of roughly $613.8 million remain a countervailing ETF-specific factor.[1][4]
-- **GLD** (regime: `unknown`): GLD is being supported today by a broad precious-metals rally: gold rose above $4,000 as the U.S. dollar and Treasury yields fell after the U.S. midterm results; GLD was reported up roughly 3.25% intraday.[3][4][9] The key offset is substantial recent fund selling, including an estimated $578.5 million week-over-week outflow and approximately $1.8 billion of October outflows, while upcoming U.S. jobs data and a potentially hawkish Fed could limit gains.[1][2][3]
+- **SPY** (regime: `unknown`): SPY’s most material near-term driver is the reported Democratic election victory, which was followed by a roughly 1.7% rally and may continue influencing expectations for U.S. policy and sector performance today.[8] ETF-specific flow data also showed approximately $5.73 billion entering SPY on October 30, while technology-sector concerns and uncertainty over rates, geopolitics, and midterm policy remain potential volatility sources.[7]
+- **QQQ** (regime: `unknown`): QQQ faces conflicting signals: it rebounded with broader equities and chip stocks on Nov. 4, but remains pressured by a recent Nasdaq-100 correction, AI-valuation concerns, elevated rates, and data-center spending risks following the U.S. midterm results.[2][4][6] The main near-term price driver is likely continued rotation within megacap technology and semiconductor shares, with investors assessing whether AI-capex returns justify current valuations.[1][4]
+- **TLT** (regime: `unknown`): TLT’s key near-term driver is continued Treasury-market strength: long-duration bonds rallied as technology stocks weakened, with TLT up about 7% since early October and long yields reportedly falling.[2][8] ETF-specific flows are a counterweight, with approximately $613.8 million of recent TLT outflows, while the recent Treasury refunding and heavy government borrowing remain potential sources of rate volatility.[1][3]
+- **GLD** (regime: `unknown`): GLD faces mixed near-term drivers: gold rallied above $4,000 as a weaker U.S. dollar and falling Treasury yields supported safe-haven demand after the U.S. midterm results.[2] However, GLD reportedly experienced about $578.5 million in weekly outflows, while upcoming U.S. employment data and Federal Reserve signals could drive volatility today.[1][2]
 
 ### Risk Flags
-- **U.S. midterm-election aftermath:** Results indicating Democratic control of both congressional chambers are driving policy uncertainty and could keep equity volatility elevated.[1][2]
-- **Geopolitical risk:** Reports of attacks involving commercial shipping near the Strait of Hormuz and the ongoing Iran conflict remain material risks for equities, energy prices, and inflation expectations.[5][7]
-- **Today’s economic data:** ADP employment is scheduled, alongside ISM services and U.S. international-trade data; surprises could move rates and equity index futures.[3][4][10]
-- **Major earnings today:** Qualcomm, Arm, Uber, McDonald’s, and Novo Nordisk are scheduled to report, creating possible single-stock and sector volatility.[4]
-- **Friday, Nov. 6:** The U.S. employment report is scheduled and is likely the week’s main macro volatility event.[5]
+- **U.S. labor data:** Initial jobless claims and Q3 nonfarm productivity are scheduled for Thursday, November 5 at 8:30 a.m. ET; neither is typically as market-moving as CPI or payrolls.[1][9]
+- **Corporate earnings:** A heavy earnings slate is scheduled this week, with 36 companies listed for Thursday, including ConocoPhillips, Parker-Hannifin, Cigna, Air Products, Cummins, Targa Resources, and Cardinal Health.[5][7][8]
+- **Geopolitical risk:** Ongoing Iran-war developments and oil-price sensitivity remain significant market risks, with oil reportedly up sharply this year.[2]
+- **Macro backdrop:** Recent hotter inflation and uncertainty over the Federal Reserve’s next policy steps could amplify reactions to incoming data and earnings.[10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
