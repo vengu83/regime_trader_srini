@@ -1,26 +1,27 @@
 # Market Research
-_Generated: 2026-11-05 00:33 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-05 20:12 UTC via Perplexity sonar-pro_
 
 ## 2026-11-05 Pre-Market Research
 
 ### Macro Context
-- **US futures:** Current S&P 500 and Nasdaq futures direction is not available in the provided results.
-- **US data:** Initial jobless claims are scheduled for 8:30 a.m. ET, alongside preliminary Q3 productivity and costs; October CPI is scheduled for November 10, PPI for November 13, and October payrolls for November 6.[5][9][10]
-- **Fed commentary:** Richmond Fed President Thomas Barkin is scheduled to speak at 9:10 a.m. ET, and Dallas Fed President Lorie Logan at 7:00 p.m. ET.[5][7]
-- **FOMC:** An FOMC press-release entry appears on the November 5 release calendar, but the provided results do not specify its content or release time.[2][8]
-- **Overnight markets:** Asia and Europe market moves are not available in the provided results.
+- **US futures:** S&P 500 futures were nearly unchanged to slightly higher, while Nasdaq futures were down about 0.9% in pre-market trading.[7][10]
+- **US economic data:** Scheduled releases include third-quarter productivity and unit labor costs plus weekly unemployment-insurance claims at 8:30 a.m. ET; no CPI, NFP, PPI, or FOMC decision is scheduled.[1][6]
+- **Fed commentary:** Cleveland Fed President Beth Hammack, Richmond Fed President Tom Barkin, and Dallas Fed President Lorie Logan are scheduled to speak.[7]
+- **Asia:** Trading was mixed, with the Nikkei down 1.79%, the Kospi down 5.79%, while Hong Kong’s Hang Seng rose 3.67% and Shanghai edged higher.[4]
+- **Europe:** European equities were higher in early trading, with Germany’s DAX up about 0.6% and France’s CAC 40 up about 1.2%.[10]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s most material near-term driver is the reported Democratic election victory, which was followed by a roughly 1.7% rally and may continue influencing expectations for U.S. policy and sector performance today.[8] ETF-specific flow data also showed approximately $5.73 billion entering SPY on October 30, while technology-sector concerns and uncertainty over rates, geopolitics, and midterm policy remain potential volatility sources.[7]
-- **QQQ** (regime: `unknown`): QQQ faces conflicting signals: it rebounded with broader equities and chip stocks on Nov. 4, but remains pressured by a recent Nasdaq-100 correction, AI-valuation concerns, elevated rates, and data-center spending risks following the U.S. midterm results.[2][4][6] The main near-term price driver is likely continued rotation within megacap technology and semiconductor shares, with investors assessing whether AI-capex returns justify current valuations.[1][4]
-- **TLT** (regime: `unknown`): TLT’s key near-term driver is continued Treasury-market strength: long-duration bonds rallied as technology stocks weakened, with TLT up about 7% since early October and long yields reportedly falling.[2][8] ETF-specific flows are a counterweight, with approximately $613.8 million of recent TLT outflows, while the recent Treasury refunding and heavy government borrowing remain potential sources of rate volatility.[1][3]
-- **GLD** (regime: `unknown`): GLD faces mixed near-term drivers: gold rallied above $4,000 as a weaker U.S. dollar and falling Treasury yields supported safe-haven demand after the U.S. midterm results.[2] However, GLD reportedly experienced about $578.5 million in weekly outflows, while upcoming U.S. employment data and Federal Reserve signals could drive volatility today.[1][2]
+- **SPY** (regime: `unknown`): SPY is under pressure today as investors rotate out of semiconductor and AI-infrastructure stocks following disappointing chip earnings and concerns that expanded Democratic control could increase Big Tech regulation; technology and semiconductor ETFs are sharply lower.[4][8] Strong productivity and lower jobless claims provided support, but weaker-than-expected services data and broad defensive-sector leadership are weighing on the index.[4][5]
+- **QQQ** (regime: `unknown`): QQQ is under significant pressure today, down roughly 4–5%, as semiconductor and AI-infrastructure stocks sell off; Qualcomm’s weaker smartphone-chip outlook is weighing on Nvidia, Intel, and Marvell, all meaningful QQQ holdings.[1][2] Investors are also reassessing data-center expansion after the Democratic midterm victory, adding to broader technology-sector weakness and Nasdaq declines.[1][7]
+- **TLT** (regime: `unknown`): TLT’s main near-term driver is a renewed Treasury rally: yields fell after the U.S. midterm results, while Treasuries also benefited as technology stocks weakened.[3][8] ETF-specific flow was less supportive, with approximately $613.8 million of weekly outflows, equal to a 1.3% decline in shares outstanding.[5]
+- **GLD** (regime: `unknown`): GLD faces conflicting signals today: gold rallied about 1.7% to above $4,130/oz as the U.S. dollar and Treasury yields weakened after the midterm elections, while lower oil prices reduced inflation and “higher-for-longer” rate concerns.[6] ETF-specific flows are a drag, with reported GLD outflows of approximately $578.5 million week over week and about $1.8 billion in October; Friday’s U.S. payrolls report is the next major macro catalyst.[1][2][6]
 
 ### Risk Flags
-- **U.S. labor data:** Initial jobless claims and Q3 nonfarm productivity are scheduled for Thursday, November 5 at 8:30 a.m. ET; neither is typically as market-moving as CPI or payrolls.[1][9]
-- **Corporate earnings:** A heavy earnings slate is scheduled this week, with 36 companies listed for Thursday, including ConocoPhillips, Parker-Hannifin, Cigna, Air Products, Cummins, Targa Resources, and Cardinal Health.[5][7][8]
-- **Geopolitical risk:** Ongoing Iran-war developments and oil-price sensitivity remain significant market risks, with oil reportedly up sharply this year.[2]
-- **Macro backdrop:** Recent hotter inflation and uncertainty over the Federal Reserve’s next policy steps could amplify reactions to incoming data and earnings.[10]
+- **Oct. 5, today:** BLS releases Q3 Productivity and Costs at 8:30 a.m. ET, alongside weekly unemployment-insurance claims.[5][8]
+- **Friday, Nov. 6:** The October Employment Situation report is scheduled for 8:30 a.m. ET, making it the week’s primary macro volatility catalyst.[2][5]
+- **This week:** Major earnings include Apple, Berkshire Hathaway, AMD, and Palantir, with a broad concentration of corporate reports.[1][9]
+- **Monetary policy:** No FOMC decision is scheduled this week; the next meeting is Dec. 8–9.[2]
+- **Geopolitical risk:** The unresolved US–Iran conflict and uncertainty around diplomatic efforts remain potential sources of abrupt risk-premium and energy-market moves.[6][7][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
