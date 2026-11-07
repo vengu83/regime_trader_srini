@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-06 23:50 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-07 00:15 UTC via Perplexity sonar-pro_
 
-## 2026-11-06 Pre-Market Research
+## 2026-11-07 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up roughly 0.1%–0.35%, while Nasdaq 100 futures gained about 1.3%–1.5% in pre-market trading.[2][3]
-- **US economic data:** October payrolls and employment data were reported today; no CPI, PPI, FOMC decision, or weekly jobless-claims release was identified in the available calendar results.[7]
-- **Fed events:** Scheduled Fed appearances included Logan, Goolsbee, Bowman, and Schmid.[4]
-- **Asia:** Asian markets fell sharply, with the Nikkei and KOSPI down about 6% and Hong Kong’s Hang Seng down about 1.3% in one market snapshot.[9]
-- **Europe:** European equities opened lower, with the DAX down about 2.3% and FTSE down about 2.0%; another snapshot placed the STOXX 600 and FTSEurofirst more than 1% lower.[1][9]
+- **US futures:** The latest available report showed Nasdaq futures up about 1.5%, indicating a modest rebound; a specific S&P 500 futures reading was not available.[5]
+- **US economic data:** No major US releases are scheduled for Saturday, November 7; Friday’s payrolls and University of Michigan sentiment data were the week’s final listed releases.[6][9]
+- **Fed events:** Federal Reserve Vice Chair Philip Jefferson is scheduled to speak at 7:00 p.m.; Governor Michael Barr also has a virtual event listed, with no time shown in the available calendar excerpt.[1]
+- **Asia:** Japan’s Nikkei and South Korea’s KOSPI each fell about 6% in the latest overnight session amid a technology-stock selloff.[5]
+- **Europe:** FTSEurofirst and STOXX 600 were each down more than 1% early in the latest session.[5]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces a sharp rebound attempt after falling 4.41% Thursday to $733, with all 11 S&P 500 sectors declining; semiconductor and technology stocks led the selloff, while volatility surged.[1] The main drivers are unwinding of the crowded AI trade, disappointing chip-industry outlooks, and concerns that the post-midterm political shift could slow data-center permitting and AI infrastructure investment.[2][9]
-- **QQQ** (regime: `unknown`): QQQ is rebounding about 1.75% today as technology and AI shares recover from the prior session’s selloff, but it remains down roughly 7.2% over the past five trading sessions.[1] The key price drivers remain concerns about slower AI data-center spending and tighter regulation after the midterm election, compounded by semiconductor weakness following Qualcomm’s disappointing outlook.[2][5]
-- **TLT** (regime: `unknown`): TLT is being supported by a recent move into Treasuries as investors reduced exposure to technology/AI stocks; the Nasdaq 100-to-TLT ratio has fallen 15.4% since October 7, while TLT has risen about 7.1%.[1] ETF-specific flows are a countervailing factor: approximately $613.8 million exited TLT over the latest reported week, equal to a 1.3% decline in shares outstanding.[2]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure after stronger-than-expected U.S. payrolls of 165,000 pushed spot gold down about 1.3% and strengthened expectations for a December Fed rate hike.[2] ETF-specific flows are also negative, with approximately $578.5 million in weekly GLD outflows, although earlier dollar weakness and lower Treasury yields after the U.S. midterm elections had supported gold.[1][5]
+- **SPY** (regime: `unknown`): SPY faces mixed macro signals: October payrolls rose by 165,000 versus roughly 65,000 expected, while unemployment fell to 4.1%, potentially reinforcing higher-for-longer interest-rate concerns.[1] Recent volatility in chipmakers and AI stocks has pressured the S&P 500, while midterm-election optimism and easing oil prices have provided some offsetting support.[3][8]
+- **QQQ** (regime: `unknown`): QQQ faces significant downside pressure after a sharp technology and semiconductor sell-off: Qualcomm’s weak smartphone-chip outlook dragged Nvidia, Marvell, and Intel lower, while concerns about AI data-center spending intensified. Post-midterm political uncertainty and higher yields have added to the rotation away from high-duration technology stocks; QQQ fell toward $655 on Nov. 6, well below its recent high.[1][3][7]
+- **TLT** (regime: `unknown`): TLT’s main recent driver is renewed demand for long-duration Treasuries amid an equity/AI-led risk-off move; TLT has risen about 7.1% since October 7 while the Nasdaq 100 has fallen 10.2%.[1] ETF-specific flows were negative, with approximately $613.8 million in outflows, or 1.3% of shares outstanding, during the latest reported week.[3]
+- **GLD** (regime: `unknown`): GLD faces a near-term mixed setup: a reported **$578.5 million weekly outflow**, equivalent to a 0.4% decline in shares outstanding, may weigh on ETF demand.[1] Gold recently rebounded above $4,000 as the dollar and Treasury yields fell after the U.S. midterm elections, but expectations for a December Fed rate hike and upcoming U.S. payroll data remain potential headwinds.[3]
 
 ### Risk Flags
-- **October U.S. employment report:** Released today at 8:30 a.m. ET; payrolls rose by 165,000 and unemployment was 4.1%, making it a key input for Fed-rate expectations.[1][2]
-- **U.S. midterm-election risk:** Election-related policy uncertainty and potential market volatility remained a focus throughout this week.[3]
-- **Major earnings:** Moderna reported Q3 results today; other notable reports included Humana and DraftKings, with DraftKings shares falling sharply after its release.[1][2]
-- **Geopolitical risk:** Ongoing Iran–U.S. tensions were cited as supporting safe-haven demand and posing a risk flag for markets.[4]
-- **Next week’s inflation event:** October CPI is scheduled for Tuesday, Nov. 10, at 8:30 a.m. ET—outside today’s session but a near-term volatility catalyst.[2]
+- **Tuesday, Nov. 10, 8:30 a.m. ET:** October CPI and real-earnings data are scheduled, creating a key inflation-volatility risk for US equities.[2][3]
+- **Friday, Nov. 13, 8:30 a.m. ET:** October PPI and core PPI are scheduled for release.[1][3]
+- **Federal Reserve:** No FOMC meeting is scheduled this week; the next meeting is Dec. 8–9, 2026.[2]
+- **Earnings:** Broad earnings activity is scheduled throughout the week, with 202 earnings reports listed for Monday and 46 for Friday; no specific major index constituent was identified in the available results.[5]
+- **Geopolitical risk:** Ongoing uncertainty around Iran talks, potential US military action, and oil prices remains a market-risk flag, though it is not a scheduled event.[10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
