@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-09 22:38 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-10 02:25 UTC via Perplexity sonar-pro_
 
-## 2026-11-09 Pre-Market Research
+## 2026-11-10 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up about 0.4%–0.6%, while Nasdaq 100 futures were up roughly 0.2%–0.4% in pre-market trading.[5][9]
-- **US economic data:** No major CPI, NFP, FOMC, PPI, or weekly jobless-claims release was listed for today; markets were focused on upcoming US inflation data.[1][2]
-- **Fed commentary:** Fed Governor Michelle Bowman was scheduled to speak at 12:15 p.m. ET, while Chicago Fed President Austan Goolsbee had a 10 a.m. ET discussion; additional Goolsbee, Daly, and Williams events were listed later.[1][3][6]
-- **Asia:** Asian equities rebounded sharply, led by Taiwan’s Taiex, which rose 4.9%, and Japan’s Nikkei 225, which gained 2.3%.[7]
-- **Europe:** European stocks were broadly higher after the overnight Asian rebound, while the dollar weakened and Treasury yields were little changed.[4]
+- **US futures:** S&P 500 and Nasdaq futures were reported as mixed pre-market, with Nvidia down about 4% in early trading.[10]
+- **Economic data:** October CPI and real earnings are scheduled for release at 8:30 a.m. ET; the release calendar also lists average-price data and current median CPI.[5][9]
+- **Fed commentary:** Fed speakers scheduled today include Christopher Waller, Michelle Bowman, Austan Goolsbee, Stephen Schmid, John Williams, and Philip Jefferson; Philadelphia Fed President Anna Paulson is scheduled for a 4:30 p.m. ET event.[2][3][7]
+- **Asia:** Tokyo’s Nikkei rose 2.3%, Shanghai was broadly flat, Hong Kong slipped 0.1%, and Australia’s ASX 200 gained 0.1%.[8]
+- **Europe:** No reliable Europe-wide overnight index move was available in the retrieved results.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY opened about 1% higher as dip-buying returned to mega-cap technology stocks, while a decline in the 10-year Treasury yield supported equity valuations.[1] The key intraday catalyst is the Federal Reserve’s scheduled 2:00 p.m. ET statement; elevated volatility, with the VIX reportedly near 28, could amplify SPY’s reaction.[1]
-- **QQQ** (regime: `unknown`): QQQ is rebounding today as the Nasdaq-100 gains about 3% on a semiconductor-led recovery, although Nvidia is lagging after opening an investigation involving CEO Jensen Huang.[2][3] ETF-specific flow data showed broad trimming across all 101 holdings on Nov. 5, including Apple, Nvidia, Microsoft, Amazon, and Micron, but no full exits.[1]
-- **TLT** (regime: `unknown`): TLT has no clearly identifiable ETF-specific catalyst today. The main price drivers remain long-term Treasury yields and rate expectations; recent reporting cites a hotter-than-expected 165,000-job reading and increased rate-hike scope, while TLT was recently around $81.9.[1][2][10]
-- **GLD** (regime: `unknown`): GLD faces mixed near-term drivers: reported weekly outflows of approximately $578.5 million may weigh on ETF demand, while gold recently rebounded as a softer dollar and falling Treasury yields supported the metal.[1][2] Strong U.S. payroll data, a firmer dollar, and higher yields remain headwinds; markets are also awaiting the U.S. CPI report, which could drive today’s gold and GLD volatility.[2][6]
+- **SPY** (regime: `unknown`): SPY faces mixed macro signals today: October payrolls exceeded expectations at 165,000 versus 65,000 forecast, while ISM services eased to 54.5; the reported absence of October CPI and core-CPI figures reduces a key near-term inflation catalyst.[1] Recent ETF-specific flows were negative, with SPY recording a reported $2.31 billion outflow and selling $182.9 million of Apple, while technology and chip stocks have been volatile after an AI-related selloff.[4][7]
+- **QQQ** (regime: `unknown`): QQQ rebounded sharply on Nov. 9, gaining 3.54% to $679.35 alongside a 2.74% Nasdaq advance, with no clear ETF-specific catalyst identified.[1] Recent volatility remains concentrated in AI and semiconductor holdings after post-election policy uncertainty and Qualcomm’s weak chip-sales outlook triggered a technology sell-off; October jobs data beating forecasts may also influence rate-sensitive growth stocks today.[7][9]
+- **TLT** (regime: `unknown`): TLT’s main near-term driver remains long-end Treasury yields: recent coverage says expectations for further Fed hikes have eased, supporting Treasury prices, while traders are focused on upcoming October employment data.[5] ETF-specific flow data showed approximately $613.8 million of outflows, or 1.3% of shares outstanding, in the latest week, which could modestly weigh on demand.[10]
+- **GLD** (regime: `unknown`): GLD faces mixed drivers today: gold rose about 1.2% on Nov. 9 as falling Treasury yields supported bullion, while China reported another increase in official gold reserves.[3][5] Offsetting this, GLD reportedly experienced roughly $578.5 million in weekly outflows, and a more hawkish Federal Reserve stance has pressured gold-price expectations.[1][3]
 
 ### Risk Flags
-- **Today, Monday, Nov. 9:** Fed officials Michelle Bowman and Austan Goolsbee are scheduled to speak, creating potential rate-sensitive volatility.[3]
-- **Tuesday, Nov. 10:** The October US CPI report is scheduled and is the week’s primary inflation catalyst; consensus expects a 0.3% monthly increase.[2][3]
-- **Friday, Nov. 13:** US PPI is scheduled, providing another inflation and Federal Reserve policy signal.[2][8]
-- **This week:** US October jobs data is also scheduled for Friday and could affect expectations for a December Fed rate hike.[7]
-- **Ongoing geopolitical risk:** Developments involving the Iran conflict, oil prices, Ukraine negotiations, and post-midterm US fiscal policy may affect risk sentiment and energy-sensitive equities.[4][8][9]
+- **U.S. CPI and real earnings:** October CPI and real-earnings data are scheduled for **8:30 a.m. ET today, November 10**, making this the week’s primary macro volatility event.[4][5]
+- **Fed communication:** Fed Governor Christopher Waller and Governor Michelle Bowman are scheduled to speak today, creating potential rate-path sensitivity around their remarks.[6]
+- **Major earnings:** Corporate results remain a broad event risk, with roughly **174 companies scheduled to report today** and substantial earnings activity during the week.[1]
+- **Trade/geopolitical risk:** China has extended a suspension of additional tariffs on U.S. goods for two months, while the broader U.S.–China tariff framework remains uncertain.[3]
+- **No FOMC decision this week:** The next listed FOMC minutes release is November 18, and the next scheduled rate decision is December 9.[8][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
