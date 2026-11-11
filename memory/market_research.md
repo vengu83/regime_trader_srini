@@ -1,27 +1,26 @@
 # Market Research
-_Generated: 2026-11-10 19:55 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-11 00:15 UTC via Perplexity sonar-pro_
 
-## 2026-11-10 Pre-Market Research
+## 2026-11-11 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up 5.25 points, or 0.08%, while Nasdaq futures were down 65.50 points, or 0.23%, in pre-market trading.[5]
-- **Economic data:** October CPI was scheduled for release at 8:30 a.m. ET; no NFP, PPI, jobless-claims, or FOMC decision was identified in the available calendar results.[5][7]
-- **Fed events:** Fed Governor Christopher Waller was scheduled to speak on the economic outlook, while Vice Chair Michelle Bowman had events listed at 3:30 p.m. and 6:30 p.m. ET.[1][3][6]
-- **Asia:** Japan’s Nikkei rose nearly 3%, South Korea’s KOSPI gained about 4%, and Hong Kong and mainland Chinese markets posted more modest gains.[9]
-- **Europe:** European equities were trading higher, with the pan-European Stoxx 600 up about 0.9% shortly after the open.[9][10]
+- **US futures:** S&P 500 futures were down 62.25 points and Nasdaq-100 futures down 358.5 points in the latest available pre-market data, indicating a lower open.[10]
+- **US economic data:** No major US economic releases, including CPI, NFP, PPI, jobless claims, or FOMC decisions, were scheduled for Wednesday, November 11; it is Veterans Day.[3][8]
+- **Fed commentary:** The available calendars list multiple Fed appearances, including speeches by Governors Michelle Bowman and Christopher Waller, but the exact Wednesday schedule is inconsistent across sources.[1][7]
+- **Asia:** No reliable overnight Asia market figures were available in the provided results.
+- **Europe:** No reliable overnight Europe market figures were available in the provided results.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): October CPI was hotter than expected, with headline inflation rising 0.4% month over month and core CPI 0.3%, lifting Treasury yields and expectations for tighter Federal Reserve policy—an immediate headwind for SPY.[1] U.S. equities turned lower after the report, with utilities and materials lagging while energy outperformed; SPY had been roughly flat to slightly higher premarket.[1][2]
-- **QQQ** (regime: `unknown`): Hotter-than-expected October CPI—headline inflation up 0.4% month over month and core up 0.3%—raised rate-hike concerns, pressuring long-duration Nasdaq-100 stocks and QQQ early in trading.[10] QQQ also faced sector-specific weakness from continued AI and semiconductor volatility, while investors rotated toward blue-chip/value shares; heavy QQQ call activity and roughly $9 billion of inflows provided a countervailing ETF-flow signal.[2][3]
-- **TLT** (regime: `unknown`): TLT is down about 1.6% intraday near $80.65, with long-duration Treasuries pressured by elevated yields and renewed expectations that the Fed could hike in December despite cooler inflation data.[7] No ETF-specific catalyst stands out; market focus remains on Fed policy, Treasury supply, and broader risk sentiment, while recent commentary suggests Japan’s yen intervention has not materially affected the U.S. long end.[1]
-- **GLD** (regime: `unknown`): Gold’s sharp intraday decline is the main driver for GLD today: spot gold was reported down about 2.4% after U.S. CPI data, amid a stronger dollar and higher rate expectations.[3] GLD also faces a recent roughly $578.5 million weekly outflow, while technical momentum had been improving after support near $360; the ETF was indicated around $373.74 premarket versus a $379.53 prior close.[2][8]
+- **SPY** (regime: `unknown`): SPY faces a potentially negative macro catalyst after hotter-than-expected October CPI increased expectations for a December Fed rate hike, with officials reportedly discussing whether a 50-basis-point move should be considered if core inflation remains elevated.[5][8] ETF-specific flows were also a headwind: SPY reportedly led roughly $4.19 billion of ETF outflows on Nov. 6, while recent selling included Apple and Nvidia.[6][2]
+- **QQQ** (regime: `unknown`): QQQ faces mixed but volatile drivers: a sharp AI/semiconductor sell-off and post-midterm-election policy uncertainty recently pressured the Nasdaq-100, while the ETF rebounded strongly in the latest available session.[1][8] The October CPI reportedly rose 0.4%, weighing on rate-sensitive technology stocks, and unusually high QQQ trading volume signals elevated repositioning and risk.[1][6]
+- **TLT** (regime: `unknown`): TLT’s main near-term driver is elevated long-term Treasury yields, with recent coverage citing yields near 5.2% and inflation concerns that could support a December Fed hike—both negative for long-duration bond prices.[5] Japan’s reported $88 billion yen-defense operation reportedly did not involve material long-Treasury selling, limiting its direct impact on TLT; ETF-specific data also showed roughly $613.8 million of recent outflows.[1][4]
+- **GLD** (regime: `unknown`): GLD faces near-term pressure from a reported premarket decline of about 1.5% and recent ETF outflows, including roughly $578.5 million week over week.[1][6] Gold is also sensitive to forthcoming U.S. inflation data and shifting Federal Reserve rate expectations, while a weaker dollar has recently provided some support.[3]
 
 ### Risk Flags
-- **Today, Tuesday Nov. 10:** October U.S. CPI is scheduled at 8:30 a.m. ET, with real earnings also due; the release is a major rates and equity-volatility catalyst.[1][2]
-- **Today:** Fed Governor Christopher Waller is scheduled to speak, adding potential policy-signaling risk around the CPI release.[3]
-- **Wednesday, Nov. 11:** Veterans Day is a U.S. market holiday for the Treasury market, which may reduce liquidity and alter settlement conditions.[4]
-- **Friday, Nov. 13:** October U.S. PPI is scheduled at 8:30 a.m. ET, creating another inflation/rates event for equities.[4]
-- **Ongoing geopolitical flag:** U.S.–Iran tensions and uncertainty around possible further military strikes remain a potential oil-price and risk-premium catalyst.[5]
+- **CPI:** No US CPI release is scheduled today; October CPI was listed for Tuesday, Nov. 10, while PPI is scheduled for Friday, Nov. 13—making Friday the week’s main macro risk.[2][6]
+- **FOMC:** No FOMC decision is scheduled this week; the Federal Reserve calendar lists the October 27–28 meeting minutes for Nov. 18.[8]
+- **Earnings:** Wednesday includes roughly 120 scheduled reports, including Corteva (CTVA), Franco-Nevada (FNV), CGI (GIB), Tetra Tech (TTEK), and CAE, but no clear mega-cap index constituent is listed.[1][5]
+- **Market calendar:** Thursday has the heaviest scheduled earnings volume of the week, with about 325 reports; Friday has comparatively few scheduled earnings events.[3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
