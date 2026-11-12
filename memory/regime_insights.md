@@ -1,6 +1,6 @@
 # Regime Insights
 
-_Updated 2026-11-11 by Midday Scan_
+_Updated 2026-11-12 by End of Day Review_
 
 ## Current Regimes
 
