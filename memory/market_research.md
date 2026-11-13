@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-12 20:16 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-13 00:42 UTC via Perplexity sonar-pro_
 
-## 2026-11-12 Pre-Market Research
+## 2026-11-13 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures are down about 0.4% and Nasdaq-100 futures about 0.8% pre-market, while Dow futures are slightly higher.[3][5]
-- **US data:** The Federal Reserve calendar lists scheduled daily and weekly statistical releases for today; no specific CPI, NFP, FOMC decision, PPI, or jobless-claims release is identified in the available results.[1]
-- **Fed commentary:** Chicago Fed President Austan Goolsbee is scheduled for a moderated virtual Q&A at 10:15 a.m. CT; Fed officials Michael Barr and Michelle Bowman also have speeches listed today.[1][7]
-- **Asia:** Asian equities declined overnight, with the Nikkei, Shanghai Composite, and Hang Seng all lower; the MSCI Asia-Pacific index fell about 0.9%.[6][8]
-- **Europe:** European equities moved higher, with the STOXX 600 reaching a record high; Germany’s DAX and the UK’s FTSE 100 were also up in early trading.[4][8]
+- **US futures:** S&P 500 futures were up 0.21% and Nasdaq 100 futures up 0.33% in the latest available pre-market snapshot.[5]
+- **US economic data:** October PPI and core PPI are scheduled for 8:30 a.m. ET; wholesale-trade data and several Philadelphia Fed business-condition subindexes are also listed.[2][8][10]
+- **Fed events:** Scheduled speakers include Fed Governor Michael Barr, Vice Chair Michelle Bowman, San Francisco Fed President Mary Daly, Chicago Fed President Austan Goolsbee, New York Fed President John Williams, and Vice Chair Philip Jefferson.[1][2][10]
+- **Asia:** Asian equities closed mostly lower overnight as semiconductor and artificial-intelligence shares weighed on sentiment.[6]
+- **Europe:** European equities closed modestly higher, supported by third-quarter earnings and easing Middle East geopolitical concerns.[6]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY is indicated about 0.47% lower premarket after rising 1.32% Wednesday, as Nvidia reportedly fell roughly 8% on concerns about CEO Jensen Huang’s position and a China-related chip-sales probe; the weakness is pressuring technology-heavy index exposure.[1][2] Today’s key macro catalyst is weekly U.S. jobless claims, while Fed speakers and expectations for a December rate cut remain relevant to broad-market valuations.[1][2]
-- **QQQ** (regime: `unknown`): QQQ is supported today by a rebound in Nvidia and broader technology shares after CoreWeave reported stronger-than-expected revenue and raised its outlook, helping ease concerns about AI spending.[2] Recent net buying of approximately $3.06 billion across QQQ’s holdings, including Apple, Nvidia, and Microsoft, is an ETF-specific positive flow signal, while elevated inflation and higher rate expectations remain a macro headwind for Nasdaq growth stocks.[1][3]
-- **TLT** (regime: `unknown`): Hotter-than-expected October CPI and strong October payroll growth have pushed back expectations for Federal Reserve rate cuts, pressuring long-duration Treasuries and TLT.[2][5] TLT also recorded approximately $1.09 billion of outflows from November 6–11, while weak foreign participation in a recent Treasury auction adds a demand-related headwind.[1][2]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure as gold fell below $4,000/oz after hotter-than-expected U.S. inflation boosted Treasury yields, the dollar, and expectations for additional Federal Reserve rate hikes.[1][3] ETF-specific flows were also negative, with roughly $578.5 million reportedly exiting GLD in the latest week, equivalent to a 0.4% decline in shares outstanding.[2]
+- **SPY** (regime: `unknown`): Warmer-than-expected October CPI increased expectations for a December Fed rate hike, creating a near-term headwind for SPY through higher-rate pressure on equity valuations.[4] Technology-led gains and strong recent SPY inflows, partly supported by easing AI-spending concerns after CoreWeave results, provide an offsetting support, but Nvidia-related leadership uncertainty remains a risk for the ETF’s large technology exposure.[2][4][9]
+- **QQQ** (regime: `unknown`): QQQ’s near-term drivers are mixed: a rebound in Nvidia and stronger-than-expected CoreWeave results have supported Nasdaq technology and AI stocks, while concerns over elevated inflation, higher interest-rate expectations, and scrutiny of Nvidia’s leadership remain headwinds.[1][2][5] Recent volatility also reflects worries about tighter credit and potential restrictions on data-center expansion, making large-cap technology performance particularly important for QQQ today.[1][7]
+- **TLT** (regime: `unknown`): Hotter-than-expected October CPI has pushed Treasury yields higher and increased expectations of a more restrictive Fed, creating a near-term headwind for TLT’s long-duration bonds.[4][5] Offsetting this, TLT recently recorded approximately $1.2 billion in net inflows, while reports indicate long-term Treasuries rallied as technology stocks weakened.[1][6]
+- **GLD** (regime: `unknown`): GLD faces near-term pressure as gold fell below $4,000/oz amid a stronger U.S. dollar, higher Treasury yields, and increased expectations for further Federal Reserve rate hikes.[5] ETF-specific flows are also a headwind: GLD recorded an estimated $578.5 million weekly outflow, equivalent to a 0.4% decline in shares outstanding.[2]
 
 ### Risk Flags
-- **Fed communications:** Several Federal Reserve officials are scheduled to speak today, including Dallas Fed President Lorie Logan, San Francisco Fed President Mary Daly, Philadelphia Fed President Anna Paulson, and Vice Chair Michelle Bowman.[2][3]
-- **Economic data:** Existing home sales for October are scheduled at 10:00 a.m. ET, followed by the Treasury Statement at 2:00 p.m. ET.[5]
-- **Earnings:** Cisco and Applied Materials are scheduled to report after Thursday’s close; both are S&P 500 constituents with potential read-through for technology and semiconductor stocks.[4][8]
-- **Geopolitical risk:** Markets remain sensitive to developments involving the Iran conflict and shipping conditions in the Strait, with recent reports describing conflicting signals on escalation and negotiations.[1]
-- **Macro backdrop:** A stronger-than-expected October payrolls report and recent hotter inflation data have increased expectations for a December Fed rate hike, keeping rates-sensitive equities exposed to further repricing.[1][6]
+- **PPI:** U.S. October producer-price data are scheduled for **8:30 a.m. ET today, Nov. 13**, with consensus estimates around **+0.4% month over month**; inflation surprises could affect Treasury yields and equities.[1][2]
+- **GDP:** The **second estimate of Q3 GDP price data** is also scheduled today at **8:30 a.m. ET**, creating an additional rates-sensitive data release.[1]
+- **Fed communication:** A Dallas Fed president is scheduled to speak today, while the **November FOMC minutes** are scheduled for Nov. 18; there is **no November FOMC rate decision**.[2][3]
+- **Next week:** October **retail-sales data** are scheduled for **Nov. 17 at 8:30 a.m. ET**, flagged as a high-impact release.[4]
+- **Geopolitical risk:** Ongoing U.S.–Iran conflict and negotiations remain a market risk, particularly through potential oil-price volatility.[5]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
