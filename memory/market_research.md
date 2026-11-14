@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-13 19:57 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-14 00:29 UTC via Perplexity sonar-pro_
 
-## 2026-11-13 Pre-Market Research
+## 2026-11-14 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were modestly higher, while Nasdaq-100 futures were mixed to slightly lower; reported readings ranged from S&P \(+0.12\%\) and Nasdaq \(-0.13\%\) at 5:42 a.m. ET to later indications of broader gains.[2][3]
-- **US data:** October Producer Price Index (PPI) was scheduled for release; no CPI, payrolls/NFP, FOMC decision, or weekly jobless-claims release was identified in the available results.[2]
-- **Fed speakers:** Scheduled speakers included Vice Chair for Supervision Michelle Bowman and Governor Michael Barr, with additional calendar listings for Boston Fed President Susan Collins, Dallas Fed President Lorie Logan, and others.[1][4][8]
-- **Asia:** Asian equities were broadly higher overnight, led by the Nikkei, Kospi, and Taiwan markets; the Kospi gained more than 2% and the Nikkei about 1% in one report.[5][9]
-- **Europe:** European equities were also higher in the prior session, with the Stoxx Europe 600 up 0.1%, Germany’s DAX up 0.4%, and the FTSE 100 up 0.3%.[9]
+- **US futures:** Current S&P 500 and Nasdaq futures levels/direction for Saturday, November 14, are not available in the provided results; regular US equities trading is closed today.
+- **US data:** No major US releases—including CPI, payrolls, PPI, jobless claims, or an FOMC decision—are listed for today; the next scheduled releases shown are on November 19.[5][7]
+- **Fed events:** The available calendars do not show a confirmed Fed speaker event for today; listed events include Governor Lisa Cook’s November speech and later-week appearances.[1][2]
+- **Asia:** Overnight Asian markets were described as the weak spot, with chipmakers selling off amid an AI-sector decline and Nvidia leadership concerns.[9]
+- **Europe:** No reliable Europe-wide overnight market move is provided in the available results.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s key near-term catalyst is softer-than-expected October producer inflation: PPI rose 0.3% month over month versus 0.4% expected, lifting SPY about 0.4% premarket and supporting equity futures.[3] Countervailing pressure comes from weakness in Nvidia and the chip sector, alongside higher crude oil prices and Treasury yields, which recently weighed on the S&P 500.[1][6]
-- **QQQ** (regime: `unknown`): QQQ has a modest positive premarket catalyst: U.S. producer-price inflation rose 0.3% in October versus 0.4% expected, while QQQ was up about 0.2% premarket, supporting rate-sensitive technology shares.[2] Recent AI-sector strength from CoreWeave’s results and an Nvidia rebound remains supportive, but elevated rate expectations and Nvidia-related uncertainty are material offsets.[3][5]
-- **TLT** (regime: `unknown`): TLT faces pressure today from hotter-than-expected October inflation and increasingly hawkish Federal Reserve expectations, including discussion of a possible 50-basis-point December hike, which has pushed Treasury yields higher.[2][6] A weak $25 billion 30-year Treasury auction also signals softer demand for long-duration government debt, while TLT was down roughly 0.3% intraday.[6][8]
-- **GLD** (regime: `unknown`): GLD faces near-term pressure as gold has fallen below $4,000 toward one-year lows, while higher Treasury yields, a stronger dollar, and increased expectations for further Fed rate hikes reduce demand for non-yielding bullion.[2][7] ETF-specific flows are also negative: GLD reportedly had $1.8 billion of outflows in October and $3.8 billion year-to-date, adding a potential supply headwind.[1]
+- **SPY** (regime: `unknown`): SPY faces pressure from a sharp semiconductor selloff, with Nvidia down about 12% for the week and AMD down 8.75% Friday, while defensive consumer-staples stocks outperformed.[1] The main near-term catalyst is Nvidia’s Tuesday earnings report; higher crude prices and bond yields also weighed on U.S. equities.[1][4]
+- **QQQ** (regime: `unknown`): QQQ faces near-term pressure from Nvidia-related uncertainty and a recent decline in the Nasdaq-heavy ETF; Nvidia’s reported leadership disruption has weighed on major semiconductor holdings.[1][4] Higher-than-expected October payrolls and inflation-related concerns have lifted rate expectations, creating an additional headwind for growth-stock valuations, although strong AI-investment and ETF inflow narratives provide offsetting support.[3][8]
+- **TLT** (regime: `unknown`): TLT’s main near-term driver is Treasury-market pressure: reports cite a poorly received $25 billion 30-year auction and recent concern over persistent inflation and additional Fed tightening, which are negative for long-duration bonds.[3][6] TLT closed near $79.70 on November 12, while broader risk-off equity moves have at times supported Treasuries and could partly offset yield-driven weakness.[2][4]
+- **GLD** (regime: `unknown`): GLD faces a bearish macro backdrop: gold recently fell below $4,000 as markets priced higher U.S. yields and a stronger dollar, with traders focused on the latest producer-price inflation data.[1][4] GLD closed Nov. 13 at $355.44, down 0.11% that session, and no ETF-specific filing or fund event appears in the available recent headlines.[2]
 
 ### Risk Flags
-- **Today, Friday, Nov. 13:** U.S. PPI for October is scheduled at 8:30 a.m. ET, with market sensitivity to inflation and interest-rate expectations.[5][8]
-- **Today:** Federal Reserve officials are scheduled to speak, including Vice Chair for Supervision Michelle Bowman and Governor Michael Barr.[1][5]
-- **Today:** The Federal Reserve is scheduled to release its minutes from the Oct. 27–28 FOMC meeting at 2:00 p.m. ET.[1]
-- **Next week:** October retail sales are scheduled for Tuesday, Nov. 17, at 8:30 a.m. ET.[8]
-- **FOMC:** No regularly scheduled policy meeting occurs this week; the next scheduled meeting is Dec. 8–9, 2026.[2][3]
+- **Today, Saturday, Nov. 14:** U.S. equity markets are closed; no scheduled market-moving releases are listed.
+- **Tuesday, Nov. 17:** October retail sales are scheduled, alongside earnings from Home Depot and Disney before/around the open and Nvidia after the close.[1][3]
+- **Wednesday, Nov. 18:** Minutes from the Federal Reserve’s Oct. 27–28 meeting are due at 2:00 p.m. ET; Target, Lowe’s, TJX and Palo Alto Networks also report.[1][3]
+- **Thursday, Nov. 19:** Weekly jobless claims are scheduled, with Walmart reporting before the open and Intuit, Ross Stores and other retailers reporting later.[1][3]
+- **Friday, Nov. 20:** Final November University of Michigan consumer sentiment is due at 10:00 a.m. ET.[1][3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
