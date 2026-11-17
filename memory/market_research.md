@@ -1,26 +1,27 @@
 # Market Research
-_Generated: 2026-11-16 22:26 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-17 02:38 UTC via Perplexity sonar-pro_
 
-## 2026-11-16 Pre-Market Research
+## 2026-11-17 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 0.7%, while Nasdaq futures fell roughly 1.4% in pre-market trading.[6]
-- **US data:** The Empire State Manufacturing Survey was scheduled for 8:30 a.m. ET; no CPI, NFP, FOMC decision, PPI, or weekly jobless-claims release was listed for today.[10]
-- **Fed events:** Chairman Kevin Warsh had opening remarks at the Productivity and Jobs Task Force Conference, while Governor Michael Barr was scheduled to speak on AI and financial stability; Vice Chair Philip Jefferson was also scheduled to speak later.[1][2]
-- **Overnight markets:** Available results identified weakness in US pre-market trading, particularly AI-linked shares, but did not provide reliable same-day percentage moves for Asia or Europe.
+- **US futures:** S&P 500 futures were up about 0.14% at 6,849.50, while Nasdaq 100 futures rose about 0.10% to 25,631.50 in early trading.[6]
+- **US economic data:** ADP private payrolls are scheduled for 8:15 a.m. ET; other listed releases include GDPNow, industrial production and capacity utilization (G.17), and construction data.[4][6]
+- **Fed events:** Fed Governor Christopher Waller is scheduled to speak at 9:10 a.m. ET, and New York Fed President John Williams at 2:25 p.m. ET.[3][7]
+- **Asia:** The available results do not provide a reliable, comprehensive summary of overnight Asian market moves.
+- **Europe:** The available results do not provide a reliable, comprehensive summary of European market moves.
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faced a broad risk-off move on Nov. 16, falling about 0.8% as technology and semiconductor stocks sold off; XLK declined roughly 2.0%, while semiconductor shares weakened after analyst price-target cuts on Nvidia and other chipmakers.[1] Premarket pressure also reflected weaker U.S. equity futures, a sharper-than-expected drop in the New York Fed’s Empire State manufacturing index, and uncertainty ahead of a Fed chair speech and Nvidia’s earnings.[4]
-- **QQQ** (regime: `unknown`): QQQ is under pressure today as Nvidia’s CEO resignation ahead of Tuesday’s earnings weighs on semiconductor and AI stocks; QQQ was reported down roughly 1%–2.8% intraday. [1][4] Hawkish Federal Reserve expectations and a 10-year Treasury yield above 5% are adding pressure to the ETF’s long-duration technology holdings, while reported pre-rebalancing inflows may increase trading activity. [3][4][5]
-- **TLT** (regime: `unknown`): TLT faces a negative macro backdrop from higher Treasury yields, driven by stronger inflation and increased expectations for additional Federal Reserve hikes, including a possible 50-basis-point December hike.[4][5] Offsetting factors include reported weekly inflows of approximately $1.2 billion into TLT, while the ETF was trading near $79.54 on November 16.[1][2]
-- **GLD** (regime: `unknown`): GLD faces a negative macro backdrop today: gold is near a one-year low as a stronger U.S. dollar, elevated Treasury yields, and rising expectations for a December Fed hike pressure the non-yielding metal.[1][2] ETF flows are mixed, with recent GLD inflows offset by larger October outflows, while no new ETF-specific catalyst was identified today.[1]
+- **SPY** (regime: `unknown`): SPY faces continued pressure from a technology- and AI-led selloff tied to Nvidia’s leadership crisis ahead of its earnings report, with Nvidia among SPY’s largest holdings.[1][3] Macro concerns also weigh: the November Empire State manufacturing index fell sharply, while markets are pricing heightened odds of a December Fed rate hike.[1][3]
+- **QQQ** (regime: `unknown`): QQQ faces near-term pressure after falling about 2.6% on Nov. 16 as semiconductor and AI stocks weakened, with new U.S. restrictions on remote access to advanced AI chips weighing on Nvidia and other major holdings.[1][2] Nvidia’s earnings, scheduled for Nov. 17, are the key ETF-specific catalyst, while elevated Treasury yields and expectations for tighter Fed policy remain headwinds for QQQ’s growth-heavy portfolio.[2][4]
+- **TLT** (regime: `unknown`): Hotter-than-expected October inflation and increasingly hawkish Federal Reserve signals—including discussion of a possible 50-basis-point December hike—have pushed Treasury yields higher, pressuring long-duration TLT; TLT recently closed at $79.38, down 0.43%.[1][2][7] A reported $204,000 purchase of December $79 puts adds a bearish ETF-specific options-flow signal, though it is not a fundamental market driver.[2]
+- **GLD** (regime: `unknown`): GLD remains pressured by a hawkish rate backdrop: markets are pricing a December Fed hike, while elevated Treasury yields and a strong dollar weigh on non-yielding gold.[1][9] Gold is near a one-year low, and GLD’s recent heavy outflows—including roughly $1.8 billion in October—remain a negative ETF-specific flow signal, although Bank of Korea purchases provide some offset.[2][8]
 
 ### Risk Flags
-- **Today, Monday, Nov. 16:** The main scheduled US macro release is the 8:30 a.m. ET NY Empire State Manufacturing Index.[3]
-- **Tuesday, Nov. 17:** Retail sales, import/export prices, industrial production, and housing data are scheduled, alongside major earnings from Home Depot and Nvidia.[2][3]
-- **Wednesday, Nov. 18:** Housing starts, pending home sales, and the Federal Reserve’s October FOMC minutes are due at 2:00 p.m. ET; Target, TJX, and Palo Alto Networks also report.[3][7]
-- **Thursday, Nov. 19:** Jobless claims, the Philadelphia Fed index, leading indicators, and Walmart earnings are scheduled; Nvidia, Home Depot, and Walmart are the week’s largest highlighted reports.[2][3]
-- **Risk flag:** Markets are reportedly pricing a greater-than-80% probability of a December Fed hike, increasing sensitivity to this week’s data and FOMC minutes.[5]
+- **Today, Tuesday Nov. 17:** U.S. retail sales, trade-price indices, and industrial production/capacity-utilization data are scheduled, creating potential rates and equity volatility.[4]
+- **Today at 2:00 p.m. ET:** FOMC minutes are due for release, a key risk for Treasury yields and rate-sensitive equities.[4]
+- **Major earnings today:** NVIDIA reports after the close; Home Depot and Disney report before the open.[1][10]
+- **Friday, Nov. 20:** The preliminary University of Michigan consumer-sentiment release is scheduled at 10:00 a.m. ET.[4]
+- **Geopolitical risk:** Ongoing U.S.–Iran tensions and attacks affecting Gulf shipping and energy infrastructure remain a potential source of abrupt oil-market and broader risk-asset volatility.[2][3]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
