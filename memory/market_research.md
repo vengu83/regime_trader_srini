@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-19 01:31 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-19 20:54 UTC via Perplexity sonar-pro_
 
 ## 2026-11-19 Pre-Market Research
 
 ### Macro Context
-- **US futures:** Current S&P 500 and Nasdaq futures direction is not available in the provided data.
-- **US data:** Initial and continuing jobless claims, the Philadelphia Fed manufacturing survey, and the Conference Board Leading Index are scheduled for release today.[7][8]
-- **Fed events:** Fed Governor Philip Jefferson is scheduled at 9:25 a.m. ET, Chicago Fed President Austan Goolsbee at 12:30 p.m., Richmond Fed President Thomas Barkin at 2:00 p.m., and Fed Vice Chair for Supervision Michael Barr at 2:15 p.m.[4][8]
-- **Fed operations:** The Federal Reserve Board has a closed meeting at 3:00 p.m. ET to review discount and advance rates.[3]
-- **Overnight markets:** Asia and Europe market moves are not available in the provided data.
+- **US futures:** S&P 500 futures were up about 1.3%, while Nasdaq futures rose roughly 2.2% in pre-market trading.[6]
+- **US data today:** Scheduled releases include federal funds data at 8:00 a.m. ET, the Philadelphia Fed Manufacturing Business Outlook Survey at 8:30 a.m. ET, and H.15 selected interest rates at 3:15 p.m. ET; no CPI, NFP, PPI, jobless-claims, or FOMC decision release is listed.[7]
+- **Fed events:** Vice Chair Philip Jefferson is scheduled for a 9:25 a.m. ET panel, Governor Lisa Cook has a 12:15 p.m. ET speech, and Governor Michael Barr has a 2:15 p.m. ET discussion; the Board also has a closed meeting at 3:00 p.m. ET.[1][2][4][8][9]
+- **Asia:** Japan’s Nikkei gained 419 points, while Shanghai fell 10 points and Hong Kong’s Hang Seng dropped 453 points.[10]
+- **Europe:** Germany’s DAX was up 90 points, while the UK’s FTSE 100 was down 28 points.[10]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s main near-term driver is continued weakness in mega-cap technology and AI-linked shares after Nvidia-related volatility; the ETF remains near its 200-day moving average around 732.5, a key technical level.[2][3] Broader macro focus includes recently mixed U.S. housing data and pending Federal Reserve minutes, while breadth remains stronger in equal-weight stocks than in cap-weighted SPY.[1][2]
-- **QQQ** (regime: `unknown`): Nvidia reportedly beat Q3 expectations and raised its outlook, supporting the AI/semiconductor complex and potentially QQQ, though uncertainty remains after Jensen Huang’s resignation.[7] Higher Treasury yields and hawkish Federal Reserve commentary remain a countervailing macro pressure on QQQ’s long-duration technology holdings.[5]
-- **TLT** (regime: `unknown`): TLT faces a bearish rate backdrop: hotter-than-expected inflation has increased expectations for additional Fed tightening, pushing Treasury yields higher and weighing on long-duration bonds.[4] ETF-specific flows were also negative, with estimated weekly redemptions of about $1.1 billion as shares outstanding fell 2.4%, although those redemptions do not necessarily represent equivalent underlying bond selling.[1]
-- **GLD** (regime: `unknown`): GLD faces continued downside pressure after gold fell more than 2% on November 18 as hawkish Federal Reserve signals, stronger-than-expected U.S. data, and a 19-month-high dollar strengthened expectations for further rate hikes.[2][6] The move was sector-wide, with silver ETFs also selling off; Goldman Sachs’s lower gold-price forecast and reported weak Western ETF demand add to the negative near-term backdrop.[2][3]
+- **SPY** (regime: `unknown`): SPY faced recent pressure from Nvidia/AI-sector weakness, higher Treasury yields, and growing expectations of Fed rate hikes, while its market-cap weighting leaves it especially exposed to mega-cap technology moves.[1][2][8] For Nov. 19, the tone improved premarket: SPY was indicated about 1% higher alongside stronger S&P 500 futures, with the Anthropic debut and technology-sector gains supporting risk sentiment; jobless claims and Philadelphia Fed manufacturing data were weaker than expected.[3]
+- **QQQ** (regime: `unknown`): QQQ faced notable tech-sector pressure today: it was down roughly 0.9% intraday as U.S. equities weakened following Anthropic’s Nasdaq debut, despite reports of strong AI-related enthusiasm.[6] Recent ETF flow data also showed an estimated $1.64 billion QQQ outflow on Nov. 17, with broad trimming across all 101 holdings, including Apple, Microsoft, and Nvidia.[1][2]
+- **TLT** (regime: `unknown`): TLT may remain sensitive to the latest Fed minutes: officials broadly saw further rate increases as potentially warranted, but long-term Treasury yields nevertheless fell, lifting TLT 0.8% on Wednesday.[1] ETF-specific flow data also showed an estimated $1.1 billion weekly outflow, while TLT’s roughly 14.7-year duration leaves it highly exposed to any renewed rise in long-term yields.[2][3]
+- **GLD** (regime: `unknown`): GLD faces near-term pressure after gold fell 3.16% on November 18 to about $3,742/oz, with hawkish Fed signals, rising rate-hike expectations, a stronger U.S. dollar, and elevated real yields weighing on the non-yielding metal.[4][10] Goldman Sachs also lowered its end-2027 gold-price target, while GLD reportedly fell 1.7% and broader precious-metals ETFs weakened; modest ETF-demand improvement and ongoing outflows are offsetting factors.[2][3]
 
 ### Risk Flags
-- **Today, Nov. 19:** Walmart is scheduled to report earnings before the open, with Alibaba, PDD Holdings, NetEase, and Williams-Sonoma also reporting before the open.[1][2]
-- **Today after the close:** Intuit, Ross Stores, Keysight Technologies, and several other companies are scheduled to report earnings.[1][2]
-- **Federal Reserve:** No FOMC meeting is scheduled this week; the next regularly scheduled meeting is Dec. 8–9, while remarks by Fed Governors Lisa Cook and Michael Barr are scheduled today.[3][4]
-- **Economic data:** The Nov. 19 calendar contains numerous releases, but the available results do not identify a CPI, payrolls, or other clearly top-tier US macro release for today.[5][6]
-- **This week:** Earnings volume is elevated, with 152 companies listed as scheduled reporters from Nov. 18–24, creating company-specific event risk.[1]
+- **Walmart (WMT)** reported before the open today, alongside Alibaba, PDD, NetEase, Williams-Sonoma, and other companies; Walmart is the clearest major-index constituent risk.[3][9]
+- **Post-close earnings** include Ross Stores, Gap, Intuit, Keysight Technologies, and Elastic, creating potential single-stock and sector volatility.[9]
+- **Federal Reserve officials speak today and Friday:** Governor Lisa Cook is scheduled today at 12:15 p.m., while Governor Christopher Waller speaks Friday at 8:25 a.m.; Governor Michael Barr has a Friday discussion at 2:15 p.m.[2]
+- **No FOMC meeting is scheduled this week**; the next regular meeting is December 8–9, 2026.[4]
+- **Friday earnings are light**, with eight companies listed, so the principal scheduled risks are today’s large earnings slate and Fed commentary rather than major macro releases.[8][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
