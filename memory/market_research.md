@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-24 00:11 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-24 04:27 UTC via Perplexity sonar-pro_
 
 ## 2026-11-24 Pre-Market Research
 
 ### Macro Context
-- **US futures:** The latest available data show S&P 500 futures up 4.62% and Nasdaq-100 futures up 6.58%, though the quotes are timestamped November 23 rather than November 24.[10]
-- **US economic data:** Scheduled releases include ADP employment change at 8:15 a.m. ET, Case-Shiller and FHFA home-price indexes at 9:00 a.m., and consumer confidence plus Richmond Fed manufacturing at 10:00 a.m.[5]
-- **Fed events:** New York Fed President John Williams is scheduled to speak at 4:00 p.m. ET.[2]
-- **Asia:** Nikkei 225 and Hang Seng were reported lower amid currency moves and the stronger US dollar.[1]
-- **Europe:** The available overnight report indicates European markets were higher, but it does not provide a complete regional index breakdown.[7]
+- **US futures:** S&P 500 futures were up 0.10% at 6,835, while Nasdaq futures gained 0.18% to 25,347.75.[2]
+- **Economic data:** Scheduled releases include ADP employment change at 8:15 a.m. ET, Case-Shiller and FHFA home-price indexes at 9:00 a.m., and consumer confidence and the Richmond Fed manufacturing index at 10:00 a.m.[9]
+- **Fed:** FOMC member John Williams is scheduled to speak at 4:00 p.m. ET.[5]
+- **Asia:** South Korea’s KOSPI fell 3.32%, while broader Asia-Pacific markets were reported higher on average.[1][10]
+- **Europe:** The Stoxx 600 rose 1.87% and Germany’s DAX gained 2.26% in the overnight session.[1]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY has no ETF-specific catalyst, but it may remain sensitive to the sharp technology-led rebound after Nvidia reinstated Jensen Huang as CEO; Nvidia’s large S&P 500 weighting helped drive SPY roughly 4.6% higher on Nov. 23.[1] Softer-than-expected University of Michigan inflation expectations also supported equities, while Treasury-yield moves and lingering concerns about AI spending remain potential headwinds.[1][6]
-- **QQQ** (regime: `unknown`): QQQ’s key near-term catalyst is the sharp rebound in Nvidia and AI-related stocks after Jensen Huang’s reported reinstatement, which lifted QQQ about 6.8% on November 23.[3][4] However, rising Treasury yields, a stronger dollar, and expectations of further Fed tightening remain potential headwinds for the ETF’s rate-sensitive growth holdings.[4]
-- **TLT** (regime: `unknown`): TLT recently rallied 2.61% as Treasury yields fell amid equity-market weakness and safe-haven demand, but a hawkish Fed backdrop remains a downside risk: markets reportedly assign a high probability to a December rate hike, with officials citing persistent inflation.[1][10] Today’s housing, consumer-confidence, and Richmond Fed data could move long-term yields and determine whether TLT extends its gains.[1]
-- **GLD** (regime: `unknown`): GLD’s main near-term driver is a sharp gold-sector repricing: markets are increasing expectations of a December Federal Reserve rate hike, while a stronger U.S. dollar and higher yields pressure non-yielding gold.[3][8] ETF-specific flows are also negative, with GLD reportedly recording more than $2.6 billion in 30-day outflows; however, GLD rebounded 3.15% on November 23 to $333.04, indicating elevated volatility.[1][8]
+- **SPY** (regime: `unknown`): SPY’s key near-term driver is the sharp rebound in mega-cap technology shares after Nvidia reinstated Jensen Huang as CEO, with SPY reportedly surging 4.6% on Nov. 23 because Nvidia and other technology stocks have substantial S&P 500 weight.[1] Softer University of Michigan inflation expectations and reduced expectations of aggressive Fed tightening provided additional support, although concerns about AI spending, elevated Treasury yields, and a possible December rate hike remain risks.[1][4]
+- **QQQ** (regime: `unknown`): QQQ rallied about 7% on Nov. 23, driven by a broad technology and AI surge, including a reported 33% jump in Nvidia; this momentum is the most material near-term price driver today.[1][3] The ETF closed at $651.03, while continued sensitivity to AI-sector sentiment and interest-rate expectations remains relevant for today’s trading.[5][4]
+- **TLT** (regime: `unknown`): TLT recently benefited from a 2.61% weekly gain as equity weakness and AI-trade concerns prompted safe-haven demand for long-duration Treasuries.[1] Today’s key risks are mixed: U.S. housing, consumer-confidence, and Richmond Fed data could move rate expectations, while hawkish Fed guidance and near-certain December hike expectations remain headwinds for long-term Treasury prices.[1][2]
+- **GLD** (regime: `unknown`): GLD faces continued pressure from a gold selloff driven by rising expectations for additional Federal Reserve rate hikes, higher Treasury yields, and a stronger U.S. dollar.[1][2] Recent reports also cite more than $2.6 billion in GLD outflows over the past 30 days, adding ETF-specific downside pressure.[3]
 
 ### Risk Flags
-- **Today, Nov. 24:** US data include ADP employment, consumer confidence, Richmond Fed manufacturing, and Case-Shiller/FHFA home-price releases; consumer confidence at 10:00 a.m. ET is the most market-sensitive. [1][10]
-- **Today’s earnings:** Major S&P 500 constituents reporting include Analog Devices, Medtronic, Dollar Tree, Best Buy, and J.M. Smucker before the open; Dell Technologies, HP, Workday, and Autodesk report after the close. [2][4]
-- **Wednesday, Nov. 25:** A dense macro slate includes the second estimate of Q3 GDP, October PCE inflation and personal income/outlays, durable-goods orders, jobless claims, and the Federal Reserve Beige Book. [10]
-- **Holiday liquidity:** US equities are closed Thursday for Thanksgiving and have an early close Friday, creating a shortened, potentially thinner-liquidity trading week. [10]
-- **Risk flags:** Reports identify continuing Middle East/Strait of Hormuz tensions and oil-price sensitivity, alongside recent technology-sector weakness and rate-hike concerns. [5][9]
+- **Nov. 24:** U.S. consumer confidence, Richmond Fed manufacturing, and housing-price data are scheduled; these are moderate market-risk releases but not typically top-tier volatility catalysts.[3][4]
+- **Nov. 24:** ADP employment data are scheduled, potentially affecting interest-rate expectations and equity volatility.[3]
+- **Nov. 25:** Additional U.S. economic data are due ahead of the Thanksgiving holiday, but no FOMC decision is scheduled this week.[1][3]
+- **Nov. 26–27:** U.S. markets are closed Thursday for Thanksgiving and open for a shortened session Friday, creating holiday-thinned liquidity and potentially wider intraday moves.[3]
+- **Nov. 24:** Medtronic, Analog Devices, and Dell are among the notable companies scheduled to report earnings.[10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
