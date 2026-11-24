@@ -1,26 +1,27 @@
 # Market Research
-_Generated: 2026-11-21 01:42 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-24 00:11 UTC via Perplexity sonar-pro_
 
-## 2026-11-21 Pre-Market Research
+## 2026-11-24 Pre-Market Research
 
 ### Macro Context
-- **US futures:** No reliable Saturday pre-market quote is available; the latest reported Friday data showed S&P 500 futures down 0.67% and Nasdaq 100 futures down 1.52%.[2]
-- **US economic releases:** No major CPI, payrolls, PPI, jobless-claims, or FOMC release is listed for Saturday, November 21.[1]
-- **Fed events:** Fed Governor Christopher Waller and Governor Lisa Cook are listed for appearances today.[1][4][7]
-- **Asia:** Asian equities fell sharply, with the MSCI Asia-Pacific ex-Japan index down 3.6% and at a seven-month low amid technology-sector losses.[8]
-- **Europe:** The latest Friday session opened lower, with Germany’s DAX down 1.3% and the UK FTSE 100 down 0.4%.[9]
+- **US futures:** The latest available data show S&P 500 futures up 4.62% and Nasdaq-100 futures up 6.58%, though the quotes are timestamped November 23 rather than November 24.[10]
+- **US economic data:** Scheduled releases include ADP employment change at 8:15 a.m. ET, Case-Shiller and FHFA home-price indexes at 9:00 a.m., and consumer confidence plus Richmond Fed manufacturing at 10:00 a.m.[5]
+- **Fed events:** New York Fed President John Williams is scheduled to speak at 4:00 p.m. ET.[2]
+- **Asia:** Nikkei 225 and Hang Seng were reported lower amid currency moves and the stronger US dollar.[1]
+- **Europe:** The available overnight report indicates European markets were higher, but it does not provide a complete regional index breakdown.[7]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY faces a negative near-term backdrop after the S&P 500’s sharp reversal on Nov. 20, driven by an AI/technology sell-off; NVIDIA and Micron reversed from strong gains to losses, while SPY closed down 1.97%.[4] Hawkish Federal Reserve expectations and a 10-year Treasury yield above 5% are adding pressure to richly valued growth stocks and broad equities.[3][4]
-- **QQQ** (regime: `unknown`): QQQ faces downside pressure from a broad AI and semiconductor selloff: AMD fell about 7% after export-control allegations, while TSMC, Micron, and Intel also declined.[1] Hawkish Federal Reserve signals and concerns about elevated AI valuations further weakened risk sentiment, with QQQ reportedly down 1.7% premarket on November 20.[1][2]
-- **TLT** (regime: `unknown`): Sticky inflation remains the main near-term risk for TLT: a Fed official said inflation is still materially above target, while 20- and 30-year Treasury yields remain around 5.4%, pressuring long-duration bond prices.[1] TLT also experienced an estimated $1.1 billion weekly outflow, although it was recently bid higher in market trading, suggesting mixed ETF-specific flows and macro positioning.[2][5]
-- **GLD** (regime: `unknown`): GLD faces continued downside pressure from a stronger U.S. dollar, higher Treasury yields, and markets pricing a near-certain December Federal Reserve rate hike, which raise the opportunity cost of holding non-yielding gold.[2][8] Recent GLD share redemptions and declining trust holdings add ETF-specific pressure, while peer precious-metals funds have also weakened, indicating sector-wide rather than fund-specific selling.[2][5]
+- **SPY** (regime: `unknown`): SPY has no ETF-specific catalyst, but it may remain sensitive to the sharp technology-led rebound after Nvidia reinstated Jensen Huang as CEO; Nvidia’s large S&P 500 weighting helped drive SPY roughly 4.6% higher on Nov. 23.[1] Softer-than-expected University of Michigan inflation expectations also supported equities, while Treasury-yield moves and lingering concerns about AI spending remain potential headwinds.[1][6]
+- **QQQ** (regime: `unknown`): QQQ’s key near-term catalyst is the sharp rebound in Nvidia and AI-related stocks after Jensen Huang’s reported reinstatement, which lifted QQQ about 6.8% on November 23.[3][4] However, rising Treasury yields, a stronger dollar, and expectations of further Fed tightening remain potential headwinds for the ETF’s rate-sensitive growth holdings.[4]
+- **TLT** (regime: `unknown`): TLT recently rallied 2.61% as Treasury yields fell amid equity-market weakness and safe-haven demand, but a hawkish Fed backdrop remains a downside risk: markets reportedly assign a high probability to a December rate hike, with officials citing persistent inflation.[1][10] Today’s housing, consumer-confidence, and Richmond Fed data could move long-term yields and determine whether TLT extends its gains.[1]
+- **GLD** (regime: `unknown`): GLD’s main near-term driver is a sharp gold-sector repricing: markets are increasing expectations of a December Federal Reserve rate hike, while a stronger U.S. dollar and higher yields pressure non-yielding gold.[3][8] ETF-specific flows are also negative, with GLD reportedly recording more than $2.6 billion in 30-day outflows; however, GLD rebounded 3.15% on November 23 to $333.04, indicating elevated volatility.[1][8]
 
 ### Risk Flags
-- **Today, Saturday, Nov. 21:** U.S. equity markets are closed; no regular-session event risk applies.
-- **Wednesday, Nov. 25:** U.S. GDP and PCE inflation data are scheduled at 8:30 a.m. ET, followed by the Federal Reserve Beige Book at 2:00 p.m. ET—potentially the week’s main macro-volatility window.[3]
-- **Thursday, Nov. 26:** NYSE and Nasdaq are closed for Thanksgiving.[1][6]
-- **Friday, Nov. 27:** U.S. equities trade a shortened session, closing at 1:00 p.m. ET; reduced liquidity can amplify price moves.[1][7]
+- **Today, Nov. 24:** US data include ADP employment, consumer confidence, Richmond Fed manufacturing, and Case-Shiller/FHFA home-price releases; consumer confidence at 10:00 a.m. ET is the most market-sensitive. [1][10]
+- **Today’s earnings:** Major S&P 500 constituents reporting include Analog Devices, Medtronic, Dollar Tree, Best Buy, and J.M. Smucker before the open; Dell Technologies, HP, Workday, and Autodesk report after the close. [2][4]
+- **Wednesday, Nov. 25:** A dense macro slate includes the second estimate of Q3 GDP, October PCE inflation and personal income/outlays, durable-goods orders, jobless claims, and the Federal Reserve Beige Book. [10]
+- **Holiday liquidity:** US equities are closed Thursday for Thanksgiving and have an early close Friday, creating a shortened, potentially thinner-liquidity trading week. [10]
+- **Risk flags:** Reports identify continuing Middle East/Strait of Hormuz tensions and oil-price sensitivity, alongside recent technology-sector weakness and rate-hike concerns. [5][9]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
