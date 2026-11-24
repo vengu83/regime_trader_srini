@@ -1,27 +1,26 @@
 # Market Research
-_Generated: 2026-11-24 04:27 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-24 22:41 UTC via Perplexity sonar-pro_
 
 ## 2026-11-24 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were up 0.10% at 6,835, while Nasdaq futures gained 0.18% to 25,347.75.[2]
-- **Economic data:** Scheduled releases include ADP employment change at 8:15 a.m. ET, Case-Shiller and FHFA home-price indexes at 9:00 a.m., and consumer confidence and the Richmond Fed manufacturing index at 10:00 a.m.[9]
-- **Fed:** FOMC member John Williams is scheduled to speak at 4:00 p.m. ET.[5]
-- **Asia:** South Korea’s KOSPI fell 3.32%, while broader Asia-Pacific markets were reported higher on average.[1][10]
-- **Europe:** The Stoxx 600 rose 1.87% and Germany’s DAX gained 2.26% in the overnight session.[1]
+- **US futures:** S&P 500 futures were down about 0.8%, while Nasdaq futures fell roughly 1.7% in pre-market trading.[1]
+- **US data:** Scheduled releases include the Case-Shiller Home Price Index, FHFA House Price Index, Consumer Confidence, and Richmond Fed Manufacturing; no CPI, NFP, PPI, or jobless-claims release is listed.[3]
+- **Fed events:** No Federal Reserve speeches were scheduled through Friday; the Fed blackout period begins Saturday.[5]
+- **Asia:** Markets were mostly higher, led by Taiwan’s TWSE (+9%), South Korea’s KOSPI (+6.3% to +7.1%), and Japan’s Nikkei (+3.9%).[1][8]
+- **Europe:** European equities were lower in early trading, with the DAX down about 0.9% and pan-European markets moderately lower.[3][6]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s key near-term driver is the sharp rebound in mega-cap technology shares after Nvidia reinstated Jensen Huang as CEO, with SPY reportedly surging 4.6% on Nov. 23 because Nvidia and other technology stocks have substantial S&P 500 weight.[1] Softer University of Michigan inflation expectations and reduced expectations of aggressive Fed tightening provided additional support, although concerns about AI spending, elevated Treasury yields, and a possible December rate hike remain risks.[1][4]
-- **QQQ** (regime: `unknown`): QQQ rallied about 7% on Nov. 23, driven by a broad technology and AI surge, including a reported 33% jump in Nvidia; this momentum is the most material near-term price driver today.[1][3] The ETF closed at $651.03, while continued sensitivity to AI-sector sentiment and interest-rate expectations remains relevant for today’s trading.[5][4]
-- **TLT** (regime: `unknown`): TLT recently benefited from a 2.61% weekly gain as equity weakness and AI-trade concerns prompted safe-haven demand for long-duration Treasuries.[1] Today’s key risks are mixed: U.S. housing, consumer-confidence, and Richmond Fed data could move rate expectations, while hawkish Fed guidance and near-certain December hike expectations remain headwinds for long-term Treasury prices.[1][2]
-- **GLD** (regime: `unknown`): GLD faces continued pressure from a gold selloff driven by rising expectations for additional Federal Reserve rate hikes, higher Treasury yields, and a stronger U.S. dollar.[1][2] Recent reports also cite more than $2.6 billion in GLD outflows over the past 30 days, adding ETF-specific downside pressure.[3]
+- **SPY** (regime: `unknown`): SPY is under pressure today as technology stocks fell sharply, with the Technology sector down 3.70%, while Health Care, Consumer Staples, and Communications outperformed; SPY was recently down about 0.64%.[3] The prior Nvidia-led rally and softer inflation expectations provided support, but rising-rate concerns, potential China tariffs, and caution around stretched valuations remain relevant risks.[4][6]
+- **QQQ** (regime: `unknown`): QQQ is under pressure today after yesterday’s Nvidia-led, 7% rebound, with chip stocks cooling and QQQ down about 2.6% intraday.[1][2][5] Renewed trade tensions and concerns over stretched AI valuations are adding to the weakness, while Nvidia’s leadership-change catalyst remains the key ETF-specific driver.[2][7]
+- **TLT** (regime: `unknown`): TLT recently benefited from a safe-haven bid as stocks and technology shares weakened, gaining 2.61% last week; today’s U.S. housing, consumer-confidence, and Richmond Fed data could influence long-term Treasury yields and TLT’s direction.[1] However, hawkish Fed signals—including strong expectations for a December rate hike and possible further tightening—remain a headwind for long-duration bonds.[4][5]
+- **GLD** (regime: `unknown`): GLD fell 2.26% to $325.48 on November 24 as gold remained under pressure from a stronger U.S. dollar and rising expectations for additional Federal Reserve rate hikes.[1][3] Sector-wide precious-metals weakness and reported GLD/IAU outflows are adding pressure, while markets await Wednesday’s U.S. PCE inflation data.[2][3]
 
 ### Risk Flags
-- **Nov. 24:** U.S. consumer confidence, Richmond Fed manufacturing, and housing-price data are scheduled; these are moderate market-risk releases but not typically top-tier volatility catalysts.[3][4]
-- **Nov. 24:** ADP employment data are scheduled, potentially affecting interest-rate expectations and equity volatility.[3]
-- **Nov. 25:** Additional U.S. economic data are due ahead of the Thanksgiving holiday, but no FOMC decision is scheduled this week.[1][3]
-- **Nov. 26–27:** U.S. markets are closed Thursday for Thanksgiving and open for a shortened session Friday, creating holiday-thinned liquidity and potentially wider intraday moves.[3]
-- **Nov. 24:** Medtronic, Analog Devices, and Dell are among the notable companies scheduled to report earnings.[10]
+- **Nov. 25:** U.S. October PCE inflation and the second estimate of Q3 GDP are scheduled; both can materially affect Treasury yields and equity valuations.[1]
+- **Nov. 24–25:** Major earnings include Analog Devices, Dell Technologies, HP, Best Buy, Dollar Tree, Autodesk, Workday, and Deere; semiconductor, technology, and consumer names may drive sector volatility.[3][6][9]
+- **This week:** No November FOMC meeting is scheduled; the next Fed rate decision is listed for Dec. 9.[5]
+- **Geopolitical risk:** Reports flag persistent shipping and security risks around the Strait of Hormuz, with potential implications for oil prices and inflation expectations.[1][10]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
