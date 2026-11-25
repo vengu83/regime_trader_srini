@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-25 03:11 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-25 21:55 UTC via Perplexity sonar-pro_
 
 ## 2026-11-25 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 futures were down about 0.5% and Nasdaq 100 futures about 0.7% in pre-market trading.[2]
-- **Economic data:** Scheduled releases include October personal income and spending, including the PCE inflation data, at 8:30 a.m. ET; the second GDP estimate and MBA mortgage applications are also listed.[1][10]
-- **Fed events:** Fed Vice Chair for Supervision Michelle Bowman is scheduled to speak via prerecorded video at 7:25 a.m. ET.[1]
-- **Asia:** Japan’s Nikkei 225 and Australia’s ASX 200 opened higher, while China’s and Hong Kong’s markets were mixed in the reported overnight session.[5][8]
-- **Europe:** European markets were lower in the latest session, with the DAX down 1.26%, Euro STOXX 50 down 1.16%, FTSE 100 down 0.13%, and CAC 40 down 0.05%.[5]
+- **US futures:** S&P 500 futures were down about 1.4%–1.9%, while Nasdaq-100 futures were down roughly 2.4%–2.9% in pre-market trading.[3][9]
+- **Economic data:** US core PCE inflation and third-quarter GDP were scheduled for release at 8:30 a.m. ET; reports also identified inflation data as the day’s main focus.[6][10]
+- **Fed events:** No specific Federal Reserve speaker or scheduled FOMC event was identified in the available results.
+- **Asia:** Markets moved sharply lower, with Japan’s Nikkei down about 1,633 points, Shanghai down 71 points, and Hong Kong’s Hang Seng down 253 points.[8]
+- **Europe:** European moves were mixed in early trading, with Germany’s DAX down about 40 points while the FTSE 100 rose about 18 points.[8]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY’s key near-term driver is the Nvidia-led AI rally after Jensen Huang’s reinstatement as CEO, which lifted mega-cap technology shares and sharply supported the S&P 500’s tech-heavy exposure; SPY nevertheless closed November 24 lower, indicating continued volatility.[1][7] Softer University of Michigan inflation expectations provided a supportive macro backdrop, while mixed futures and renewed concerns about AI valuations and Federal Reserve policy could pressure prices today.[1][6]
-- **QQQ** (regime: `unknown`): QQQ faces mixed drivers today: the recent Nvidia-led rebound lifted the Nasdaq-100 and semiconductor complex, but reports characterize much of the rally as short covering while concerns about sticky inflation, additional Federal Reserve tightening, and AI-infrastructure spending remain. [1][2][4] No new ETF-specific catalyst is evident in the latest headlines; QQQ’s near-term direction is likely sensitive to large-cap technology and chip-stock moves. [3][5]
-- **TLT** (regime: `unknown`): Fed officials continue signaling that persistent inflation may require additional rate hikes, with markets pricing a high probability of a December increase—an adverse backdrop for TLT because higher yields reduce long-duration Treasury prices.[2][5] Recent Treasury selling and mortgage-related hedging have added pressure to long-term yields, although risk-off trading and weaker economic data could provide offsetting support.[2][3]
-- **GLD** (regime: `unknown`): GLD faces continued pressure from a stronger U.S. dollar and rising expectations of another Federal Reserve rate hike, with gold near a 14-month low.[1][4] The selloff is sector-wide, with reported GLD and peer precious-metals ETF outflows adding to downside pressure; GLD closed November 24 at $325.45, down 2.27%.[2][3]
+- **SPY** (regime: `unknown`): SPY faced material pressure today from a broad technology and semiconductor selloff, with premarket reports indicating a roughly 1.9% decline as tariff-escalation concerns and renewed Strait of Hormuz shipping attacks weighed on growth stocks.[2] U.S. macro data also showed stronger-than-expected Q3 GDP and accelerating core PCE inflation, reinforcing rate-policy uncertainty and adding to pressure on equity valuations.[1]
+- **QQQ** (regime: `unknown`): QQQ faced significant premarket pressure, down about 3%, as semiconductor and AI-linked stocks sold off; SOXX had fallen 8.27% on Tuesday and QQQ 1.99%.[2][3] Key drivers include proposed tariffs on major U.S. trading partners, concerns about AI spending, expectations for higher-for-longer rates, and investor positioning ahead of October PCE inflation and third-quarter GDP data.[2][3]
+- **TLT** (regime: `unknown`): TLT is being supported today by a risk-off rotation from a technology/AI selloff into U.S. Treasuries, with yields easing and the ETF trading near $82.02–$82.81.[1] The move is tempered by hawkish Federal Reserve signals: minutes and officials indicate further rate hikes may be needed because inflation remains elevated, which remains a headwind for long-duration bonds.[4][6]
+- **GLD** (regime: `unknown`): GLD faces continued pressure from gold’s sharp selloff, with recent GLD outflows signaling softer bullion demand; holdings fell 3.71 tonnes to 1,034.43 tonnes as of November 20.[3] Hawkish Federal Reserve expectations, a stronger U.S. dollar, and higher yields remain negative macro drivers, while today’s U.S. core PCE and preliminary GDP releases could add volatility.[4][6]
 
 ### Risk Flags
-- **Wednesday, Nov. 25:** 8:30 a.m. ET brings a concentrated data release—Q3 GDP second estimate, October PCE inflation, personal income and outlays, durable-goods orders, and weekly jobless claims.[1][8]
-- **Wednesday, Nov. 25:** New home sales are due at 10:00 a.m. ET, followed by the Federal Reserve’s Beige Book at 2:00 p.m. ET.[1][8]
-- **Wednesday, Nov. 25:** Deere & Company is scheduled to report earnings before the market open; Dell Technologies and Analog Devices reported Tuesday.[5][9]
-- **Thursday, Nov. 26:** U.S. equity markets are closed for Thanksgiving; Friday trading ends early at 1:00 p.m. ET, with October trade, retail, and wholesale-inventory data due at 8:30 a.m. ET.[8]
-- **This week:** The scheduled earnings slate includes major technology and industrial names such as Dell, Analog Devices, Deere, CrowdStrike, and Hewlett Packard Enterprise, creating company-specific volatility risk.[1][5]
+- **PCE inflation, GDP, and weekly jobless claims** are scheduled for 8:30 a.m. ET today, creating a concentrated macro-data risk window.[1][2]
+- **Durable-goods orders** are also scheduled today, adding to the 8:30 a.m. ET data volatility.[8]
+- **Federal Reserve Beige Book** publication is scheduled for 2:00 p.m. ET today; Fed Vice Chair for Supervision Bowman is also scheduled to speak.[1][8]
+- **Deere (DE)** is the only listed S&P 500 company scheduled to report earnings today, before the open.[6][7]
+- **Thanksgiving closes US equity markets Thursday, November 26;** Friday, November 27 has an early 1:00 p.m. ET stock-market close, which may reduce liquidity.[8]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
