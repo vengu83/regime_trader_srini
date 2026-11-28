@@ -1,27 +1,27 @@
 # Market Research
-_Generated: 2026-11-28 02:12 UTC via Perplexity sonar-pro_
+_Generated: 2026-11-28 02:56 UTC via Perplexity sonar-pro_
 
 ## 2026-11-28 Pre-Market Research
 
 ### Macro Context
-- **US futures:** S&P 500 and Nasdaq-100 futures were higher in the latest available pre-market data, up about 1.6% and 2.3%, respectively, on Nov. 27; no Nov. 28 US pre-market session is scheduled because it is Saturday.[1][3]
-- **US economic data:** No US CPI, NFP, PPI, jobless-claims, or other standard economic releases are scheduled for Saturday, Nov. 28; the US market calendar lists no release for that date.[4][5]
-- **Fed events:** No Fed speaker appearance or FOMC event is listed for Nov. 28; the latest calendar entries show prior-week Fed appearances and minutes.[5]
-- **Asia:** The latest available overnight session showed broad gains, including Japan’s Nikkei 225 up 4.0%, Hong Kong’s Hang Seng up 1.3%, Shanghai up 1.9%, and South Korea’s KOSPI up 0.9%.[2]
-- **Europe:** The latest available European session showed the FTSE 100 up 3.4% and Germany’s DAX up 2.6%.[2]
+- **US futures:** No live pre-market session exists today, Saturday, November 28; the latest available Friday data showed S&P 500 futures up about 1.7% and Nasdaq-100 futures up about 2.4%.[1][7]
+- **US economic releases:** No major US releases, including CPI, payrolls, PPI, jobless claims, or an FOMC decision, are scheduled for Saturday.[5][8]
+- **Federal Reserve:** No Fed speaker event or scheduled Fed communication is listed for today; the latest calendar result shows the prior week’s Beige Book and holiday-shortened trading schedule.[5]
+- **Asia:** The latest reported session was broadly higher, with Japan’s Nikkei up 4.0%, Hong Kong’s Hang Seng up 1.3%, Shanghai up 1.9%, South Korea’s KOSPI up 0.9%, and Australia’s ASX 200 up 2.8%.[2]
+- **Europe:** The latest reported European moves were positive, with the FTSE 100 up 3.4% and Germany’s DAX up 2.6%.[2]
 
 ### Ticker News
-- **SPY** (regime: `unknown`): SPY finished Friday at $728.35, up 1.63%, as semiconductor and technology shares led a broad rebound; the S&P 500 gained 5.6% during the holiday-shortened week.[1][2] The main near-term risk is a hawkish macro backdrop: reports indicate markets are pricing a likely 25-basis-point Fed hike in December, while elevated core PCE inflation and a firm dollar could pressure equities.[7][8]
-- **QQQ** (regime: `unknown`): QQQ rebounded 2.69% to $650.99 in Friday’s shortened session as technology and growth stocks advanced, following recent AI/semiconductor-led volatility.[1][8] ETF-specific flows were supportive, with QQQ reportedly recording a $2.88 billion inflow on November 25, while elevated rate, tariff, and AI-spending concerns remain potential headwinds.[2][7]
-- **TLT** (regime: `unknown`): TLT’s most notable ETF-specific development is an estimated **$1.4 billion weekly inflow**, increasing shares outstanding by about 2.8%.[2] The fund closed November 27 at $81.27, down 1.18%; broader Treasury performance remains sensitive to conflicting rate signals, including expectations around December Fed policy and recent yield moves.[3][5]
-- **GLD** (regime: `unknown`): GLD faces conflicting signals: recent gold-ETF redemptions included roughly 10 tonnes from GLD, while markets largely price a December Federal Reserve rate hike, stronger dollar, and higher yields—headwinds for non-yielding gold.[2][3] Gold nevertheless rebounded on Nov. 27, with GLD reportedly up 1.58% to $332.61, but the latest macro backdrop remains a potential source of near-term pressure.[6]
+- **SPY** (regime: `unknown`): SPY’s most material recent driver is a broad technology and semiconductor rebound: the S&P 500 gained 5.6% during the holiday-shortened week, with AI and chip stocks leading, lifting SPY sharply on Nov. 27.[1][3] Hawkish Federal Reserve expectations—including high odds of a December rate hike—remain a macro risk for today’s next session, while holiday-thinned liquidity may amplify volatility.[4][7]
+- **QQQ** (regime: `unknown`): QQQ closed 2.69% higher at $650.99 on Friday as technology and growth stocks rebounded, following the prior week’s AI- and semiconductor-led selloff.[1][9] Recent ETF flows were supportive, with QQQ reportedly recording a $2.88 billion inflow on November 25 and broader November inflows approaching records, though tariff uncertainty, elevated-rate expectations, and ongoing AI-spending concerns remain potential price risks.[3][4][8]
+- **TLT** (regime: `unknown`): TLT-specific flows were notable: ETF Channel reported approximately **$1.4 billion of weekly inflows**, increasing shares outstanding by 2.8%.[2] Broader rate sentiment remains the key price driver, with recent Treasury rallies and falling yields amid weaker equities and lower oil supporting long-duration bonds, while conflicting inflation and Fed-rate expectations add volatility risk.[3][4]
+- **GLD** (regime: `unknown`): GLD faces mixed but volatile drivers: it rose 1.58% to $332.61 on Nov. 27, while gold remains pressured by expectations of a December Fed rate hike, higher yields, and a stronger dollar.[6][7] Recent fund flows remain a negative ETF-specific signal, with GLD reportedly losing about 10 tonnes amid roughly $2.2 billion of weekly global gold-ETF outflows; central-bank buying provides an offsetting support.[2][3]
 
 ### Risk Flags
-- **Today, Saturday, Nov. 28:** The FOMC communications blackout begins; no scheduled US equity-market release is listed for today.[10]
-- **Tuesday, Dec. 1:** JOLTS job openings for October are scheduled at 10:00 a.m. ET, a medium-volatility labor-market release.[8]
-- **Wednesday, Dec. 2:** The ADP National Employment Report for November is scheduled at 8:15 a.m. ET, providing a pre-payrolls labor signal.[10]
-- **Thursday, Dec. 3:** Earnings from Kroger, Dollar General, Hormel Foods, Brown-Forman, and SAIC are scheduled before the open.[3]
-- **Friday, Dec. 4:** The November Employment Situation report, including nonfarm payrolls, is scheduled for 8:30 a.m. ET and is the week’s primary macro volatility risk.[8][10]
+- **Today, Saturday, Nov. 28:** No US equity trading session; the Fed blackout period begins and continues through the Dec. 9 policy decision.[7][10]
+- **Monday, Nov. 30:** Month-end rebalancing and Chicago PMI are scheduled, which may increase flows and short-term volatility; FactSet and Credo report earnings after the close.[1][9]
+- **Tuesday, Dec. 1:** JOLTS job openings, ISM Manufacturing PMI, and construction spending are scheduled at 10:00 a.m. ET.[5][10]
+- **Wednesday–Thursday, Dec. 2–3:** ADP employment data arrive Wednesday, followed by weekly jobless claims and ISM Services PMI Thursday; Salesforce, Marvell, Snowflake, and other companies are scheduled to report earnings during the week.[2][10]
+- **Friday, Dec. 4:** The November Employment Situation report, including nonfarm payrolls and unemployment, is due at 8:30 a.m. ET and is the week’s primary scheduled macro-volatility event.[6][8]
 
 ### Regime Alignment Assessment
 No current regime data available — run the bot to generate regime_insights.md.
